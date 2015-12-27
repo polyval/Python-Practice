@@ -1,0 +1,147 @@
+Z_buffer
+
+An area in graphics memory reserved for storing the Z-axis value of each pixel. 
+
+Z_buffering
+
+An algorithm used in 3-D graphics to determine which objects, or parts of objects, are visible and which are hidden behind other objects. With Z-buffering, the graphics processor stores the Z-axis value of each pixel in a special area of memory called the Z-buffer . Different objects can have the same x- and y-coordinate values, but with different z-coordinate values. The object with the lowest z-coordinate value is in front of the other objects, and therefore that's the one that's displayed.  An alternate algorithm for hiding objects behind other objects is called Z-sorting. The Z-sorting algorithm simply displays all objects serially, starting with those objects furthest back (with the largest Z-axis values). The Z-sorting algorithm does not require a Z-buffer, but it is slow and does not render intersecting objects correctly.  
+
+z_OS
+
+Often abbreviated as ZOS, z/OS is IBM's mainframe operating system. It is a 64-bit operating system that supports Java, UNIX, API's, and TCP/IP to name a few features.  z/OS.e is a specially priced, slimmed-down offering of z/OS. It provides select functions but  uses the same code base as z/OS and invokes an operating environment that is comparable to z/OS in service, management, reporting, and reliability. The first name for IBM's mainframe operating system was MVS (Multiple Virtual Storage), which was succeeded first by OS/390 and then z/OS. See also MVS.
+
+ZAW
+
+Short for Zero Administration for Windows, a collection of utilities developed by Microsoft that should enable administrators to centrally manage and update software on PCs connected to a LAN. ZAW was developed partly as a response to the emergence of Net PCs. One of the main selling points of Net PCs is that they enable software to be centralized, which greatly simplifies administration of applications. ZAW attempts to offer the same sort of administration ease while letting the applications remain on traditional desktop PCs.
+
+
+Zend_Framework
+
+Abbreviated as ZF, the Zend Framework is an open source object-oriented Web application framework implemented in PHP 5. The goal of ZF is to simplify Web development while maintaining object-oriented best practices for building Web 2.0 applications and  Web services. The Zend Framework was developed by a large open-source community lead by Zend and its distribution is based on the new BSD license.
+
+Zero_Administration_Kit
+
+Abbreviated as ZAK, the Zero Administration Kit is a Microsoft software kit designed for for Windows NT that allows network administrators to easily prevent some user actions, such as changes to desktop configurations,  software installation, and other settings.
+
+zero_wait_state
+
+Refers to systems that have no wait states; that is, they allow the microprocessor to run at its maximum speed without waiting for slower memory chips. 
+
+Zero_Day_exploit
+
+Called either Day Zero or Zero-Day, it is an exploit that takes advantage of a security vulnerability on the same day that the vulnerability becomes publicly or generally known. Zero-Day exploits are usually posted by well-known hacker groups. Software companies may issue a security bulletin or advisory when the exploit becomes known, but companies may not be able to offer a patch to fix the vulnerability for some time after.
+
+Zeroconf
+
+Short for zero configuration IP networking, a method of networking devices via an Ethernet cable without requiring configuration and administration. Zeroconf is able to allocate addresses without a DHCP server, translate between domain names and IP addresses without a DNS server, and find services, such as a printer, without a directory service. The technology is intended for use in small networking situations where there is a low-security need and where it is inappropriate or impossible to establish a working IP network using traditional technologies, such as DHCP and DNS. For example, Zeroconf can be used to form an ad-hoc network to connect devices in a conference or meeting; to form a network in a home or small business; to form a network in spontaneous situations.
+
+Zeta
+
+Zeta is an operating system (OS) based on BeOS. Zeta is an attempt to update BeOS with support being added for new hardware, USB 2.0, VoIP, and other new support features. Zeta Version 1.0 was released in summer 2005. It has a large world-wide following, mainly based in Germany.
+
+zettabyte
+
+2 to the 70th power bytes, which is approximately 10 to the 21st power (1,000,000,000,000,000,000,000) bytes. A zettabyte is equal to 1,024 exabytes.  The name zetta was chosen because it's the last letter of the Latin alphabet and also sounds like the Greek letter Zeta. 
+
+zeus
+
+The most widespread botnet in history, ZeuS is a Trojan horse that infiltrates computers in order to steal data by logging keystrokes and spread copies of itself to other devices via instant messaging and e-mail messages. Computers infected by a ZeuS variant can be controlled by the attacker and monitored for keystrokes in order to gain access to online accounts and other sensitive data. 
+More than 50,000 variants of the ZeuS Trojan have been recognized since ZeuS made its first known appearance in 2007. The most prolific period for ZeuS came in 2009 and 2010, with some security reports estimating as many as 3.6 million ZeuS-infected computers in the United States alone during that time.
+Several mobile botnet variants of the ZeuS Trojan have surfaced more recently, with some targeting Google Android phones while others attack Blackberry devices, Symbian phones, or Windows Mobile phones. These variants are considered part of the Zitmo family of mobile malware and are designed to steal the mobile transaction authentication numbers that banks use to strengthen security for logging in to online accounts.
+
+ZFS
+
+A Solaris file system that uses storage pools to manage physical storage. The ZFS pooled storage model eliminates the concept of volumes and the associated problems of partitions, provisioning and stranded storage by enabling thousands of file systems to draw from a common storage pool, using only as much space as it actually needs. ZFS also uses RAID-Z, a data replication model that is similar to RAID-5 but uses variable stripe width to eliminate the RAID-5 write hole-that is stripe corruption due to loss of power between data and parity updates. All RAID-Z writes are full-stripe writes. There's no read-modify-write tax, no write hole, and no need for NVRAM in hardware.  According to the FAQ posted on OpenSolaris.org, originally, ZFS was an acronym for "Zettabyte File System." The largest SI prefix that the developers liked was 'zetta', and since ZFS is a 128-bit file system, the name was a reference to the fact that ZFS can store 256 quadrillion zettabytes (where each ZB is 270 bytes). Over time, ZFS gained a lot more features besides 128-bit capacity, such as rock-solid data integrity, easy administration, and a simplified model for managing your data. ZFS is open-source software that is licensed under the Common Development and Distribution License (CDDL).
+
+ZIF_socket
+
+Short for zero insertion force socket, a chip socket that allows one to insert and remove a chip without special tools.
+
+ZigBee
+
+Pioneered by Philips Semiconductors, ZigBee is a low data rate, two-way standard for home automation and data networks. The standard originates from the Firefly Working Group and provides a specification for up to 254 nodes including one master, managed from a single remote control. Real usage examples of ZigBee includes home automation tasks such as turning lights on, turn up the heat, setting the home security system, or starting the VCR. With ZigBee all these tasks can be done from anywhere in the home at the touch of a button. ZigBee also allows for dial-in access via the Internet for automation control.
+ 
+The ZigBee standard uses small very low-power devices to connect together to form a wireless control web. A ZigBee network is capable of supporting up to 254 client nodes plus one full functional device (master). ZigBee protocol is optimized for very long battery life measured in months to years from inexpensive, off-the-shelf non-rechargeable batteries, and can control lighting, air conditioning and heating, smoke and fire alarms, and other security devices. The standard supports 2.4 GHz (worldwide), 868 MHz (Europe) and 915 MHz (Americas) unlicensed radio bands with range up to 75 meters.   [Reference: Philips Semiconductors Protocols - ZigBee]
+
+zimbu
+
+Zimbu is an experimental programming language developed by Bram Moolenaar, the creator of the Vim text editor. The goal of Zimbu is to combine the best features of other programing languages (including Java, Python and Ruby) with new ideas.
+
+
+
+ZIN
+
+An abbreviation commonly found on GPS and other small handheld devices that represents the zoom in function on the device. The button for this function may also be marked with a plus sign similar to ZIN(+).
+
+ZIP
+
+(1) A popular data compression format. Files that have been compressed with the ZIP format are called ZIP files and usually end with a.ZIP extension.  (2) Also see Zip drive.
+
+zip_code_targeting
+
+In  online advertising zip code targeting is the geographical targeting of advertisements based on the visitors zip code. An example of zip code targeting is when an online publication requires visitors to register to read the site's content. Once logged in, the visitor will see local advertisements that are served based on the zip code they entered when registering on the site.
+
+Zip_drive
+
+A high-capacity floppy disk drive developed by Iomega Corporation. Zip disks are slightly larger than conventional floppy disks, and about twice as thick. They can hold 100 or 250 MB of data. Because they're relatively inexpensive and durable, they have become a popular media for backing up hard disks and for transporting large files. 
+
+Zmodem
+
+An asynchronous communications protocol that provides faster data transfer rates and better error detection than Xmodem. In particular, Zmodem supports larger block sizes and enables the transfer to resume where it left off following a communications failure. 
+
+zoho-crm
+
+Zoho CRM is the name of an on-demand, SaaS-based customer relationship management (CRM) software solution designed to manage sales, marketing, contacts, customer support and other business functions.
+Zoho CRM Editions
+Zoho CRM is available in a number of editions. Basically, this means different packages with different feature sets, allowing business owners to choose the features that meet specific business requirements while controlling the overall cost of the CRM package. Zoho.com offers Free, Standard, Professional and Enterprise editions of its CRM software.
+
+zombie
+
+(1) A computer that has been implanted with a daemon that puts it under the control of a malicious hacker without the knowledge of the computer owner. Zombies are used by malicious hackers to launch DoS attacks. The hacker sends commands to the zombie through an open port. On command, the zombie computer sends an enormous amount of packets of useless information to a targeted Web site in order to clog the site's routers and keep legitimate users from gaining access to the site. The traffic sent to the Web site is confusing and therefore the computer receiving the data spends time and resources trying to understand the influx of data that has been transmitted by the zombies. Compared to programs such as viruses or worms that can eradicate or steal information, zombies are relatively benign as they temporarily cripple Web sites by flooding them with information and do not compromise the site's data. Such prominent sites as Yahoo!, Amazon and CNN.com were brought down in 2000 by zombie DoS attacks.
+Zombies are also referred to as  zombie ants.
+(2) In UNIX operating systems, a zombie is a "child" program that was started by a "parent" program but then abandoned by the parent.
+
+zone
+
+The word zone is used to mean any area that is separated from another, or is distinguished from another based on distinctive circumstances. In computers, networking and the Internet, the meaning of the word zone changes depending on the specific environment. Some common meanings of the word zone include the following: Domain Name System (DNS): Zone is the name space that is allocated for a specific server. Also called DNS zone. Zone files on these servers contain information about one or more domain names. Apple computers: Zone is a logical group of network devices using AppleTalk.  SAN: Zoning is the process of allocating resources in a SAN to load balance the devices connected to the network. General computing: levels of administration and access are called zones.
+
+zone_file
+
+A file on a root server that contains domain name registration information. Zone files contain information necessary to resolve domain names to IP addresses and contains all information related to one domain. Zone files are also called master files.
+
+zoned_CLV
+
+Short for zoned constant linear velocity, a type of CLV data read/write method that separates a CD or DVD compact disk into different fixed-speed zones and changes the speed of rotation for each zone instead of across the entire disk.
+
+zoned_bit_recording
+
+)A method of recording data on a hard disk drive whereby the sectors per track on the drive are not consistent across the platter. In general, tracks closest to the center have fewer sectors than tracks toward the outside of the platter where the tracks are larger and can fit more sectors. Though the platter rotates at a constant angular velocity, the clock speed, or clock rate, changes as the read/write head moves from one zone to another along the platter.  Also called zone bit recording.
+
+zoning
+
+(zōn´ing) (n.) The process of allocating resources in a SAN to load balance the devices connected to the network. Zoning allows the network administrator to separate the SAN into units and allocate storage to those units based on need. Zoning protects the SAN system from such threats as viruses, data corruption and malicious hackers as the devices in their respective zones are not able to communicate outside the zone through their ports unless given permission.
+
+zoom
+
+In graphical user interfaces, to make a window larger. Typically, there is a zoom box in one corner of the window. When you select the zoom box the first time, the system expands the window to fill the entire screen. (This is sometimes called maximizing.) When you select it again, the window shrinks to its original size. (This is sometimes called restoring.)  Many applications also provide a zoom feature, which enlarges the view of an object enabling you to see more detail.   
+
+zoom_lens
+
+Short for Extensible Messaging and Presence Protocol, an open, XML-based protocol for server-to-server near-real-time extensible instant messaging and presence. XMPP is a rival protocol to SIMPLE.  XMPP also is known as the Jabber protocol because Jabber is based on XMPP. Jabber is not, however, the only instant messaging application that relies on XMPP.
+
+zoom_ring
+
+A zoom adjustment ring found on many digital video recorders and digital cameras. Zoom rings enable motorized zoom that allows you to change the focal length in real-time as you shoot. A 4X zoom lens, for example, will enlarge or reduce the subject in an image by four times depending on which way it's zoomed. Zoom lenses are either optical zoom or digital zoom.
+
+ZOUT
+
+An abbreviation commonly found on GPS and other small handheld devices that represents the zoom out  function on the device. The button for this function may also be marked with a minus sign similar to ZOUT(-).
+
+ZSL
+
+Short for zero-slot LAN, a local-area network (LAN) that uses existing serial and/or parallel communication ports on the computers in the network instead of requiring network interface cards (NICs) that would occupy an expansion slot. Zero-slot LANs are typically slower than LANS that use NICs and are limited to two or three network nodes.
+
+ZV_Port
+
+Short for zoomed video port, a port that enables data to be transferred directly from a PC Card to a VGA controller. The port is actually a connection to a zoomed video bus. This new bus was designed by the PCMCIA to enable notebook computers to connect to real-time multimedia devices such as video cameras. The first notebook computers with the ZV port arrived in late 1996.  
+

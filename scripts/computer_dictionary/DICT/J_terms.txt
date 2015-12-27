@@ -1,0 +1,312 @@
+J_sharp
+
+Pronounced jay sharp, a Microsoft-supported language for .NET. J# is Microsoft's implementation of the Java programming language. It is specifically designed to allow Java-language developers to easily transition to the .NET Framework and to create .NET applications.  J# applications are not compatible with the Java Virtual Machine (JVM) or the Java 2 platform. However, J# applications can be written using Visual Studio .NET and then compiled using third-party Java tools.  J# also is referred to as Visual J#.
+
+J2EE
+
+Short for Java 2 Platform Enterprise Edition. J2EE is a platform-independent, Java-centric environment from Sun for developing, building and deploying Web-based enterprise applications online. The J2EE platform consists of a set of services, APIs, and protocols that provide the functionality for developing multitiered, Web-based applications.
+Some of the key features and services of J2EE:
+
+At the client tier, J2EE supports pure HTML, as well as Java applets or applications. It relies on Java Server Pages and servlet code to create HTML or other formatted data for the client.
+Enterprise JavaBeans (EJBs) provide another layer where the platform's logic is stored. An EJB server provides functions such as threading, concurrency, security and memory management. These services are transparent to the author.
+Java Database Connectivity (JDBC), which is the Java equivalent to ODBC, is the standard interface for Java databases.
+The Java servlet API enhances consistency for developers without requiring a graphical user interface.
+
+
+J2ME
+
+Short for Java 2 Platform Micro Edition. J2ME is Sun Microsystems' answer to a consumer wireless device platform. J2ME allows developers to use Java and the J2ME wireless toolkit to create applications and programs for wireless and mobile devices.  J2ME consists of two elements -- configurations and profiles.  Configurations provide a set of libraries and a virtual machine for a category of wireless device. There are two configurations for J2ME, one for fixed wireless devices and one for mobile wireless devices.  Profiles are APIs built on top of configurations to provide a runtime environment for a specific device, such as a PDA, cellphone, or set-top box. The profile manages the application, user interface, networking and I/O.  In order to support Java apps, manufacturers need to implement a profile for their specific devices.
+
+jabber
+
+(1) An error in which a faulty device (usually a NIC ) continuously transmits corrupted or meaningless data onto a network. This may halt the entire network from transmitting data beacuse other devices will perceive the network as busy.  (2) A sent data packet greater than the maximum 1518 bytes specified in IEEE 802.3. To prevent this, jabber control should be added to the hardware to make the circuitry incapable of sending information for more than 150 milliseconds (approximately 1500 bytes).  (3) When capitalized as Jabber, an open XML protocol for message and presence exchange in real time between two points on the Internet. Jabber��s asynchronous instant messaging (IM) platform is similar to IM systems such as AIM, ICQ and MSN but is open source, extensible through XML, decentralized (allowing anyone to run a Jabber server), and any Jabber server can be isolated from the public Jabber network in order to increase security. The Jabber project was started by Jeremie Miller in early 1998.
+
+jaggies
+
+Stairlike lines that appear where there should be smooth straight lines or curves. Jaggies can occur for a variety of reasons, the most common being that the output device (display monitor or printer) does not have enough resolution to portray a smooth line. In addition, jaggies often occur when a bit-mapped image is converted to a different resolution. This is one of the advantages vector graphics has over bit-mapped graphics -- the output looks the same regardless of the resolution of the output device.  The effect of jaggies can be reduced somewhat by a graphics technique known as antialiasing. Antialiasing smoothes out jagged lines by surrounding the jaggies with shaded pixels. In addition, some printers can reduce jaggies with a technique known as smoothing.  
+
+jailbreak
+
+Slang term used to describe the action of gaining access to an iPhone's  private file system to override some of the device's restrictions. Jailbreaking also enables an iPhone user to install third-party applications.  See also "iPhone and iPhone 3G b . What's The Difference?" in Webopedia's Did You Know...? section.
+
+jailbreak_apps
+
+Also called  jailbroken apps, it is any third-party application for the iPhone that will only run on iPhones that have been jailbroken. These applications are not approved by Apple.
+See also "iPhone and iPhone 3G b . What's The Difference?" in Webopedia's Did You Know...? section.
+
+jammer
+
+(1) In cellphone terminology, a jammer is a device that blocks transmissions by creating interference. The jammer emits signals in the same frequency range that cell phones uses, and within the range of a jammer a cellphone user may lose their signal.   (2) In satellite terminology it is a mobile ultrahigh-frequency (UHF) high-power noise source that can be used to jam satellite antennas or receivers.
+
+
+JAR
+
+Short for Java Archive, a file format used to bundle all components required by a Java applet. JAR files simplify the downloading of applets since all the components (.class files, images, sounds, etc.) can be packaged into a single file. In addition, JAR supports data compression, which further decreases download times.  By convention, JAR files end with a .jar extension. 
+
+Java
+
+Java is a general purpose, high-level programming language developed by Sun Microsystems. A small team of engineers, known as the Green Team, initiated the language in 1991. Java was originally called OAK, and was designed for handheld devices and set-top boxes. Oak was unsuccessful, so in 1995 Sun changed the name to Java and modified the language to take advantage of the burgeoning World Wide Web.
+Later, in 2009, Oracle Corporation acquired Sun Microsystems and took ownership of two key Sun software assets: Java and Solaris.
+Java Today
+Today Java is a commonly used foundation for developing and delivering content on the Web. According to Oracle, there are more than 9 million Java developers worldwide and more than 3 billion mobile phones run Java.
+
+Java_applet
+
+An applet is a small Internet-based program written in Java, a programming language for the Web, which can be downloaded by any computer. The applet is also able to run in HTML. The applet is usually embedded in an HTML page on a Web site and can be executed from within a browser.
+
+Java_IDL
+
+Java IDL adds CORBA (Common Object Request Broker Architecture) capability to the Java platform, providing standards-based interoperability and connectivity. Java IDL enables distributed Web-enabled Java applications to transparently invoke operations on remote network services using the industry standard OMG IDL (Object Management Group Interface Definition Language) and IIOP (Internet Inter-ORB Protocol).  [Source: Sun Developer] See also IDL.
+
+java_security_exploit
+
+A term that refers to any number of security exploits in Oracle's Java software, which has a long history of being vulnerable to security flaws. The most recent Java Security Exploit appeared in early 2013, and affected all versions of Java up to Java 7 Update 10. 
+This zero-day security vulnerability, referenced as CVE-2013-0422 by the CVE, carried a payload of malware that could result in identity theft as well as rendering the host machine an unauthorized botnet that could then be used in denial-of-service (DoS) attacks against other machines.  Oracle periodically releases software patches developed to address Java security exploits, and it released one as Java 7 Update 11 two days after the most recent vulnerability was discovered. Only days after that patch debuted, a new zero-day Java security exploit was publicized and marketed by crimeware sites for $5,000.
+
+JavaBeans
+
+A specification developed by Sun Microsystems that defines how Java objects interact. An object that conforms to this specification is called a JavaBean, and is similar to an ActiveX control. It can be used by any application that understands the JavaBeans format.  The principal difference between ActiveX controls and JavaBeans are that ActiveX controls can be developed in any programming language but executed only on a Windows platform, whereas JavaBeans can be developed only in Java, but can run on any platform.   
+
+JavaScript
+
+A scripting language developed by Netscape to enable Web authors to design interactive sites. Although it shares many of the features and structures of the full Java language, it was developed independently. Javascript can interact with HTML source code, enabling Web authors to spice up their sites with dynamic content. JavaScript is endorsed by a number of software companies and is an open language that anyone can use without purchasing a license. It is supported by recent browsers from Netscape and Microsoft, though Internet Explorer supports only a subset, which Microsoft calls Jscript.
+
+
+JavaSoft
+
+The business unit of Sun Microsystems that is responsible for Java technology.  
+
+JavaSpaces
+
+JavaSpaces is a powerful Jini service from Sun Microsystems, which facilitates building distributed applications for the Internet and Intranets. The JavaSpaces model involves persistent object exchange areas in which remote processes can coordinate their actions and exchange data. It provides a necessary ubiquitous, cross-platform framework for distributed computing, emerging as a key technology in this expanding field.
+
+JavaStation
+
+A network computer from Sun Microsystems that uses a Java application platform and a 100-MHZ CPU. JavaStation is a thin client -- a product relying on a network server for much of its processing -- and Sun promotes it as low-cost alternative for high volume, fixed-function needs, like processing reservations and transactions. The computer began shipping in March, 1998.    
+
+Jaz_Drive
+
+A removable disk drive developed by Iomega Corporation. The Jaz drive has a 12-ms average seek time and a transfer rate of 5.5 Mbps. The removable cartridges hold up to 2 GB of data. The fast data rates and large storage capacity make it a viable alternative for backup storage as well as everyday use. 
+
+JBOD
+
+Just a Bunch Of Disks Used to refer to hard disks that aren't configured according to RAID-- a subsystem of disk drives that improves performance and fault tolerance.
+
+
+JBOSS
+
+An application server written in Java that can host business components developed in Java. Essentially, JBOSS is an open source implementation of J2EE that relies on the Enterprise JavaBeans specification for functionality.
+
+JCL
+
+Abbreviated as JCL, Job Control Language is a means of communicating with the IBM 3090 MVS Operating System. JCL statements provide information that the operating system needs to execute a job.  A job is something that you want to accomplish with the aid of a mainframe computer (e.g. copy a data set, execute a program, or process multiple job steps). You need to supply the information that the job requires and instruct the computer what to do with this information. You do this with JCL statements. A job step consists of statements that control the execution of a program or procedure, request resources, and define input and/or output.  [Source: Job Control Language (JCL) Introduction]
+
+JDBC
+
+Short for Java Database Connectivity, a Java API that enables Java programs to execute SQL statements. This allows Java programs to interact with any SQL-compliant database. Since nearly all relational database management systems (DBMSs) support SQL, and because Java itself runs on most platforms, JDBC makes it possible to write a single database application that can run on different platforms and interact with different DBMSs.
+JDBC is similar to ODBC, but is designed specifically for Java programs, whereas ODBC is language-independent.
+JDBC was developed by JavaSoft, a subsidiary of Sun Microsystems.
+
+JDK
+
+Short for Java Development Kit, a software development kit (SDK) for producing Java programs. The JDK is developed by Sun Microsystem's JavaSoft division. The most recent versions include the JavaBeans component architecture and support for JDBC.  
+
+JEDEC
+
+The JEDEC Solid State Technology Association, formerly known as the Joint Electron Device Engineering Council, is the semiconductor engineering standardization body of the Electronic Industries Alliance (EIA), a trade association that represents all areas of the electronics industry. JEDEC was originally created in 1960 as a joint activity between EIA an NEMA, to cover the standardization of discrete  semiconductor devices and later expanded in 1970 to include integrated circuits.
+
+jelly_bean
+
+Jelly Bean is the dessert-themed Android codename for the 4.1 and 4.2 updates of the open source Android mobile operating system. Jelly Bean 4.1 debuted in June 2012 as the successor to the v4.0 "Ice Cream Sandwich" release, and was followed by Jelly Bean 4.2 in October 2012.
+New additions in Android Jelly Bean include interface enhancements and improved overall responsiveness via "Project Butter," Google Now support, advanced natural language voice command capabilities akin to Apple's Siri, an improved Web browser with constant on-screen tabs, enhanced file management capabilities and better text input options.
+Jelly Bean follows a number of earlier updates for Android, including Cupcake (v1.5), Donut (v1.6), Eclair (v2.0), FroYo (v2.2), Gingerbread  (v2.3), Honeycomb (v3.0) and Ice Cream Sandwich (v4.0). The follow-up to Jelly Bean, Key Lime Pie (v5.0), is expected to be released in late 2013.
+
+Jet
+
+Short for Joint engine technology, the database engine used by Microsoft Office and Visual Basic. 
+
+jewel_case_software
+
+Also called jewel case, in software distribution it is the term used to describe software that is distributed by the vendor with only the software on the CD and a paper insert in the case. This type of software packaging does not contain a retail box or manual, however if is a full version of the software distributed in this manner, you will receive standard warranty and technical support from the software vendor. See "All About Software" in the "Did You Know...?" section of Webopedia.
+
+JFS
+
+A file system in which the hard disk maintains data integrity in the event of a system crash or if the system is otherwise halted abnormally. The journaled file system (JFS) maintains a log, or journal, of what activity has taken place in the main data areas of the disk; if a crash occurs, any lost data can be recreated because updates to the metadata in directories and bit maps have been written to a serial log. The JFS not only returns the data to the pre-crash configuration but also recovers unsaved data and stores it in the location it would have been stored in if the system had not been unexpectedly interrupted.
+
+Jini
+
+(pronounced GEE-nee; loosely derived from the Arabic for magician) Software from Sun Microsystems that seeks to simplify the connection and sharing of devices, such as printers and disk drives, on a network. Currently adding such devices to a computer or network requires installation and boot-up, but a device that incorporates Jini will announce itself to the network, provide some details about its capabilities, and immediately become accessible to other devices on the network. Under this technology it would be possible to create distributed computing, whereby capabilities are shared among the machines on a common network. This would allow users to access the power and features of any device on the network and would free the desktop computer from holding all the memory, storage and processing power it needs for any job. For example, if a disk drive on a network had Jini capabilities, any computer on that network could use the drive as though it were its own. Because Jini has the potential to make operating systems incidental to the power of networks, some have seen Jini as an attempt to reduce the influence of Windows.  
+
+JIT
+
+Short for just-in-time compiler, a code generator that converts Java bytecode into machine language instructions. Some Java Virtual Machines (VMs), including the VM in the Netscape Navigator browser, include a JIT in addition to a Java interpreter. Java programs compiled by a JIT generally run much faster than when the bytecode is executed by an interpreter.  
+
+jitter
+
+(1) Flickering on a display screen. Jittering can be caused by the following: (a) a number of hardware problems, such as a slow refresh rate, a bad connection between the video adapter and monitor, a hardware malfunction in the monitor, or poor synchronization in the signals being sent;  (b) a nearby electrical conduit or transformer creating a higher-than-usual local magnetic field level.   (2) In VoIP terminology jitter refers to a type of packet delay where the delay has an impact on the quality of the voice conversation.    (3) Generally, any distortion of a signal or image caused by poor synchronization.
+
+jitter_buffer
+
+Also called a jitter filter, a hardware device or software process that eliminates jitter caused by transmission delays in an Internet telephony (VoIP) network. As the jitter buffer receives voice packets, it adds small amounts of delay to the packets so that all of the packets appear to have been received without delays. Voice signals are sequential by nature (i.e., they must be played back in the order in which they were sent) and the jitter buffer ensures that the received packets are in the correct order. Without a jitter buffer to smooth the transmission, data can be lost, resulting in choppy audio signals. There are two types of jitter buffers - dynamic and static. A static jitter buffer is hardware-based and configured by the manufacturer. A software-based jitter buffer is called a dynamic jitter buffer and can be configured by the system or network administrator.
+
+jitter_buster
+
+A device, such as Monarchy Audio's Digital Interface Processor, (www.monarchyaudio.com) that seeks to suppress jitters, or flickering signals, in audio transmissions. 
+
+JMB363
+
+See under JMicron RAID Configuration.
+
+JMicron_RAID_Configuration
+
+The JMicron JMB363 chipset, commonly called the JMicron RAID Configuration is a connector for a Serial ATA signal cable that supports a Serial ATA hard drive. The JMicron controller mode can be accessed in the BIOS and can be toggled between IDE (default) and RAID. The JMicron JMB363 Serial ATA Raid connector can be used to configure the following functions to serve as an alternative to creating RAID:  RAID 0 (Data Striping) RAID 1 (Data Mirroring) JBOD (Spanning)   See also "Motherboards: What You Should Know" in the  Quick Reference section of Webopedia.
+
+JMicron_Technology_Corporation
+
+Called JMicron for short, the JMicron Technology Corp is an integrated circuits (ICs) manufacturer which is well-known for its Serial ATA and similar controller chips which are used by a number of manufacturers, such as ASUS in their PC motherboards.
+
+JMS
+
+Short for Java Message Service, JMS is a Sun Microsystems API that provides a standard way for Java programs to access and interact with an enterprise  asynchronous messaging system. JMS is used to write business applications to create, send, receive, and read an enterprise messaging systems' messages. The JMS API defines a vendor-neutral, but Java-specific set of interfaces that identify how a JMS client accesses the facilities of an enterprise messaging product. The JMS standard is a part of the Java 2 Platform, Enterprise Edition (J2EE) and can be used to write business applications to create, send, receive and read messages.  Its important to note that while the term messaging can be used to describe e-mail, fax or instant messages, in JMS terminology the word messaging is used to describe asynchronous messages that consists of requests, reports or events that are consumed by enterprise applications and not humans. These messages contain information that is needed to coordinate systems and track progress of the enterprise.
+
+JNI
+
+(Java Native Interface) A Java programming interface, or API, that allows developers to access the languages of a host system and determine the way Java integrates with native code. The JNI has been a point of contention between Sun and Microsoft, since Microsoft seeks to create its own native code interface and Sun claims this violates their licensing agreement.  
+
+job
+
+A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.  
+
+Job_Control_Language
+
+Abbreviated as JCL, Job Control Language is a means of communicating with the IBM 3090 MVS Operating System. JCL statements provide information that the operating system needs to execute a job.  A job is something that you want to accomplish with the aid of a mainframe computer (e.g. copy a data set, execute a program, or process multiple job steps). You need to supply the information that the job requires and instruct the computer what to do with this information. You do this with JCL statements. A job step consists of statements that control the execution of a program or procedure, request resources, and define input and/or output.  [Source: Job Control Language (JCL) Introduction]
+
+Joe_Job
+
+A form of e-mail spoofing where someone uses your e-mail server to send mass quantities of e-mails. Usually owners and administrators of the e-mail server will become aware of the spoofing when they receive more than the usual quantities of failed delivery notices.  The phrase Joe Job was coined by an attack at Joes.com in January of 1997. A spammer using the free services of Joes.com had been barred from use and sought revenge against those responsible. The spammer's revenge was felt across the Web via a flood of spoofed e-mails sent out in the name of Joes.com in attempt to enrage recipients into taking action against the company's Web site, which, indeed they did. [Source: SitePoint]
+
+joeffice
+
+Joeffice is an open source office productivity suite. Currently in alpha version for Windows, Mac and Linux (or subscribe to an online version), it is written in Java and released under the Apache License 2.0.
+Joeffice made news headlines when it was discovered that software developer Anthony Goubard completed the first release of the office suite in 30 days.
+
+
+join
+
+In relational databases, a join operation matches records in two tables. The two tables must be joined by at least one common field. That is, the join field  is a member of both tables. Typically, a join operation is part of a SELECT query. 
+
+Joint_Application_Development
+
+Joint Application Development (JAD) is a development methodology system originally used for designing a computer-based system, but can be applied to any development process. It involves continuous interaction with the users and different designers of the system in development. JAD centers around a workshop session that is structured and focused. Participants of these sessions would typically include a facilitator, end users, developers, observers, mediators and experts.  JAD allows for a faster development process and minimizes errors at the same time. JAD also improves the quality of the final product by focusing on the up-front portion of the development lifecycle, thus reducing the likelihood of errors that are expensive to correct later on. The opposite of JAD is RAD (Rapid Application Development)
+
+Joliet
+
+Joliet is an extension of the ISO 9660 standard, which allows long  filenames and other modern features. It is used in newer CD or DVD-ROMs, and for operating systems, such as Windows NT and Windows 95 and higher. Because the Joliet specification is ISO 9660 compliant, disks recorded according to the Joliet specification may continue to interchange data with non-Joliet systems.
+
+Joomla
+
+Joomla! is a free and open source content management system (CMS) designed to assist users in building websites and other online applications.
+The Joomla open source CMS, which is offered under the General Public License (GPL) version 2.0, is a continuation of the work of the development team that unanimously resigned from the Mambo project in August 2005 (see "fork"). Joomla version 1.0 is derived from Mambo 4.5.2.3 but includes many additional bug fixes and security patches.
+The Joomla Web CMS is considered to be a popular choice for many types  of websites, including corporate sites, news or blogs, government  applications, small business sites and sites where secure logins are  required. The ecosystem of Joomla developers and users provide products  and  services to the Joomla community which has more than  one-half  million members and more than 20,000 developers.
+
+Joule
+
+A unit of measurement used in surge protective devices to measure current absorption.
+
+journaled_file_system
+
+A file system in which the hard disk maintains data integrity in the event of a system crash or if the system is otherwise halted abnormally. The journaled file system (JFS) maintains a log, or journal, of what activity has taken place in the main data areas of the disk; if a crash occurs, any lost data can be recreated because updates to the metadata in directories and bit maps have been written to a serial log. The JFS not only returns the data to the pre-crash configuration but also recovers unsaved data and stores it in the location it would have been stored in if the system had not been unexpectedly interrupted.
+
+Journalism_2_0
+
+A slang term used to describe how the Internet has changed journalism, enabling journalists to cover more stories in different ways. The slang term "Journalism 2.0" is used to reference the Web 2.0 technologies such as blogging, audio, video, social networks, and online reporting tools that journalists use today.��
+
+JoyAop
+
+A dynamic AOP (Aspect Oriented Programming) framework for Java. Based on the CGLIB proxies and the aspects could be implemented using the concept of abstract schema. This library is free software, published under the terms of the LGPL license.
+
+joystick
+
+)A lever that moves in all directions and controls the movement of a pointer or some other display symbol. A joystick is similar to a mouse, except that with a mouse the cursor stops moving as soon as you stop moving the mouse. With a joystick, the pointer continues moving in the direction the joystick is pointing. To stop the pointer, you must return the joystick to its upright position. Most joysticks include two buttons called triggers.
+Joysticks are used mostly for computer games, but they are also used occasionally for CAD/CAM systems and other applications.
+
+
+JPEG
+
+Short for Joint Photographic Experts Group, and pronounced jay-peg. JPEG is a lossy compression technique for color images. Although it can reduce files sizes to about 5% of their normal size, some detail is lost in the compression.
+Also see JPG vs. GIF vs. PNG in the Did You Know . . . ?section of Webopedia.
+
+
+JPEG2000
+
+JPEG2000 is a standard for image compression method and file format. This is the successor of the well-known traditional JPEG format written by the ISO group Joint Photographic Experts Group.  JPEG2000 is an image coding system that uses state-of-the-art compression techniques based on wavelet technology. Its architecture lends itself to a wide range of uses from portable digital cameras to advanced pre-press, medical imaging and other key sectors. Compared to JPEG, JPEG2000 offers higher compression without compromising quality, progressive image reconstruction, lossy and lossless compression, and the JP2 file format (.jp2) is XML based  metadata.
+
+jQuery
+
+A free and open source JavaScript library that is used by Web developers to navigate HTML documents, handle events, perform animations and add Ajax interactions to Web pages. jQuery was developed by John Resig and is licensed under the MIT License and the GNU General Public License. Some of the many sites using jQuery include Google (code search), Twitter, Dell Inc., CBS News, Slashdot and others.
+
+JScript
+
+JScript is Microsoft 's extended implementation of ECMAScript (ECMA262), an international standard based on Netscape's JavaScript and Microsoft's JScript languages. JScript is implemented as a Windows Script engine. This means that it can be "plugged in" to any application that supports Windows Script, such as Internet Explorer, Active Server Pages, and Windows Script Host. It also means that any application supporting Windows Script can use multiple languages - JScript, VBScript, Perl, and others.   JScript (and the other languages) can be used for both simple tasks (such as mouseovers on Web pages) and for more complex tasks (such as updating a database with ASP or running logon scripts for Windows NT ). Windows Script relies on external "object models" to carry out much of its work. For example, Internet Explorer's DOM provides objects such as 'document' and methods such as 'write()' to enable the scripting of Web pages.   (Thanks goes out to Peter Torr, Windows Script Program Manager, and others at Microsoft for providing this updated definition) 
+
+JSON
+
+Short for JavaScript Object Notation, JSON is a lightweight data-interchange format that is easy for humans to read and write, and for machines to parse and generate. JSON is based on the object notation of the JavaScript language. However, it does not require JavaScript to read or write because it is a text format that is language independent. JSON notation contains these basic elements:  Objects: Objects begin and end with curly braces ({}).  Object Members:  Members consist of strings and values, separated by colon (:). Members are separated by commas.  Arrays:  Arrays begin and end with braces and contain values. Values are separated by commas.  Values: A value can be a string, a number, an object, an array, or the literals true, false or null.  Strings: Strings are surrounded by double quotes and contain Unicode characters or common backslash escapes.  
+
+JSP
+
+Short for Java Server Page. A server-side technology, Java Server Pages are an extension to the Java servlet technology that was developed by Sun.  JSPs have dynamic scripting capability that works in tandem with HTML code, separating the page logic from the static elements -- the actual design and display of the page -- to help make the HTML more functional(i.e. dynamic database queries).  A JSP is translated into Java servlet before being run, and it processes HTTP requests and generates responses like any servlet. However, JSP technology provides a more convenient way to code a servlet. Translation occurs the first time the application is run. A JSP translator is triggered by the .jsp file name extension in a URL. JSPs are fully interoperable with servlets. You can include output from a servlet or forward the output to a servlet, and a servlet can include output from a JSP or forward output to a JSP.  JSPs are not restricted to any specific platform or server. It was orignially created as an alternative to Microsoft's ASPs (Active Server Pages). Recently, however, Microsoft has countered JSP technology with its own ASP.NET, part of the .NET initiative.  (Thanks go to William Duran at Oracle and the Oracle Technology Network for providing additional information for this definition.)
+
+Jughead
+
+A search engine for Gopher sites. Jughead is similar to Veronica, but has fewer options and indexes fewer Gopher sites. 
+
+juju
+
+Juju is an "automatic service orchestration" project launched by Canonical, developers of the Ubuntu Linux-based operating system, to deploy, manage and scale software and interconnected services across one or more Ubuntu servers and cloud platforms. 
+Juju is designed to work with Canonical's metal-as-a-service (MAAS) to help streamline the process of deploying and managing resources and services in hyperscale computing environments such as big data workloads and cloud services.   Initially developed under the name "Ensemble," Juju takes its new moniker from an African word for "magic." Following in that theme, Juju utilizes "charms," which are open source tools that simplify specific deployment and management tasks. Juju charms can be written in any executable language.
+
+jukebox
+
+A term that refers to computer-powered devices or equipment that can be worn by a user, including clothing, watches, glasses, shoes and similar items. Wearable computing devices can range from providing very specific, limited features like heart rate monitoring and pedometer capabilities to advanced “smart” functions and features similar to those a smartphone or smartwatch offers. 
+These more advanced wearable computing devices can typically enable the wearer to take and view pictures or video, read text messages and emails, respond to voice commands, browse the web and more. While wearable computing devices are only just now starting to emerge from the realm of science fiction into reality, rumored devices like Google Glasses and the Apple iWatch may soon bring advanced wearable computing devices into the mainstream.
+
+jumbo_frame
+
+Jumbo frames are large IP frames used in high-performance networks to increase performance over long distances. Jumbo frames is the term used most often to mean 9000 bytes for Gigabit Ethernet but can refer to anything over the IP MTU (Maximum Transmission Unit) which is 1500 bytes on an  Ethernet.
+
+jumper
+
+)A metal bridge that closes an electrical circuit. Typically, a jumper consists of a plastic plug that fits over a pair of protruding pins. Jumpers are sometimes used to configure expansion boards. By placing a jumper plug over a different set of pins, you can change a board's parameters.  
+
+JumperFree_configuration
+
+An ASUS BIOS configuration utility (tab) that offers users access to overclocking options including AI Overclocking, CPU Ratio, FSB Frequency, PCIe Frequency, DRAM Frequency,  DRAM Timing Control, and other options. See also "Motherboards: What You Should Know" in the  Quick Reference section of Webopedia.
+
+jumpstation
+
+1. A Web jumpstation is an organized and annotated collection of external related links published within a Web site. For example, if you had a Web site about fishing, your compilation of hyperlinks to related fishing sites on the World Wide Web could be referred to as a fishing jumpstation. You will find that some may refer to this organized list of links as a springboard, but the two terms do have the same meaning. 2. "The JumpStation" was an early service for searching the Web, designed to search by document title and header but was not supported after the creator left the University.
+
+justification
+
+Alignment of text along a margin. To produce good-looking justification, the word processor and printer must be capable of microspacing; that is, they must be able to separate letters by less than a full space. In addition, justified text always looks better when a proportional font is used.  Vertical justification refers to adjusting the vertical space between lines so that columns and pages have an even bottom margin. One vertical justification technique, called feathering, inserts an even amount of space between each line so that the page or column has a specified vertical length. 
+
+justify
+
+In word processing, to align text along the left and right margins.  
+
+JVM
+
+Short for Java Virtual Machine.
+An abstract computing machine, or virtual machine, JVM is a platform-independent execution environment that converts Java bytecode into machine language and executes it. Most programming languages compile source code directly into machine code that is designed to run on a specific microprocessor architecture or operating system, such as Windows or UNIX.
+A Machine Within a Machine
+JVM -- a machine within a machine -- mimics a real Java processor, enabling Java bytecode to be executed as actions or operating system calls on any processor regardless of the operating system. For example, establishing a socket connection from a workstation to a remote machine involves an operating system call. Since different operating systems handle sockets in different ways, the JVM translates the programming code so that the two machines that may be on different platforms are able to connect.
+
+JVoiceXML
+
+An open source free VoiceXML interpreter for Java that supports Java APIs such as JSAPI and JTAPI. JVoiceXML is an implementation of VoiceXML, the Voice Extensible Markup Language. It is designed for creating  audio dialogs that feature synthesized speech, digitized audio, recognition of spoken and DTMF key input, recording of spoken input, telephony, and mixed initiative conversations.
+
+JXTA
+
+Pronounced "juxta," JXTA is Sun Microsystems' set of open-source peer-to-peer networking protocols that allow any connected device on the network to communicate, including PC workstations and servers, cell phones and PDAs. Because it is based on protocols and not an API, JXTA works with any language, operating system, hardware and transport protocol. Virtually any network-capable device can be a JXTA peer. Because the underlying network does not have to be TCP/IP, JXTA applications can include Bluetooth-enabled mobile handsets as peers. JXTA is similar to Jini, but Jini networks require a Java Virtual Machine on every member device whereas JXTA does not.  JXTA provides the protocols for basic functions of peer-to-peer networking, such as creating, finding, joining, leaving and monitoring groups, talking to other groups and peers, and sharing content and services. The functions are performed by exchanging XML advertisements and messages between peers.  The name JXTA comes from the word juxtapose, meaning side-by-side.
+

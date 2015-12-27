@@ -1,0 +1,870 @@
+cloud_backup_service_provider
+A third-party entity that manages and distributes remote, cloud-based data backup services and solutions to customers from a central data center. Cloud backup providers enable customers to remotely access services using a secure client login application to back up files from the customer's computers or data center to the online storage server using an encrypted connection.
+A cloud backup solution enables enterprises or individuals to store their data and computer files on the Internet using a storage service provider, rather than storing the data locally on a physical disk, such as a hard drive or tape backup.
+Recommended Reading: Cloud Backup Resources and Best Practice Advice.
+
+office_365
+Microsoft Office 365 (often referred to as Microsoft 365 or Office 365) is a Web-based version of Microsoft's Office suite of enterprise-grade productivity applications. Office 365 is delivered to users through the cloud and includes Exchange Online for email, SharePoint Online for collaboration, Lync Online for unified communications, and a suite of Office Web Apps, Web-based versions of the traditional Microsoft Office suite of applications.
+Office 365 was announced in October, 2010 but the product was not made widely available until June, 2011. This product was designed to replace the Microsoft Business Productivity Online Suite for corporate users, however the Office 365 release offered numerous plans to suit the needs of home and business users. Office 365 users have the option of accessing the applications in Microsoft Office 2010 Professional via a monthly subscription.
+
+
+office-on-ipad
+According to recent news reports, Microsoft is planning to release a version of its Office Suite, including Word, Excel, Power Point and OneNote for Apple's iPad mobile computing device.
+As noted on ComputerWorld, Microsoft will announce Office apps for iPad on March 27, 2014, during a public press conference by Microsoft CEO Satya Nadella. The press conference, which is invitation-only, will focus on cloud and mobile computing.
+
+
+
+Microsoft Office on iPad in the News
+Microsoft Office on iPad: too little, too late?Microsoft CEO Nadella may unveil Office on iPad on March 27What Office for iPad Means for Microsoft and Apple
+
+
+
+OA
+The use of computer systems to execute a variety of office operations, such as word processing, accounting, and e-mail. Office automation almost always implies a network of computers with a variety of available programs.
+
+
+oauth
+OAuth is an open authorization standard used to provide secure client application access to server resources. The OAuth authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner or by allowing the third-party application to obtain access on its own behalf.
+OAuth enables server owners to authorize access to the server resources without sharing credentials. This means the user can grant access to private resources from one server to another server resource without sharing their identity.
+OAuth Solves Traditional Client-Server Authentication Issues
+OAuth is designed to problems and limitations found in traditional client-server authentication model where third-party applications are required to store the resource owner's credentials for future use and where resource owners cannot revoke access to an individual third party without revoking access to all third parties.
+
+OBEX
+Short for OBject EXchange, a communications protocol designed for swapping binary objects between particular devices, using IrDA or Bluetooth. OBEX is usually associated with and optimized for ad-hoc wireless links.
+
+obfuscated_URL
+Also called a hyperlink trick, an obfuscated URL is a type of attack where the real URL that a user is directed to is obfuscated - or concealed - to encourage the user to click-through to the spoof Web site. For example, the attacker may use a cleverly misspelled domain name (e.g. PayPals.com instead of PayPal.com), or hide the actual URL in friendly text, such as "click here to verify your account now". Obfuscated URLs are commonly used in phishing attacks and other spam e-mails. See also image spam. Also see the All About Phishing page in the Did You Know? section of Webopedia.
+
+OBI
+OBI, or Open Buying on the Internet is an e-commerce standard that has been specified by the OBI Consortium. OBI is an open, flexible framework for business-to-business Internet commerce solutions. It is intended for the high volume, low-dollar transactions that account for 80% of most organizations' purchasing activity. The OBI standard provides access to easy-to-use, open, standards-based Internet purchasing solutions for the procurement of goods and services.
+
+object
+Generally, any item that can be individually selected and manipulated. This can include shapes and pictures that appear on a display screen as well as less tangible software entities. In object-oriented programming, for example, an object is a self-contained entity that consists of both data and procedures to manipulate the data.  
+
+object_code
+)The code produced by a compiler. Programmers write programs in a form called source code. The source code consists of instructions in a particular language, like C or FORTRAN. Computers, however, can only execute instructions written in a low-level language called machine language.  To get from source code to machine language, the programs must be transformed by a compiler. The compiler produces an intermediary form called object code. Object code is often the same as or similar to a computer's machine language. The final step in producing an executable program is to transform the object code into machine language, if it is not already in this form. This can be done by a number of different types of programs, called assemblers, binders, linkers, and loaders.  
+
+object_oriented
+Object oriented is a popular buzzword that can mean different things depending on how it is being used.
+Examples of Object Oriented
+For example, object-oriented programming (OOP) refers to a special type of programming that combines data structures with functions to create re-usable objects. Object-oriented graphics is the same as vector graphics.
+Used in Describing a System
+Otherwise, the term object-oriented is generally used to describe a system that deals primarily with different types of objects, and where the actions you can take depend on what type of object you are manipulating. For example, an object-oriented draw program might enable you to draw many types of objects, such as circles, rectangles, triangles, etc. Applying the same action to each of these objects, however, would produce different results. If the action is Make 3D, for instance, the result would be a sphere, box, and pyramid, respectively.
+
+object_role_modeling
+Short for object role modeling, a conceptual database design methodology that allows the user to express information as an object and explore how it relates to other information objects.
+
+Object_Based_Storage_Device
+Abbreviated as OSD, an Object-Based Storage Device is a device that implements the  standard in which data is organized and accessed as  objects, where object means an ordered set of bytes (within the OSD) that is associated with a unique identifier. Objects are allocated and placed on the media by the OSD logical unit. With an OSD interface, metadata is associated directly with each data object and can be carried between layers and across storage device  files and records are no longer abstractions, but actual storage objects that are understood, managed and secured at the device level.The Object-Based Storage Device (OSD) interface, an extension to the SCSI protocol that was developed by the Storage Networking Industry Association (SNIA).
+
+object_oriented_graphics
+The representation of graphical objects, such as lines, arcs, circles, and rectangles, with mathematical formulas. This method of describing objects enables the system to manipulate the objects more freely. In an object-oriented system, for example, you can overlap objects but still access them individually, which is difficult in a bit-mapped system. Also, object-oriented images profit from high-quality output devices. The higher the resolution of a monitor or printer, the sharper an object-oriented image will look. In contrast, bit-mapped images always appear the same regardless of a device's resolution.  One of the most widely used formats for object-oriented graphics is PostScript. PostScript is a page description language (PDL) that makes it possible to describe objects and manipulate them in various ways. For example, you can make objects smaller or larger, turn them at various angles, and change their shading and color. A font described in PostScript, therefore, can easily be transformed into another font by changing its size or weight. Object-oriented fonts are called outline fonts, scalable fonts, or vector fonts.  Object-oriented graphics is also called vector graphics, whereas bit-mapped graphics is sometimes called raster graphics.   
+
+obliq
+A lexically scoped interpreted programming language that supports distributed object-oriented computing. Obliq computations can roam over the network, while maintaining network connections. In Obliq, there are no  class hierarchies as every object is potentially and transparently a network object. An object may become accessible over the network either by the negotiation of a name server or by being used as the argument or as the result of a remote method.
+
+obsolete
+In computers and  technology the term obsolete means the hardware is no longer in use, even though it may still be in working order. It is a term associated with outdated designs that are no longer supported by the manufacturer.
+
+obsolete_element
+In HTML, any element (tags or code) that may not work in future versions of Internet browsers is considered an obsolete element.
+
+OC
+Short for Optical Carrier, used to specify the speed of fiber optic networks conforming to the SONET standard. The table shows the speeds for common OC levels.
+OC = SpeedOC-1 = 51.85 MbpsOC-3 = 155.52 MbpsOC-12 = 622.08 MbpsOC-24 = 1.244 GbpsOC-48 = 2.488 GbpsOC-192 = 9.952 GbpsOC-255 = 13.21 Gbps
+
+
+optical_character_recognition
+Often abbreviated OCR, optical character recognition refers to the branch of computer science that involves reading text from paper and translating the images into a form that the computer can manipulate (for example, into ASCII codes). An OCR system enables you to take a book or a magazine article, feed it directly into an electronic computer file, and then edit the file using a word processor.
+All OCR systems include an optical scanner for reading text, and sophisticated software for analyzing images. Most OCR systems use a combination of hardware (specialized circuit boards) and software to recognize characters, although some inexpensive systems do it entirely through software. Advanced OCR systems can read text in large variety of fonts, but they still have difficulty with handwritten text.
+The potential of OCR systems is enormous because they enable users to harness the power of computers to access printed documents. OCR is already being used widely in the legal profession, where searches that once required hours or days can now be accomplished in a few seconds.
+
+octal
+Refers to the base-8 number system, which uses just eight unique symbols (0, 1, 2, 3, 4, 5, 6, and 7). Programs often display data in octal format because it is relatively easy for humans to read and can easily be translated into binary format, which is the most important format for computers. By contrast, decimal format is the easiest format for humans to read because it is the one we use in everyday life, but translating between decimal and binary formats is relatively difficult.  In octal format, each digit represents three binary digits, as shown:  With this table it is easy to translate between octal and binary. For example, the octal number 3456 is 011 100 101 110 in binary.  
+
+octet
+An octet is 8 bits. It is equivalent to a byte, as long as the byte is also 8 bits. Bytes range from 4 - 10 bits, but octets are always 8 bits. 
+
+Octopus_card
+Widely used in Hong Kong, the Octopus card is used for purchases on public transport, in convenience stores, fast food restaurants and other places where purchases can be made. In addition it's also used for office and residential premises access control. Each Octopus card looks like a basic credit card but has a built-in microchip containing an "electronic purse" and other applications that records transaction details. To use the card, owners simply wave the card over a reader and the information or financial transaction is completed automatically.
+
+OCX
+Short for OLE Control Extension, an independent program module that can be accessed by other programs in a Windows environment. OCX controls end with a .ocx extension. OCX controls represent Microsoft's second generation of control architecture, the first being VBX controls written in Visual Basic.
+Both VBX and OCX controls have now been superseded by ActiveX controls. However, ActiveX is backward compatible with OCX controls, which means that ActiveX containers, such as Microsoft's Internet Explorer, can execute OCX components.
+
+
+odata-open-data-protocol
+OData, short for Open Data Protocol, defines a protocol for the querying and updating of data utilizing existing Web protocols. OData is a REST-based protocol for querying and updating data and is built on standardized technologies such as HTTP, Atom/XML, and JSON. It is different from other REST-based web services in that it provides a uniform way to describe both the data and the data model.
+It is considered to be a flexible technology for enabling interoperability between disparate data sources, applications, services and clients.
+OData Standardization
+In May, 2012, companies including Citrix, IBM, Microsoft, Progress Software, SAP AG, and WSO2 submitted a proposal to OASIS to begin the formal standardization process for OData. Many Microsoft products and services support OData, including Microsoft SharePoint, Microsoft SQL Server Reporting Services, and Microsoft Dynamics CRM. OData V4.0 was officially approved as a new OASIS standard in March, 2014 and was submitted by the OASIS Open Data Protocol members for a 30-day public review.
+
+ODBC
+(pronounced as separate letters) Short for Open DataBase Connectivity, a standard database access method developed by the SQL Access group in 1992. The goal of ODBC is to make it possible to access any data from any application, regardless of which database management system (DBMS) is handling the data. ODBC manages this by inserting a middle layer, called a database driver , between an application and the DBMS. The purpose of this layer is to translate the application's data queries into commands that the DBMS understands. For this to work, both the application and the DBMS must be ODBC-compliant -- that is, the application must be capable of issuing ODBC commands and the DBMS must be capable of responding to them. Since version 2.0, the standard supports SAG SQL.
+
+
+ODC
+Short for on-demand computing, a typically enterprise-level computing model in which the technology and computing resources are allocated to the organization and its individual users on an as-needed basis. For example, computing resources such as CPU cycles, bandwidth availability, storage and applications can be channeled to users based on the tasks they are performing at specified times. If one group of users is working with bandwidth-heavy applications, for instance, the bandwidth can be allocated specifically to them and diverted away from users who do not need the bandwidth at that moment. In another scenario, an organization that is collecting large amounts of data may have adequate computing resources to collect the data but needs extra computing resources to analyze all of the data collected, in which case it could outsource its needs to a server farm that would provide the extra boost of resources but only at the specified times.  ODC resources may come from within the enterprise, or the organization may outsource its computing needs to a third-party service provider. The benefit of ODC is that the enterprise uses its resources more efficiently by only making available what the user needs at a specific time. For the enterprise outsourcing its computing needs, under this model it would only pay for resources that are used.  On-demand computing also is referred to as utility computing.
+
+odd_header
+In word processing, a header that appears only on odd-numbered pages.  
+
+odd_parity
+The mode of parity checking in which each 9-bit combination of a data byte plus a parity bit contains an odd number of set bits. 
+
+ODF
+OpenDocument Format (ODF) is an  ISO standard (ISO/IEC JTC 1/SC 34N0681). An open file format enables users of varying office suites to exchange documents, such as text-based documents,  spreadsheets, charts, or databases, freely with one another. Any software maker can ensure its own application can read and write this format.
+
+ODI
+Short for Open Data-link Interface, an application programming interface (API) developed by Novell for writing network drivers. ODI separates the physical network layer (the Data-Link Layer in the OSI model) from the network protocol layer (the Transport Layer). As a result, the same network interface card (NIC) can be used to carry data for different protocols. For example, ODI allows a computer with just one NIC to be simultaneously connected to both an IPX/SPX network and a TCP/IP network. 
+
+ODMA
+Short for Open Document Management API, an open industry standard that enables desktop applications to interface with a document management system (DMS). ODMA simplifies cross-platform and cross-application file communication by standardizing access to document management through an API. ODMA allows multiple applications to access the same DMS without the need for a hard-coded link between the application and the DMS.  ODMA starts from the premise that desktop applications are file-oriented rather than object-oriented and must be managed in a way that is similar to how data is stored in a database. The users need a way to access files that are made from multiple applications (e.g., a MS Word document that contains an Excel spreadsheet and a graphic image within the file) no matter what platform or environment they are working with. Client-side compound-document architectures, such as PDF, HTML and the Windows OLE standard, need to manage the data on the server side. Complex data objects must be linked, embedded, cross-referenced, searched, queried, distributed, and made secure, -- as well as viewed, edited, and printed, just as objects in a DBMS.
+
+ODMR
+Short for On-Demand Mail Relay, an e-mail service that allows a user to request e-mail from any internet connection by using a dynamic IP address as opposed to a static IP address. With OMDR, the user connects to an ISP that supports OMDR, authenticates and then requests e-mail. When the user requests e-mail, the roles of client and server reverse and normal SMTP operations proceed.  ODMR also is called ATRN, short for Authenticated Turn.
+
+ODRL
+Short for ODRights Language, a standard for expressing content rights metadata. ODRL is a digital rights data model with an XML-based specification language to be used in content distribution services, including the expression of terms and conditions over any content including permissions, constraints, obligations, conditions, and offers and agreements with rightsholders.  ODRL is a competing technology with XrML. ODRL has no licensing requirements and is meant in the spirit of open source.
+
+ODS
+Short for operational data store, a type of database that serves as an interim area for a data warehouse in order to store time-sensitive operational data that can be accessed quickly and efficiently. In contrast to a data warehouse, which contains large amounts of static data, an ODS contains small amounts of information that is updated through the course of business transactions. An ODS will perform numerous quick and simple queries on small amounts of data, such as acquiring an account balance or finding the status of a customer order, whereas a data warehouse will perform complex queries on large amounts of data. An ODS contains only current operational data while a data warehouse contains both current and historical data.
+
+ODT
+Acronym for on-die termination. ODT improves signal integrity of the memory channel, enabling more efficient system operation and lower overall system cost. DDR2-SDRAM memory chips support on-die termination; allowing some motherboard ODT components to be integrated into the memory itself.
+
+OEM
+OEM (pronounced as separate letters) is short for original equipment manufacturer, which is a misleading term used to describe a company that has a special relationship with computer and IT producers. OEMs are manufacturers who resell another company's product under their own name and branding.
+OEM is Similar to VAR
+While an OEM is similar to a VAR (value-added reseller), it refers specifically to the act of a company branding a product to its own name and offering its own warranty, support and licensing of the product. The term is really a misnomer because OEMs are not the original manufacturers; they customize the original product.
+An Example of OEM
+When a computer technology producer manufacturers its product, for example, a computer graphics card, they will usually make two or more versions of the product. One version is distributed by the manufacturer direct to the consumer retail market, using its own branding and offering its own warranty and support.
+
+OEM_cartridge
+In inkjet printing, an OEM (original equipment manufacturer) cartridge refers to the ink cartridge that comes with an inkjet printer, or replacement cartridges that are manufactured by the original manufacturer of your printer.
+
+OEM_unbundling
+Often called OEM piracy or just unbundling, OEM unbundling is a type of software piracy that occurs when OEM-packaged software is separated from the hardware it originally came bundled with, at the OEM or retail level of sale. The software is clearly marked, usually with the phrase "For Distribution with New PC Hardware Only", and the act of piracy occurs when the software is installed on another computer system. See software piracy. Also see"Is Software Ownership the Same as Licensing?" in the in the "Did You Know..." section of Webopedia.
+
+OFDM
+(pronounced as separate letters) Short for Orthogonal Frequency Division Multiplexing, an FDM modulation technique for transmitting large amounts of digital data over a radio wave. OFDM works by splitting the radio signal into multiple smaller sub-signals that are then transmitted simultaneously at different frequencies to the receiver. OFDM reduces the amount of crosstalk in signal transmissions. 802.11a WLAN, 802.16 and WiMAX technologies use OFDM.  Compare with FHSS and DSSS.
+
+off_line
+(1) Not connected. For example, all printers have a switch that allows you to turn them offline. While the printer is offline, you can perform certain commands like advancing the paper (form feed), but you cannot print documents sent from the computer. The opposite of offline is online.  (2) Aside from its technical meaning, offline is used frequently in a more general sense to describe events that occur outside of a standard procedure. For example, if somebody at a meeting says "let's continue this discussion offline," it means "let's discuss it informally at another time."   The term is alternatively spelled as off-line.
+
+off_page_optimization
+In search engine optimization, off-page optimization refers to factors that have an effect on your Web site or Web page listing in natural search results. These factors are off-site in that they are not controlled by you or the coding on your page. Examples of off-page optimization include things such as link popularity and page rank. Contrast with on-page optimization.
+
+off_topic_discussion
+In online forums an off-topic discussion area may be available to users. This area of the forum is designated for general chat and posting of messages that may be different than the general topic focus of the forum. For example, on an electronic commerce forum there may be a designated thread or section where users can post messages not related to electronic commerce.
+
+office_365_skydrive
+Microsoft Office 365 Home Premium allows users to access and share documents and other files stored on SkyDrive. When you are signed in, Office 365 Home Premium saves your documents to SkyDrive by default so you can access the files from any Internet-connected device. Via SkyDrive, documents are automatically backed-up and you can share, collaborate and edit the files online.
+File sharing for business and enterprise editions of Office 365 is managed via SharePoint Online external sharing.
+
+office_365_online_pictures
+Online pictures is a new feature in Microsoft Office 365 that lets users use Word to search your albums on Facebook, Flickr, and other online services when you're online. You can then add these pictures to your document without having to first save them to your local desktop or device.
+
+office_365_resume_reading
+Resume Reading is a new feature in Microsoft Office 365 that bookmarks your last position in a document. Users who are logged in to their Office 365 account can reopen a recently viewed document from any device and resume reading. In Office 365 bookmarks, recently accessed file lists, ribbons and so on "travel" with the Office 365 user account-- not the device.
+
+office_automation
+The use of computer systems to execute a variety of office operations, such as word processing, accounting, and e-mail. Office automation almost always implies a network of computers with a variety of available programs.
+
+
+office_web_apps
+Office Web Apps are browser-based versions of Microsoft Word, PowerPoint, Excel, and OneNote. Office Web apps allow users to view and edit Microsoft Office documents on any device.
+Home and school users can Use Office Web Apps on SkyDrive for anywhere access and document sharing at home and school. Business and enterprise users can use Office Web Apps as part of the Office 365 on SharePoint.
+See also SharePoint Online external sharing.
+
+offline
+(1) Not connected. For example, all printers have a switch that allows you to turn them offline. While the printer is offline, you can perform certain commands like advancing the paper (form feed), but you cannot print documents sent from the computer. The opposite of offline is online.  (2) Aside from its technical meaning, offline is used frequently in a more general sense to describe events that occur outside of a standard procedure. For example, if somebody at a meeting says "let's continue this discussion offline," it means "let's discuss it informally at another time."   The term is alternatively spelled as off-line.
+
+offline_search_engine
+Also called a local search engine, an offline search engine is designed to be used for offline PC, CDROM or LAN searching usage. For example, a Web site can be indexed and a local search engine used if the author wanted to distribute the Web site on CD or DVD.
+
+offline_storage
+The term used to describe any storage medium that must be inserted into a storage drive by a person before it can be accessed by the computer system is considered to be a type of off-line storage. Offline storage may also be written as off-line storage and is also called  removable storage. See mass storage for more information. Also see the "Removable Storage Reference" in the  Quick Reference section of Webopedia.
+
+offset
+(1) Refers to a value added to a base address to produce a second address. For example, if B represents address 100, then the expression,  B+5  would signify the address 105. The 5 in the expression is the offset.  Specifying addresses using an offset is called relative addressing because the resulting address is relative to some other point. Another word for offset is displacement.  (2) In desktop publishing, the offset is the amount of space along the edge of the paper. Its purpose is to allow room for the binding. The offset is sometimes called the gutter.  
+
+offset_printing
+A printing technique whereby ink is spread on a metal plate with etched images, then transferred to an intermediary surface such as a rubber blanket, and finally applied to paper by pressing the paper against the intermediary surface. Most print shops use offset printing to produce large volumes of high-quality documents. Although the equipment and set-up costs are relatively high, the actual printing process is relatively inexpensive.  Desktop publishing generally involves producing documents on the computer, printing out drafts on a laser printer, and then offset printing the final version. To produce the plates used in offset printing, a print shop requires either film or high-resolution paper output, which the printer can then photograph. You can obtain either by taking a PostScript file to a service bureau.  
+
+OFX
+Short for Open Financial Exchange, a unified specification for the exchange of electronic financial data over the Internet. Using a request-response system of communication, OFX allows a client to connect directly to a financial institution's server. An OFX application sends a request to another OFX application, which sends a response. OFX was created by CheckFree, Intuit and Microsoft in 1997.  Compare with FIX.
+
+Ogg_Vorbis
+Ogg Vorbis is an audio compression format, comparable to other formats used to store and play digital music, but differs in that it is free, open and unpatented. The Ogg Vorbis specification is in the public domain and if freely available for commercial or noncommercial use. In Ogg Vorbis, Ogg refers to the Ogg Project which is an Open Source multimedia initiative, while Vorbis is the actual compression format.
+
+OGM
+Ogg Vorbis is an audio compression format, comparable to other formats used to store and play digital music, but differs in that it is free, open and unpatented. The Ogg Vorbis specification is in the public domain and if freely available for commercial or noncommercial use. In Ogg Vorbis, Ogg refers to the Ogg Project which is an Open Source multimedia initiative, while Vorbis is the actual compression format.
+
+ohm
+The unit of measurement used to measure resistance to electrical current.
+
+Ohms_Law
+A mathematical equation that shows the relationship between electric voltage, current and resistance. Ohm��s Law was named after Bavarian mathematician and physicist Georg Ohm.  Ohm��s Law can be stated as three mathematical equations, all derived from the same principle. In the following equations, V is voltage measured in volts, I is current measured in amperes and R is resistance measured in ohms: V = I x R R = V / I I = V / R  Knowing any two of the values of a circuit, one can determine the third using Ohm��s Law. For example, if a circuit has a current of 2 amperes, and a resistance of 1 ohm, then according to Ohms Law, voltage equals 2 (V = 2 x 1).  Typically, Ohm��s Law is only applied to DC circuits and not AC circuits. Note well: The letter "E" is sometimes used in representations of Ohm��s Law for voltage instead of "V."
+
+OIL
+Short for Ontology Inference Layer, OIL a Web-based representation and inference layer for ontologies, combining frame-based languages with the formal semantics and reasoning services. Its goal is to provide a general purpose markup language for the Semantic Web. OIL is compatible with RDF Schema. The OIL initiative is funded by the European Union IST program for Information Society Technologies under the On-To-Knowledge project (IST-1999-1013) and IBROW (IST-1999-19005). 
+
+Okidata
+One of the leading producers of printers, especially dot-matrix and LED printers. Okidata is based in New Jersey, but is a subsidiary of OKI Electric Industry Company, a huge Japanese conglomerate.   
+
+OLAP
+Short for Online Analytical Processing, a category of software tools that provides analysis of data stored in a database. OLAP tools enable users to analyze different dimensions of multidimensional data. For example, it provides time series and trend analysis views. OLAP often is used in data mining.
+The chief component of OLAP is the OLAP server, which sits between a client and a database management systems (DBMS). The OLAP server understands how data is organized in the database and has special functions for analyzing the data. There are OLAP servers available for nearly all the major database systems.
+
+
+OLE
+Abbreviation of Object Linking and Embedding, pronounced as separate letters or as oh-leh. OLE is a compound document  standard  developed by Microsoft Corporation. It enables you to create objects with one application and then link or embed them in a second application. Embedded objects retain their original formatand links to the application that created them.
+Support for OLE is built into the Windows and Macintosh operating systems. A competing compound document standard developed jointly by IBM, Apple Computer, and other computer firms is called OpenDoc.
+
+
+OLE_DB
+OLE DB (pronounced as separate letters) is a set of COM-based interfaces that expose data from a variety of sources, such as spreadsheets, project plans, SQL, legacy databases and more. OLE DB interfaces provide applications with uniform access to data stored in diverse information sources, or data stores. These interfaces support the amount of database management system (DBMS) functionality appropriate to the data store, enabling it to share its data.  See also OLE.
+
+OLE_for_Process_Control
+Abbreviated as OPC, OLE for Process Control is a series of standards specifications. The current OPC specifications form a set of standard OLE/COM interface protocols based upon the functional requirements of Microsoft's OLE/COM technology. Such technology defines standard objects, methods and properties for servers of real-time information like distributed process systems, programmable logic controllers, smart field devices and analyzers in order to communicate the information that such servers contain to standard OLE/COM compliant technologies enabled devices. The OPC Foundation is the body that maintains the standard. [Adapted from the OPC Foundation Web site]
+
+Optical_Local_Exchange_Carrier
+Short for Optical Local Exchange Carrier, a telephone company that uses a fiber-optic system as opposed to traditional passive, twisted-pair copper wires to connect equipment at the customer premises to carrier facilities. Optical access increases access-network bandwidth by up to several gigabits per second, which is an important development in data communication services. The copper wire system creates a bottleneck in the access network, which slows down the rate of data transfer and is therefore not able to support activities that need ultrahigh bandwidths, such as high-quality videoconferencing, large file transfers, data mirroring and data-storage warehousing. 
+
+OLED
+Short for organic light-emitting diode, a display device that sandwiches carbon-based films between two charged electrodes, one a metallic cathode and one a transparent anode, usually being glass. The organic films consist of a hole-injection layer, a hole-transport layer, an emissive layer and an electron-transport layer. When voltage is applied to the OLED cell, the injected positive and negative charges recombine in the emissive layer and create electro luminescent light. Unlike LCDs, which require backlighting, OLED displays are emissive devices - they emit light rather than modulate transmitted or reflected light.
+OLED technology was invented by Eastman Kodak in the early 1980s. It is beginning to replace LCD technology in handheld devices such as PDAsand cellular phones because the technology is brighter, thinner, faster and lighter than LCDs, use less power, offer higher contrast and are cheaper to manufacture.
+Also see PLED.
+
+OLTP
+Short for On-Line Transaction Processing. Same as transaction processing.  
+
+OMA_DRM
+DRM is short for digital rights management, a system for protecting the  copyrights of data circulated via the Internet or other digital media by enabling secure distribution and/or disabling illegal distribution of the data. OMA DRM is a Digital Rights Management standard published by the Open Mobile Alliance.  See also DRM.
+
+OMG
+Short for Object Management Group, a consortium with a membership of more than 700 companies. The organization's goal is to provide a common framework for developing applications using object-oriented programming techniques. OMG is responsible for the CORBA specification. 
+
+OMG_IDL
+Short for The Object Management Group (OMG) Interface Definition Language (IDL) it is used to describe the interfaces that client objects call and that object implementations provide. An OMG IDL interface definition fully specifies each operation's parameters and provides the information needed to develop client applications that use the interface's operations. [Source: OMG IDL Syntax]
+See also IDL.
+
+omnidirectional
+The term omnidirectional implies an equal sensitivity in all directions. An omnidirectional microphone, for example, will pick up sound from all around it, in all directions. An omnidirectional antennae will send or receive signals equally well in all directions.
+
+omnifont_recognition
+A commonly used term in conjunction with OCR  software. Omnifont recognition refers to the capability of computer software, usually OCR software, to read (or recognize) virtually any  font that maintains fairly standard character shapes.
+
+OMR
+Short for optical mark recognition, the technology of electronically extracting intended data from marked fields, such as checkboxes and fill-infields, on printed forms. OMR technology scans a printed form and reads predefined positions and records where marks are made on the form. This technology is useful for applications in which large numbers of hand-filled forms need to be processed quickly and with great accuracy, such as surveys, reply cards, questionnaires and ballots. A common OMR application is the use of "bubble sheets" for multiple-choice tests used by schools. The student indicates the answer on the test by filling in the corresponding bubble, and the form is fed through an optical mark reader (also abbreviated as OMR, a device that scans the document and reads the data from the marked fields. The error rate for OMR technology is less than 1%.
+
+on_access_scanner
+A type of antivirus program which runs in the background and actively scans your computer system constantly for viruses and other malicious threats, for the entire duration that your system is powered on, unless paused by the computer user. On-access scanners will monitor all system activity and automatically scan files which have been downloaded from the Internet or through  e-mail. Contrast with on-demand scanner.
+
+on_board
+Literally, on a circuit board. On-board memory, for example, refers to memory chips on the motherboard. On-board modems  are modems that are on expansion boards.  
+
+on_board_modem
+Another term for an internal modem; that is, a modem that comes as an expansion board you can insert into a computer.  
+
+on_demand_scanner
+A type of antivirus program that actively scans your computer system for viruses only when prompted to do so by the computer user, or by scheduling it as a time-specific task. On-demand scanners, while used to scan hard drives can also be used to check removable storage devices before copying from those devices onto your system. Contrast with  on-access scanner.
+
+on_demand_software_delivery
+A type of software delivery service where the software is provided to the customer through a network (such as the Internet) as a service. On-demand software delivery is also called software on-demand. The terms on-demand software and Software as a Service (SaaS) are often used interchangeably.
+
+on_line
+Alternative spelling of online
+
+on_page_optimization
+In search engine optimization, on-page optimization refers to factors that have an effect on your Web site or Web page listing in natural search results. These factors are controlled by you or by coding on your page. Examples of on-page optimization include actual HTML code, meta tags, keyword placement and keyword density.
+Contrast with off-page optimization.
+
+
+On_Screen_Keyboard
+)In Windows Vista the On-Screen Keyboard is an application which provides a visual keyboard on your display screen that can be used in place of a physical keyboard. The On-Screen Keyboard can be manipulated by the mouse or other pointing device and can be configured in three layouts;   101 keys display (standard keyboard) 102 keys display (an extra backslash) 106 keys display (extra characters useful for typing Japanese). 
+
+one_to_many
+In biometrics it is a type of fingerprint search that compares the minutiae from an unnamed biometric sample to a fingerprint minutiae database to determine if the reference already exists and to identify the sample.See also AFIS.
+
+one_to_one
+In biometrics it is a type of fingerprint identification and verification process where the biometrics sample is matched to the user, showing the user is who he or she claims to be. Compare with one-to-many. See  "How Fingerprint Scanners Work" in the ""Did You Know..." section of Webopedia. See also  "How Biometrics Security Works" in the "Did You Know..." section of Webopedia.
+
+one-way_hash_function
+An algorithm that turns messages or text into a fixed string of digits, usually for security or data management purposes. The "one way" means that it's nearly impossible to derive the original text from the string. A one-way hash function is used to create digital signatures, which in turn identify and authenticate the sender and message of a digitally distributed message. 
+
+oneiric_ocelot
+Oneiric Ocelot is the Ubuntu codename for version 11.10 of the Ubuntu Linux-based operating system. Officially released in October 2011, Oneiric Ocelot's updates included an improved Dash, additional refinements to the Unity interface introduced in Natty Narwhal, an overhauled Ubuntu Software Center, a new login screen, the inclusion of Mozilla Thunderbird as the default mail client and more.
+Oneiric means "dreamy," and the ocelot is a domestic-sized cat native to South and Central America.  Oneiric Ocelot followed the Natty Narwhal (v11.04) release of Ubuntu and will be succeeded by Precise Pangolin in 2012.
+
+onion_routing
+A technique for obfuscating the true origin of packets on an IP network in order to preserve privacy and shield a user's online activities from monitoring by government, corporate or other entities. Onion routing hides online activity by sending packets through a distributed network of randomly selected proxy serversbefore they are delivered to their final destination.
+
+
+online
+Turned on and connected. For example, printers are online when they are ready to receive data from the computer. You can also turn a printer offline. While the printer is offline, you can perform certain tasks such as advancing the paper, but you cannot send data to it. Most printers have an online button you can press to turn the machine on- or offline.
+Users are considered online when they are connected to a computer service through a modem. That is, they are actually on the line.
+The term also is spelled as on-line. Also see Internet Grammar Concerns in the Did You Know . . . ?section of Webopedia.
+
+online_backup
+In storage technology, online backup means to back up data from your hard drive to a remote server or computer using a network connection. Online backup technology leverages the Internet and cloud computing to create an attractive off-site storage solution with little hardware requirements for any business of any size.
+Recommended Reading: Learn more about cloud backup in the InfoStor IT Project Center.
+This type of off-site storage is typically part of a business disaster recovery plan, as the data remains safe should your office be at risk from disasters such as fires, flood or employee theft.
+
+online_broker
+A retail securities broker that provides its services over the Internet.
+
+online_data_storage
+Online data storage refers to the practice of storing electronic data with a third party service accessed via the Internet. It is an alternative to traditional local storage (such as disk or tape drives) and portable storage (such as optical media or flash drives). It can also be called "hosted storage," "Internet storage" or "cloud storage."
+In recent years, the number of vendors offering online data storage for both consumers and businesses has increased dramatically. Some services store only a particular kind of data, such as photos, music or backup data, while others will allow users to store any type of file. Most of these vendors offer a small amount of storage for free with additional storage capacity available for a fee, usually paid on a monthly or annual basis.
+Benefits of Online Storage
+One of the biggest benefits of online storage is the ability to access data from anywhere. As the number of devices the average person uses continues to grow, syncing or transferring data among devices has become more important. Not only does it help transfer data between devices, online data storage also provides the ability to share files among different users. This is particularly helpful for business users, although it's also popular with consumers who want to share photos, videos and similar materials with their friends and family.
+
+online_editing
+In digital video and film production, online editing is used to describe editing footage at the original highest-quality. The opposite of online editing is offline editing, which is the process of editing low-quality copies of the original footage.
+
+online_phone
+Online phones use packet-switched  VoIP, or  Internet telephony to transmit telephone calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN).  The advantage to online phone calls is that unlike regular long-distance calls, online phone calls are free --  there's no fees beyond the cost of your Internet access.
+An online phone can either be a physical telephone with built-in IP technology and an RJ-45 Ethernet connector instead of the RJ-11 phone connector found in standard phones or it can be a VoIP-capable computer that has audio support and a microphone for making and receiving calls.  As a result, Internet phone calls can work as Internet phone-to-phone, Internet phone-to-PC, PC-to-PC or PC-to-phone calls.
+See "The Difference Between VoIP and PSTN Systems" in the  Did You Know... section of Webopedia.Also see the  VoIP Meets Wi-Fi article in the  Did You Know? section of Webopedia.
+
+online_service
+A business that provides its subscribers with a wide variety of data transmitted over telecommunications lines. Online services provide an infrastructure in which subscribers can communicate with one another, either by exchanging e-mail messages or by participating in online conferences (forums). In addition, the service can connect users with an almost unlimited number of third-party information providers. Subscribers can get up-to-date stock quotes, news stories hot off the wire, articles from many magazines and journals, in fact, almost any information that has been put in electronic form. Of course, accessing all this data carries a price.
+The difference between an online service and a bulletin board service is one of scale and profits. Online services provide a variety of information and services, whereas BBS's normally concentrate on a single theme. In addition, BBS's are often operated on a non-profit basis whereas online services are always for profit. Three of the largest online services are America Online, Compuserve and MSN.
+One online service that defies classification is the Internet. In terms of users, it is the largest service, but it is not centrally controlled by any one organization, nor is it operated for profit.
+
+online_service_provider
+Abbreviated as OSP, an online service provider is a generic term that describes any company, organization or group that provides an online service. These types of services may include Web sites, discussion forums,  chat rooms, or Web mail. OSPs may also refer to a company that provides dial-up access to the Internet.
+
+Ontology_Inference_Layer
+See OIL.
+
+Ontology_Web_Language_for_Services
+The Ontology Web Language for Services (OWL-S) is a core set of markup language constructs for describing the properties and capabilities of Web services in unambiguous, computer-interpretable form. OWL-S is based on ontologies of objects and concepts defined using the Ontology Web Language (OWL).  See also Ontology Web Language.
+
+OOAK
+On eBay, eBay alternatives, and classified ad Web sites, OOAK is an abbreviation used to mean one of a kind. This abbreviation would be used by the seller to indicate that the item for sale is rare, unique, or a handcrafted original.  See also "Online Auction Abbreviations" in the  Quick Reference section of Webopedia.
+
+object_oriented_programming_OOP
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define not only the data type of a data structure, but also the types of operations (functions) that can be applied to the data structure.
+In this way, the data structure becomes an object that includes both data and functions. In addition, programmers can create relationships between one object and another. For example, objects can inherit characteristics from other objects.
+The Basics: Object Oriented Programming Concepts
+If you are new to object-oriented programming languages, you will need to know a few basics before you can get started with code. The following Webopedia definitions will help you better understand object-oriented programming:
+
+oovoo
+A free service that provides instant messaging, phone calling, video messages and video chatting with up to twelve other users.  First released in 2007, ooVoo currently has more than 46 million registered users and is available as a platform-independent Web client as well as for Microsoft Windows and Mac OS X operating systems and Google Android and Apple iOS mobile platforms. ooVoo also recently released a Facebook app that functions similar to Google Hangouts, enabling Facebook users to take part in group video chats.  While Facebook has its own video chat feature, the Facebook Video Calling app currently only supports one-to-one video chats.  
+
+op_original_poster
+OP is short for original poster.
+In online discussion forums, OP is short for original poster -- the person who started a discussion thread. Within the forum thread others may direct comments specifically to the original poster using the OP abbreviation. The original poster may also include this abbreviation in subsequent posts he or she contributes.
+
+OPC
+OPC is designed to deliver open connectivity via open standards in industrial automation and the enterprise systems, and is based on a series of standards specifications. Originally based on Microsoft's OLE COM (component object model) and DCOM (distributed component object model) technologies, the specification defined a standard set of objects, interfaces and methods for use in process control and manufacturing automation applications to facilitate interoperability. OPC is supported by the OPC Foundation.
+
+OPC_specification
+OPC is designed to deliver open connectivity via open standards in industrial automation and the enterprise systems, and is based on a series of standards specifications. Originally based on Microsoft's OLE COM (component object model) and DCOM (distributed component object model) technologies, the specification defined a standard set of objects, interfaces and methods for use in process control and manufacturing automation applications to facilitate interoperability. OPC is supported by the OPC Foundation.
+
+opcode
+Short for operational code, it is a number that determines the computer instruction to be executed.
+
+OPD
+Short for outsourced product development, OPD is a term used to describe a company or organization that uses a third-party provider, called outsourcing, to develop software products.
+
+open
+(v) To make an object accessible. Whenever you access a file (that is, you edit a text file or run a program file), the operating system opens the file. Opening a file can be simple or complex depending on the operating system. For example, in a multiprocessing operating system, in which different users can share the same resources, the operating system must decide whether the file can be accessed simultaneously by more than one user, and if so, it must ensure that different users do not try to modify the file's contents at the same time.  (adj) Accessible. When used to describe designs or architectures, open means public. See under open architecture.  
+
+open_act
+The OPEN Act (The Online Protection and Enforcement of Digital Trade Act) is a Senate bill proposed by Senator Ron Wyden of Oregon on January 18, 2012, as an alternative to the controversial SOPA and PIPA bills.
+On the same day this bill was introduced, several thousand websites, including Reddit, Boing Boing, Wired, WordPress, Wikipedia and Mozilla Firefox launched a service blackout in protest of SOPA and the PROTECT IP Act (PIPA). During the service outage, websites opposing the bill, left readers with information about SOPA and PIPA, citing examples of what "could" happen if the SOPA/PIPA bills were passed.
+Where SOPA and PIPA seek to require Internet providers and search engines to redirect users away from viewing websites infringing on intellectual property, the OPEN Act would stop transfers of money to foreign websites whose primary purpose is piracy or counterfeiting.
+
+open_architecture
+An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary.  The great advantage of open architectures is that anyone can design add-on products for it. By making an architecture public, however, a manufacturer allows others to duplicate its product. Linux, for example, is considered open architecture because its source code is available to the public for free. In contrast, DOS, Windows, and the Macintosh architecture and operating system have been predominantly closed. Many lawsuits have been filed over the use of these architectures in clone machines. For example, IBM issued a Cease and Desist order, followed by a battery of lawsuits, when COMPAQ built its first computers. 
+
+open_learning
+An approach to learning that gives students flexibility and choice over what, when, at what pace, where, and how they learn. Open learning often includes aspects of e-learning.
+
+open_media
+The term used to describe video, audio, and text that can be freely shared on the Internet. Most open media is distributed under Creative Commons or GPL licenses.
+
+open_network_environment_one
+A software-defined networking (SDN) strategy from Cisco developed to help networks become more open, programmable and application-aware. According to this article from eWeek, with Cisco’s Open Network Environment, or Cisco ONE, the company’s goal is to deliver software programmability throughout the network, from ASICs and operating systems to networking functions and services.
+
+
+open_profile
+When referring to social networking sites (SNS), the term open profile describes a dynamic user profile that can be openly shared on (or exported to) other SNS where the user is a member. Social networking sites that support open profiles would enable users to update their profile on one site and have those changes reflected on partnering sites.See "Social Networking Sites" in the Quick Reference section of Webopedia.
+
+open_rate
+In e-mail marketing, the open rate is the number of list subscribers who opened the e-mail message. The open rate is a percentage of the total number of e-mails sent.
+
+open_relay
+Also referred to as an open relay server, an SMTP e-mail server that allows a third party to relay e-mail messages, i.e., sending and/or receiving e-mail that is not for or from a local user. Open relays make it possible for mobile users to connect to corporate networks by going first through a local ISP, which then forwards the message to their home ISP, which then forwards the message to the final destination. However, a downside of open relay technology is the proliferation of its usage by spammers looking to obscure or even hide the source of the large-volume e-mails they send.  Open relay also is called spam relay, third-party relay or insecure relay.  Contrast with mail relay.
+
+Open_Settlement_Protocol
+Open Settlement Protocol (OSP) is the European Telecommunications Standards Institute (ESTI) Technical Specification 101 321 for Inter-Domain pricing, authorization and usage exchange. Is a client/server protocol that Internet Service Providers use to exchange authorization, accounting, and usage information to support  IP telephony.  The OSP protocol is often used with Public Key Infrastructure (PKI) services to implement secure, multi-lateral VoIP peering on non-secure networks, such as the Internet.
+
+open_source
+(1) Generically, open source refers to a program in which the source code is available to the general public for use and/or modification from its original design free of charge, i.e., open. Open source code is typically created as a collaborative effort in which programmers improve upon the code and share the changes within the community. Open source sprouted in the technological community as a response to proprietary software owned by corporations.
+(2) A certification standard issued by the Open Source Initiative (OSI) that indicates that the source code of a computer program is made available free of charge to the general public. The rationale for this movement is that a larger group of programmers not concerned with proprietary ownership or financial gain will produce a more useful and bug -free product for everyone to use. The concept relies on peer review to find and eliminate bugs in the program code, a process which commercially developed and packaged programs do not utilize. Programmers on the Internet read, redistribute and modify the source code, forcing an expedient evolution of the product. The process of eliminating bugs and improving the software happens at a much quicker rate than through the traditional development channels of commercial software as the information is shared throughout the open source community and does not originate and channel through a corporation's research and development cogs.
+OSI dictates that in order to be considered "OSI Certified" a product must meet the following criteria:
+
+open_source_crm
+In CRM (customer relationship management) open source CRM (open source customer relationship management) is  the phrase to describe an open CRM solution: That is the CRM system uses open source programs in which the source code is available to the public for use and/or modification from its original design free of charge (i.e., open). Open CRM gives organizations control over the CRM solution and can further develop the open source CRM software to best meet its own business goals.
+Learn more about open source in this Webopedia definition.
+Open source CRM is used by businesses of all sizes—from small business to the enterprise—across all vertical markets.  Open source CRM solutions available today include OpenCRX, SugarCRM Community Edition and Zurmo Open Source CRM.
+
+Open_Source_Initiative
+Abbreviated OSI, a non-profit organization that promotes the integrity of the open source definition by certifying products with the OSI Certified Open Source Software mark. OSI is comprised of board members who make up its directorship and is not a membership organization.
+
+open_source_office
+Open source office is a phrase commonly used to describe open source office productivity software. Open source office software typically contains the same applications as proprietary office software including word processing, spreadsheets, databases, graphics and presentation software.
+Most open source office software can be run on a number of operating systems and will store your files in an open standard format. Open source office software may also read and write files from other proprietary office software.
+Open source office productivity software is popular because it supports for many file types and it is free to download or use online, so when compared to costly proprietary office productivity software it has advantages.
+
+open_source_storage
+Open source storage is the phrase used to describe any storage system based on open source platforms or technologies. The phrase is commonly used to mean open source storage software that's used to create the storage system.
+Much like proprietary storage products, open source storage software is available for a number of business needs, including array clustering, file and print services, encryption, network-attached storage (NAS) and storage area network (SAN).
+Businesses might use open source storage software because upfront costs are typically lower and features are comparable to proprietary storage software. Another benefit to using open source is that the source code is freely available for in-house development. 
+
+open_source_tools
+Open source tools is a phrase used to mean a program -- or tool -- that performs a very specific task, in which the source code is openly published for use and/or modification from its original design, free of charge. Open source tools are typically created as a collaborative effort in which programmers improve upon the code and share the changes within the community, and is usually available at no charge under a license defined by the  Open Source Initiative.
+ 
+Open source tools may be viable alternatives to popular closed-source applications and some open source tools offers features or performance benefits that surpass their commercial counterparts.  The phrase open source tools is synonymous with open source utility and similar to open source applications. 
+
+Open_Text
+A popular Internet search engine developed by Open Text Corporation. Though not the most complete Web index, Open Text is considered by many to be the most sophisticated because it provides powerful ways to fine-tune a query. Open Text Corporation licenses its search engine software as a product called LiveLink.  
+
+Open_Transport
+A protocol that enables Macintosh computers to use AppleTalk devices and software to connect with other types of computers and networks, especially networks such as the Internet that are based on the TCP/IP protocols.
+
+open_virtualization_alliance
+The Open Virtualization Alliance (OVA) is a standards organization -- but not a formal standards body -- that is comprised of leading virtualization, data center, and cloud providers.
+The goal of the organization, as described by the Open Virtualization Alliance, is to increase awareness and understanding of Kernel-based Virtual Machine (KVM), foster the adoption of KVM as an open virtualization alternative to proprietary solutions in the enterprise and to encourage interoperability, promote best practices, and highlight customer success.
+Governing members of the Open Virtualization Alliance include HP, IBM, Intel, Red Hat, 6Wind, Abiquo, AccelOps, AMD, Arkeia Software and other companies that are a part of the Linux and virtualization ecosystems.
+
+OpenBSD
+A multi-platform BSD-based UNIX-like operating system. OpenBSD supports binary emulation of most binaries from SVR4 (Solaris), FreeBSD, Linux, BSDI, SunOS, and HPUX. OpenBSD is free and its copyright conditions allow for free redistribution for personal or commercial use. OpenBSD was founded in 1995 by Theo de Raadt and the initial release was made public in July 1996. 
+
+OpenCable_Project
+An initiative that is managed by the Advanced Platforms and Services group at CableLabs. The OpenCable Project, based on the Globally Executable MHP (GEM) standard, is designed to assist the cable industry in deploying interactive services over cable. The OpenCable provides both a software specification and a hardware specification as follows:  Hardare specification: describes one-way and two-way digital cable-ready host devices that are interoperable with cable systems throughout the United States. Software specification: Called the OpenCable  Application Platform, OCAP addressees proprietary operating system software to create a common platform for interactive television applications and services. 
+
+opendaylight_project
+An industry-supported collaborative project of the Linux Foundation launched in April 2013 with a mission of developing an open source Software-Defined Networking (SDN) framework for creating robust, common SDN platforms. Industry support for the OpenDaylight Project comes from Cisco, IBM, Microsoft, Red Hat, Brocade and VMware, among others.
+
+
+OpenDoc
+A standard and application programming interface (API) that makes it possible to design independent programs (components) that can work together on a single document. OpenDoc is being developed by a loose alliance of companies, including Apple Computer, IBM, and Lotus. Notably absent from this list is Microsoft, which is pushing an alternative standard and API called Object Linking and Embedding (OLE).   
+
+OpenDocument_Format
+OpenDocument Format (ODF) is an  ISO standard (ISO/IEC JTC 1/SC 34N0681). An open file format enables users of varying office suites to exchange documents, such as text-based documents,  spreadsheets, charts, or databases, freely with one another. Any software maker can ensure its own application can read and write this format.
+
+openflow
+OpenFlow is an open standard network protocol used to manage traffic between commercial Ethernet switches, routers and wireless access points. OpenFlow enables software-defined networking (SDN) for programmable networks and is based on an Ethernet switch, with an internal flow-table and a standardized interface to add and remove flow entries.
+The basic idea behind OpenFlow is that you can connect multiple switches -- and even networks -- together to create a flow, and then manage the entire infrastructure, setting policies and managing traffic type accordingly. It allows for deployment of innovative routing and switching protocols in your network for many different applications, including virtual machine mobility and high-security networks.
+OpenFlow got its start as a research project led by Guido Appenzeller while at Stanford. It is currently being implemented by major vendors, and OpenFlow-enabled switches are commercially available.
+
+OpenGL
+A 3-D graphics language developed by Silicon Graphics. There are two main implementations:  Microsoft OpenGL, developed by Microsoft Cosmo OpenGL, developed by Silicon Graphics   Microsoft OpenGL is built into Windows NT and is designed to improve performance on hardware that supports the OpenGL standard. Cosmo OpenGL, on the other hand, is a software-only implementation specifically designed for machines that do not have a graphics accelerator.  Another standard that is popular for rendering 3-D images is Direct3D.   
+
+OpenHCI
+The Open Host Controller Interface (OpenHCI) Specification for the Universal Serial Bus is a register-level description of a Host Controller for the Universal Serial Bus (USB) which in turn is described by the Universal Serial Bus Specification, released by Intel Corp. The purpose of OpenHCI is to accelerate the acceptance of USB in the marketplace by promoting the use of a common industry software/hardware interface. OpenHCI allows multiple Host Controller vendors to design and sell Host Controllers with a common software interface, freeing them from the burden of writing and distributing software drivers. The design goal has been to balance the complexity of the hardware and software so that OpenHCI is more than the simplest possible Host Controller for USB yet not the most complex possible.  [Source: Compaq OpenHCI Specifications]
+
+OpenID
+A shared identity service that enables users of multiple OpenID-enabled Web sites to sign in under one single profile, or single user identity. It's a free and open standard under which users are able to control the amount of personal information they provide on Web sites, and in particular social networking sites (SNS). To use OpenID across multiple sites, users must first choose an Open ID provider. Once you create an OpenID it stays with you, even if you choose at a later time to switch to a different OpenID provider. OpenID works by using existing Internet technologies such as URI, HTTP, SSL and Diffie-Hellman to transform the information you provide on one site (or service) into an account that can be used at other sites that support OpenID logins. Some of the online and Internet services supporting OpenID include AOL, Blogger, Flickr, LiveDoor, LiveJopiurnal, Vox, Yahoo, WordPress, and others. See "Social Networking Sites" in the Quick Reference section of Webopedia.
+
+openmama
+A collaborative effort launched and coordinated by the Linux Foundation to build an open source implementation of Middleware Agnostic Messaging APIs (MAMA), which financial services companies use for passing data across messaging applications. First announced in 2011, the OpenMAMA project seeks to standardize and simplify the MAMA APIs that have been around since the early 2000s, and in turn reduce complexity and cost for financial services companies. 
+
+OpenNMS
+An enterprise grade network management platform developed under the open source model. It consists of a community supported open-source project as well as a commercial services, training and support organization.  As a network management platform, it provides several major feature categories: discovery, monitoring, events, data collection, and reporting. OpenNMS was started in 1999 and registered on Sourceforge in 2000. It is currently maintained by Tarus Balog.
+
+OpenPortal
+The OpenPortal project is a community of users, developers, and partners who work to create an industry leading enterprise-class portal server. The OpenPortal project is derived from the Sun Java System Portal Server 7 product. As offered by the OpenPortal Project Web site, the objectives for the Portal Server open-source initiative include:  Expose Portal Server's mature and proven enterprise-class capabilities to the community and evolve it there through active participation from the community of developers, users, partners, and like-minded individuals. Build composable, decoupled, and lightweight components that can be used by the developer community and other projects, for example, components that serve as development or test runtimes in tools. Collaborate with other portal, middleware, or similar open-source efforts in the software universe for the benefit of the community.   
+
+openshift
+OpenShift is an open source hybrid cloud application Platform as a Service (PaaS) developed by Red Hat. Red Hat also offers a version of OpenShift for private clouds called OpenShift Enterprise.
+OpenShift uses Red Hat Enterprise Linux (RHEL) and its SELinux (Security-Enhanced Linux) subsystem as its foundation. OpenShift supports multiple languages for ease of development, including Java, PHP, Python, Ruby, Perl and Node.js.
+
+
+OpenSocial
+Developed by Google Inc., OpenSocial is a set of common APIs for building social applications across multiple Web sites, including social networking sites (SNS). OpenSocial applications use Google's gadget architecture but with extensions that provide access to social data within its container environment. Similar to Google Gadgets, OpenSocial apps are hosted XML documents with HTML and/or JavaScript within their bodies. The OpenSocial API can be accessed on the client-side using the JavaScript API, and on the server-side by using RESTful data APIs. Some Web sites currently using OpenSocial include Friendster, hi5, LinkedIn, MySpace, orkut, Salesforce.com, and others.
+See "Social Networking Sites" in the Quick Reference section of Webopedia.
+
+OpenSolaris
+See under OpenSolaris project.
+
+OpenSolaris_project
+The common term used to define the developer community around Sun Microsystems' open source project for the Solaris operating system. The term OpenSolaris refers not only to the operating system but also to the source base and developer community as well. The OpenSolaris project included source for the kernel, networking, libraries, and commands from Sun's Solaris operating system.  OpenSolaris contributions are released under the Common Development and Distribution License (CDDL), an Open Source Initiative (OSI) approved open source license.
+Oracle discontinued open development and replaced the OpenSolaris distribution model with the proprietary Solaris Express in in 2010. See also Solaris for a better understanding of this term.
+
+OpenSSH
+Short for Open Secure Shell, OpenSSH is a free suite of tools (similar to the SSH connectivity tools) that help secure your network connections. OpenSSH encrypts all traffic (including passwords) to effectively eliminate eavesdropping, connection hijacking and other network-level attacks.    The OpenSSH suite includes the ssh program that replaces rlogin and telnet, and scp which replaces rcp and ftp. OpenSSH has also added sftp and sftp-server which implement an easier solution for file-transfer. OpenSSH comes in two downloadable distributions: the native OpenBSD distribution and the multi-platform portable distribution. OpenSSH is developed by the OpenBSD Project.
+
+openstack
+A project originally started by NASA and Rackspace for delivering a cloud computing and storage platform. Today, OpenStack is a global collaboration of developers and technologists producing an open source cloud computing platform for public and private clouds.
+The technology consists of a series of interrelated projects delivering various components for a cloud infrastructure solution. OpenStack software delivers a massively scalable cloud operating system consisting of three major components:
+
+
+Compute: open source software designed to provision and manage large networks of virtual machines, creating a redundant and scalable cloud computing platform.
+Object Storage: open source software for creating redundant, scalable object storage using clusters of standardized servers to store petabytes of accessible data (code-named "Swift").
+Image Service: provides discovery, registration, and delivery services for virtual disk images (code-named "Glance").
+
+During the course of the past year, OpenStack has attracted more than 90 member organizations, including Dell, Citrix, Cisco and HP.
+
+openstack_folsom
+OpenStack Folsom is the follow-up to the Essex release of the OpenStack open source cloud computing platform. OpenStack Folsom debuted in September 2012, seven months after the OpenStack Essex release, and represents the efforts of more than 330 contributors who worked on adding 185 different features.  Among OpenStack Folsom’s most notable new enhancements are a Software-Defined Network (SDN) project called Quantum and Block Storage services known as Cinder. The Folsom release additionally adds Hyper-V support, a new translation framework and various other cloud enhancements.  The Ubuntu 12.10 release (“Precise Pangolin”) is the first major Linux-based operating system to support Folsom as part of a production-grade release. Work on the successor to OpenStack Folsom, codenamed “Grizzly,” is already under way as well.  See also "A Cloud Computing Dictionary Resource" in Webopedia's Quick Reference section.
+
+openstack_grizzly
+The follow-up to the Folsom release of the OpenStack open source cloud computing platform, OpenStack Grizzly debuted in April 2013 as the seventh release of OpenStack (and was itself succeeded by the Havana release in October 2013).
+With OpenStack Grizzly, the OpenStack Foundation has focused on adding broader support for compute, storage and networking technologies as well as greater scalability and ease of operations.
+
+
+openstack-havana
+The successor to the Grizzly release of the OpenStack open source cloud computing platform (and the precursor to the 2014 OpenStack Icehouse release), OpenStack Havana debuted in October 2013 as the eighth release of OpenStack.
+Among OpenStack Havana's most prominent feature additions are new orchestration and monitoring capabilities to go along with a variety of enhancements to the existing compute ("Nova"), storage ("Swift" and "Cinder") and networking ("Neutron") components.  The new features in OpenStack Havana help OpenStack deliver more enterprise-grade capabilities, with the orchestration component, "Heat," enabling the deployment of complex multi-tier services, and the monitoring component, "Ceilometer," responsible for managing and monitoring low-level cloud system events.
+See also "A Cloud Computing Dictionary Resource" in Webopedia's Quick Reference section.
+
+openstack-icehouse
+
+
+The successor to the Havana release of the OpenStack open source cloud computing platform, OpenStack Icehouse debuted in April 2014 as the ninth release of OpenStack. Among OpenStack Icehouse’s most prominent feature additions are live updates for Nova compute, a new Database-as-a-Service (DBaaS) capability called “Trove,” and storage replication enhancements.
+
+openstack-juno
+The successor to the Icehouse release of the OpenStack open source cloud computing platform, OpenStack Juno debuted on October 16, 2014 as the tenth release of OpenStack.
+Among OpenStack Juno's most prominent additions are numerous new networking capabilities, including a Distributed Virtual Router (DVR), enhanced IPv6 support in the OpenStack Neutron networking project,  improved Network Functions Virtualization (NFV) support, better visibility into network information, and better support for multiple networks for the OpenStack Nova project.
+The follow-up to OpenStack Juno, OpenStack Kilo, made its official debut in April 2015.
+
+openstack-kilo
+The successor to the Juno release of the OpenStack open source cloud computing platform, OpenStack Kilo made its debut on April 30, 2015 as the eleventh release of OpenStack. Kilo is also included in the "Vivid Vervet" release of Canonical's Ubuntu 15.04 Linux-based operating system, which was released in April 2015 as well.
+Feature Enhancements in OpenStack Kilo
+Among OpenStack Kilo's most prominent additions are the Ironic bare-metal service, support for Dynamic Virtual Routing (DVR) in the Neutron networking component, and an expanded cloud federation capability in the OpenStack Keystone identity project. The new Ironic project runs as a service in OpenStack Kilo and ties into different hardware interfaces to directly manage bare-metal servers.
+The follow-up to OpenStack Kilo carries the name OpenStack Liberty, and it made its official debut in October 2015.
+
+openstack-liberty
+The successor to the Kilo release of the OpenStack open source cloud computing platform, OpenStack Liberty made its debut on October 15, 2015 as the twelfth major release of OpenStack. Liberty arrived as the second major update in 2015 for OpenStack, following Kilo's release on April 30.
+As with previous OpenStack releases, Liberty takes its name from a nearby city or distinguishing feature relative to the OpenStack design summit corresponding to each OpenStack release. In this case, Liberty is a village in the Canadian province of Saskatchewan.
+
+
+openstack-nova
+OpenStack Nova is a component within the OpenStack open source cloud computing platform developed to provide on-demand access to compute resources by provisioning and managing large networks of virtual machines (VMs).
+Also known as OpenStack Compute, Nova offers "massively" scalable, on-demand, self-service access to compute resources such as virtual machines, containers and bare metal servers. Nova works with KVM, VMware, Xen and Hyper-V hypervisor virtualization technologies, as well as Linux container technologies like LXC and LXD.
+Nova as Part of the OpenStack Platform
+As the most distributed (and complex) component in the OpenStack platform, Nova interacts heavily with other OpenStack services like Keystone for performing authentication, Horizon for its Web interface and Glance for supplying its images.
+
+opensuse
+An open source Linux operating system distribution developed and supported by the openSUSE Project. openSUSE is freely available for download, and the most recent "stable" release of openSUSE, openSUSE 12.2, debuted in September 2012 with new features like KDE 4.8, GNOME 3.4, GRUB 2 and XFCE 4.10.
+The openSUSE Project is sponsored by SUSE, which had been owned by Novell since 2003, but SUSE currently operates as a standalone business unit following The Attachmate Group's acquisition of Novell in 2011. openSUSE branches also serve as the basis for SUSE Linux Enterprise releases.
+
+OpenURL
+The OpenURL standard is a syntax to create Web-transportable packages of metadata and/or identifiers about an information object. OpenURL provides a mechanism for encoding a citation for an information resource, typically a bibliographic resource, as a URL. The OpenURL is, in effect, an actionable URL that transports metadata, or keys to access metadata, for the object for which the OpenURL is provided. The target of the OpenURL is an OpenURL resolver that offers context sensitive services based on that metadata. The OpenURL resolver is sometimes referred to as the user's Institutional Service Component (ISC). [* Source: A Simple OpenURL Resolver]
+
+OpenWRT
+OpenWrt is a Linux-based router firmware for embedded devices that primarily uses a command line interface but also offers a web-based GUI interface. OpenWRT supports a wide variety of devices, including the Linksys WRT54G series, Netgear, D-Link, Asus and others.
+
+Opera
+A Web browser developed in 1994 by Norwegian company Telenor. Opera is boasted as being the speediest and most standards-compliant of the current browsers in use, supporting such standards as 128-bit encryption, SSL2 and 3, CSS1, partial CSS2, XML, HTML and JavaScript. Opera is available for use with the BeOS, EPOC, Linux, Symbian, OS/2, Windows and Mac operating systems.
+
+operand
+In all computer  languages, expressions consist of two types of components: operands and operators. Operands are the objects that are manipulated and operators are the symbols that represent specific actions. For example, in the expression
+5 + x
+xand 5 are operands and + is an operator. All expressions have at least one operand.
+
+operating_environment
+)The environment in which users run programs. For example, the DOS environment consists of all the DOS commands available to users. The Macintosh environment, on the other hand, is a graphical user interface that uses icons and menus instead of commands.  There is a thin line between operating environments and shells. Historically, shells are the interfaces to operating systems. They do not actually add any new capabilities; they simply provide a better user interface. So-called intelligent shells, however, actually extend an operating system's capabilities, so there is little difference between intelligent shells and operating environments.  Operating environments are sometimes called control programs.  
+
+operating_system_virtualization
+Operating system virtualization refers to the use of software to allow system hardware to run multiple instances of different operating systems concurrently, allowing you to run different applications requiring different operating systems on one computer system. The operating systems do not interfere with each other or the various applications. Not to be confused with operating system-level virtualization, which is a type of server virtualization. See also hypervisor.
+
+operating_system_level_virtualization
+More commonly called OS-level virtualization. A type of server virtualization technology which works at the OS layer. The physical server and single instance of the operating system is virtualized into multiple isolated partitions, where each partition replicates a real server. The OS kernel will run a single operating system and provide that operating system functionality to each of the partitions. Not to be confused with operating system virtualization.
+
+operation-clandestine-fox-internet-explorer-vulnerability
+Operation Clandestine Fox refers to a vulnerability in Internet Explorer (IE) that would allow owners of malicious websites to gain complete access to the site visitor's computer if the visitor used IE version 6 and up. With access to the computer, hackers could engage in a number of malicious activities like install apps or even use the infected computer as their own. The vulnerability affects IE 6 through IE 11, but the attack is targeting IE 9 through IE 11.
+FireEye Discovers and Explains the IE  Vulnerability
+The Internet Explorer vulnerability was named Operation Clandestine Fox by FireEye, the security company credited with finding the vulnerability. The exploit, according to FireEye, leverages a previously unknown use-after-free vulnerability, and uses a well-known Flash exploitation technique to achieve arbitrary memory access and bypass Windows’ ASLR and DEP protections.
+Symantec also issued an alert regarding the vulnerability, noting the fact that Windows XP users are particularly susceptible. Symantec testing confirmed that the vulnerability crashes Internet Explorer on Windows XP. This will be the first zero-day vulnerability that will not be patched for Windows XP users, as Microsoft ended support for the operating system.
+
+IE Security Vulnerability in the News
+Microsoft Web Browser Security Bug Could Impact Millions of Users Internet Explorer Security Bug: How to Protect YourselfThe Internet Explorer security bug explained and how to protect your infoGovernments urge Internet Explorer users to switch browsers until fix found 
+
+
+
+operation-windigo
+A collection of malware developed to create a sophisticated network of botnets that can distribute spam, redirect Web traffic and infect users' computers with malware, all while keeping the location of the cyber criminals perpetrating the attacks a secret.
+Operation Windigo is believed to have been growing behind the scenes for the past three years. It gained public attention in March 2014, when software security firm ESET revealed it was responsible for compromising more than 25,000 Linux servers. At one point during this time the Windigo network was sending 35 million daily spam messages and redirecting more than 500,000 web visitors to exploits kits each day, according to ESET.
+Operation Windigo primarily relies on two Linux backdoors, Linux/Ebury and Linux/Cdorked, to steal login credentials, compromise Web servers and redirect traffic. Notable victims of Operation Windigo have included cPanel, a popular web hosting control panel platform, and kernel.org.
+
+operational_data_store
+Short for operational data store, a type of database that serves as an interim area for a data warehouse in order to store time-sensitive operational data that can be accessed quickly and efficiently. In contrast to a data warehouse, which contains large amounts of static data, an ODS contains small amounts of information that is updated through the course of business transactions. An ODS will perform numerous quick and simple queries on small amounts of data, such as acquiring an account balance or finding the status of a customer order, whereas a data warehouse will perform complex queries on large amounts of data. An ODS contains only current operational data while a data warehouse contains both current and historical data.
+
+operational_efficiency
+Operational efficiency is the capability of an enterprise to deliver products or services to its customers in the most cost-effective manner possible while still ensuring the high quality of its products, service and support.
+Operational efficiency is often achieved by streamlining a company's core processes in order to more effectively respond to continually changing market forces in a cost-effective manner.
+In order to attain operational efficiency a company needs to minimize redundancy and waste while leveraging the resources that contribute most to its success and utilizing the best of its workforce, technology and business processes. The reduced internal costs that result from operational efficiency enable a company to achieve higher profit margins or be more successful in highly competitive markets.
+
+operator
+(1) A symbol that represents a specific action. For example, a plus sign (+) is an operator that represents addition. The basic mathematic operators are + addition, - subtraction,* multiplication,/ division.
+In addition to these operators, many programs and programming languages recognize other operators that allow you to manipulate numbers and text in more sophisticated ways. For example, Boolean operators enable you to test the truth or falsity of conditions, and  relational operators let you compare one value to another.
+(2) A computer operator is an individual who is responsible for mounting tapes and disks, making backups, and generally ensuring that a computer  runs properly.
+
+opex
+An acronym for Operating Expenses, OpEx refers to the ongoing costs associated with the daily operations of business products, services and/or systems.
+Operational expenditures stand in contrast to capital expenditures, or CapEx, which are the costs associated with acquiring, developing or upgrading physical assets such as hardware systems or intangible assets like patents and other intellectual property.
+OpEx from an Accounting Perspective
+From an accounting perspective, OpEx or operational expenditures refer to business costs needed to ensure the daily operations of the business, such as wages and other administrative costs, utilities and maintenance.
+
+OPML
+Outline Processor Markup Language (OPML) is an XML-based format that allows exchange of outline-structured information between applications running on different operating systems and environments. The purpose of this format is to provide a way to exchange information between outliners (programs that allow you to read, edit and reorganize outlines) and Internet services that can be browsed or controlled through an outliner.
+
+OPS
+Short for Open Profiling Standard, similar to P3P, but not worked on by the W3C. Instead, it has been adopted as part of P3P. OPS allows secure transfer of data from a user's browser, but doesn't require that a Web site release its privacy policy. Therefore, the user must manually choose what info will be sent to that site. 
+
+opt_in_e_mail
+A term that refers to promotional e-mails that have been requested by the individual receiving them. Unlike spam promotional e-mails that get sent out to large lists of recipients without regard to whether or not they want the information, opt-in e-mails are only sent to people who specifically request them.  Opt-in e-mails are targeted and often personalized and carry information about specific topics or promotions that users are interested in learning about. Typical opt-in e-mails contain newsletters, product information or special promotional offers. For example, if a user frequented a Web site that sold books and music online, that user could "opt in" to receive announcements when his favorite author or musician released new material. The promotional e-mail may even present the recipient with a special promotional offer to purchase the product at a discount available only to those on the opt-in list.  Spammers, however, have found a way to use the opt-in feature to their advantage. Spam e-mails often come with opt-in features in fine print or obscured somewhere in the body of the e-mail with text that reads something to the effect of "Failure to respond to this e-mail will automatically opt-in the recipient to future mailings." The strategy of responding to the spam and asking to be removed from future mailings also has critics as some claim that responding to a spam e-mail with a request to be removed from the mailing list signals that the e-mail address is a working address and the address can then be passed on to other spammers. Also see Getting Rid of Spam in the Did You Know section of Webopedia.
+
+Opteron
+A brand of AMD processors designed for both servers and workstations. The AMD Opteron processor enables simultaneous 32-bit and 64-bit computing. Also see  AMD & Intel Processor Lineups in Webopedia's "Did You Know...?" section. 
+
+optical_disk
+A storage medium from which data is read and to which it is written by lasers. Optical disks can store much more data -- up to 6 gigabytes (6 billion bytes) -- than most portable magnetic media, such as floppies. There are three basic types of optical disks:
+
+CD-ROM :Like audio CDs, CD-ROMs come with data already encoded onto them. The data is permanent and can be read any number of times, but CD-ROMs cannot be modified.
+WORM : Stands for write-once, read  -many. With a WORM disk drive, you can writedata onto a WORM disk, but only once. After that, the WORM disk behaves just like a CD-ROM.
+erasable: Optical disks that can be erased and loaded with new data, just like magnetic disks. These are often referred to as EO (erasable optical) disks.
+
+These three technologies are not compatible with one another; each requires a different type of disk drive and disk. Even within one category, there are many competing formats, although CD-ROMs are relatively standardized.
+
+
+Optical_Distribution_Frame
+A frame used to provide efficient cable connections between communication facilities. ODFs integrate fiber splicing,  storage, and cable connections together in a single unit . [Adapted from  Samsung Digital World]
+
+optical_image_stabilization
+Abbreviated as OIS, optical image stabilization is the apparatus, contained within a digital camera or other digital recording device, that compensates in real-time for shaking and vibrating while recording. Because OIS is a real-time compensation there is no alterations or image degradation to the image.
+
+optical_resolution
+The physical resolution at which a device can capture an image. The term is used most frequently in reference to optical scanners and digital cameras. In contrast, the interpolated resolution indicates the resolution that the device can yield through interpolation -- the process of generating intermediate values based on known values. For example, most scanners offer an optical resolution of 300 dpi, but an interpolated resolution of up to 4,800 dpi. This means that the scanner can actually capture 90,000 pixels per square inch. Then, based on the values of these pixels, it can add 15 additional pixels in-between each pair of known values to yield a higher resolution. 
+
+optical_scanner
+A device that can read text or illustrations printed on paper and translate the information into a form the computer can use. A scanner works by digitizing an image -- dividing it into a grid of boxes and representing each box with either a zero or a one, depending on whether the box is filled in. (For color and gray scaling, the same principle applies, but each box is then represented by up to 24 bits.) The resulting matrix of bits, called a bit map, can then be stored in a file, displayed on a screen, and manipulated by programs.
+Optical scanners do not distinguish text from illustrations; they represent all images as bit maps. Therefore, you cannot directly edit text that has been scanned. To edit text read by an optical scanner, you need an optical character recognition  (OCR  ) system to translate the image into ASCII characters. Most optical scanners sold today come with OCRpackages.
+Scanners differ from one another in the following respects:
+
+Optical_Time_Domain_Reflectometer
+See OTDR.
+
+optical_viewfinder
+On a digital camera optical viewfinder is the eyepiece that you look through to frame and focus your subject before taking the picture. Because the optical viewfinder and your camera lens are not positioned the same way (e.g. the viewfinder is located above the camera lens), you may notice your final image is not an exact duplicate of what you saw through the optical viewfinder. If the digital camera has an LCD you can also use this to focus and frame the subject.
+
+optical_zoom
+On a digital camera, optical zoom is a true zoom feature. It allows you to zoom in (or out) on the subject in the LCD or viewfinder. This will enable you to get a closer view of the subject before taking your picture. Optical zoom changes the magnification of images with the actual optical glass before the images reach the imaging sensor. Optical zoom allows for better photo quality than digital zoom.  See also optical resolution. Contrast with digital zoom.
+
+optimize
+(1) In programming, to fine-tune a program so that it runs more quickly or takes up less space.  (2) When applied to disks, the term means the same as defragment. See under fragmentation.  (3) To configure a device or application so that it performs better. 
+
+option
+(1) In command-driven interfaces, an option is an addition to a command that changes or refines the command in a specified manner. As the term implies, options are just that -- they are not required.  In the DOS operating system, options are preceded by a slash (/). For example the DIR command supports the /P option, which causes the system to pause between screenfuls of data. Other operating systems and applications have different rules for specifying options.  Other words for option are switch and parameter.  (2) In graphical user interfaces, an option is a choice in a menu or dialog box. 
+
+Option_key
+A key on Macintosh keyboards that you use in concert with other keys to generate special characters and commands. On PCs, the corresponding key is the Alt key. 
+
+optoelectronics
+A field of technology that combines the physics of light with electricity. Optoelectronics encompasses the study, design and manufacture of hardware devices that convert electrical signals into photon signals and vice versa. Any device that operates as an electrical-to-optical or optical-to-electrical transducer is considered an optoelectronic device.  Optoelectronic technologies include fiber optic communications, laser systems, electric eyes, remote sensing systems, medical diagnostic systems and optical information systems.
+
+OR_operator
+A Boolean operator that returns a value of TRUE if either (or both) of its operands is TRUE. This is called an inclusive OR operator. There is also an exclusive OR  operator (often abbreviated XOR) that returns a value of TRUE only if just one of the operands is TRUE.  
+
+Oracle
+Based in Redwood, California, Oracle Corporation is the largest software company whose primary business is database products. Historically, Oracle has targeted high-end workstations and minicomputers as the server platforms to run its database systems. Its relational database was the first to support the SQL language, which has since become the industry standard.
+Along with Sun Microsystems, Oracle has been one of the leading champions of network computers.
+
+
+Oracle_OCP_DBA
+The Oracle Certified Professional (OCA / OCP) Database Administrator (DBA)  certification is designed to reflect proficiency in Oracle database  architecture, installation, administration, performance tuning and  troubleshooting. A series of exams revolving around Oracle Database 11g must be  passed in order to attain the current Oracle OCP DBA certification. 
+For the Oracle Certified Associate (OCA) certification students must take  and pass the Oracle Database 11g: SQL Fundamentals (1Z0-051) and Oracle Database  11g: Administration I (1Z0-052) exams, and for the Oracle Certified Professional  (OCA) certification students must additionally pass the Oracle Database 11g:  Administration II (1Z0-053) exam.
+See also the  list  of Computer Certifications in Webopedia's  Quick Reference section.
+
+Orange_Book
+The specification covering writable CDs, including CD-R.  
+
+ORB
+Short for Object Request Broker, a component in the CORBA programming model that acts as the middleware between clients and servers. In the CORBA model, a client can request a service without knowing anything about what servers are attached to the network. The various ORBs receive the requests, forward them to the appropriate servers, and then hand the results back to the client.   
+
+organic_seo
+Organic SEO (search engine optimization) is the phrase used to describe processes to obtain a natural placement on organic search engine results pages (SERPs).
+Some examples of techniques used for organic SEO include using keywords and keyword analysis, backlinking, link building to improve link popularity, and writing content relevant for human readers.
+
+
+orientation
+)See under landscape and portrait.  
+
+ORM
+Short for object role modeling, a conceptual database design methodology that allows the user to express information as an object and explore how it relates to other information objects.
+
+orphan
+In word processing, an orphan is the first line of a paragraph that appears as the last line of a page, or the last line of a paragraph that appears as the first line of a page (this is sometimes called a widow). Orphans are considered bad form in page layout, so most word processors allow you to avoid them.  Also see orphan file.  
+
+orphan_file
+A file that no longer has a purpose. For example, when you uninstall an application, a few files that make up the application, or were generated by the application, may remain on your hard disk. These are orphan files since they serve no purpose without the application. In general, you can delete orphan files, but you should make sure that they truly are orphans because some files, especially DLLs, may be used by more than one application. 
+
+operating_system
+The operating system is the most important program that runs on a computer. Every general-purpose computer must have an operating system to run other programs and applications. Operating systems perform basic tasks, such as recognizing input from the keyboard, sending output to the display screen, keeping track of files and directories on the disk, and controlling peripheral devices such as disk drives and printers.
+For large systems, the operating system has even greater responsibilities and powers. It is like a traffic cop -- it makes sure that different programs and users running at the same time do not interfere with each other. The operating system is also responsible for security, ensuring that unauthorized users do not access the system.
+
+
+os-x-el-capitan
+OS X El Capitan is version 10.11 of Apple Computer's Mac OS X operating system for Macintosh desktop, laptop and server computers, and serves as the successor to OS X Yosemite. OS X El Capitan was introduced at Apple's 2014 Worldwide Developers Conference (WWDC) in early June 2015 along with iOS 9, with official availability for both operating systems expected in the fall.
+El Capitan is the twelfth update for Mac OS X, following earlier updates for the operating system: Cheetah (v10.0), Puma (v10.1), Jaguar (v10.2), Panther (v10.3), Tiger (v10.4), Leopard (v10.5), Snow Leopard (v10.6), Lion (v10.7), Mountain Lion (v10.8), Mavericks (v10.9) and Yosemite (v10.10).
+Starting with the Mavericks release, Apple dropped the big cat-based nomenclature of OS X releases and launched a new series of names based on locations in Apple's home state of California. OS X El Capitan is named for a well-known vertical granite rock formation found within the Yosemite National Park.
+
+os-x-yosemite
+OS X Yosemite is version 10.10 of Apple Computer's Mac OS X operating system for Macintosh desktop, laptop and server computers. OS X Yosemite was introduced at Apple's 2014 Worldwide Developers Conference (WWDC) in early June 2014 along with iOS 8, with official availability for both operating systems expected in the fall.
+Yosemite is the eleventh update for Mac OS X, following earlier updates for the operating system: Cheetah (v10.0), Puma (v10.1), Jaguar (v10.2), Panther (v10.3), Tiger (v10.4), Leopard (v10.5), Snow Leopard (v10.6), Lion (v10.7), Mountain Lion (v10.8), and Mavericks (v10.9).
+Starting with the Mavericks release, Apple dropped the big cat-based nomenclature of OS X releases and launched a new series of names based on locations in Apple's home state of California. OS X Yosemite takes its name from the national park in the eastern part of the state that is a popular destination for its beautiful waterfalls and granite cliffs.
+
+OS_2
+An operating system for PCs developed originally by Microsoft Corporation and IBM, but sold and managed solely by IBM. OS/2 is compatible with DOS and Windows, which means that it can run all DOS and Windows programs. However, programs written specifically to run under OS/2 will not run under DOS or Windows.  Since its introduction in the late 80s, OS/2 has traveled a particularly rocky road. The first releases were hampered by a number of technical and marketing problems. Then Microsoft abandoned the project in favor of its own operating system solution, Microsoft Windows. That break spawned a feud between the two computer giants that is still being played out in many arenas. 
+
+OS_400
+OS/400 is the operating system IBM uses for their AS/400 (now called iSeries) computers. OS/400 incorporates support for IBM's Linux implementation, Windows, and ported UNIX applications through OS/400 PASE, and OS/400 applications.
+
+OS_9
+A real-time, multi-user, multitasking operating system developed by Microware Systems Corporation. Originally, OS-9 was a joint effort between Microware and Motorola. In the 1980's, Microware ported OS-9 to the Motorola 680x0 family of microprocessors, creating OS-9/68000, which is used in a variety of industrial and commercial arenas, including Philips' CD-I and, most recently, WebTV boxes. 
+
+Osborne_Effect
+The term used to describe a negative outcome from a company prematurely releasing information about future products and impacting sales of their current products. The Osborne Effect is normally seen when the company misjudges the timing for announcing the future products.
+The phrase "Osborne Effect" is derived from the late 80's when a company called Osborne Computer Corp. introduced the first popular portable computer. Osborne made the mistake of pre-announcing a successor machine months before it could be delivered and sales of its existing line dried up sending the company into a tailspin it never recovered from.
+See also "Google laughs off the Osborne Effect" on  InternetNews.com Blogs.
+
+oscillator_clock
+A circuit within a computer that creates a series of pulses that pace the computer's electronic system. The oscillator clock synchronizes, paces and coordinates the operations of the computer's circuit.
+
+OSD
+Abbreviated as OSD, an Object-Based Storage Device is a device that implements the  standard in which data is organized and accessed as  objects, where object means an ordered set of bytes (within the OSD) that is associated with a unique identifier. Objects are allocated and placed on the media by the OSD logical unit. With an OSD interface, metadata is associated directly with each data object and can be carried between layers and across storage device  files and records are no longer abstractions, but actual storage objects that are understood, managed and secured at the device level.The Object-Based Storage Device (OSD) interface, an extension to the SCSI protocol that was developed by the Storage Networking Industry Association (SNIA).
+
+OSF
+An international consortium of computer and software manufacturers and users dedicated to advancing multi-vendor technologies. The Open Group was formed in February, 1996 by merging two previously independent groups - the Open Software Foundation (OSF) and X/Open Company Ltd. One of the most important technologies fostered by The Open Group is DCE.   
+
+OSI
+(1) (pronounced as separate letters) Short for Open System Interconnection, an ISO standard for worldwide communications that defines a networking framework for implementing protocols in seven layers. Control is passed from one layer to the next, starting at the application layer in one station, proceeding to the bottom layer, over the channel to the next station and back up the hierarchy.
+Recommended Reading: The 7 Layers of the OSI Model
+At one time, most vendors agreed to support OSI in one form or another, but OSI was too loosely defined and proprietary standards were too entrenched. Except for the OSI-compliant X.400 and X.500 e-mail and directory standards, which are widely used, what was once thought to become the universal communications standard now serves as the teaching model for all other protocols.
+
+Oslo
+First announced by Robert Wahbe, corporate vice president of the Connected Systems Division in October 2007 at Microsoft's Professional Developer Conference (PDC), Oslo is the codename for Microsoft's forthcoming modeling platform. Oslo is designed to make it easier to build apps using models and to break down silos of application development. Oslo will be available as an add-on to Microsoft's Visual Studio development toolkit while it's under development, although it may be spun off as a stand alone product later. Currently, Oslo consists of the following;  A tool that helps people define and interact with models in a rich and visual manner  A language that helps people create and use textual domain-specific languages and data models  A relational repository that makes models available to both tools and platform components  See also "Get Ready for Microsoft's 'Oslo' Modeling Tool" on internetnews.com.
+
+OSP
+Abbreviated as OSP, an online service provider is a generic term that describes any company, organization or group that provides an online service. These types of services may include Web sites, discussion forums,  chat rooms, or Web mail. OSPs may also refer to a company that provides dial-up access to the Internet.
+
+OSPF
+Short for Open Shortest Path First, an interior gateway routing protocol developed for IP networks based on the shortest path first or link-state algorithm.
+Routers use link-state algorithms to send routing information to all nodes in an internetwork by calculating the shortest path to each node based on a topography of the Internet constructed by each node. Each router sends that portion of the routing table (keeps track of routes to particular network destinations) that describes the state of its own links, and it also sends the complete routing structure (topography).
+The advantage of shortest path first algorithms is that they results in smaller more frequent updates everywhere. They converge quickly, thus preventing such problems as routing loops and Count-to-Infinity (when routers continuously increment the hop count to a particular network). This makes for a stable network.
+
+OSR_2
+Short for OEM Service Release 2, a new version of Windows 95 released at the end of 1996. Also called Windows 95b, OSR 2 provides a number of new features and bug fixes. Probably the most important new feature is FAT32, a new version of the file allocation table. FAT32 supports disk drives up to 2 terabytes and yields better storage efficiency due to smaller clusters.  OSR 2 is only available bundled in new computers. You cannot obtain it as an upgrade to older versions of Windows 95.  
+
+OSS
+Short for operational support system, a generic term for a suite of programs that enable an enterprise to monitor, analyze and manage a network system. The term originally was applied to communications service providers, referring to a management system that controlled telephone and computer networks. The term has since been applied to the business world in general to mean a system that supports an organization��s network operations.
+
+offline_storage_table_ost
+An OST file, or offline storage table (.ost) file, is an offline Outlook Data File used by Microsoft Exchange Server that enables users to work with their messages and mail data even when access to the mail server isn't available. OST files are used in two scenarios: with Microsoft Exchange Server’s Cached Exchange Mode and with the Outlook Connector for Windows Live Hotmail when accessing Hotmail mail.  While a Microsoft Exchange Server user’s e-mails and other data items are normally saved directly on the mail server, OST files are an available option that enable a local copy of all the data to be stored on the user’s computer. These items are then automatically synched when access to the mail server is restored.
+
+
+OSVDB
+Short for Open Source Vulnerability Database, OSVDB is an independent community-driven open source database. The project promotes greater, open collaboration between companies and individuals, eliminates redundant works, and reduce expenses inherent with the development and maintenance of in-house vulnerability databases. The project was started in August 2002 at the Blackhat and DEF CON Conferences by industry notables. The database officially launched for public use on March 31, 2004.
+
+OTcl
+Short for MIT Object Tcl, OTcl is an extension to Tcl/Tk for object-oriented programming. OTcl was created by David Wetherall as part of the VUsystem project at MIT.
+
+OTDR
+Short for Optical Time Domain Reflectometer, an instrument that analyzes the light loss in an optical fiber in optical network trouble shooting. An OTDR injects a short, intense laser pulse into the optical fiber and measures the backscatter and reflection of light as a function of time. The reflected light characteristics are analyzed to determine the location of any fiber optic breaks or splice losses.
+
+OUI
+Short for Organizational Unique Identifier, the first 24 bits of a MAC address for a network-connected device, which indicate the specific vendor for that device. The IEEE assigns OUIs to vendors. (The last 24 bits of the MAC address are the device��s unique serial number, assigned to the device by the manufacturer.)  The OUI sometimes is referred to as the Vendor ID.
+
+out_point
+In video editing an out-point is a term used to describe the end point of an edit.Contrast with in-point
+
+outbound_call_center
+A type of call center that is designed to send a large volume of requests -- or outbound calls --  to customers by telephone. Outbound call centers typically handle telephone communications for sales, account upgrades, subscription offers, telephone marketing and debt collection.
+See Webopedia's definition of call center for more information on this term.
+
+outline_font
+A scalable font in which the outlines of each character are geometrically defined. The most popular languages for defining outline fonts are PostScript  and TrueType.  An outline font is scalable because, given a geometrical description of a typeface, a printer or other display device can generate the characters at any size (scale). Aside from offering innumerable sizes of each font, outline fonts have the added advantage that they make the most of an output device 's resolution. The more resolution a printer or monitor offers, the better an outline font will look.   
+
+Outline_Processor_Markup_Language
+Outline Processor Markup Language (OPML) is an XML-based format that allows exchange of outline-structured information between applications running on different operating systems and environments. The purpose of this format is to provide a way to exchange information between outliners (programs that allow you to read, edit and reorganize outlines) and Internet services that can be browsed or controlled through an outliner.
+
+output
+(n.) Anything that comes out of a computer. Output can be meaningful information or gibberish, and it can appear in a variety of forms -- as binary numbers, as characters, as pictures, and as printed pages. Output devices include display screens, loudspeakers, and printers.
+(v.)To give out. For example, display screens output images, printers output print, and loudspeakers output sounds.
+
+
+output_device
+Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers.
+
+
+outsource
+(v.) To seek resources outside of an organizational structure, usually to save money and/or exploit the skills of another entity. Typically used in terms of the business world, outsourcing often entails an enterprise using another company, such as a consultancy or application service provider, to provide a service that the enterprise can provide for itself, yet it is cheaper to utilize a third party resources. For example, an enterprise might outsource its IT management because it is cheaper to contract a third-party to do so than it would be to build its own in-house IT management team. Or a company might outsource all of its data storage needs because it does not want to buy and maintain its own data storage devices. Or, a business might outsource its human resources tasks to a third-party instead of having its own dedicated human resources staff.
+
+OVAL
+Acronym for Open Vulnerability and Assessment Language. OVAL is an XML-based language that provides a standard for how to check for the presence of vulnerabilities and configuration issues on computer systems. OVAL standardizes the three main steps of the process: collecting system characteristics and configuration information from systems for testing; testing the systems for the presence of specific vulnerabilities, configuration issues, and/or patches; and presenting the results of the tests.  Each OVAL vulnerability definition is based primarily on Common Vulnerabilities and Exposures (CVE), a dictionary-type list of standardized names for vulnerabilities and other information related to security exposures.
+
+overburning
+The process of writing more audio or data than the official capacity limit on a compact disc. Overburning a CD depends on the type of media, the software and writer being used. Also called oversizing.  See also burn.
+
+overclock
+To run a microprocessor faster than the speed for which it has been tested and approved. Overclocking is a popular technique for eking out a little more performance from a system. In many cases, you can force your CPU to run faster than it was intended simply by setting a jumper on the motherboard. Overclocking does come with some risks, however, such as over-heating, so you should become familiar with all the pros and cons before you attempt it.  Overclocking is sometimes called speed margining. 
+
+OverDrive
+A user -installable microprocessor from Intel for the 486 microprocessor. Many PCs 486-based PCs are built with an OverDrive socket, which allows the owner to upgrade to a faster microprocessor simply by inserting an OverDrive chip.  
+
+overexposure
+In traditional photography, overexposure is a term used to describe the process of exposing film to too much light, which results in the photograph being too bright. In digital photography, where there is no film, overexposure refers to a white-looking or washed-out image (overexposed image). This generally happens when a digital photo or  video was shot with too much light on the subject. If you're shooting with the wrong camera settings, the result can also be overexposed images.
+
+overflow_error
+An error that occurs when the computer attempts to handle a number that is too large for it. Every computer has a well-defined range of values that it can represent. If during execution of a program it arrives at a number outside this range, it will experience an overflow error. Overflow errors are sometimes referred to as overflow conditions.   
+
+overhead
+Use of computer resources for performing a specific feature. Typically, the term is used to describe a function that is optional, or an enhancement to an existing application. For example, maintaining an audit trail might result in 10% overhead, meaning that the program will run 10% slower when the audit trail is turned on. Programmers often need to weigh the overhead of new features before implementing them. 
+
+overlaid_windows
+Windows arranged so that they overlap each other. Overlaid windows resemble a stack of pieces of paper lying on top of one another; only the topmost window is displayed in full. You can move a window to the top or bottom of the stack by clicking one of the mouse buttons. This is known as popping or pushing, respectively.  Overlaid windows are also called cascading windows. Windows that do not overlap are called tiled windows.  
+
+overloading
+(1) In programming languages, a feature that allows an object to have different meanings depending on its context. The term is used most often in reference to operators that can behave differently depending on the data type, or class, of the operands. For example, x+y can mean different things depending on whether x and y are simple integers or complex data structures.  Not all programming languages support overloading but it is a feature of most object-oriented languages, including C++ and Java. Overloading is one type of polymorphism. (2) Another name for port address translation.
+
+overscan
+In film and television terminology, overscan represents the extra information on all four sides of am image that is normally not seen by the viewer. Overscan was more of an issue before the 1970s when the video images were framed inside a CRT.
+
+overstrike
+(v.) To print one character directly on top of another. In older printers, this was one way to create unusual characters or bold characters, but it is not necessary with modern printers. 
+
+overwrite
+(v.) To record or copy new data over existing data, as in when a file or directory is updated. Data that is overwritten cannot be retrieved.  (n.) Refers to a file or directory that has been overwritten.  Also see overwrite mode.
+
+overwrite_mode
+Most word processors and text editors allow you to choose between two modes: overwrite and insert. In overwrite mode, every character you type is displayed at the cursor position. If a character is already at that position, it is replaced. In insert mode, each character you type is inserted at the cursor position. This means that existing characters are moved over to make room for the new character, but they are not replaced.  Overwrite mode is sometimes called overtype mode.    
+
+overwriting_virus
+A type of computer virus that will copy its own code over the host computer system's file data, which destroys the original  program. After your computer system has been cleaned using an antivirus program, users will need to install the original program again.
+See  The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia.  Also see  Preventative Maintenance Tips for Your PC in the Did You Know? section of Webopedia. 
+
+OVF
+Short for Open Virtualization Format, OVF is an open and secure platform format for the packaging and distribution of virtual machines. Key features of OVF include optimized distribution for more efficient package transfers, simple installation, supports for both single and multi virtual machine configurations, portable VM packaging, and localization support. The Open Virtualization Format (OVF) Specification is a DMTF initiative.
+
+OWASP
+Short for Open Web Application Security Project, an open source community project set up to develop software tools and knowledge-based documentation for Web application security. Some of the project��s work includes: A guide to define security requirements to build secure Web applications. Developing an industry standard testing framework for Web application security. VulnXML - A standard data exhange format to allow commercial, open source and research tools to communicate and interoperate. Web Scarab - An open source enterprise-level Web application scanner. Developing a component-based approach to filtering malicious input and output to a Web application. Web Maven - An intentionally insecure Internet bank users can download and learn from.  All of the project��s software and documentation is released under the GNU GPL, and the project is staffed entirely of volunteers.
+
+OWL
+See  Ontology Web Language.
+
+Ontology_Web_Language
+The Ontology Web Language (OWL) is a set of markup languages which are designed for use by applications that need to process the content of information instead of just presenting information to humans.
+The OWL ontology describe the hierarchical organization of ideas in a domain, in a way that can be parsed and understood by software. OWL has more facilities for expressing meaning and semantics than XML, RDF, and RDF-S, and thus OWL goes beyond these languages in its ability to represent machine interpretable content on the Web.
+OWL is part of the W3C recommendations related to the Semantic Web.
+
+OWL_S
+Short for Ontology Web Language for Services. Also see related term Ontology Web Language.
+

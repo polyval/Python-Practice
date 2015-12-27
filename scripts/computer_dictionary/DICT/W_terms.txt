@@ -1,0 +1,1126 @@
+microsoft_windows_8
+Windows 8 is the official codename for Microsoft's next generation operating system and successor to the company's Windows 7 OS.  Currently available for download in a final "preview release" that went live on May 31st, 2012, Windows 8 is expected to be launched in late 2012 under a different moniker, as Microsoft wants to emphasize to consumers and businesses that the new OS is more of a revolutionary upgrade from Windows 7 rather than simply an evolutionary release.
+Windows 8 has been gaining considerable attention while in development for its "Metro" user interface, which is a significant departure from the traditional desktop interface featured in previous Windows releases.   Microsoft is seeking to implement the Metro interface across a large variety of devices, including mobile smartphones, tablet computers, laptops and desktop PCs, although it remains to be seen how the predominantly touch-based interface will be received by desktop PC customers used to a more traditional mouse-and-keyboard-based interface.
+
+Windows_XP
+Windows XP is an operating system introduced in 2001 from Microsoft's Windows family of operating systems, the previous version of Windows being Windows Me. The "XP" in Windows XP stands for eXPerience.
+Microsoft called the XP release its most important product since Windows 95. Along with a redesigned look and feel to the user interface, the new operating system was built on the Windows 2000 kernel, giving users a more stable and reliable environment than previous versions of Windows.
+
+
+Windows XP in the News
+Webopedia Blog: Windows XP: Move Along, Nothing to See HereGovernment computers running Windows XP will be vulnerable to hackersMicrosoft to Issue Anti-Malware Signatures After Windows XP Support CutoffWindows XP: The End Is Near95 Percent of the ATMs in the World Still Run Windows XPWindows XP Security Issues: Fact Vs. Fiction
+
+
+W3
+Acronym for World Wide Web.
+
+W3C
+Short for World Wide Web Consortium, an international consortium of companies involved with the Internet and the Web. The W3C was founded in 1994 by Tim Berners-Lee, the original architect of the World Wide Web. The organization's purpose is to develop open standards so that the Web evolves in a single direction rather than being splintered among competing factions.
+
+WAAS
+Cisco Wide Area Application Services (WAAS) consists of a GUI and a set of system devices called  wide-area application engines (WAE) that work together to optimize TCP traffic over your network. When client and server applications attempt to communicate with each other, the network intercepts and redirects this traffic to the WAEs so that they can act on behalf of the client application and the destination server. The WAAS GUI is used to centrally configure and monitor the WAEs and application policies in your network.
+
+waas-workspace-as-a-service
+Workspace-as-a-Service, or WaaS, is a form of desktop virtualization that companies utilize to provide their employees with access to business applications and data from anywhere at any time using the employee's device of a choice.
+With workspace-as-a-service solutions, employees can log in to the WaaS provider's service and be provided with a virtual workspace desktop environment that appears and operates like their actual physical office desktop. In this manner, WaaS solutions enable employees to be more productive and capable of accessing critical applications and data regardless of their geographic location.
+How WaaS Complements BYOD and BYOA
+Workspace-as-a-Service solutions can typically be accessed by a variety of means, including desktop computers, laptops, tablets and smartphones. WaaS services complement corporate strategies for Bring Your Own Device (BYOD), Bring Your Own Apps (BYOA) and even Bring Your Own Cloud (BYOC), while helping to minimize potential security risks to the enterprise by ensuring security policies and best practices are implemented and followed.
+
+WADS
+Abbreviated as WADS, wide area data services (or WDS) is a superset of smaller market segments that include WAN optimization, WAFS (wide-area file services), and application acceleration. Wide area data services enable the consolidation of file servers from remote sites to the data center without compromising end user performance and also enable the acceleration of file system-based distributed applications.
+
+wafer
+A thin, round slice of semiconductor material, typically silicon, from which microchips are made. Silicon is processed into large cylindrical ingots, sliced into ultra-thin wafers and then implanted with transistors before being cut into smaller semiconductor chips.
+
+WAI
+Pronounced way. Short for the Web Accessibility Initiative, an initiative of the World Wide Web Consortium launched in 1997 to ensure that as the Internet grows in usage Web sites are designed to accommodate people with disabilities.  Web design can present barriers to people with disabilities, especially people with sensory or neurological disabilities. The WAI was implemented to ensure that Web site design addresses the needs of people with these disabilities. The following are examples of the accommodations that Web designers need to consider in order to be compliant with the WAI's guidelines. visual disabilities -- people with visual disabilities can have trouble reading text and visual clues on a Web site. Blind users cannot rely on visual stimulation on a Web site. hearing disabilities -- people with hearing disabilities are at a disadvantage on Web sites that do not offer captions for audio or that rely on sounds to navigate the site. physical disabilities -- people with physical disabilities can have trouble navigating sites that do not offer keyboard or single-switch support for menu commands (i.e., sites that rely on navigation via mouse). People with physical disabilities can also be at a disadvantage in virtual reality, gesture recognition or haptic environments that rely on physical movement for interfacing. neurological disabilities -- people with neurological disabilities can be at a disadvantage on sites that are complex to understand, do not have a consistent navigation structure, have a complex presentation of language or have flashing/strobing images and designs.   The WAI has five levels of concern in Web design: technology -- ensuring that current and developing Web technologies support accessibility. guidelines -- developing guidelines for accessibility that web designers can follow. tools -- developing tools that can evaluate the level of accessibility of a site. education -- conducting education and outreach so that web designers and others will understand the need for continued and expanded accessibility. As the Web expands, the growth must address accessibility. research and development -- coordinating with researchers and developers to ensure that accessibility is built into the technology instead of developing accessibility once a technology has been implemented.
+
+WAIS
+Short for Wide Area Information Server, and pronounced ways, a program for finding documents on the Internet. WAIS is rather primitive in its search capabilities. 
+
+wait_state
+A time-out period during which a CPU or bus lies idle. Wait states are sometimes required because different components function at different clock speeds. For example, if the CPU is much faster than the memory chips, it may need to sit idle during some clock cycles so that the memory chips can catch up. Likewise, buses sometimes require wait states if expansion boards run slower than the bus.  A zero wait state system is one in which the microprocessor runs at the maximum speed without any time-outs to compensate for slow memory. Wait states can be avoided by using a variety of techniques, including page-mode memory, interleaved memory, a burst mode, and memory caches. 
+
+Wake_on_LAN
+WOL is short for Wake-on-LAN.
+Often, IT personnel prefer to maintain client systems after employees have gone home. Even if these tasks are automated, client machines must be left on. In the past, if they weren't left on, personnel had to manually turn them on. Using wake-on-LAN, however, enables client systems to be remotely and automatically powered up.
+Wake-on-LAN technology resides in a PC's managed network adapter and motherboard. The two are attached via a wake-on-LAN cable terminated by a 3-pin connector on each side.
+
+Walkman_phone
+The name given to a new set of Sony Ericsson GSM mobile phones that integrates a music player into the  cellphone. Sony was the company that also introduced the first walkman that used cassette tapes. There are also walkman camera phones that combine a cellphone with a music player and also integrates a digital camera.
+
+wallboard
+A contact center wallboard (also called an enterprise wallboard) is a visual communication tool used to display real time information related to contact center performance. In the contact center a wallboard can be configured to display timely data related to ticketing systems, ERP, Web content, videos and other information.
+Accessing Enterprise Wallboards
+Wallboard software can be configured to display on the agent's desktop, accessed via the Web on mobile devices or on a large plasma display in the contact center. Wallboard software is typically managed by the IT department working with the contact center manager to ensure the most useful data is being shown at all times.
+Wallboard Software Configuration
+The data displayed on the wallboard is customized to contact center agents, supervisors or managers. Configuration and display is usually team or group based. For example, a manager's wallboard will display real-time data that is different from the data being shown on the screen to service desk agents. In some cases the wallboard data is color-coded for different agents and contact center teams.
+
+walled_garden
+On the Internet, a walled garden refers to a browsing environment that controls the information and Web sites the user is able to access. This is a popular method used by ISPs in order to keep the user navigating only specific areas of the Web, whether for the purpose of shielding users from information -- such as restricting children's access to pornography -- or directing users to paid content that the ISP supports. America Online is a good example of an ISP that places users in a walled garden.  Schools are increasingly using the walled garden approach in creating browsing environments in their networks. Students have access to only limited Web sites, and teachers need a password in order to leave the walled garden and browse the Internet in its entirety.  The term walled garden also commonly refers to the content that wireless devices such as mobile phones have access to if the content provided by the wireless carrier is limited.
+
+wallpaper
+On computers that use a desktop GUI, wallpaper is the monitor pattern or picture or other graphic representation that forms the background onto which all the icons, menus and other elements of the operating system are displayed and moved around. An operating system will typically come with pre-installed images to set as the wallpaper and will also allow users to install their own images to be used as the wallpaper. The wallpaper always stays in the background, and all work is done on top of the wallpaper.
+
+WAMBAM
+Acronym for Web Application Meets Brick And Mortar.The acronym WAMBAM is used to describe the online endeavors of traditional brick-and-mortar stores.
+
+WAMP
+Acronym for Windows/Apache/MySQL/PHP, Python, (and/or) PERL
+The acronym WAMP refers to a set of free (open source) applications, combined with Microsoft Windows, which are commonly used in Web server environments. The WAMP stack provides developers with the four key elements of a Web server:  an operating system, database, Web server and Web scripting software. The combined usage of these programs is called a server stack. In this stack, Microsoft Windows is the operating system (OS), Apache is the Web server, MySQL handles the database components, while PHP, Python, or PERL represents the dynamic scripting languages.
+
+wide_area_network_WAN
+A computer  network that spans a relatively large geographical area. Typically, a WAN consists of two or more local-area networks (LANs).
+Computers connected to a wide-area network are often connected through public networks, such as the telephone system. They can also be connected through leased lines or satellites. The largest WAN in existence is the Internet.
+ 
+
+WAN
+Short for wide-area network.
+
+WAN_optimization
+A phrase used to describe applications and products used to manage and accelerate the flow of data across a wide-area network (WAN). Some of the specific technologies used in WAN optimization include deduplication, data compression techniques, caching, VPN tunnelingand other technologies.
+An ideal WAN optimization solution will allow you to prioritize traffic, and guarantee a certain amount of available bandwidth for mission critical applications. Complete WAN optimization solutions allow a business to do much more than simply queue the bad traffic. They can block unwanted (in and outbound) traffic, allow it at certain time during the day, give priority to certain hosts, and enforce many other related policies. They will optimize the actual traffic as well, providing lower latency and higher throughput for the most critical applications.   See  WAN Optimization 101: Know Your Options on  Enterprise Networking Planet to learn more about WAN optimization.
+
+WAP
+Short for the Wireless Application Protocol, a secure specification that allows users to access information instantly via handheld wireless devicessuch as mobile phones, pagers, two-way radios, smartphones and communicators.
+WAP supports most wireless networks. These include CDPD, CDMA, GSM, PDC, PHS, TDMA, FLEX, ReFLEX, iDEN, TETRA, DECT, DataTAC, and Mobitex.
+WAP is supported by all operating systems. Ones specifically engineered for handheld devices include PalmOS, EPOC, Windows CE, FLEXOS, OS/9, and JavaOS.
+
+WAP_gateway
+WAP gateway is a software system that helps WAP-enabled wireless devices to communicate to Internet Web sites and  applications. Web sites deliver pages in special format called Wireless Markup Language (WML) that is compiled and forwarded by the WAP gateway. In order to access Internet resources from a WAP-enabled wireless device you need a WAP gateway service. [Source: Waptunnel]
+
+Waptunnel
+Waptunnel provides a free public WAP gateway service that works with all compatible WAP browsers. Waptunnel allows WAP-enabled wireless devices to communicate to Internet Web sites and  applications. [Source: Waptunnel]
+
+War_FTP_Daemon
+A free FTP server, written by Jarle (jgaa) Aase of Norway, that was first released in 1996. War FTP Daemon is designed to transfer files to and from the server, according to the users requirements. War FTP Daemon is available for Windows 98, ME, NT 4, 2000, XP, 2003 server and Terminal Server.
+
+warchalking
+The act of making chalk marks on outdoor surfaces (walls, sidewalks, buildings, sign posts, trees) to indicate the existence of an open wireless network connection, usually offering an Internet connection so that others can benefit from the free wireless access. The open connections typically come from the access points of wireless networks located within buildings to serve enterprises. The chalk symbols indicate the type of access point that is available at that specific spot.  There are three basic designs that are currently used: a pair of back-to-back semicircles, which denotes an open node; a closed circle, which denotes a closed node; a closed circle with a "W" inside, which denotes a node equipped with WEP. Warchalkers also draw identifiers above the symbols to indicate the password that can be used to access the node, which can easily be obtained with sniffer software.  As a recent development, the debate over the legality of warchalking is still going on.  The practice stems from the U.S. Depression-era culture of wandering hobos who would make marks outside of homes to indicate to other wanderers whether the home was receptive to drifters or was inhospitable.
+
+wardriving
+The act of driving around in a vehicle with a laptop computer, an antenna, and an 802.11 wireless LAN adapter to exploit existing wireless networks. Set on promiscuous mode, the wireless adapter, typically a NIC, will receive packets within its range. Wardriving exploits wireless networks that have ranges that extend outside the perimeter of buildings in order to gain free internet access or illegal access to an organization��s data. One safeguard against wardriving is using the WPA encryption standard.
+
+warez
+Pronounced wayrz or wayrss. Commercial software that has been pirated and made available to the public via a BBS or the Internet. Typically, the pirate has figured out a way to de-activate the copy-protection or registration scheme used by the software. Note that the use and distribution of warez software is illegal. In contrast, shareware and freeware may be freely copied and distributed. 
+
+warm_boot
+Refers to restarting a computer that is already turned on via the operating system. Restarting it returns the computer to its initial state. A warm boot is sometimes necessary when a program encounters an error from which it cannot recover. On PCs, you can perform a warm boot by pressing the Control, Alt, and Delete keys simultaneously. On Macs, you can perform a warm boot by pressing the Restart button.
+Also called a soft boot.
+Contrast with cold boot, turning a computer on from an off position.
+
+warm_colors
+The phrase used to describe any color that is vivid or bold in nature. Warm colors are those that tend to advance in space and can be overwhelming. Examples of warm colors include red and orange (think exciting fire and volcanoes).  Contrast with cool colors. See "The Science of Color" in the Did You Know... section of Webopedia. See also Webopedia's  Digital Camera Quick Reference.
+
+warm_standby
+(w��rm stand´bī) (n.) A method of redundancy in which the secondary (i.e., backup) system runs in the background of the primary system. Data is mirrored to the secondary server at regular intervals, which means that there are times when both servers do not contain the exact same data.  Also see hot standby and cold standby.
+
+warm_up_time
+In computers, systems and electronics the warm-up time is the amount of time that a device or system requires to go from a cold start to operating temperature. Warm-up time is usually measured in seconds or minutes.
+
+WASP
+(1) Short for wireless application service provider.  (2) Short for Web Standards Project.
+
+watchdog
+A watchdog is a device used to protect a system from specific software or hardware failures that may cause the system to stop responding. The application is first registered with the watchdog device. Once the watchdog is running on your system the  application must periodically send information to the watchdog device. If the device doesn't receive this signal within the set period of time it would execute the proper keystrokes to reboot the machine or restart the application. Watchdog services are also available for Internet Web sites. In these instances the watchdog may be set to monitor your own Web site by attempting to access it from several different city or country locations at regular intervals. You could then view an online report of the connectivity or have the watchdog system e-mail you should it become inaccessible.Some Web sites also offer readers a watchdog service where they receive instant e-mail notification when the Web site offering the service has been updated.
+
+Water
+A language optimized for prototyping XML Web services. Water is a Web services Object Oriented platform that uses the ConciseXML syntax. The Water runtime can be deployed in any or all tiers of a standard Java environment; running as an applet, servlet, or stand-alone application. The Water language specification is openly documented and a free runtime is available for commercial (and non-commercial) use. It was developed by Mike Plusch and Christopher Fry.
+
+watermarking
+Also referred to as simply watermarking, a pattern of bits inserted into a digital image, audio or video file that identifies the file's copyright information (author, rights, etc.). The name comes from the faintly visible watermarks imprinted on stationery that identify the manufacturer of the stationery. The purpose of digital watermarks is to provide copyright protection for intellectual property that's in digital format.  Unlike printed watermarks, which are intended to be somewhat visible, digital watermarks are designed to be completely invisible, or in the case of audio clips, inaudible. Moreover, the actual bits representing the watermark must be scattered throughout the file in such a way that they cannot be identified and manipulated. And finally, the digital watermark must be robust enough so that it can withstand normal changes to the file, such as reductions from lossy compression algorithms.  Satisfying all these requirements is no easy feat, but there are a number of companies offering competing technologies. All of them work by making the watermark appear as noise - that is, random data that exists in most digital files anyway. To view a watermark, you need a special program that knows how to extract the watermark data.  Watermarking is also called data embedding and information hiding. See also  Graphics Software Terminology in Webopedia's Quick Reference Area. 
+
+WATS
+Acronym for Wide Area Telecommunication Service WATS is a telecommunication service that allows subscribed customers to make outgoing (OUTWATS) or incoming (INWATS) voice or data calls and be billed on a bulk rate as opposed to a fee for each incoming or outgoing long distance voice or data transmission.  INWATS is a toll-free dialing service and OUTWATS is a bulk savings on long-distance dialing costs for subscribers. These two services are provided by special access lines connected at your WATS service provider. An access line handles either INWATS or OUTWATS, but not both on a single line.
+
+WAV
+The format for storing sound in files developed jointly by Microsoft and IBM. Support for WAV files was built into Windows 95 making it the de facto standard for sound on PCs. WAV sound files end with a.wav extension and can be played by nearly all Windows applications that support sound.  
+
+wave_table_synthesis
+A technique for generating sounds from digital signals. Wave table synthesis stores digital samples of sound from various instruments, which can then be combined, edited, and enhanced to reproduce sound defined by a digital input signal. Wave table synthesis reproduces the sound of musical instruments better than Frequency Modulation (FM) synthesis.  The MIDI standard supports a wave table format. Not all sound cards, however, support wave table synthesis. 
+
+waveform
+A commonly used term in the telecommunications industry. Waveform is a graphical representation of a signal as a plot of amplitude versus time, i.e., the shape of a wave. 
+
+waveguide
+A circular, elliptical or rectangular metal tube or pipe through which electromagnetic waves are propagated in microwave and RF communications. The wave passing through the medium is forced to follow the path determined by the physical structure of the guide.
+
+wavelet
+A mathematical function used in compressing images. Images compressed using wavelets are smaller than JPEG images and can be transferred and downloaded at quicker speeds. Wavelet technology can compress color images from 20:1 to 300:1, grayscale images from 10:1 to 50:1.  See also wavelet compression.
+
+wavelet_compression
+The lossy compression of an image by converting it into a set of mathematical expressions.  See also wavelet.
+
+Wavelet_Scalar_Quantization
+Abbreviated as WSQ, the Wavelet Scalar Quantization is a compression algorithm used for grayscale fingerprint images. It is the standard for the exchange of fingerprint images within the criminal justice community and is used by many organizations, including the FBI.
+
+WBEM
+Short for Web-Based Enterprise Management, WBEM is a set of management and Internet standard technologies developed to unify the management of distributed computing environments. WBEM provides a well integrated set of standard-based management tools, facilitating the exchange of data across different technologies and platforms. The Distributed Management Task Force (DMTF) has developed a core set of standards that make up WBEM.  WBEM has three main components, the Common Information Model (CIM), which provides a common format, language and methodology  for collecting and decribing management data. The xmlCIM Encoding Specification defines XML elements, written in Document Type Definition (DTD), which can be used to represent CIM classes and instances. The CIM Operations over HTTP specification defines a mapping of CIM operations onto HTTP that allows implementations of CIM to interoperate in an open, standardized manner and completes the technologies that support WBEM. [Sources: Distributed Management Task Force, Inc., WBEM Solutions]
+
+WBMP
+Short for Wireless BitMap, a graphic format optimized for mobile computing devices.   A WBMP image is identified using a TypeField value, which describes encoding information (such as pixel and palette organization, compression, and animation) and determines image characteristics according to WAP documentation.  TypeField values are represented by an Image Type Identifier. Currently, there is only one type of WMBP specified; the Image Type Identifier label for this is 0.   0 has the following characteristics:   - No compression   - One bit color (white=1, black=0)   - One bit deep (monochrome)   Any WAP device that supports WBMPs can only support type 0.   WBMP is part of the Wireless Application Protocol, Wireless Application Environment Specification Version 1.1. 
+
+WBT
+Short for Web-based training, a generic term for training and/or instruction delivered over the Internet or an intranet using a Web browser. Web-based training includes static methods -- such as streaming audio and video, hyperlinked Web pages, live Web broadcasts, and portals of information -- and interactive methods -- such as bulletin boards, chat rooms, instant messaging, videoconferencing and discussion threads.
+Businesses often use Web-based training to educate employees. The instruction can be facilitated and paced by the trainer or self-directed and paced by the trainee.
+Contrast with distance learning and computer-based training.
+
+WCA
+Short for Web clipping application, an application that allows users to extract static information from a Web server and load the data onto a Web-enabled PDA. The display screens of PDAs are too small to adequately display Web pages the same way they are seen on PC screens, and wireless modems are slower than wired modems (with bandwidth of 8 Kbps, compared to the 14 Kbps bandwidth of wired modems from the early days of the Internet). WCAs, a technology pioneered by Palm for its Palm VII handheld device, help to solve these problems by reducing the amount of content that a PDA extracts from the Web, essentially optimizing page layouts, graphics and content for the smaller screens and slower transfer speeds of PDAs.  The WCA extracts static information from a Web server and stores that data on the PDA for easy accessibility. Links within the WCA either refer to other pages that are stored within the application or refer to dynamic documents or scripts (such as stock quotes or weather reports) that reside on a Web server. If the link exists outside of the WCA, then a wireless HTTP request is necessary in order to retrieve the data.  WCAs are also called query applications.
+
+WCDMA
+Short for wide-band CDMA (Code-Division Multiple Access), a 3G technology that increases data transmission rates in GSM systems by using the CDMA air interface instead of TDMA. WCDMA is based on CDMA and is the technology used in UMTS. WCDMA was adopted as a standard by the ITU under the name "IMT-2000 direct spread".
+
+WCM
+Web content management (WCM) is a bundled or stand-alone application used to create, manage, store and deploy content on Web pages. Web content types can include text, graphics and photos, video or audio, and application code that renders other content or interacts with the visitor. WCM may also catalog or index content, select or assemble content at runtime, or deliver content to specific visitors in a personalized way or in different languages. [Source: Gartner]
+
+WCSS
+Short for WAP Cascading Style Sheet or Wireless Cascading Style Sheet, WCSS is the cascading style sheet (CSS) language defined in the  WAP 2.0 specification. WCSS is a subset of CSS2 (CSS level 2) that includes WAP specific extensions. WCSS was developed by the WAP Forum and standardized by the OMA (Open Mobile Alliance).
+
+WDDX
+ Created by Allaire, Web Distributed Data Exchange is an XML -based technology that facilitates complex-data exchange between Web programming languages (ColdFusion, Perl, ASP, Java, JavaScript, PHP, etc.).   For example, a Web site based in ColdFusion can share data with a Web site based in ASP. Data in ColdFusion would be translated into XML, sent to an ASP server, translated out of XML and into VBScript.   WDDX assigns a specific module for each supported language. The module will translate (or serialize) the native data structures into an abstract form represented as XML, or deserialize the WDDX XML into a native data structure.   WDDX supports Boolean, number, date-time, and string data types, as well as, arrays, structures, and recordsets.   Browser support for WDDX includes version 3.0 and higher Web browsers (I.E. and Netscape) for Windows, Unix and Macintosh platforms.   WDDX can be used with HTTP, SMTP, POP, and FTP.  
+
+WDM
+(1) Short for wavelength division multiplexing, a type of multiplexing developed for use on optical fiber. WDM modulates each of several data streams onto a different part of the light spectrum. WDM is the optical equivalent of FDM.   See DWDM  (2) Short for Windows Driver Model, a driver technology developed by Microsoft to create drivers that are source-code compatible for Windows 98, 2000, Me and XP.  WDM works by channeling some of the work of the device driver into portions of the code that are integrated into the operating system. These portions of code handle all of the low-level buffer management, including DMA and Plug and Play device enumeration. The WDM device driver becomes more streamlined with less code and works at greater efficiency.  All versions of Microsoft Windows after Windows 95 have implemented WDM. Kernel-mode drivers that follow WDM rules are called WDM drivers.
+
+WDP
+Short for WAP Datagram Protocol, a network-layer protocol for delivering datagrams over a wireless IP network. Modeled after UDP, WDP provides a common interface to the upper layers of the protocol stack so that they can function independently of the wireless bearer networks (such as SMS, CDPD, and GPRS) being used by the sender and receiver of the transmissions. WDP performs three basic tasks: port addressing, segmentation of datagrams and the subsequent reassembly of the packets at the receiving end, and error reporting. Unlike other protocols, WDP does not confirm datagram delivery, resend lost packets or correct errors that occur during transmission.
+
+Wireless_Distribution_System
+Abbreviated as WDS, in wireless networking, a Wireless Distribution System is used to extend your wireless network coverage. The Wireless Distribution System basically enables wireless interconnection of access points in an 802.11 network expand by using multiple access points without a wired backbone.
+See distribution system. See "DD-WRT Tutorial 2: Extend Range with WDS" on  Wi-Fi Planet.
+
+wearable_computing
+A term that refers to computer-powered devices or equipment that can be worn by a user, including clothing, watches, glasses, shoes and similar items. Wearable computing devices can range from providing very specific, limited features like heart rate monitoring and pedometer capabilities to advanced “smart” functions and features similar to those a smartphone or smartwatch offers. 
+These more advanced wearable computing devices can typically enable the wearer to take and view pictures or video, read text messages and emails, respond to voice commands, browse the web and more. While wearable computing devices are only just now starting to emerge from the realm of science fiction into reality, rumored devices like Google Glasses and the Apple iWatch may soon bring advanced wearable computing devices into the mainstream.
+
+wearable_technology
+Wearable technology (also called wearable gadgets) is a category of technology devices that can be worn by a consumer and often include tracking information related to health and fitness. Other wearable tech gadgets include devices that have small motion sensors to take photos and sync with your  mobile devices.
+Examples of wearable tech include:
+
+
+CommBadge: a wearable Bluetooth personal communicator for iPhone and Android.
+Google Goggles: a downloadable image recognition application created by Google, used for searches based on images taken by handheld devices.
+
+See also wearable computing.
+
+Web_2_point_0
+Web 2.0 is the term given to describe a second generation of the World Wide Web that is focused on the ability for people to collaborate and share information online. Web 2.0 basically refers to the transition from static HTML Web pages to a more dynamic Web that is more organized and is based on serving Web applications to users.
+Other improved functionality of Web 2.0 includes open communication with an emphasis on Web-based communities of users, and more open sharing of information. Over time Web 2.0 has been used more as a marketing term than a computer-science-based term. Blogs, wikis, and Web servicesare all seen as components of Web 2.0.
+Web 2.0 was previously used as a synonym for  Semantic Web, but while the two are similar, they do not share precisely the same meaning.
+
+
+Web_3_point_0
+The term used to describe the evolution of the Web as an extension of Web 2.0. This definition of Web 3.0 is the popular view held by Tim O'Reilly. In contrast, Nova Spivack defines Web 3.0 as connective intelligence; connecting data, concepts, applications and ultimately people. While some call the The Semantic Web 'Web 3.0', Spivack's opinion is that The Semantic Web is just one of several converging technologies and trends that will define Web 3.0.
+
+Web_analytics
+Web analytics is a generic term meaning the study of the impact of a website on its users. Ecommerce companies and other website publishers often use Web analytics software to measure such concrete details as how many people visited their site, how many of those visitors were unique visitors, how they came to the site (i.e., if they followed a link to get to the site or came there directly), what keywords they searched with on the site's search engine, how long they stayed on a given page or on the entire site and what links they clicked on and when they left the site.
+Web Analytics Software
+Web analytic software can also be used to monitor whether or not a site's pages are working properly. With this information, Web site administrators can determine which areas of the site are popular and which areas of the site do not get traffic. Web analytics provides these site administrators and publishers with data that can be used to streamline a website to create a better user experience.
+See related Webopedia definitions including:   customer analytics,   business analytics   and   Google Analytics.
+
+web_as_a_platform
+Traditionally, software was developed for specific  platforms, such as Windows, Linux, or Mac OS. Today, developers build Web-based applications that run on the Web, that are completely independent of the user's actual computer operating system. One of the goals of Web 2.0 is to facilitate the use of the Web as a development platform.
+
+Web_authoring
+(web â´th&r-ing) (1) (adj.) A category of software that enables the user to develop a Web site in a desktop publishing format. The software will generate the required HTML coding for the layout of the Web pages based on what the user designs. Typically, the user can toggle back and forth between the graphical design and the HTML code and make changes to the Web page in either the design of the accompanying code.
+(2) (v.) To design and create a Web site, from writing the site's underlying code to writing the text to managing the site's upkeep.
+
+Web_beacon
+Also called a Web bug or a pixel tag or a clear GIF. Used in combination with cookies, a Web beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site or in an e-mail that is used to monitor the behavior of the user visiting the Web site or sending the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, at the same time it can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values.
+Web beacons are typically used by a third party to monitor the activity of a site. A Web beacon can be detected by viewing the source code of a Web page and looking for any IMG tags that load from a different server than the rest of the site. Turning off the browser's cookies will prevent Web beacons from tracking the user's activity. The Web beacon will still account for an anonymous visit, but the user's unique information will not be recorded.
+
+Web_clipping
+(v.) Extracting static information from a Web site in order to display the data on a Web-enabled PDA. The idea behind Web clipping is to conserve the PDA's resources by extracting once any static data, such as graphics, logos, photos or even unnecessary text and storing that data on the PDA. The PDA will then make a wireless connection to a Web server in order to retrieve any dynamic content. Web clipping is a technology pioneered by Palm for its Palm VII handheld device.  (n.) An excerpt of data taken from a Web server.
+
+Web_collaboration
+Web collaboration provides an organization with the capability to collaborate with customers or internally via the Internet in real time. Web collaboration packages generally consist of Web-based tools within Web sites to assist an organization in the area of sales, new revenue-generation opportunities, and to enhance customer satisfaction. Web collaboration is essentially the back-end software or service that allows your center to share Web pages with customers while offering voice and text  chat assistance or to conduct single or multi-user conferences and seminars. Web collaboration can be used in an Internet (IP) environment or integrated with an organizations' existing telephone infrastructure to provide automated  customer assistance for a client's Web-based inquiries.
+
+Web_content_management
+Web content management (WCM) is a bundled or stand-alone application used to create, manage, store and deploy content on Web pages. Web content types can include text, graphics and photos, video or audio, and application code that renders other content or interacts with the visitor. WCM may also catalog or index content, select or assemble content at runtime, or deliver content to specific visitors in a personalized way or in different languages. [Source: Gartner]
+
+Web_farm
+Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.   Combining servers and processing power into a single entity has been relatively common for many years in research and academic institutions. Today, more and more companies are utilizing server farms as a way of handling the enormous amount of computerization of tasks and services that they require.   A Web server farm, or Web farm, refers to either a Web site that runs off of more than one server or an ISP that provides Web hosting services using multiple servers.  Also see the Server Types page in the quick reference section of Webopedia for a comparison of server types.
+
+Web_host
+A Web host is in the business of providing server space, Web services and file maintenance for Web sites controlled by individuals or companies that do not have their own Web servers. Many ISPs, such as America Online, will allow subscribers a small amount of server space to host a personal Web page. Other commercial ISPs will charge the user a fee depending on the complexity of the site being hosted.
+
+Web_mail
+Web mail is a Web page  interface used to access e-mail through a Web browser. In order to use Web mail your ISP needs to provide this service or you can get a subscription to an Internet Web mail service (some free, some paid subscriptions). Web mail is a secure Web page that you load in your Web browser and log in by entering your  username and password. Web mail is popular as it allows you to send or receive e-mail from anywhere, so long as the computer you are using is connected to the Internet and has a Web browser. It is an excellent option for those traveling or working outside the office.
+
+Web_morality
+A phrase used to describe how people use morals to guide choices while surfing the Web and using the Internet.  One popular Web morality issue that is often debated is the practice of visiting Web sites while using an ad blocker program. Many sites rely on advertisement revenue and some believe it is morally wrong to surf and intentionally block ads as you are taking advantage of what the Web site has to offer without viewing the ad content.
+
+Web_novel
+A novel that is published on the Web. What starts as a Web novel may also become a blook.  See also "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+Web_office
+A Web office is a hosted application, with bundled tools that allow users to share and collaborate on a broad set of information and ideas such as documents, tasks, and calendars.  At its most basic incarnation, a Web office is used for sharing information online and  Web-based collaboration. Depending on the needs and size of the organization, other features may be important, such as integration with common word processing applications or more advanced communication tools and database applications.   See also "What is a Web Office?" on Intranet Journal.
+
+web_page
+A document on the World Wide Web. Every Web page is identified by a unique URL(Uniform Resource Locator).
+
+
+Web_presence
+(1) The ability to detect the electronic presence of other users who are connected to the Internet, through a PC or mobile device, and whether they are available in real time. Presence services are commonly provided through applications like Finger, SMS, instant messaging clients, and discussion forums, although a number of companies are developing products in other areas that leverage presence, such as VoIP.   (2) The term Web presence refers to an individual or business having an established existence on the World Wide Web, through a Web site, e-mail, Internet advertising, blog, or a collection of Web files. Web presence is also called Internet presence.
+
+Web_ring
+Also spelled "Webring," a series of Web sites linked together in a "ring" that by clicking through all of the sites in the ring the visitor will eventually come back to the originating site. All of the sites within the ring share a similar topic or purpose. There are Web rings on topics such as computer games and technology, hobbies such as quilting or stamp collecting, sports, traveling, pop culture, music, cars, etc.  Web rings are a way for sites to generate more traffic by encouraging users to visit the other sites within the ring. Sites in the ring typically have an icon or graphic that indicates that it is part of a specific Web ring and visitors have the option of choosing the "next" or "previous" site in the ring.
+
+web-science
+Web science is the study of the World Wide Web ("Web") to understand what the Web is and to explore topics related to the impact the Web has on society and technology.
+Web science courses may vary from one educational institution to another, but students will generally learn and discuss topics that include the growth of the Web, different Web architectures, engineering the Web, Web governance and the social aspects of the Web.
+The general approach of Web Science is to understand that the Web is not a thing or object, but rather a continuously changing large-scale structure that is dependent on both emerging protocols and core standards and protocols — such as URIs, HTML and HTTP. Typical components of Web science includes computer science, Web engineering, mathematics, physics, sociology, media and economics.
+
+Web_Scraping
+Web Scraping refers to an application that processes the HTML of a Web page to extract data for manipulation such as converting the Web page to another format (i.e. HTML to WML). Web Scraping scripts and applications will simulate a person viewing a Web site with a browser. With these scripts you can connect to a Web page and request a page, exactly as a browser would do. The Web server will send back the page which you can then manipulate or extract specific information from.
+
+Web_server
+Web servers are computers that deliver (serves up) Web pages. Every Web server has an IP address and possibly a domain name. For example, if you enter the URL http://www.webopedia.com/index.html in your browser, this sends a request to the Web server whose domain name is webopedia.com. The server then fetches the page named index.html and sends it to your browser.
+Any computer can be turned into a Web server by installing server software and connecting the machine to the Internet. There are many Web server software applications, including public domain software and commercial packages.
+
+Web_Services
+The term Web services describes a standardized way of integrating Web-based applications using the XML, SOAP, WSDL and UDDI open standards over an Internet protocol backbone. XML is used to tag the data, SOAP is used to transfer the data, WSDL is used for describing the services available and UDDI is used for listing what services are available. Used primarily as a means for businesses to communicate with each other and with clients, Web services allow organizations to communicate data without intimate knowledge of each other's IT systems behind the firewall.
+Unlike traditional client/server models, such as a Web server/Web page system, Web services do not provide the user with a GUI. Web services instead share business logic, data and processes through a programmatic interface across a network. The applications interface, not the users. Developers can then add the Web service to a GUI (such as a Web page or an executable program) to offer specific functionality to users.
+Web services allow different applications from different sources to communicate with each other without time-consuming custom coding, and because all communication is in XML, Web services are not tied to any one operating system or programming language. For example, Java can talk with Perl, Windows applications can talk with UNIX applications.
+
+web_site
+A site (location) on the World Wide Web. Each Web site contains a home page, which is the first document users see when they enter the site. The site might also contain additional documents and files. Each site is owned and managed by an individual, company or organization.
+
+
+Web_site_Filter
+A setting commonly found on broadband router firmware. The Web Filter option allows you to set up a list of allowed Web sites that can be used by multiple users, and any Web site not listed here will be blocked. See "Common Router Settings" in the Quick Reference section of Webopedia. See also Webopedia's "Did You Know... Routers, Switches and Hubs: What's the Difference?"
+
+Web_stack
+The term used to refer to software stacks in Web development environments. The stack of software, mainly comprised of open source software, will contain an operating system, Web server,  database server, and programming language. One of the most most well-known web stacks is  LAMP. See LAMP. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+Web_Standards_Project
+(1) WSP is an abreviation for Wireless Session Protocol
+The Session layer protocol family in the WAP architecture is called the Wireless Session Protocol, WSP. WSP provides the upper-level application layer of WAP with a consistent interface for two session services. The first is a connection-mode service that operates above a transaction layer protocol WTP, and the second is a connectionless service that operates above a secure or non-secure datagram transport service.
+(2) WSP is an abbreviation for Web Standards Project
+The Web Standards Project is a collective project and effort of Web developers, tool developers, and end users whose goal is to stop the fragmentation of the web by persuading the  browser makers that common standards are in everyone's best interest.
+
+web-scale-it
+Web-scale IT is the phrase used to reference a global-class of computing — or architectural approach — used to deliver the capabilities of large cloud service providers within an enterprise IT setting. The approach is to design, build and manage data center infrastructure where capabilities go beyond scale in terms of size to include scale as it pertains to speed and agility.
+Web-scale IT is simply defined as all the things happening at large cloud service firms, such as Google, Amazon, Netflix, Facebook and others, that enables them to achieve extreme levels of agility and scalability by applying new processes and architectures. (source)
+Web Scale Methodology
+Web-scale IT methodology pertains to designing, deploying and managing infrastructure at any scale and can be packaged in a number of ways to suit diverse requirements and can scale to any size of business or enterprise. It is not a single technology implementation, but rather a set of capabilities of an overall IT system.
+
+webafied
+A term used to refer to any application that has been enabled for Web access. The application may contain only some Web components to be considered webafied.
+
+Webcast
+Also written as "webcast."  (v.) (1) To use the Internet to broadcast live or delayed audio and/or video transmissions, much like traditional television and radio broadcasts. For example, a university may offer on-line courses in which the instructor Webcasts a pre-recorded or live lecture, or an enterprise may Webcast a press conference in lieu of or in addition to a conference call. Users typically must have the appropriate multimedia application in order to view a Webcast.  (2) To use push technology, to send Web-based information to an Internet user.  (n.) The data transmission that results from one of the above methods.  Netcast is another name for Webcast.
+
+WebDAV
+Short for Web-based Distributed Authoring and Versioning, an IETF standard set of platform-independent extensions to HTTP that allows users to collaboratively edit and manage files on remote Web servers. WebDAV features XML properties on metadata, locking - which prevents authors from overwriting each other's changes - namespace manipulation and remote file management.  WebDav is sometimes referred to as DAV.
+
+webian_shell
+Webian Shell is an open source prototype full-screen Web browser you can use on any device that doesn't need to run a desktop. It is basically a graphical shell for the Web as it provides a full screen environment that works like a Web browser but with a minimal interface. It is best suited to users who do most of their PC activities online using a Web browser.
+Webian Shell is built on Mozilla Chromeless and is available for Windows, Linux and Mac operating systems.
+
+Webinar
+Short for Web-based seminar, a webinar is a presentation, lecture, workshop or seminar that is transmitted over the Web using video conferencing software. A key feature of a Webinar is its interactive elements: the ability to give, receive and discuss information.
+Contrast with Webcast, in which the data transmission is one way and does not allow interaction between the presenter and the audience.
+The term webinar may also be written as Webinar.
+
+Webmail
+Software run by an ISP or online service that provides access to send, receive, and review e-mail using only your Web browser. Users can simply enter the Webmail Web site URL in their browser's address or location field, and use their Webmail account by typing in a username and password. Webmail provides an easy access and storage of e-mail messages for users who are not connected to the Internet from their usual location. Instead of the e-mail being downloaded to the computer you are checking your e-mail account from, the messages will stay on the provider's server, allowing you access to all e-mail messages regardless of what system or ISP you are connected to the Internet with.  Hotmail, Gmail, and Yahoo! mail are all examples of popular webmail providers. Additionally many ISPs offer webmail services to customers in addition to POP e-mail services. Also called FlashMail.
+
+Webmaster
+An individual who manages a Web site. Depending on the size of the site, the Webmaster might be responsible for any of the following:  Making sure that the Web server hardware and software is running properly Designing the Web site Creating and updating Web pages Replying to user feedback Creating CGI scripts Monitoring traffic through the site   The exponential growth of the World Wide Web has created an unprecedented demand for Webmasters. 
+
+webos
+A mobile operating system originally developed by Palm and later acquired by HP in 2010.  webOS was initially used as a replacement for Palm's earlier Palm OS mobile operating system as well as Microsoft's Windows Mobile, which the company used on some of its smartphones.  webOS powered a number of Palm and HP smartphones before being expanded to also run on tablet computers like the HP Touchpad. 
+In 2011 HP announced its intentions to develop a version of webOS that would run within Microsoft Windows operating systems and that would be installed on all HP desktop and notebook computers.  However, by August of the same year HP declared it was ceasing development on webOS and that future webOS-powered devices would be discontinued as well.
+See Mobile Operating Systems (Mobile OS) Explained in the Did You know...? section of Webopedia.
+
+webrtc
+Short for Web real-time communications, WebRTC is a technology used for real-time human voice and video communications. The technology enables video and audio streaming in addition to data sharing between clients.
+WebRTC is the standards that enable any browser with the ability to share the data and communications without requiring any additional third-party plug-ins or applications. It allows media to be sent from one browser and received by another browser implementing the appropriate real-time protocols.
+In addition to applications developed for Web browsers, applications may also be used on mobile platforms and IoT devices, allowing them all to communicate using the common protocols. 
+
+WebSEAL
+WebSEAL is a high-performance, multi-threaded Web server that applies fine-grained security policy to the Tivoli Access Manager protected Web object space. WebSEAL can provide single sign-on solutions and incorporate back-end Web application server resources into its security policy. WebSEAL normally acts as a reverse Web proxy by receiving HTTP/HTTPS requests from a Web browser and delivering content from its own Web server or from junctioned back-end Web  application servers. Requests passing through WebSEAL are evaluated by the Tivoli Access Manager authorization service to determine whether the user is authorized to access the requested resource. [Source:  IBM Tivoli Access Manager & WebSEAL]
+
+website-optimization
+1) Also called search engine optimization (SEO),  website optimization is a phrase that describes the procedures used to optimize – or to design from scratch – a website to rank well in search engines.  Website optimization includes processes such as adding relevant keyword and phrases on the website, editing meta tags, image tags, and optimizing other components of your website to ensure that it is accessible to a search engine and improve the overall chances that the website will be indexed by search engines.
+See White hat SEO. Also see How Web Search Engines Work in the Did You Know…? section of Webopedia.
+2) A phrase used to describe the procedures to optimize the speed at which your website loads in a Web browser.  This type of optimization generally involves editing your website to optimize scripts, HTML or CSS code for faster loading.  It's also reduces the number of components such as images, scripts, or video components that are needed to render the webpage.
+
+webspam
+Webspam (also referred to search spam) is a phrase used to describe webpages that are designed to "spam Google search results" using SEO tactics that are against Google publishers guidelines. Pages that use webspam to improve search engine results page (SERP) rankings typically use black hat SEO tactics such as keyword stuffing or cloaking, the latter of which involves employing misleading redirects and/or doorway pages of websites.
+In April 2012, Google announced its Penguin-codenamed "Webspam Algorithm Update" that better identifies websites using aggressive webspam tactics.
+
+Websphere
+WebSphere is an IBM brand of products that implement and extend Sun's JavaTwoEnterpriseEdition (J2EE) platform. The Java-based application and transaction infrastructure delivers high-volume transaction processing for e-business and provides enhanced capabilities for transaction management, as well as security, performance, availability, connectivity, and scalability. [Adapted from IBM's WebSphere Web page].
+
+WebTV
+Originally, a general term for a whole category of products and technologies that enable you to surf the Web on your TV. Most WebTV products today consist of a small box that connects to your telephone line and television. It makes a connection to the Internet via your telephone service and then converts the downloaded Web pages to a format that can be displayed on your TV. These products also come with a remote control device so that you can navigate through the Web.  More recently, the name WebTV has been trademarked by Microsoft.  
+
+Webware
+(1) Software that is remotely accessed online usually with a  Web browser. Also called Web applications or online software. (2) Refers to a set of components used to develop Web sites or online applications. See also webafied.
+
+WECA
+Short for Wireless Ethernet Compatibility Alliance, the former name of the Wi-Fi Alliance.
+
+WEP
+Short for Wired Equivalent Privacy, a security protocol for wireless local area networks (WLANs) defined in the 802.11b standard. WEP is designed to provide the same level of security as that of a wired LAN. LANs are inherently more secure than WLANs because LANs are somewhat protected by the physicalities of their structure, having some or all part of the network inside a building that can be protected from unauthorized access. WLANs, which are over radio waves, do not have the same physical structure and therefore are more vulnerable to tampering. WEP aims to provide security by encrypting data over radio waves so that it is protected as it is transmitted from one end point to another. However, it has been found that WEP is not as secure as once believed. WEP is used at the two lowest layers of the OSI model - the data link and physical layers; it therefore does not offer end-to-end security.
+
+WfM
+Short for Wired for Management, an open-industry specification developed by Intel that lets IT professionals automate client-PC management over a network.
+WfM technology is used in client-side hardware (such as circuitry, memory, power supply and NIC ) and management software applications (such as LDCM ). IT managers will use the software to interact with PCs through their (PCs) hardware. From there, managers can monitor, update, and configure PCs. As long as they have the software -- let's say on their laptops -- they can access PCs from anywhere, even through a dial-upconnection.
+WfM biggest asset comes when managers have to access mobile computers from remote locations. For many critical tasks, users only need to dial-up through an analog modem, and the management application will take care of the rest.
+
+whack
+The backslash character is \; a simple slash or forward slash is /. In DOS and Windows systems, the backslash represents the root directory and is also used to separate directory names and filenames in a pathname.   
+
+white_balance
+Abbreviated as WB, white balance is a function of a digital camera used to compensate for different colors of light being emitted by different light sources. In digital photography the term is generally used to describe a function of a digital camera that allows you to calibrate the device to correctly display the color white. Once this calibration has been done, the camera should then display other colors correctly as well.
+
+White_Book
+The specification covering the video CD format. 
+
+White_Box_Testing
+Also known as glass box, structural, clear box and open box testing. A software testing technique whereby explicit knowledge of the internal workings of the item being tested are used to select the test data. Unlike black box testing, white box testing uses specific knowledge of programming code to examine outputs. The test is accurate only if the tester knows what the program is supposed to do. He or she can then see if the program diverges from its intended goal. White box testing does not account for errors caused by omission, and all visible code must also be readable.
+For a complete software examination, both white box and black box tests are required.
+
+
+White_Hat_SEO
+In search engine optimization (SEO) terminology, white hat SEO refers to the usage of optimization strategies, techniques and tactics that focus on a human audience opposed to search engines and completely follows search engine rules and policies.
+For example, a website that is optimized for search engines, yet focuses on relevancy and organic ranking is considered to be optimized using White Hat SEO practices. Some examples of White Hat SEO techniques include using keywords and keyword analysis, backlinking, link building to improve link popularity, and writing content for human readers.
+White Hat SEO is more frequently used by those who intend to make a long-term investment on their website. Also called Ethical SEO.
+
+white_label
+A product or service, especially common in the in the financial sector, where the provider of the service purchases a fully supported product from another source, then applies its own brand and identity to it, and sells it as its own product. The purchaser assumes the seller is selling its own product.
+
+white_paper
+A report on a topic given by an individual or group with authority on the topic, typically to explain the results of a development effort. Technology companies often publish white papers to explain newly developed technologies and can include an explanation of how the technology was developed, how it is used, benchmark and other testing results for the technology, statistical analyses, and other information. Companies often use white papers to educate people about their products and/or services as a way of marketing them.
+
+whiteboard
+An area on a display screen that multiple users can write or draw on. Whiteboards are a principal component of teleconferencing applications because they enable visual as well as audio communication. 
+
+whiteboarding
+In videoconferencing whiteboarding is the term used to describe the placement of shared documents on a participant's on-screen whiteboard. This is a feature included with many videoconferencing software packages. Other features of whiteboarding are built-in tools for editing and marking up the electronic document, much as you would when using a traditional, physical whiteboard. 
+
+whitelist
+(n.) In Internet terminology, a generic name for a list of e-mail addresses or  IP addresses that are considered to be spam free. Whitelists are used frequently with e-mail  applications to allow users to compile lists of senders they wish to receive e-mail from. This list overrides any blacklists and spam filters, and allows the e-mails to be delivered to the users inbox instead of filtered out as spam.   (v.) To place an e-mail address or an IP address on a list of accepted senders.
+ 
+Whitelist may also be seen written as white list or white-list. Contrast with blacklist.
+
+whitespace
+Refers to all characters that appear as blanks on a display screen or printer. This includes the space character, the tab character, and sometimes other special characters that do not have a visual form (for example, the bell character and null character). 
+
+whois
+An Internet utility that returns information about a domain name or IP address. For example, if you enter a domain name such as microsoft.com, whois will return the name and address of the domain's owner (in this case, Microsoft Corporation). 
+
+WHQL
+Short for Windows Hardware Quality Labs, a Microsoft facility that tests and certifies third-party hardware and driver products for compatibility with Windows operating systems. Products that meet the compatibility requirements are then allowed to display Windows logos on product packaging, advertising and collateral and other marketing materials, indicating that the product has met the standards of Microsoft and that the product has been designed to work with the Windows operating systems.  Once a product has received the WHQL logo it is listed on the Microsoft Hardware Compatibility List.
+
+WHS
+Announced by Microsoft in January 2007, Windows Home Server (WHS) is a consumer server option designed for use with multiple computers connected in the home. Home Server allows you to share files such as digital photos and media files, and also allows you to automatically backup your home networked computers. Through Windows Media Connect, Windows Home Server lets you share any media located on your WHS with compatible devices. Compatible devices in this case basically means Vista or XP computer systems, media center devices, Windows Mobile-based devices, and even your Xbox 360 console gaming system.The server itself requires only an Ethernet card and at least one Windows XP or Windows Vista PC. Through the Home Server Console, which is the software you install on the connected PCs, you can set all your server options including backup details, file-sharing options so you don't need a video_adapter.html, or keyboard and mouse since all access is done remotely through a connected PC.
+
+WHS_add_in
+Short for Windows Home Server (WHS) add-in. See under  add-in.
+
+WHS_Console
+Short for Windows Home Server (WHS) Console. See under  console.
+
+Wi_Fi
+Wi-Fi is the name of a popular  wireless networking technology that uses radio waves to provide wireless high-speed  Internet and network connections. A common misconception is that the term Wi-Fi is short for "wireless fidelity," however this is not the case. Wi-Fi is simply a trademarked phrase that means IEEE 802.11x.
+The Wi-Fi Alliance
+The Wi-Fi Alliance, the organization that owns the Wi-Fi registered trademark term specifically defines Wi-Fi as any "wireless local area network (WLAN) products that are based on the Institute of Electrical and Electronics Engineers' (IEEE) 802.11 standards."
+Initially, Wi-Fi was used in place of only the 2.4GHz 802.11b standard, however the Wi-Fi Alliance has expanded the generic use of the Wi-Fi term to include any type of network or WLAN product based on any of the 802.11 standards, including 802.11b, 802.11a, dual-band and so on, in an attempt to stop confusion about wireless LAN  interoperability.
+
+Wi_Fi_Alliance
+An organization made up of leading wireless equipment and software providers with the missions of certifying all 802.11-based products for interoperability and promoting the term Wi-Fi as the global brand name across all markets for any 802.11-based wireless LAN products.  While all 802.11a/b/g products are called Wi-Fi, only products that have passed the Wi-Fi Alliance testing are allowed to refer to their products as "Wi-Fi Certified" (a registered trademark). Products that pass are required to carry an identifying seal on their packaging that states "Wi-Fi Certified" and indicates the radio frequency band used (2.5GHz for 802.11b or 11g, 5GHz for 802.11a)  This group was formerly known as the Wireless Ethernet Compatibility Alliance (WECA) but changed its name in October 2002 to better reflect the Wi-Fi brand it wants to build.
+
+wi-fi-calling
+Wi-Fi Calling is a technology that enables a smartphone user to make and receive calls over a wireless internet connection as opposed to the typical cellular connection. In addition to facilitating voice calls, Wi-Fi Calling also supports wirelessly sending and receiving text messages and utilizing higher data speeds than most cellular connections.
+The Wi-Fi Calling technology transfers the cellular packets of a phone call or text message from a smartphone so that they are sent over the internet wirelessly, and then sends the packets back to the cellular network prior to being delivered to the recipient party.
+Only the sender of a call needs a smartphone that supports Wi-Fi Calling; the receiver can be on a wireless, cellular, or landline connection.
+
+Wi_Fi_detector
+A device used to detect and analyze the presence of Wi-Fi networks (hotspots). A WiFi detector can be a standalone handheld device that requires batteries to operate or a USB device that can be connected to your computer or laptop. A typical WiFi detector will show both the presence of a signal, detect WEP or WPA encryption, wireless standard (802.11b or 802.11g) as well as the relative signal strength. This information obtained about is usually shown on the device's built-in LCD display screen.  This type of devices has many different names, usually based on the brand name of the product itself. Alternative names for a Wi-Fi detector include Wi-Fi scout, Wi-Fi finder, and hotspot detector.
+
+Wi_Fi_enabled
+The term used to describe any device that has build-in support for Wi-Fi, a popular wireless networking technology that uses radio waves to provide wireless high-speed Internet and network connections.   See also Wi-Fi.
+
+wifi_phone
+A  cellular telephone that's capable of connecting to the  Internet through a  Wi-Fi network or hotspot is frequently referred to as a Wi-Fi phone.  Wi-Fi mobile phones enable a person to make calls, send and receive text messages, receive voicemail and access the Internet when connected to a Wi-Fi network.
+A second category of Wi-Fi phones lacks cellular telephone capabilities and essentially operates as VoIP over a Wi-Fi network, utilizing Voice over Wi-Fi, or Voice over WLAN,  technology to make voice calls.
+See "The Difference Between VoIP and PSTN Systems" in the  Did You Know... section of Webopedia.Also see the  VoIP Meets Wi-Fi article in the  Did You Know? section of Webopedia.
+
+Wi_Fi_Protected_Setup
+Abbreviated as WPS, Wi-Fi Protected Setup is an optional Wi-Fi Alliance certification program that is designed to enable users with little knowledge of Wi-Fi configuration and security settings to configure new wireless networks, and also add new devices and enable security. Wi-Fi Protected Setup supports Wi-Fi CERTIFIED 802.11 products including consumer electronics and phones, as well as computers and access points (APs). Wi-Fi protected setup also applies to 802.11 devices traditionally used for home and small office purposes, including those that communicate through 802.11b, 802.11a, 802.11.g as well as multiple-band devices.
+
+Wi_Fi5
+This term was created by the Wi-Fi Alliance to refer to wireless LAN products based on the IEEE 802.11a specification that operates in the 5GHz radio frequency band. However, the use of the term has been officially discontinued to avoid confusion. All 802.11-based products, whether 802.11a, 802.11b or otherwise, are now supposed to be generically referred to as Wi-Fi.
+
+Wi-LAN
+Acronym for wireless local-area network. Also referred to as LAWN. A type of local-area network that uses high-frequency radio waves rather than wires to communicate between nodes.
+Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+Wicd
+A popular open source wired and wireless network manager for Linux. Wicd offers users a simple interface to connect to networks with a wide variety of settings.
+
+Wide_Area_Application_Services
+Cisco Wide Area Application Services (WAAS) consists of a GUI and a set of system devices called  wide-area application engines (WAE) that work together to optimize TCP traffic over your network. When client and server applications attempt to communicate with each other, the network intercepts and redirects this traffic to the WAEs so that they can act on behalf of the client application and the destination server. The WAAS GUI is used to centrally configure and monitor the WAEs and application policies in your network.
+
+Wide_Area_Augmentation_System
+Abbreviated as WAAS, Wide Area Augmentation System is a system of satellites and ground stations that provide  GPS signal corrections for errors caused by ionosphere disturbances, timing, and satellite orbit errors. The Federal Aviation Administration (FAA) and the Department of Transportation (DOT) are developing the WAAS program for use in precision flight approaches. The WAAS specification requires a position accuracy of at least 7.6 meters for both lateral and vertical measurements, 95 percent of the time.
+
+wide_area_data_services
+Abbreviated as WADS, wide area data services (or WDS) is a superset of smaller market segments that include WAN optimization, WAFS (wide-area file services), and application acceleration. Wide area data services enable the consolidation of file servers from remote sites to the data center without compromising end user performance and also enable the acceleration of file system-based distributed applications.
+
+wide_area_file_services
+Wide area file services, or WAFS, is a storage technology that allows businesses and enterprises to access remote data centers as if they were local. WAFS allow multiple agencies to manage data, data archiving and wide area file services products and provide a combination of distributed file systems and caching technology to allow real-time, read-write access to shared file storage from any location. A wide area file services is an alternative system to a wide-area network (WAN). * WAFS systems usually consist of edge file gateway (EFG) appliances, which are placed at remote offices, and one or more central server (CS) appliances that allow storage resources to be accessed by the EFGs. [Source:  CommsDesign]
+
+wideband
+In telecommunications terminology, wideband is used to describe a "wide band" of frequencies within a spectrum. Wideband means that the transmission channel itself has a wider bandwidth than one voice channel. The term wideband itself is variously defined, however the ITU-T G.722 standard defines wideband as a bandwidth of up to 7 kHz.
+
+wideband_voice
+See under HD voice.
+
+widget
+Pronounced wih-jit. (1) Widget is a generic term for the part of a GUI that allows the user to interface with the application and operating system. Widgets display information and invite the user to act in a number of ways. Typical widgets include buttons, dialog boxes, pop-up windows, pull-down menus, icons, scroll bars, resizable window edges, progress indicators, selection boxes, windows, tear-off menus, menu bars, toggle switches and forms.
+(2) The term also refers to the program that is written in order to make the graphic widget in the GUI look and perform in a specified way, depending on what action the user takes while interfacing with the GUI.
+The term widget is used to refer to either the graphic component or its controlling program or to refer to the combination of both.
+
+widi
+Short for Wireless Display, WiDi is a technology developed by Intel to enable computers and laptops to seamlessly work with monitors, TVs and other peripherals without the need for cables or wires.
+With Intel WiDi users can stream videos and movies, photos, music and apps from their computer or laptop to monitors or HDTVs that are compatible with the WiDi technology. Intel WiDi offers full 1080p high definition video quality as well as support for 5.1 surround sound.
+Intel WiDi's Evolution Since 2010
+Intel WiDi debuted with the 20120 release of Intel's 2nd generation Sandy Bridge Intel Core processor family, and in late 2012 Intel released Intel WiDi version 3.5, which added support for the Wi-Fi Alliance's Miracast streaming standard and reduced latency by more than 10 times compared to previous WiDi versions.
+
+widow
+(1) In word processing, the last line of a paragraph that appears as the first line of a page. Widows are considered bad form in page layout, so many word processors allow you to avoid them. When the word processor detects a widow, it can end the page one or more lines early so that at least the last two lines from the paragraph start the next page. Some word processors avoid widows by moving all the lines on the page closer together so that the last line can fit on the same page.  The converse of a widow is an orphan, the first line of a paragraph appearing as the last line of a page.  (2) The last line of a paragraph that is much shorter than all the other lines in the paragraph.   
+
+WiFi
+Wi-Fi is the name of a popular  wireless networking technology that uses radio waves to provide wireless high-speed  Internet and network connections. A common misconception is that the term Wi-Fi is short for "wireless fidelity," however this is not the case. Wi-Fi is simply a trademarked phrase that means IEEE 802.11x.
+The Wi-Fi Alliance
+The Wi-Fi Alliance, the organization that owns the Wi-Fi registered trademark term specifically defines Wi-Fi as any "wireless local area network (WLAN) products that are based on the Institute of Electrical and Electronics Engineers' (IEEE) 802.11 standards."
+Initially, Wi-Fi was used in place of only the 2.4GHz 802.11b standard, however the Wi-Fi Alliance has expanded the generic use of the Wi-Fi term to include any type of network or WLAN product based on any of the 802.11 standards, including 802.11b, 802.11a, dual-band and so on, in an attempt to stop confusion about wireless LAN  interoperability.
+
+wigig
+WiGig is a technology based on the IEEE 802.11ad specification that can support data transfer speeds of up to 7Gbps (Gigabits per second), which is ten times faster than the 802.11n WiFi standard. WiGig was originally developed by the Wireless Gigabit (WiGig) Alliance and is currently being refined by the Wi-Fi Alliance following a merger of the two organizations in 2013.
+Unlike earlier 802.11 specifications such as 802.11ac, which operates in the 5 GHz range, and 802.11n, which operates in both the 5 GHz and 2.4 GHz ranges, WiGig operates in the 60GHz frequency band. Because it operates in the higher-frequency 60GHz range, WiGig's wavelengths are shorter, which limits its effective range to about 30 feet.
+Use Applications for WiGig and Launch Timeframe
+WiGig's high data transfer speeds and shorter range make it ideally suited for eliminating the need for wires and cables in situations such as transmitting audio and video from computing devices to HDTVs or other computing devices, as well as for connecting surround-sound speakers to audio systems.
+
+Wii
+A small handheld video game console device produced by Nintendo. The Wii is the successor to the Nintendo GameCube, and features a wireless controller, a wiimote that can be used as a pointing device, and WiiConnect24, which is primarily used for Internet messaging and product updates. The Wii is also called Nintendo Wii by consumers. However, the correct name is Wii making this the first console to be released by Nintendo without the inclusion of the company's name in the actual product name. The Wii was released in North America in November 2006.
+
+Wii_LAN_Adapter
+An adapter that is required to connect the Wii console to a wired access point (AP), such as a broadband modem or wired router. One end of the Wii LAN Adapter is plugged into a USB port on the back of the Wii console the other end receives the Ethernet cord from your wired modem or broadband router into the adapter. Once the Wii LAN Adapter is connected you then configure the Internet connection settings using the Wii console software.
+
+wiimote
+)(pronounced wee-moat) The wireless, remote-control-style controller for Nintendo's next generation games console, the Nintendo Wii.
+
+wiki
+(n.) A collaborative Web site comprises the perpetual collective work of many authors. Similar to a blog in structure and logic, a wiki allows anyone to edit, delete or modify content that has been placed on the Web site using a browser interface, including the work of previous authors. In contrast, a blog, typically authored by an individual, does not allow visitors to change the original posted material, only add comments to the original content.
+The term wiki refers to either the Web site or the software used to create the site.
+Wiki wiki means "quick" in Hawaiian. The first wiki was created by Ward Cunnigham in 1995.
+
+WiLAN
+Acronym for wireless local-area network. Also referred to as LAWN. A type of local-area network that uses high-frequency radio waves rather than wires to communicate between nodes.
+Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+wildcard_character
+A special symbol that stands for one or more characters. Many operating systems and applications support wildcards for identifying files and directories. This enables you to select multiple files with a single specification. For example, in DOS and Windows, the asterisk (*) is a wild card that stands for any combination of letters. The file specification  m*  therefore, refers to all files that begin with m. Similarly, the specification  m*.doc  refers to all files that start with m and end with.doc.  Many word processors also support wild cards for performing text searches.   
+
+willow_glass
+An advanced, flexible screen currently in development by Corning that is expected to be used in making bendable mobile devices like smartphones of the future and possibly smart watches such as the rumored Apple iWatch.   Corning's Willow Glass is an extremely thin, malleable glass that's only 100 microns (0.1 millimeters) thick. While easily bendable, Willow Glass can also break fairly easily if bent too much. Willow Glass is also capable of roll-to-roll production runs rather than the sheet-to-sheet production runs that are used for most of the screens on existing mobile devices.
+Devices with Willow Glass could appear on the market as soon as early 2014, although some analysts believe advanced "wearable computing" devices with flexible Willow Glass screens are still several years away from becoming publicly available.
+
+wily-werewolf
+Wily Werewolf is the Ubuntu codename for version 15.10 of the Ubuntu Linux-based operating system. Officially released on October 22nd, 2015, Wily Werewolf follows the Vivid Vervet (v15.04) release.
+The LXD Linux container hypervisor gets a big stability boost in Wily Werewolf, enabling users to run containers inside a secured hypervisor. Ubuntu 15.10 also includes the new OpenStack Liberty open source cloud computing platform that debuted a few weeks prior to Wily Werewolf's release.
+The Linux desktop has been refined for stability and performance in Wily Werewolf, and it now includes the use of Gnome overlay scroll bars, which provide a more streamlined approach to window scrolling.
+
+WIM
+(1) Short for Windows Imaging Format, WIM is a file-based disk image format used by Microsoft for deployment of the Windows Vista and Windows Server 2008 operating systems. Note that the M in the abbreviation does not appear in the official name and vice versa with the F for Format. (2) Short for Windows Image Management, WIM is the general name used to describe software that can be used browsing, organizing, and viewing images in Windows environments. (3) Short for Wireless Identification Module it is the term used to describe the storage location for information used in a WAP subscriber's transactions. It is specifically a hardware or software component added to a SIM (Subscriber Identity Module) card.
+
+WiMAX
+The name commonly given to the IEEE 802.16 standard.
+
+WiMAX_USB_dongle
+A 3G or WiMAX  USB dongle is a portable device that attaches to a USB port to enable a PC to connect to WiMAX and (or) 3G networks. These connectivity dongles are popular with mobile users who require broadband Internet connectivity while on-the-go. Add-in cards for WiMAX or 3G are also available for laptops.
+
+WIMP
+Short for Windows, Icons, Menus and Pointing device, the type of user interface made famous by the Macintosh computer and later imitated by the Windows operating systems. Most people now use the term GUI (graphical user interface) to refer to this type of interface, but it's important to note that when the first GUIs were invented in the 1970s, WIMP was just one possible variation. In those days, it was called a WIMP GUI. 
+
+win_com
+Win.com is the executable file responsible for Windows start-up. It runs after the autoexec.bat file is processed, and it accesses the VMM32.vxd file.   In a Windows 3.x environment, the win.com file is executed by typing "win" in the DOS prompt. In version 9x OSs, win.com runs automatically. 
+
+Win32
+The Windows API for developing 32-bit applications. Win32 is built into Windows 95 and Windows NT so applications that rely on the API (Win32 applications) should run equally well in both environments. It is also possible to run some Win32 applications under older 16-bit versions of windows by installing the Win32s  runtime system.
+
+
+Win32s
+Short for WIN32 subset, a software package that can be added to Windows 3.1 and Windows for Workgroups systems to give them the ability to run some 32-bit applications. As the name implies, Win32s is only a subset of the Win32 API used by Windows 95 and Windows NT. The main function performed by Win32s is to convert between 32-bit and 16-bit memory addresses, an operation called thunking.  Many applications are designed to run on Win32s-enhanced versions of Windows for performance reasons. When you install such an application on a 16-bit Windows system, the installation procedure automatically installs the Win32s system if necessary. 
+
+Winchester_disk_drive
+Another term for hard disk drive. The term Winchester comes from an early type of disk drive developed by IBM that had 30MB of fixed storage and 30MB of removable storage; so its inventors called it a Winchester in honor of its 30/30 rifle. Although modern disk drives are faster and hold more data, the basic technology is the same, so Winchester has become synonymous with hard.  
+
+window
+(1) An enclosed, rectangular area on a display screen. Most modern operating systems and applications have graphical user interfaces (GUIs) that let you divide your display into several windows. Within each window, you can run a different program or display different data.
+Windows are particularly valuable in multitasking  environments , which allow you to execute several programs at once. By dividing your display into windows, you can see the output from all the programs at the same time. To enter input into a program, you simply click on the desired window to make it the foreground process.
+GUIs, such as the one supported by the Apple Macintosh or Windows, enable you to set the dimensions and position of each window by moving the mouse and clicking appropriate buttons. Windows can be arranged so that they do not overlap (tiled windows) or so they do overlap (overlaid windows). Overlaid windows (also called cascading windows) resemble a stack of pieces of paper lying on top of one another; only the topmost window is displayed in full. You can move a window to the top of the stack by positioning the pointer in the portion of the window that is visible and clicking the mouse buttons. This is known as popping. You can expand a window to fill the entire screen by selecting the window's zoom box.
+
+Windows
+When spelled with a capital W, Windows is short for Microsoft Windows. 
+
+windows-10
+Windows 10 is the latest release of Microsoft's Windows operating system and the successor to the underwhelming Windows 8 (and Windows 8.1).
+Initially codenamed Windows Threshold, Windows 10 debuted on July 29, 2015, following a "technical preview" beta release of the new operating system that arrived in Fall 2014 and a "consumer preview" beta in early 2015.
+With Windows 8 suffering from mostly negative reactions by both enterprises and consumers, Microsoft chose to eschew going with the logical next iteration of Windows, Windows 9, opting instead for the name Windows 10.
+
+windows-10-mobile
+Windows 10 Mobile is Microsoft's latest mobile operating system for powering mobile devices like smartphones and tablets. It serves as the successor to Windows Phone 8.1, with the name change reflecting the mobile OS's evolution as well as its integration in Microsoft's unified approach to the Windows 10 operating system.
+New Features and Enhancements in Windows 10 Mobile
+Windows 10 Mobile introduces a variety of key new features and enhancements over previous Windows Phone and Windows Mobile releases, such as Continuum support (the ability to connect to an external display with mouse and keyboard input support for a PC-like desktop interface), Office Mobile updates and integrated Edge web browser.
+Additional new features include support for Universal Windows apps (apps work and automatically scale across Windows-powered devices, from smartphones to laptops to desktops), notification system enhancements (with notification syncing among Windows devices) and more.
+
+Windows_2000
+A product in Microsoft's Windows line of operating systems. There are four versions of Windows 2000: Professional -- an operating system for business desktop and laptop systems. It is used to run software applications, connect to Internet and intranet sites, and access files, printers, and network resources. Server -- both a Web server and an office server. Windows 2000 Server lets users build Web applications and connect to the Internet. Advanced Server -- an operating for line-of-business applications and e-commerce. It contains all the functionality of the standard version of Windows 2000 Server, plus additional features for applications that require higher levels of scalability and availability. Datacenter Server -- developed to work in high-traffic computer networks, it is designed for enterprises that need reliable high-end drivers and software. It supports up to 64-way SMP and up to 64 GB of physical memory.  Windows 2000 is sometimes abbreviated as W2K.
+
+Windows_7
+Windows 7 made its official debut to the public on October 22, 2009 as the latest in the 25-year-old line of Microsoft Windows operating systems and as the successor to Windows Vista (which itself had followed Windows XP). Windows 7 was released in conjunction with Windows Server 2008 R2, Windows 7's server counterpart.
+Enhancements and new features in Windows 7 include multi-touch support, Internet Explorer 8, improved performance and start-up time, Aero Snap, Aero Shake, support for virtual hard disks, a new and improved Windows Media Center, and improved security.
+Another important change in Windows 7 is the replacement of Windows Vista's Quick Launch toolbar with a new "Superbar" that makes it possible for applications to be pinned to the taskbar. The "Superbar" also adds features like Jump Lists and Aero Peek.
+
+windows_8
+The next major release of the Microsoft Windows operating system, Windows 8 officially debuted on October 26th, 2012 following a release to manufacturing on August 1st. 
+According to Microsoft, Windows 8 is a completely redesigned operating system developed from the ground up with touchscreen use in mind as well as near-instant-on capabilities that enable a Windows 8 PC to load and start up in a matter of seconds rather than in minutes.
+Windows 8 replaces the more traditional Microsoft Windows OS look and feel with a new design system interface codenamed "Metro" that first debuted in the Windows Phone 7 mobile operating system. The Metro user interface primarily consists of a "Start screen" made up of "Live Tiles," which are links to applications and features that are dynamic and update in real time.  Users will also be able to switch between apps in Metro by simply swiping across the screen.
+
+windows_8_codename
+The official codename for the successor to Microsoft's Windows 7 operating system.  While the Windows 8 codename may end up being the actual name chosen for the next generation operating system, Microsoft will more than likely take a different route, as the company considers its "Metro" user interface-based OS more of a revolutionary upgrade over Windows 7 than simply an evolutionary release.  As a result, Microsoft is unlikely to simply give the new operating system an incremental version number.
+
+WEBOPEDIA FACTOID
+A codename is generally used to identify a project while it is still in development. Codenames can be anything from a version number to the name of a dinosaur, a place or even a type of cereal or favorite snack food. Usually a codename will change when the developing company releases the commercial product.
+
+
+The successor to the Windows 7 Server operating system also features the Windows Server 8 codename, which is expected to be officially released as Windows Server 2012.   Final releases of the regular and server operating systems are expected to arrive in late 2012, and preview releases of both OSes are currently available for download from Microsoft.
+
+windows_8_hybrid
+Windows 8 hybrid is the phrase used to describe a mobile computing device that combines typical features of both a tablet and laptop in a single device, running the Windows 8 operating system.
+
+Photo: The ASUS Transformer Pad combines the portability of a tablet with the productivity of a notebook.
+A Laptop and Tablet in One Device
+Many device manufacturers, including ASUS and Samsung, have launched laptop-tablet hybrids that combine touchscreens with full-size keyboards. Other Windows 8 hybrids can attach to docks or feature folding or flip keyboards. The benefit of a Windows 8 hybrid is that it can be used as a touchscreen tablet or laptop.
+
+
+windows-9
+Windows 9 was the anticipated name of the follow-up to Microsoft's Windows 8 operating system, but the company decided to instead go with the Windows 10 name. Codenamed Windows Threshold, Windows 10 (aka Windows 9) is expected to be released sometime in 2015.
+Windows 10 Departing from the Unified OS Interface?
+While Windows 8 focused on presenting a unified operating system interface for all Windows-powered devices, from desktops and laptops to smartphones and tablets, Windows 10 is expected to deliver more of a customized interface that recognizes the device’s hardware and adjusts accordingly based on whether a mouse and keyboard are used or a touchscreen.
+Windows 10 is also rumored to be returning the Start button and Start menu to desktop users in a fashion similar to Windows 7. These features were removed in Windows 8 in favor of a new tile-based "Start screen" that appealed to many touchscreen users but left desktop and laptop users frustrated and annoyed in many cases.
+
+Windows_95
+A major release of the Microsoft Windows operating system released in 1995. Windows 95 represents a significant advance over its precursor, Windows 3.1. In addition to sporting a new user interface, Windows 95 also includes a number of important internal improvements. Perhaps most important, it supports 32-bit applications, which means that applications written specifically for this operating system should run much faster. And although Windows 95 can run older Windows and DOS applications, it has essentially removed DOS as the underlying platform. This has meant removal of many of the old DOS limitations, such as 640K of main memory and 8-character filenames. 
+
+Windows_98
+Originally it was called Memphis, and then Windows 97, but Microsoft changed the name when it realized that it was going to miss its target 1997 release date.  Windows 98 offers support for a number of new technologies, including FAT32, AGP, MMX, USB, DVD, and ACPI. Its most visible feature, though, is the Active Desktop, which integrates the Web browser (Internet Explorer) with the operating system. From the user's point of view, there is no difference between accessing a document residing locally on the user's hard disk or on a Web server halfway around the world. 
+
+Windows_Azure
+A Microsoft services-based operating environment (also called a cloud computing platform) that will let developers build and host services on Microsoft's infrastructure. Windows Azure is an open platform that support both Microsoft and non-Microsoft languages and environments. According to the official Microsoft Windows Azure Web site, developers can build their applications and services, developers using Visual Studio 2008 as well as popular standards and protocols including SOAP, REST, and XML.  See "Understanding Web Services" in the Did You Know...? section of Webopedia.
+
+windows-bridge-for-ios
+Windows Bridge for iOS is a tool developed by Microsoft for bringing Apple iOS apps to the Windows platform. Microsoft first announced the open-source Windows Bridge for iOS technology at its Build 2015 conference in April 2015, and the company debuted an early "Developer Preview" version of the technology later in August of the same year.
+Formerly known as "Project Islandwood," the Windows Bridge for iOS tech enables Apple iOS developers to create Windows apps using their existing Objective-C code and skills. Windows Bridge for iOS provides four core components for developers: an Objective-C compiler, an Objective-C runtime, iOS API headers and Visual Studio IDE integration.
+Windows Bridge for iOS Support and Other 'Bridges'
+The Windows Bridge for iOS supports both Windows 8.1 and Windows 10 apps built for x86 and x64 processor architectures, with future support for ARM processors, adding mobile support as a result.
+
+Windows_CardSpace
+Windows CardSpace is a Microsoft .NET Framework version 3.0 software client that's designed to let users provide their digital identity to online services in a simple, secure and trusted way. It's an identity selector that pops up when a user needs to authenticate to a Web site or a Web service. CardSpace was previously called Infocard. It's widely expected that CardSpace will replace MSN Passport. 
+
+Windows_CE
+A version of the Windows operating system designed for small devices such as personal digital assistants (PDAs) (or Handheld PCs in the Microsoft vernacular). The Windows CE graphical user interface (GUI) is very similar to Windows 95 so devices running Windows CE should be easy to operate for anyone familiar with Windows 95. 
+
+windows-defender
+Windows Defender is an anti-malware tool built into Microsoft's Windows 8 and newer operating systems that is designed to protect computers from viruses, spyware and other forms of malware.
+While Windows Defender can't be downloaded or used on versions of Windows prior to Windows 8, Microsoft does offer a predecessor to Windows Defender called Microsoft Security Essentials that can be freely downloaded and used on Windows Vista and Windows 7 operating systems.
+Windows Defender vs. Microsoft Security Essentials
+Both of these Microsoft Security Software tools offer real-time protection against viruses, rootkits, spyware and other malicious software as well as features like online and offline system scanning and cleaning. One key differentiating feature, though, is that only Windows Defender offers enhanced protection against rootkits and bootkits.
+
+Windows_DNA
+Short for Windows Distributed interNet Applications Architecture, a marketing name for a collection of Microsoft technologies that enable the Windows platform and the Internet to work together. Some of the principle technologies comprising DNA include ActiveX, Dynamic HTML (DHTML) and COM. 
+
+Windows_Driver_Model
+(1) Short for wavelength division multiplexing, a type of multiplexing developed for use on optical fiber. WDM modulates each of several data streams onto a different part of the light spectrum. WDM is the optical equivalent of FDM.   See DWDM  (2) Short for Windows Driver Model, a driver technology developed by Microsoft to create drivers that are source-code compatible for Windows 98, 2000, Me and XP.  WDM works by channeling some of the work of the device driver into portions of the code that are integrated into the operating system. These portions of code handle all of the low-level buffer management, including DMA and Plug and Play device enumeration. The WDM device driver becomes more streamlined with less code and works at greater efficiency.  All versions of Microsoft Windows after Windows 95 have implemented WDM. Kernel-mode drivers that follow WDM rules are called WDM drivers.
+
+windows_embedded
+A collection of operating systems from Microsoft designed to power embedded systems and help original equipment manufacturers (OEMs) in their development of devices such as smartphones and automobile infotainment systems. Embedded systems are complete computer systems designed to perform specific functions within a larger system or machine.
+The Windows Embedded line currently consists of Windows Embedded Compact 7 for small devices like smartphones, Windows Embedded Standard 7 for more advanced devices, Windows Embedded Enterprise for devices that need to utilize fully functional versions of the Windows desktop operating systems, Windows Embedded Automotive 7 for in-vehicle infotainment systems, Windows Embedded POSReady for point-of-service devices, Windows Embedded Thin Clients for advanced thin clients, Windows Embedded Server for server solutions and Windows Embedded Handheld for handheld devices.
+
+windows_embedded_automotive
+Microsoft's platform for the development of in-vehicle infotainment solutions, which enable drivers to connect to a wide variety of multimedia and Internet-enabled connected services and technology for information and entertainment purposes.
+The latest release of the platform, Windows Embedded Automotive 7, adds Microsoft Silverlight development tools, Microsoft Tellme speech technology for voice input control, touchscreen input support, extended SMS text message support, support for hands-free phone communication via Bluetooth technology and enhanced smartphone mobile device integration.
+Windows Embedded Automotive 7's capabilities serve to help in the development and production of sophisticated automotive components and solutions from automotive manufacturers.  The platform powers a number of currently available in-vehicle infotainment services, most notably Ford’s SYNC and MyTouch Ford, Toyota’s Entune system and Fiat’s Blue&Me.
+
+Windows_Genuine_Advantage
+The Windows Genuine Advantage (WGA) program is part of what Microsoft describes as its on-going effort to protect its customers and partners from counterfeit software, and increase customer awareness of the value of genuine Windows XP. Microsoft will ask users to validate their Windows when requesting a genuine Windows download from the Microsoft Download Center or Windows Update. To help customers who unknowingly purchased a counterfeit version of Windows XP, Microsoft has created two genuine Windows offers for those who qualify.   Complimentary offer: Microsoft will make a complimentary copy of Windows XP available to customers that have been sold counterfeit Windows. Customers will be required to submit a proof of purchase, their counterfeit CD, and complete a counterfeit report with details of their purchase. Only "high-quality" counterfeit Windows will qualify for the complimentary offer.  Electronic Key Offer: Microsoft will offer an alternative for customers who find out via the WGA validation process that they are not running genuine Windows, but do not qualify for, or choose not to take the complimentary offer. These customers will be able to license a Windows Genuine Advantage Kit for Windows XP online for a price of $99 for Windows XP Home edition or $149 for Windows XP Professional. The Windows Genuine Advantage Kit for Windows XP will include a new 25-character Product Key and a Windows Product Key Update tool that will enable customers to convert their counterfeit copy to genuine Windows XP electronically. To qualify, customers will be required to submit an on-line counterfeit report.  WGA validation is required for all genuine Windows downloads on Microsoft Download Center and the Windows Update service for users of Windows XP and Windows 2000 (client, not server). Security updates are accessible to all users via Automatic Updates. Genuine Windows downloads are available, without validation, to customers running Windows 98, Windows ME, Windows Server 2003, and Windows NT 4.0 with Service Pack 3. Genuine Windows downloads are not available for older versions of Windows (Windows 95, Windows NT 4.0 with Service Pack 2 and earlier), and non-Microsoft operating systems.
+
+Windows_Hardware_Quality_Labs
+See WHQL.
+
+Windows_Home_Server
+Announced by Microsoft in January 2007, Windows Home Server (WHS) is a consumer server option designed for use with multiple computers connected in the home. Home Server allows you to share files such as digital photos and media files, and also allows you to automatically backup your home networked computers. Through Windows Media Connect, Windows Home Server lets you share any media located on your WHS with compatible devices. Compatible devices in this case basically means Vista or XP computer systems, media center devices, Windows Mobile-based devices, and even your Xbox 360 console gaming system.The server itself requires only an Ethernet card and at least one Windows XP or Windows Vista PC. Through the Home Server Console, which is the software you install on the connected PCs, you can set all your server options including backup details, file-sharing options so you don't need a video_adapter.html, or keyboard and mouse since all access is done remotely through a connected PC.
+
+Windows_Image_Acquisition
+Abbreviated as WIA, Windows Image Acquisition is a device driver interface (DDI) and an API that is used for acquiring digital images from devices that are used primarily in still image capture, such as scanners and digital cameras, and transferring those images to the user computer.
+
+Windows_Image_Management
+See under WIM.
+
+Windows_Imaging_Format
+See under WIM.
+
+Windows_Live_ID
+A free service that enables users to create one set of sign-in credentials consisting of an e-mail address and password to sign in to MSN Messenger, MSN Hotmail, MSN Music, and other sites and services. Windows Live ID (the newest name of the service) also works with works with Passport Network sites.
+
+Windows_Live_Messenger
+Previously called MSN Messenger, Microsoft's Windows Live Messenger (WLM) is an advertisement-supported instant messaging service. It currently has more than 27 million active registered users worldwide. WLM offers file sharing, PC-to-PC calling, time-stamped messages, offline notifications and other features. In 2006, Microsoft and Yahoo announced an interoperability agreement which would allow users on either system to communicate with each other. WLM is available for the PC and mobile applications also. See also "Public IM Services" in the Quick Reference section of Webopedia.
+
+Windows_Mail
+A Microsoft Windows Vista feature, formally called Outlook Express in previous Microsoft operating systems. Windows Mail better addresses concerns regarding junk e-mail and phishing attacks, and it also adds new features not found in Outlook Express for searching and managing your e-mail.
+
+Windows_Meeting_Space
+A Microsoft Windows Vista feature for collaboration that enables face-to-face collaboration with up to nine Windows Vista users that allows them to share work over a wired  network, a wireless local area network (WLAN), or an ad-hoc wireless network. When a user initiates a Windows Meeting Space  session they can then invite others and send a password for joining the session. When others join, they can share files, or see the same view of a program or desktop and collaborate in real time.
+
+windows_mobile
+A mobile operating system for smartphones and mobile devices from Microsoft based on the Windows CE kernel and designed to look and operate similar to desktop versions of Microsoft Windows.
+Windows Mobile competes in the mobile OS market with Apple's iOS, Google's Android, BlackBerry OS, Symbian and others.  Windows Mobile first debuted as the operating system for Microsoft's original personal digital assistant (PDA) device, the Pocket PC, in 2000.  Later releases included Windows Mobile 2003 ("Ozone"), Windows Mobile 5 ("Magento") and Windows Mobile 6 ("Crossbow").
+Windows Mobile has largely been supplanted by Windows Phone 7, although Microsoft did release in 2011 Windows Embedded Handheld 6.5, a mobile OS compatible with Windows Mobile 6.5 that's designed for enterprise mobile and handheld computing devices.
+
+Windows_Network_Setup_Wizard
+Windows XP has a built-in Network Setup Wizard that makes it easy to configure networking on computers running Windows 98, Windows 98 Second Edition, Windows Millennium Edition, and Windows XP. The Wizard does not work on computers running Windows 95, Windows NT, or Windows 2000. The Wizard can perform these tasks on a Windows XP computer:  Set up the computer as an Internet Connection Sharing server, which shares its Internet connection with other networked computers. Set up the computer as an Internet Connection Sharing client, which accesses the Internet through another computer. Create a bridge between two or more network connections, combining them into a single logical connection. Create a floppy disk containing the Wizard files so that the Wizard can run on another computer.   See also "XP ICS - Starting the Network Setup Wizard" on PracticallyNetworked.com.
+
+Windows_NT
+A version of the Windows operating system. Windows NT (New Technology) is a 32-bit operating system that supports preemptive multitasking.  There are actually two versions of Windows NT: Windows NT Server, designed to act as a server in networks, and Windows NT Workstation for stand-alone or client workstations. 
+
+windows_phone
+A mobile operating system for smartphones and mobile devices that serves as the successor to Microsoft's initial mobile OS platform system, Windows Mobile. Unlike Windows Mobile, Windows Phone 8 (also referred to as WinPho8) and later versions are targeted more to the consumer market than the enterprise market, and it replaces the more traditional Microsoft Windows OS look and feel with a new "Metro" design system user interface. 
+Metro's interface consists largely of a "Start screen" made up of "Live Tiles," which are links to applications and features that are dynamic and update in real time.  The Metro design is also expected to be prominently featured in Windows 8 as well. 
+As with Apple's iOS, Google's Android OS and the BlackBerry OS, third-party applications can be developed for Microsoft's Windows Phone and are made available through Microsoft's Windows Marketplace for Mobile. Microsoft doesn't enable smartphones running versions of the older Windows Mobile operating system to be upgraded to Windows Phone 7 or Windows Phone 8, and these versions also do not offer backward compatibility with Windows Mobile applications.
+
+windows_phone_8
+Officially announced in June 2012 after being in development under the codename Windows Phone Apollo, Windows Phone 8 is a mobile operating system for smartphones and other mobile devices that serves as the successor to Microsoft Windows Phone 7.
+Windows Phone 8 officially debuted in late October 2012, adding support for multicore processors, a new secure "wallet" system for managing sensitive credit card and other financial data, turn-by-turn navigation capabilities, support for high-definition displays, a new Start Screen with customizable tile sizes and more. 
+The new mobile OS is also based on the same core technologies as the Windows 8 operating system, sharing common networking, file system, security, multimedia and similar technology, including the Internet Explorer 10 Web browser.
+
+Windows_Photo_Gallery
+A Windows Vista tool that allows you to organize, find, and view photos and videos. Additionally, Windows Photo Gallery also offers quick access to printing, editing, and sharing photos and also transfers photos from your camera to your computer with a simple import process and allows users to create multimedia slide shows. Also see Windows Vista.
+
+Windows_ReadyBoost
+A Microsoft Windows Vista feature for adding memory to a system using flash memory, such as a  USB flash drive, to improve performance without having to add additional system memory. The flash memory device will work as an additional memory cache that the computer can access much more quickly than it can access data on the hard drive. When a removable memory device is inserted into a port, Windows Vista checks to see if its performance is fast enough to work with Windows ReadyBoost. If it's compatible you can then choose to use the memory device to speed up system performance. You also have the option to allocate all the drive to speed up performance or allocate only a portion and use the remainder for file storage.  Despite the performance boost offered by Windows ReadyBoost, adding RAM is the best way to improve performance of your computer.
+
+windows_rt
+One of the three editions of the forthcoming Windows 8 (along with Windows 8 standard and Windows 8 Pro), Windows RT is a tablet-focused operating system designed to run on mobile devices powered by ARM-based chips. While Windows RT has been developed for use on tablets and similar mobile devices, it isn't designed for smartphones, which will instead utilize the forthcoming Windows Phone 8 mobile operating system.
+The "RT" in Windows RT stands for runtime, and unlike the other two versions of Windows 8, Windows RT (also called WinRT and Windows on ARM) is an OEM-only edition that won't be available for purchase in stores. In addition to running on ARM-powered tablets, low-cost notebooks and other mobile devices from a variety of OEMs, Windows RT will also power Microsoft's own tablet device, the Microsoft Surface Tablet. 
+
+Windows_Server
+A series of server operating systems developed by Microsoft Corporation. Windows servers are more powerful versions of their desktop operating system counterparts and are designed to more efficiently handle corporate networking, Internet/intranet hosting, databases, enterprise-scale messaging and similar functions.
+The Windows Server name made its debut with the release of Windows Server 2003 and continues with the current release, Windows Server 2008 R2, which shares its codebase with Windows 7. Windows Server 2008 R2 debuted in October 2009 and currently has its first service pack (SP1) in development.
+
+windows_server_2012_essentials
+Windows Server 2012 Essentials is one of Windows Server 2012's four editions, along with Foundation, Standard and Datacenter. Windows Server 2012 Essentials serves as a $425 replacement for Windows Small Business Server and Windows Home Server, both of which Microsoft will be discontinuing with the release of Windows Server 2012.
+Among Windows Server 2012 Essentials' new features are Storage Spaces, File History, Remote Web Access (RWA) and native apps for Windows 8 and Windows Phone 8 operating systems.  Windows Server 2012 Essentials is expected to become available for purchase on October 26th, 2012.
+
+windows_server_2012_r2
+Windows Server 2012 R2 is the successor to Windows Server 2012, Microsoft’s enterprise server operating system. Developed under the Windows Server Blue codename, Windows Server 2012 R2 is expected to make its official debut in late 2013, with pricing to be announced at a later time.
+Among its many improvements, Windows Server 2012 R2 will include an enhanced Hyper-V hypervisor (Hyper-V 2012 R2) that is expected to provide the ability to compress virtual machines (VMs) during live migrations, automatic reallocation of memory between VMs running Linux as a guest on Hyper-V hosts; remote direct memory access (RDMA) support during live migrations, VM live cloning, and support for shared VHDX files.
+
+
+windows_server_8
+Windows Server 8 is the official codename for Microsoft's next generation server operating system and successor to the company's Windows Server 7 OS.   Currently available for evaluation as a release candidate download, Windows Server 8 is expected to be officially released later in 2012 in conjunction with the Windows 8 consumer edition.  Microsoft also recently reported that the new server OS will carry the official name of Windows Server 2012.
+
+windows_server_8_codename
+The official codename for the successor to Microsoft's Windows 7 Server operating system.  While the Windows Server 8 codename was initially rumored to be the launch name used for the next generation server OS, Microsoft has since reported that the new server OS will be named Windows Server 2012.  The Windows 8 codename is also being used for the desktop version of the operating system, as an official name for the desktop has not yet been announced.
+The official release of the Windows Server 2012 operating system is expected to arrive in late 2012, and a release candidate of Windows Server "8" is currently available for download from Microsoft.
+
+windows_server_blue
+The codename for the follow-up to Windows Server 2012, Microsoft’s server operating system. Windows Server Blue is expected to launch in late 2013 with the official name of Windows Server 2012 R2, and preview releases of the cloud-enabled server OS have already been made available for download.  The complete Windows Server Blue lineup will include Windows Server 2012 R2, System Center 2012 R2 (aka System Center Blue), SQL Server 2012 (SQL Server Blue) and Visual Studio 2013 (Visual Studio Blue). Pricing has not been announced to date for any of the Windows Server Blue editions.  Among its many new features and enhancements, Windows Server Blue is expected to provide enhanced integration and interoperability with Windows Azure, the public cloud platform offered by Microsoft, and Office 365, the online cloud-based version of Microsoft’s Office productivity suite.
+
+Windows_Sidebar
+Windows Sidebar is a pane on the side of the Windows Vista desktop that organizes gadgets (mini-applications with a wide variety of possible uses) and makes them easy to access. Also see Windows Vista.
+
+Windows_SideShow
+A Microsoft Windows Vista feature that enables developers to create new and extend existing applications, called gadgets, specifically for devices with small displays and limited interaction models. Examples of devices supported by Windows SideShow include displays attached to a  laptop, front panel computer displays, cellphones, digital picture frames, and other display devices.
+
+Windows_terminal
+A dumb terminal especially designed to run Windows applications. Windows terminals are connected to a Windows NT server through a network. All processing and data storage is handled by the server; the terminal does nothing more than send the user's input (keystrokes and mouse movements) to the server and display the results on the display screen. Because Windows NT is not a true multi-user operating system like UNIX, it requires additional software to support Windows terminals. The most popular software for this is called WinFrame.  
+
+Windows_Touch
+A feature in Microsoft's Windows 7 operating system that enables users with a touchscreen to simply point at what they want and move things around with their fingers. For example, you can move your hand to scroll through a Web page or use custom commands, such as moving your fingers apart to zoom in on an object. In Windows 7 the Start menu and taskbar support touch commands, as does several programs, including Paint.
+
+windows-universal-apps-universal-project
+Announced on April 02, 2014 at Build 2014, Microsoft's developer conference, universal apps for the Windows ecosystem enable developers to create one app that can be easily optimized to take full advantage of multiple Windows devices, including tablets, smartphones, desktop PCs and the Xbox One.
+Leveraging the Windows 8.1 Update
+According to Microsoft, the universal app for Windows projects allow developers to develop apps for the for Windows Phone 8.1 and Windows 8.1 Update that target the full range of Windows devices using Visual Studio 2013 Update 2 Release Candidate. Developers can use approximately 90 percent of the same code, a single packaging system, and a common user interface to target apps for phones, tablets and PCs. Users will only need to purchase the app once and it will work on multiple devices.
+More for App Developers
+Further improving app development, Microsoft will also release the next version of Windows App Studio, a Web-based tool for non-developers that enables the creation of universal Windows apps in a single project and update to the Windows Store to improve app discoverability and monetization.
+
+Windows_Vista
+Windows Vista (formerly code named Longhorn) is the next evolution of Microsoft's operating system. Vista offers an advancement in reliability, security, ease of deployment, performance and manageability over Windows XP. As of July 30, 2005 Windows Vista is in the beta 1 phase and is expected to be released late in 2006. Some of the Windows Vista features include the following:  Detects hardware problems before they occur, which is designed to reduce the frequency of incidents in which applications stop responding or the PC needs to be restarted. Windows Vista security features protect against the latest generation of threats, such as worms, viruses and spyware. If an attacker manages to compromise a computer, Windows Vista limits the damage. Security features protect against the latest generation of threats, such as worms, viruses and spyware. If an attacker manages to compromise a computer, Windows Vista limits the damage. Faster start-up time and low power consumption of the new sleep state. In many cases, Windows Vista is noticeably more responsive than Windows XP on identical hardware. Windows Vista simplifies and centralizes desktop configuration management, reducing the cost of keeping systems updated. 
+
+Windows_XP_ICS_Internet_Gateway
+When using Windows XP Internet Connection Sharing (ICS, an ICS client computer can be used to remotely monitor and control the ICS server computer's Internet connection. This Internet Gateway feature is available on computers running Windows 98, Windows 98 Second Edition, Windows Millennium Edition or  Windows XP that have been configured as an ICS client using XP's Network Setup Wizard. It isn't available if you've configured the clients manually.  If you're sharing an always-on DSL or cable modem connection, a client computer can enable or disable it. If you're sharing a dial-up connection, a client computer can connect or disconnect it, causing the ICS server computer to dial in or hang up. This can be a great convenience, since you don't have to go to the server computer to take these actions. But it can cause trouble if someone disables or disconnects the server's connection while other people are using the Internet.  See also "XP ICS - Internet Gateway" on  PracticallyNetworked.com.
+
+Windows_XP_Mode
+An add-on capability available from Microsoft for the Windows 7 operating system. Windows XP Mode is designed to provide Windows XP application compatibility for Windows 7. It provides a virtualized environment to run Windows XP applications that won't run directly on Windows 7 itself.   See "XP Mode Ready by Windows 7 Consumer Rollout" on InternetNews.com See also "Windows 7 Preview: Why I Like Windows 7" in Webopedia's Did You Know...? section.
+
+Windows_XP_Network_Bridge
+In Windows XP, a Network Bridge is a feature that is used to combine two or more local area networks (such as wired and wireless) into one logical network. Computers on each network can communicate with computers on all of the other networks, sharing files, printers and even an Internet connection.   To create a bridge between two or more network connections, open the Network Connections folder. Hold down the Ctrl key while clicking the desired connections, then right click one of them and select Bridge Connections. The Network Bridge will appear in the list of network connections, along with the connections that are included in the bridge.  The Network Bridge takes on most of the attributes of a normal network connection. To configure it, right click the Network Bridge and select Properties. You can add or remove connections from the bridge, enable protocols and clients, assign an IP address, create a connection icon in the notification area and other options. When a network connection is added to the Network Bridge, it loses its individual attributes. It no longer has an IP address, clients, protocols, and so on.   See also "XP ICS - Network Bridge" on  PracticallyNetworked.com.
+
+windows-xp-updates-security-hack
+A security hack that installs Windows XP security updates despite official Microsoft end of support for the operating system. The security hack makes a registry change to direct updates intended for Windows Embedded and Windows Server 2003 to Windows XP.
+As the updates are not intended for Windows XP, Microsoft cautions that installing the updates security hack could cause issues with system functionality for users.
+
+WinFrame
+A technology developed by Citrix Systems that turns Windows NT into a multi-user operating system. Together with another Citrix technology called ICA, WinFrame enables a Windows NT server to function like a minicomputer. The result is that network users on non-Windows machines (e.g., Macintoshes, DOS systems, and UNIX machines) can run Windows applications. The actual applications are executed on the WinFrame Application Server; the client machines are just terminals, used only for entering user input and displaying application output.  The ICA protocol is responsible for sending input and output between the client machines and the WinFrame server. Conceptually, the protocol is similar to X-Window, which serves the same purpose for UNIX systems.  
+
+Winlogon
+A component of the Windows operating system that provides interactive logon support. Winlogon is designed around an interactive logon model that consists of three components: the Winlogon executable, a Graphical Identification and Authentication dynamic-link library (DLL) referred to as the  GINA, and any number of network providers. Winlogon is not supported in Windows Me/98/95. [Source: MSDN Library]
+
+WINS
+Short for Windows Internet Naming Service, a system that determines the IP address associated with a particular network computer. This is called name resolution. WINS supports network client and server computers running Windows and can provide name resolution for other computers with special arrangements. Determining the IP address for a computer is a complex process when DHCPservers assign IP addresses dynamically. For example, it is possible for DHCP to assign a different IP address to a client each time the machine logs on to the network.
+WINS uses a distributed database that is automatically updated with the names of computers currently available and the IP address assigned to each one.
+DNSis an alternative system for name resolution suitable for network computers with fixed IP addresses.
+
+Winsock
+Short for Windows Socket, an API for developing Windows programs that can communicate with other machines via the TCP/IP protocol. Windows 95 and Windows NT comes with Dynamic Link Library (DLL) called winsock.dll that implements the API and acts as the glue between Windows programs and TCP/IP connections.  In addition to the Microsoft version of winsock.dll, there are other freeware and shareware versions of winsock.dll. However, there is no official standard for the Winsock API, so each implementation differs in minor ways.  
+
+Wintel
+Refers to the combination of the Windows operating system running on Intel microprocessors. The term is often used sarcastically to indicate the close alliance between Intel and Microsoft. Because Windows 3.x and Windows 95 run only on x86 microprocessor architectures, Intel and Microsoft support each other in ways that many feel is unhealthy for the computer industry as a whole. However, it should be pointed out that Windows NT runs on several non-x86 microprocessors, and there are other operating systems, such as Linux, that run on Intel microprocessors. 
+
+Winwebsec
+Win32/Winwebsec is a Trojan horse that is delivered via a fake YouTube link that entices users to download and install a rogue security Trojan. The Winwebsec page may contain a message like "I can't upload this to YouTube as it will get deleted. Click the link on the right to watch."The malicious page will then prompt a user to download a fake video codec and install the Trojan horse. Once installed the user will see fake security and virus infection warnings.  See also smitfraud. See also  Rogue Anti-Virus Software Explained in the Did You Know...? section of Webopedia.
+
+WIPO_treaties
+International treaties, signed in Geneva, Switzerland, in 1996, designed to bring uniformity to international copyright law. The purpose of the World Intellectual Property Organization (WIPO) is to promote the protection of intellectual property throughout the world through cooperation among states and, where appropriate, in collaboration with any other international organization, and to ensure administrative cooperation among the unions.
+
+wireframe
+Wireframes are an important design tool used in  Web development. It is a visualization tool for presenting proposed functions, structure and content of a Web page or Web site. A wireframe separates the graphic elements of a Web site from the functional elements in such a way that Web teams can easily explain how users will interact with the Web site. A typical wireframe includes:(1) key page elements and their location, such as header, footer, navigation, content objects, branding elements, (2) grouping of elements, such as side bars, navigation bars, content areas, (3) labeling, page title, navigation links, headings to content objects, and (4) place holders, content text and images.
+
+wirehead
+
+HTML clipboard
+&lt;!--
+.style1 {
+	color: #FF0000;
+}
+--&gt;
+A  slang term used to describe an individual who enjoys troubleshooting and  solving hardware or network  problems. It may also refer to an individual  who likes to tinker with hardware components to create new things.
+
+wireless
+The word wireless is dictionary defined as "having no wires". In networking terminology, wireless is the term used to describe any computer network where there is no physical wired connection between sender and receiver, but rather the network is connected by radio waves and/or microwaves to maintain communications. Wireless networking utilizes specific equipment such as NICs, APs and routers in place of wires (copper or optical fiber) for connectivity.
+See "How Wireless Networks Work" in the "Did You Know..." section of Webopedia.
+Also see the Wireless Networking Standards chart in the Quick Reference section of Webopedia.
+
+wireless_ASP
+Abbreviated WASP a wireless ASP provides the same service of a regular ASP but to wireless clients. WASPs are typically used in enterprises to connect a mobile workforce to company data, including e-mail, Internet access, CRM, ERP and company financials.
+
+wireless_bridge
+In wireless networking it is the hardware component which is used to connect two or more network segments which are physically separated.  See bridge. See also "How Wireless Networks Work" in the Did You Know... section of Webopedia. See also the "Wireless LAN Standards chart" in the Quick Reference section of Webopedia. Also see "'Wireless Fidelity' Debunked" on  Wi-FiPlanet.com.
+
+wireless-charging
+Wireless charging refers to technology and standards that enable consumers to charge electronic devices such as smartphones, tablets and wearable computing products without the need for physical wires.
+Wireless charging is made by possible by the principle of electromagnetic induction, in which coils of wire in a charging device create a magnetic field. An electric current flowing through this magnetic field can induce a current in an adjacent coil of wire that can form part of a battery charging circuit in an electronic device, enabling the device's battery power to be replenished.
+While wireless charging is more convenient than traditional wired charging, it typically does so at the expense of efficiency. In most cases wireless charging is only 60% to 70% as efficient as charging with a physical wire, resulting in additional time needed to fully charge a device.
+
+Wireless_Identification_Module
+See under WIM.
+
+wireless_imaging
+A term used to define the transfer of  images from one device to another, without the use of cords (wirelessly). This may be as complex as capturing and recording video through wireless security camera systems or even sending images from one smartphone to another, or sending images from a digital camera to a printer. Wireless Imaging is supported by wireless communication standards such as Wi-Fi, Bluetooth or IrDA.  Wireless imaging is a technology that also applies to the latest generation of consumer digital cameras. Wireless-enabled digital cameras and devices supports wireless communications cards and Internet protocols to enable users to send photos to anyone, anywhere, at the point of capture.
+
+wireless_internet
+Wireless Internet enables wireless connectivity to the Internet via radio waves rather than wires on a person's home computer, laptop, smartphone or similar mobile device.  Wireless Internet can be accessed directly through providers like AT&T, Verizon, T-Mobile, Boingo and Clearwire.
+While most wireless Internet options lack the high speed of landline broadband Internet connections such as cable and DSL, newer wireless Internet technologies like EV-DO and WiMAX are narrowing the gap, with maximum speeds of up to 7 Mbps in some cases.
+Wi-Fi hotspots and wireless LANs are also options for wireless Internet connectivity. In these cases, Internet connectivity is typically delivered to a network hub via a wired connection like satellite, cable, DSL or fiber optics and then made available to wireless devices via a wireless access point.
+
+wireless_mesh_network_WMN
+A wireless mesh network (WMN) is a mesh network implemented over a Wireless LAN (WLAN). In WMNs, communications between nodes and those between nodes and clients are over a radio link.  Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia. 
+
+wireless_modem
+A modem that accesses a private wireless data network or a wireless telephone system, such as the CDPD system. 
+
+wireless_monitor
+A monitor that does not require a wired connection to the computer system. The first wireless monitors are expected to be released in mid-2008 using wireless USB. To work, a wireless monitor must first packetize the graphics information so that it can be sent over a standard USB connection; then, a wireless USB transmitter picks it up and sends it; and finally, a receiver on the monitor takes in that data and converts it back into graphic pixels. Wireless monitors offer two basic configurations: adapter sets that let customers transform their existing displays, or monitors with wireless connectivity built-in. See also "2008: The Year of the Wireless Monitor" on  WiFi Planet.
+
+wireless_network_engineer
+Organizations are becoming more and more dependent on wireless technology to connect remote and mobile workers to the company network. Wireless network engineers design, implement, and optimize a company's wireless LAN and other wireless technologies.
+Wireless network engineering is on the cutting edge of data communications technology. According to a 2009 Cisco survey, 65 percent of IT managers expected to add dedicated wireless networking job roles in coming years.
+A bachelor-level computer engineering or computer science degree is the baseline qualification for a career as a wireless network engineer. Many engineers reach this advanced role by continuing on to a MS in computer engineering or an MBA in information systems. Certifications such as the Certified Wireless Network Expert (CWNE) or Cisco Certified Internetwork Expert (CCIE) also play an important role in keeping wireless network engineers up to date in the latest WLAN and remote networking technology.
+
+wireless_network_interface_controller
+Abbreviated as WNIC, a wireless network interface card is a network card which is used to connect radio-based computer networks. WNICs uses an antenna to communicate through microwaves and is typically connected using the computer's PCI bus or USB port. Similar to a Network Interface Card (NIC), the WNIC also works on Layer 1 and Layer 2 of the OSI Model.
+
+wireless_personal_area_network
+A wireless personal area network (WPAN) is a personal, short distance area wireless network for interconnecting devices centered around an individual person's workspace. WPANs address wireless networking and mobile computing devices such as PCs, PDAs, peripherals, cell phones, pagers and consumer electronics. WPANs are also called short wireless distance networks. See also wireless local-area network (WLAN).
+
+wireless_repeater
+Also called an expander, a wireless repeater is a device used to increase the effective coverage of your wireless  network. Differing from traditional access points, the newer generation of Wireless-G wireless repeaters do not need to be directly connected to your network via cables. Instead the device simply needs to be within range of your main access point and it will bounce the signals out to your remote wireless devices. See also repeater.
+
+Wireless_Transport_Layer_Security
+See WTLS. 
+
+wireless_USB_LAN_adapter
+A high-speed wireless network card that is used to access a network through a USB port on a computer or laptop. Most wireless USB LAN adapters look like small USB flash drives and usually are based on the 802.11g standard which provides a data rate up to 54-Mbps in a wireless LAN environment. Some wireless USB LAN adapters may also support the  802.11b standard. A wireless USB LAN adapter basically enables you to share files, folders, printers, other network resources and Internet access.
+
+
+Wireless_Zero_Configuration
+Available in Windows XP and Windows Server 2003, Wireless Zero Configuration is a feature used to dynamically select the wireless network to which to attempt connection, based either on your preferences or on default settings. This includes automatically selecting and connecting to a more preferred wireless network when it becomes available. If none of the preferred wireless networks are found nearby, Wireless Auto Configuration configures the wireless adapter so that there is no accidental connection until the wireless client roams within the range of a preferred network.  [Source:  Microsoft.com]
+
+Wireless_G
+A 54 Mbps wireless networking standard that has become popular due to its speed advantage over the widely used 802.11b (Wireless-B) standard. Wireless-G uses the same 2.4 GHz radio band that 802.11b uses and Wireless-G (802.11g) devices can also work with existing 11Mbps 802.11b equipment. See also 802.11 networking standards.
+
+WirelessHD
+Abbreviated as WiHD,  WirelessHD is an industry-defined specification for a wireless digital network interface specification for consumer electronics. A wireless digital interface combines uncompressed high-definition video, multi-channel audio, intelligent format and control data, and Hollywood approved content protection. The WirelessHD specification has been architected in its first generation implementation high-speed rates from 2 Gbps to 5 Gbps for the CE, PC, and portable device segments.
+
+WISP
+Short for wireless ISP,  an Internet Service Provider (ISP) that offers services Internet connection services to subscribers using a wireless connection. See also ISP.
+
+wizard
+(1) A utility within an application that helps you use the application to perform a particular task. For example, a "letter wizard" within a word processing application would lead you through the steps of producing different types of correspondence.  (2) An outstanding programmer. Also called a super- programmer. Common wisdom holds that one wizard is worth ten average programmers.  (3) The system administrator for a chat room or MUD. 
+
+WLAN
+Acronym for wireless local-area network. Also referred to as LAWN. A type of local-area network that uses high-frequency radio waves rather than wires to communicate between nodes.
+Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+WLL
+Fixed wireless refers to wireless devices or systems that are situated in fixed locations, such as an office or home, as opposed to devices that are mobile, such as smartphones and tablets. Fixed wireless devices normally derive their electrical power from utility mains, as opposed to portable wireless devices that normally derive their power from batteries.
+The point-to-point signal transmissions occur through the air over a terrestrial microwave platform rather than through copper or fiber cables; therefore, fixed wireless does not require satellite feeds or local phone service. The advantages of fixed wireless include the ability to connect with users in remote areas without the need for laying new cables and the capacity for broad bandwidth that is not impeded by fiber or cable capacities.
+Another name for fixed wireless is wireless local loop (WLL).
+
+WMA
+Short for Windows Media Audio, a Microsoft file format for encoding digital audio files similar to MP3 though can compress files at a higher rate than MP3. WMA files, which use the ".wma" file extension, can be of any size compressed to match many different connection speeds, or bandwidths.
+
+WMF
+Short for Windows Metafile Format, graphics file format used to exchange graphics information between Microsoft Windows applications. WMF files can hold both vector and bit-mapped images.   
+
+WMI
+Short for Windows Management Instrumentation, an API in the Windows operating system that enables devices and systems in a network, typically enterprise networks, to be managed and controlled. Utilizing CIM, WMI allows network administrators to query and set information on workstations, applications and networks.
+
+WML
+Short for Wireless Markup Language, an XML language used to specify content and user interface for WAP devices; the WAP forum provides a DTD for WML.   WML is supported by almost every mobile phone browser around the world.   WML pages are requested and served in the same way as HDML pages. For Web servers to serve WML pages, they must contain the text/vnd.wap.wml mime type. 
+
+WMM
+WMM stands for Wi-Fi Multimedia. It is a standard created to define quality of service (QoS) in Wi-Fi networks. It is a precursor to the upcoming IEEE 802.11e WLAN QoS draft standard, which is meant to improve audio, video and voice applications transmitted over Wi-Fi. WMM adds prioritized capabilities to Wi-Fi networks and optimizes their performance when multiple concurring applications, each with different latency and throughput requirements, compete for network resources.
+
+WMP
+
+Ever encounter a file extension you've never seen before? Check this page for more 3,700 data formats and their corresponding file extensions.
+Webopedia's Guide to File Formats and File Extensions
+In the list below, search for a file extension by the letter it starts with or you can view the complete list of more than 3,700 file extensions.
+
+
+
+Number  	Symbol  	A  	B  	C  	D  	E  	F  	G  	H  	I  	J  	K   L  	M  	N  	O  	P  	Q  	R  	S  	T  	U  	V  	W  	X  	Y  	Z  	Full List
+
+
+
+Data Files Related Terminology
+The following data files and formats glossary will help you to better understand how files are stored and are accessed on your computer.
+What is a File Format?
+File format is a format for encoding information in a file. Each different type of file has a different file format. The file format specifies first whether the file is a binary or ASCII file, and second, how the information is organized.
+
+WMS
+Short for Web Map Service, WMS is the production of spatially referenced data dynamically from geographic information. The map itself is an actual portrayal of geographic information presented as a digital image  file for display on a computer. WMS maps are in picture formats such as PNG, GIF or JPEG, or as Scalable Vector Graphics (SVG) or Web Computer Graphics Metafile (WebCGM) formats. WMS is commonly used in the Geographic Information Systems industry.
+
+WMV
+
+Ever encounter a file extension you've never seen before? Check this page for more 3,700 data formats and their corresponding file extensions.
+Webopedia's Guide to File Formats and File Extensions
+In the list below, search for a file extension by the letter it starts with or you can view the complete list of more than 3,700 file extensions.
+
+
+
+Number  	Symbol  	A  	B  	C  	D  	E  	F  	G  	H  	I  	J  	K   L  	M  	N  	O  	P  	Q  	R  	S  	T  	U  	V  	W  	X  	Y  	Z  	Full List
+
+
+
+Data Files Related Terminology
+The following data files and formats glossary will help you to better understand how files are stored and are accessed on your computer.
+What is a File Format?
+File format is a format for encoding information in a file. Each different type of file has a different file format. The file format specifies first whether the file is a binary or ASCII file, and second, how the information is organized.
+
+WOL
+WOL is short for Wake-on-LAN.
+Often, IT personnel prefer to maintain client systems after employees have gone home. Even if these tasks are automated, client machines must be left on. In the past, if they weren't left on, personnel had to manually turn them on. Using wake-on-LAN, however, enables client systems to be remotely and automatically powered up.
+Wake-on-LAN technology resides in a PC's managed network adapter and motherboard. The two are attached via a wake-on-LAN cable terminated by a 3-pin connector on each side.
+
+Wolfpack
+The codename for Microsoft's clustering solution. Wolfpack was released in September, 1997 as part of Windows NT 4.0, enterprise Edition. Its official name is Microsoft Cluster Server (MSCS).
+ 
+
+woot
+ Slang term used mainly by computer enthusiasts to express excitement or joy. Also spelled w00t.
+
+WOPC_II
+Short for Walking Optimal Power Control II, WOPC II is an algorithm that dynamically adjusts laser power to optimize quality across different types of media.  Unlike other drives which preset the writing power before the actual writing of data, the Walking Optimal Power Control algorithm evaluates the writing quality constantly and adjusts the writing power accordingly in order to ensure the best possible writing quality over the entire disc. WOPC technology is commonly found in BenQ products which contain "Write Right Technology" which utilizes WOPC II.
+
+word2
+(1) In word processing, any group of characters separated by spaces or punctuation on both sides. Whether it is a real word or not is unimportant to the word processor.  (2) In programming, the natural data size of a computer. The size of a word varies from one computer to another, depending on the CPU. For computers with a 16-bit CPU, a word is 16 bits (2 bytes). On large mainframes, a word can be as long as 64 bits (8 bytes).  Some computers and programming languages distinguish between shortwords and longwords. A shortword is usually 2 bytes long, while a longword is 4 bytes.  (3) When capitalized, short for Microsoft Word.  
+
+word_processing
+Word processing is the phrase used to describe using a computer to create, edit, and print documents. Of all computer applications, word processing is the most common. To perform word processing, you need a computer, a special program called a word processor, and a printer. A word processor enables you to create a document, store it electronically on a disk, display it on a screen, modify it by entering commands and characters from the keyboard, and print it on a printer.
+Recommended Reading:  SOHO Business Solutions: Office Productivity Software.
+Word Processing Compared to Using a Typewriter
+The great advantage of word processing over using a typewriter is that you can make changes without retyping the entire document. If you make a typing mistake, you simply back up the cursor and correct your mistake. If you want to delete a paragraph, you simply remove it, without leaving a trace. It is equally easy to insert a word, sentence, or paragraph in the middle of a document. Word processors also make it easy to move sections of text from one place to another within a document, or between documents. When you have made all the changes you want, you can send the fileto a printer to get a hard copy.
+
+word_processor
+A program or computer that enables you to perform word processing functions.   
+
+word_wrap
+In word processing, a feature that causes the word processor to force all text to fit within the defined margins. When you fill one line with text, the word processor automatically jumps to the next line so that you are not required to keep track of line lengths and to press the Return key after each line. The word processor divides lines in such a way that a word is never split between two lines (unless the word processor supports hyphenation).
+Word wrap also occurs if you change the margins. In this case, the word processor readjusts all the text so that it fits within the new margins.
+Note that word wrap inserts a soft return at the end of each line, not a hard return. Soft returns are invisible codes that the word processor utilizes. Hard returns are real characters inserted into the document.
+
+WordPerfect
+One of the most popular word processors for PCs and Apple Macintoshes. 
+
+wordpress
+A popular free open source content management and blog system platform. Based on PHP and MySQL, WordPress enables users to create sophisticated, professional-looking web sites and blogs. WordPress is available under the General Public License (GPL) version 2.0.
+WordPress competes in the content management market with other services like Drupal and Joomla, and it currently powers more than 73 million web sites. WordPress also offers users an extensive selection of plug-ins and templates, or themes, to extend the functionality and customizability options of the platform.
+Version 3.0 of WordPress introduced a new feature, WordPress Multi-User or WordPress MU, which makes it possible to create multiple blogs with a single installation of WordPress that can be administered from a centralized administration panel.
+
+workflow
+The defined series of tasks within an organization to produce a final outcome. Sophisticated workgroup computing applications allow you to define different workflows for different types of jobs. So, for example, in a publishing setting, a document might be automatically routed from writer to editor to proofreader to production. At each stage in the workflow, one individual or group is responsible for a specific task. Once the task is complete, the workflow software ensures that the individuals responsible for the next task are notified and receive the data they need to execute their stage of the process. 
+
+workgroup_computing
+A workgroup is a collection of individuals working together on a task. Workgroup computing occurs when all the individuals have computers connected to a network that allows them to send e-mail to one another, share data files, and schedule meetings. Sophisticated workgroup systems allow users to define workflows so that data is automatically forwarded to appropriate people at each stage of a process.   
+
+workgroup_productivity_package
+Software software packages that include e-mail, calendar programs, scheduling programs, and other utilities that promote communication between users on a local-area network. 
+
+working_directory
+The directory in which you are currently working. Pathnames that do not start with the root directory are assumed by the operating system to start from the working directory. 
+
+workstation
+(1) A type of computer used for engineering applications (CAD/CAM), desktop publishing, software development, and other types of applications that require a moderate amount of computing power and relatively high quality graphicscapabilities.
+Workstations generally come with a large, high-resolution graphics screen, at least 64 MB (megabytes) of RAM, built-in network support, and a graphical user interface. Most workstations also have a mass storage device such as a disk drive, but a special type of workstation, called a diskless workstation, comes without a disk drive. The most common operating systems for workstations are UNIX and Windows NT.
+In terms of computing power, workstations lie between personal computers and minicomputers, although the line is fuzzy on both ends. High-end personal computers are equivalent to low-end workstations. And high-end workstations are equivalent to minicomputers.
+
+world_roaming
+A GSM technology that allows some digital mobile phones to be used in different parts of the world.
+
+World_Wide_Web
+The World Wide Web is a system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML (HyperText Markup Language) that supports links to other documents, as well as graphics, audio, and video files. This means you can jump from one document to another simply by clicking on hot spots. Not all Internet servers are part of the World Wide Web.
+
+WEBOPEDIA FACTOID
+The size of the World Wide Web: According to WorldWideWebSize.com the indexed Web contains at least 3.32 billion pages as of July 10, 2014.
+
+
+There are several applications called Web browsers that make it easy to access the World Wide Web; Two of the most popular being Firefox and Microsoft's Internet Explorer.
+
+worm
+(1) A program or algorithm that replicates itself over a computer network and usually performs malicious actions, such as using up the computer's resources and possibly shutting the system down. Also see virus.
+Also see The Difference Between a Virus, Worm and Trojan Horse  in the Did You Know? section of Webopedia. 
+(2) When used in all capital letters, WORM is an acronym for for write once, read many, an optical disk technology that allows you to write data onto a disk just once. After that, the data is permanent and can be read any number of times.
+
+WOW
+Short for Win16 on Win32, a collection of programs in Windows NT and later operating systems that allows 16-bit applications to run in a 32-bit Windows environment through a process called thunking. Without WOW, Win32 programs cannot communicate with Win16 programs, though the ability to do so is often necessary with legacy systems or when systems use 16-bit applications with newer 32-bit operating systems. WOW is designed to make the differences between 16-bit and 32-bit applications invisible to the user.
+
+WPA
+Short for Wi-Fi Protected Access, a Wi-Fi standard that was designed to improve upon the security features of WEP. The technology is designed to work with existing Wi-Fi products that have been enabled with WEP (i.e., as a software upgrade to existing hardware), but the technology includes two improvements over WEP:
+
+Improved data encryption through the temporal key integrity protocol (TKIP). TKIP scrambles the keys using a hashing algorithmand, by adding an integrity-checking feature, ensures that the keys haven��t been tampered with.
+User authentication, which is generally missing in WEP, through the extensible authentication protocol (EAP). WEP regulates access to a wireless network based on a computer��s hardware-specific MAC address, which isrelatively simple to be sniffed out and stolen. EAP is built on a more secure public-key encryption system to ensure that only authorized network users can access the network.
+
+It should be noted that WPA is an interim standard that will be replaced with the IEEE��s 802.11i standard upon its completion.
+
+wpa_enterprise
+A router (or Wi-Fi router) feature that is designed to authenticate individual users to an external server via username and password. WPA Enterprise also gives each PC a unique encryption key, which the user never sees, so they can't share it. To use WPA/WPA2 Enterprise you need a RADIUS server.
+See Common Router IP and Settings. See also "10 Must-Have Features for Your Next Wi-Fi Router" on Practically Networked.com. 
+
+WPA2
+Short for Wi-Fi Protected Access 2, the follow on security method to WPA for wireless networks that provides stronger data protection and network access control. It provides enterprise and consumer Wi-Fi users with a high level of assurance that only authorized users can access their wireless networks. Based on the IEEE 802.11i standard, WPA2 provides government grade security by implementing the National Institute of Standards and Technology (NIST) FIPS 140-2 compliant AES encryption algorithm and 802.1x-based authentication.  [Adapted from Wi-Fi.org]
+There are two versions of WPA2: WPA2-Personal, and WPA2-Enterprise. WPA2-Personal protects unauthorized network access by utilizing a set-up password. WPA2-Enterprise verifies network users through a server. WPA2 is backward compatible with WPA.
+
+WPA2_PSK
+Short for Wi-Fi Protected Access 2 - Pre-Shared Key, and also called WPA or WPA2 Personal,  it is a method of securing your network using WPA2 with the use of the optional Pre-Shared Key (PSK) authentication, which was designed for home users without an enterprise authentication server. 
+To encrypt a network with WPA2-PSK you provide your router not with an encryption key, but rather with a plain-English passphrase between 8 and 63 characters long. Using a technology called TKIP (for Temporal Key Integrity Protocol), that passphrase, along with the network SSID, is used to generate unique encryption keys for each wireless client. And those encryption keys are constantly changed. Although WEP also supports passphrases, it does so only as a way to more easily create static keys, which are usually comprised of the hex characters 0-9 and A-F.
+See also "The Differences Between WEP and WPA" in the "Did You Know?" section of Webopedia.
+
+WPAD
+Short for Web Proxy AutoDiscovery, an Internet protocol that enables a Web browser to automatically connect to a cache server (or proxy server) location in a network in order to retrieve stored Web pages at a quicker rate than having to leave the network in order to request the Web page from the originating site��s Web server. A WPAD-enabled client first uses DHCP to find a cache service, then the Service Location Protocol (SLP) if unsuccessful. If the cache server is still not found, the WPAD-enabled client then searches DNS records.  WPAD is used by networks with a large number of users, such as enterprise networks and ISPs.
+
+WRAM
+Short for Windows RAM, a type of RAM developed by Samsung Electronics that supports two ports. This enables a video adapter to fetch the contents of memory for display at the same time that new bytes are being pumped into memory. This results in much faster display than is possible with conventional single-port RAM.  WRAM is similar to VRAM, but achieves even faster performance at less cost because it supports addressing of large blocks (windows) of video memory. 
+
+wrap_plug
+Another name for a loopback plug.
+
+wrapper
+Software that accompanies resources or other software for the purposes of improving convenience, compatibility, or security. For example, a wrapper is used to compress and encrypt software that is being sold over the Internet. It is also used to make EDI - a decades-old electronic commerce standard - compatible with the Internet. The term can also apply to hardware: the casing around a Pentium II CPU is called a wrapper. 
+
+write
+To copy data from main memory to a storage device, such as a disk. 
+
+write_endurance
+In flash-based solid state  disks the write endurance is the number of write cycles to a block of flash memory. Once you have met the write endurance limit the disk may become unreliable.
+
+write_once_read_many
+See WORM. 
+
+write_back_cache
+A caching method in which modifications to data in the cache aren't copied to the cache source until absolutely necessary. Write-back caching is available on many microprocessors, including all Intel processors since the 80486. With these microprocessors, data modifications (e.g., write operations) to data stored in the L1 cache aren't copied to main memory until absolutely necessary. In contrast, a write-through cacheperforms all write operations in parallel -- data is written to main memory and the L1 cache simultaneously.
+Write-back caching yields somewhat better performance than write-through caching because it reduces the number of write operations to main memory. With this performance improvement comes a slight risk that data may be lost if the system crashes.
+A write-back cache is also called a copy-back cache.
+
+write_protect
+)To mark a file or disk so that its contents cannot be modified or deleted. When you want to make sure that neither you nor another user can destroy data, you can write-protect it. Many operating systems include a command to write-protect files. You can also write-protect 5¼-inch floppy disks by covering the write-protect notch with tape. 3½-inch floppy diskettes have a small switch that you can set to turn on write-protection.  Write-protected files and media can only be read; you cannot write to them, edit them, append data to them, or delete them. 
+
+WS_ReliableMessaging
+The WS-ReliableMessaging specification is a SOAP-based RPC protocol that defines a set of mechanisms that allow developers of Web services to ensure that messages, usually SOAP or XML documents conforming to the SOAP specification, are delivered reliably between two endpoints.  Also see "Understanding Web Services" in the "Did You Know...?" section of Webopedia. 
+
+WSDL
+Short for Web Services Description Language, an XML-formatted language used to describe a Web service's capabilities as collections of communication endpoints capable of exchanging messages. WSDL is an integral part of UDDI, an XML-based worldwide business registry. WSDL is the language that UDDI uses. WSDL was developed jointly by Microsoft and IBM. Also see Understanding "Web Services" in the "Did You Know...?" section of Webopedia.
+
+WSGI
+Short for Web Server Gateway Interface, WSGI is a standard interface for Python Web applications to communicate with Web servers. WSGI separates the Web application from the Web server, similar to a Java servlet enabling Web framework developers to easily interface with Web servers. WSGI is also used to build Web applications.   See also "Building a Photo Gallery with Python and WSGI" on  Developer.com.
+
+white_screen_of_death
+Abbreviated WSoD, the White Screen of Death or simply "White Death" refers to an error or issue with an operating system that causes the computer or device to stop working and display only a white screen.
+The White Screen of Death most often refers to an Apple iPod or iPhone that has locked up due to the device being severely dropped, a hardware component failing, or an attempted operating system or application upgrade that fails to successfully update.  iPod, iPad or iPhone users with a WSoD will see either a completely blank white screen or a frozen display that shows only the Apple logo.
+How to Fix the White Screen of Death
+As with the more widely known blue screen of death (BSoD) that affects computers running Windows, the white screen of death generally requires a reboot in order to operate properly again. If restarting the device fails to correct the issue, the White Screen of Death might be resolved by trying one or more of the following: hard rebooting the device, resetting the factory settings, reconnecting the LCD cables to the screen display, or sending the device in for repair if none of the previous options works.
+
+WSP
+(1) WSP is an abreviation for Wireless Session Protocol
+The Session layer protocol family in the WAP architecture is called the Wireless Session Protocol, WSP. WSP provides the upper-level application layer of WAP with a consistent interface for two session services. The first is a connection-mode service that operates above a transaction layer protocol WTP, and the second is a connectionless service that operates above a secure or non-secure datagram transport service.
+(2) WSP is an abbreviation for Web Standards Project
+The Web Standards Project is a collective project and effort of Web developers, tool developers, and end users whose goal is to stop the fragmentation of the web by persuading the  browser makers that common standards are in everyone's best interest.
+
+WTB
+On eBay, eBay alternatives, and classified ad Web sites, WTB is an abbreviation used to mean wanted to buy. This abbreviation would be used by a person who is looking to buy a particular item. Most classified and eBay alternatives offer a forum discussion thread where members can post items they are looking to buy. See also "Online Auction Abbreviations" in the  Quick Reference section of Webopedia.
+
+WTLS
+Short for Wireless Transport Layer Security. WTLS is the security layer of the WAP, providing privacy, data integrity and authentication for WAP services. WTLS, designed specifically for the wireless environment, is needed because the client and the server must be authenticated in order for wireless transactions to remain secure and because the connection needs to be encrypted. For example, a user making a transaction with a bank over a wireless device needs to know that the connection is secure and private and not subject to a security breach during transfer (sometimes referred to as a man-in-the-middle attack). WTLS is needed because mobile networks do not provide complete end-to-end security.   WTLS is based on the widely used TLS v1.0 security layer used in Internet. Because of the nature of wireless transmissions, modifications were made to the TLS v1.0 in order to accommodate for wireless' low bandwidth, datagram connection, limited processing power and memory capacity, and cryptography exporting restrictions. 
+
+wugging
+Slang term that means Web use giving. The term wugging means to raise charity money through the Internet and Web sites. No cost is incurred by the user as the money is earned through affiliate programs as well as search engine advertisers. One of the most common forms of wugging are using a charity sponsored search engine while shopping online. An example of wugging is the iBakeSale Web site, which lets users sign up schools and other organizations and receive cash-back rewards for their organizations while making purchases online.
+
+WWAN
+Short for Wireless WAN (wide-area network), a wireless computer networkthat spans a relatively large geographical area.
+See also WAN.
+
+WWW1
+The WWW prefix (short for World Wide Web) that precedes URL addresses is an indication that the Web address exists on the vast network of the World Wide Web. Sometimes in a URL the "WWW" is followed by a number, such as "WWW1" or "WWW2." The number that follows the "WWW" indicates that the data being retrieved by the Web browser is gathering the information from a different Web server than the one that serves the typical "WWW" address.
+Web sites, especially dynamic Web sites, that handle large amounts of traffic often need more than one server to accommodate the many requests they receive as one server often cannot handle the multitude of requests. The numbers that follow the "WWW�� refer to different Web servers, often as elements of a server farm, that all contain the exact same information. The servers are used in coordination with each other for load balancing. An example of this system is www.google.com, which uses multiple servers to handle all its traffic. Sometimes the user��s physical location determines which server receives the routed requests, and sometimes the different servers are used when one or more of the servers need to be taken offline in order to be updated with current information.
+
+WXGA
+Wide XGA (WXGA) is a display class (or standard) that supports a resolution of 1366 to 1280 pixels horizontally and 768 to 720 pixels vertically. WXGA is a standard commonly associated with LCD computer monitors and televisions used for widescreen display and projection.
+
+WYSIWYG
+Pronounced WIZ-zee-wig. Short for what you see is what you get. A WYSIWYG application is one that enables you to see on the display screen exactly what will appear when the document is printed. This differs, for example, from word processors that are incapable of displaying different fonts and graphics on the display screen even though the formatting codes have been inserted into the file. WYSIWYG is especially popular for desktop publishing.
+Note that the WYSIWYGness of an application is relative. Originally, WYSIWYG referred to any word processor that could accurately show line breaks on the display screen. Later WYSIWYGs had to be able to show different font sizes, even if the screen display was limited to one typeface. Now, a word processor must be able to display graphics and many different typefaces to be considered WYSIWYG.
+Still, some WYSIWYG applications are more WYSIWYG than others. For example, many desktop publishing systems print text using outline fonts (PostScript fonts, for example). Many of these systems, however, use corresponding bit-mapped fonts to display documents on a monitor. What you see on the display screen, therefore, is not exactly what you see when you print out the document. In addition, standard laser printers have a resolution of at least 300 dpi, whereas even the best graphics monitorshave resolutions of only 100 dpi. Graphics and text, therefore, always look sharper when printed than they do on the display screen. And colors often appear differently on a monitor than they do when printed out.
+
+WYSIWYP
+Short for what you see is what you print, and pronounced wizzy-whip, refers to the ability of a computer system to print colors exactly as they appear on a monitor. WYSIWYP printing requires a special program, called a color management system (CMS) to calibrate the monitor and printer. 
+

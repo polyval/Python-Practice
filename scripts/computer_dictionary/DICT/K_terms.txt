@@ -1,0 +1,301 @@
+K
+
+In decimal systems, kilo stands for 1,000, but in binary systems, a kilo is 1,024 (2 to the 10th power). Technically, therefore, a kilobyte is 1,024 bytes, but it is often used loosely as a synonym for 1,000 bytes. For example, a computer that has 256K main memory can store approximately 256,000 bytes (or characters) in memoryat one time.
+A megabyte is 2 to the 20th power (approximately 1 million) and a gigabyteis 2 to the 30th power (approximately 1 billion).
+In computer literature, kilobyte is usually abbreviated as K or KB. To distinguish between a decimal K (1,000) and a binary K (1,024), the IEEE has suggested following the convention of using a small k for a decimal kilo and a capital Kfor a binary kilo, but this convention is by no means strictly followed.
+
+K56flex
+
+A technology developed by Lucent Technologies and Rockwell International for delivering data rates up to 56 Kbps over plain old telephone service (POTS). It was long believed that the maximum data transmission rate over copper telephone wires was 33.6 Kbps, but K56flex achieves higher rates by taking advantage of the fact that most phone switching stations are connected by high-speed digital lines. K56flex bypasses the normal digital-to-analog conversion and sends the digital data over the telephone wires directly to your modem where it is decoded.  Lucent and Rockwell have announced that future K56flex modems will conform to the new V.90 standard approved by the ITU. And users with older K56flex modems may upgrade their modems to support V.90.  While K56flex offers faster Internet access than normal modems, there are several caveats to using an K56flex modem:  1. The high speeds are available only with downstream traffic (e.g., data sent to your computer). Upstream traffic is delivered using normal techniques, with a maximum speed of 33.6 Kbps.  2. To connect to the Internet at K56flex speeds, your Internet Service Provider (ISP) must have a modem at the other end that supports V.90.  3. Even if your ISP supports V.90, you might not achieve maximum transmission rates due to noisy lines. 
+
+K6
+
+A microprocessor from AMD that supports the MMX instruction set. The K6 is completely compatible with Intel's Pentium processors. 
+
+KB
+
+Short for kilobyte. When used to decribe data storage, KB usually represents 1,024 bytes. When used to describe data transfer rates, KB represents 1,000 bytes. 
+
+Kbps
+
+Short for kilobits  per second, a measure of data transfer speed. Modems, for example, are measured in Kbps. Note that one Kbps is 1,000 bits per second, whereas a KB (kilobyte) is 1,024 bytes. Data transfer rates are measured using the decimal meaning of K whereas data storage is measured using the powers-of-2 meaning of K. Technically, kbps should be spelled with a lowercase k to indicate that it is decimal but almost everyone spells it with a capital K.
+
+
+KDE
+
+Acronym for K Desktop Environment. A network-transparent contemporary desktop environment for UNIX workstations. KDE is part of the free software, or open source, movement, which competes with the more common commercial operating system /desktop platforms on the market. KDE is free to anyone and its source code is available to anyone to modify. Development of KDE takes place across the Internet where users share information with each other regarding current developments of the system. 
+
+Kerberos
+
+An authentication system developed at the Massachusetts Institute of Technology (MIT). Kerberos is designed to enable two parties to exchange private information across an otherwise open network. It works by assigning a unique key, called a ticket, to each user that logs on to the network. The ticket is then embedded in messages to identify the sender of the message.  
+
+Kermit
+
+A communications protocol and set of associated software utilities developed at Columbia University. Kermit can be used to transfer files or for terminal emulation. It is frequently used with modem connections, although it also supports communications via other transport mechanisms such as TCP/IP.  Kermit is noted for its transmission accuracy and slow transmission speeds due to its default settings that optimize for accuracy. However, Kermit can also be tuned to transfer data as quickly as any other data transfer protocol.  Kermit is not in the public domain, but Columbia University allows people to use the protocol for free, so almost all communications products support it. However, not all implementations support the full protocol. This has led some people to refer to an advanced version of Kermit as Super Kermit. Actually, there is only one version of the Kermit protocol, which supports all the advanced features usually attributed to Super Kermit, such as sliding windows and long packets.  Other file-transfer protocols used by modems include Xmodem and Zmodem. 
+
+kernel
+
+The kernel is the central module of an operating system (OS). It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. The the kernel code is usually loaded into a protected area of memory to prevent it from being overwritten by programs or other parts of the operating system.
+Typically, the kernel is responsible for memory management, process and task management, and disk management. The kernel connects the system hardware to the application software. Every operating system has a kernel. For example the Linux kernel is used numerous operating systems including Linux, FreeBSD, Android and others.
+
+kernel32_dll
+
+Kernel32.dll is the 32-bit dynamic link library found in the Windows operating system kernel. It handles memory management, input/output operations, and interrupts. When Windows boots up, kernel32.dll is loaded into a protected memory space so other applications do not take that space over.   On occasion, though, users may encounter the "invalid page fault" error.   This error occurs when a program or application tries to access kernel32.dll's protected memory space. Sometimes the error is caused by one particular program or application, and other times it is provoked by multiple files and applications.   If the problem results from running one application, then the application needs to be replaced. If the problem occurs when accessing multiple files and applications, the corruption is probably caused by faulty hardware. 
+
+kerning
+
+)In typography, kerning refers to adjusting the space between characters, especially by placing two characters closer together than normal. Kerning makes certain combinations of letters, such as WA, MW, TA, and VA, look better.  Only the most sophisticated word processors and desktop publishing systems perform kerning. Normally, you can activate or deactivate kerning for particular fonts. * Kerning image courtesy of Aspen Design.
+
+Kevin_Mitnick
+
+)Kevin David Mitnick is one of the most famous criminal hackers to be jailed and convicted. Born August 6, 1963, Mitnick earned the title of 'the most wanted computer criminal in U.S. history'.In 1995 he was arrested, and then served close to five years in a federal prison for the charges of wire fraud, computer fraud and intercepting communications.  Giving testimony before Congress, Kevin once said,  "I have gained unauthorized access to computer systems at some of the largest corporations on the planet, and have successfully penetrated some of the most resilient computer systems ever developed. I have used both technical and non-technical means to obtain the source code to various operating systems and telecommunications devices to study their vulnerabilities and inner workings." [Source: Datamation] [Photograph courtesy of Datamation]
+
+key
+
+(1) A button on a keyboard.
+(2) In database management systems, a key is a field that you use to sort data. It can also be called a key field , sort key, index, or key word. For example, if you sort records by age, then the age field is a key. Most database management systems allow you to have more than one key so that you can sort records in different ways. One of the keys is designated the primary key, and must hold a unique value for each record. A key field that identifies records in a different table is called a foreign key.
+(3) A passwordor table needed to decipher encoded data.
+
+key_effect
+
+In video editing, a key effect is used to remove a color or background from a video clip or an image to see the image or video behind it. Also called color key out.See also Chroma Key.
+
+key_escrow
+
+(kē es´krō) (n.) A data security measure in which a cryptographic key is entrusted to a third party (i.e., kept in escrow). Under normal circumstances, the key is not released to someone other than the sender or receiver without proper authorization. Key escrow systems can be considered a security risk at the user puts access to information into the hands of the escrow agent holding the cryptographic key; however, key escrow systems are used to ensure that there is a backup of the cryptographic key in case the parties with access to key lose the data through a disaster or malicious intent.  The Clipper chip brought the idea of key escrow into the public consciousness.
+
+key_fob
+
+A fob, or more commonly called a key fob, is a small security hardware device with built-in authentication used to control and secure access to network services  and data. The key fob displays a randomly generated access code, which changes periodically, usually every 30 to 60 seconds. A user first authenticates themselves on the key fob with a personal identification number (PIN), followed by the current code displayed on the device.
+Key fob is also a word used to describe a key chain and several other similar items and devices. The word fob is believed to have originated from watch fobs, which existed as early as 1888. The fob refers to an ornament attached to a pocket-watch chain. Key chains, car starters, garage door openers, and keyless entry devices on hotel room doors are also called fobs.
+
+key_length
+
+The number of binary digits, or bits, in an encryption algorithm��s key. Key length is sometimes used to measure the relative strength of the encryption algorithm (i.e., the longer the key length, the more difficult the key is to decode).
+
+key_lime_pie
+
+Key Lime Pie is the dessert-themed Android codename for the upcoming 4.4 update of the open source Android mobile operating system. Key Lime Pie is expected to be released in late 2013 as the successor to the v4.1, v4.2 and v4.3 "Jelly Bean" updates. New features and enhancements in Key Lime Pie are unknown at this point.
+
+
+keyboard
+
+A keyboard is the set of typewriter-like keys that enables you to enter data into a computer and other devices. Computer keyboards are similar to electric-typewriter keyboards but contain additional keys. The keys typically found on computer keyboards are often classified as follows:
+
+Alphanumeric  keys: The letters and numbers on the keyboard.
+Punctuation  keys: The comma, period, semicolon, and similiar keys.
+Special keys: This includes the function keys, control keys, arrow keys, caps Lock key, and so on.
+
+QWERTY, AZERTY, Dvorak and Other Keyboards
+The standard layout of letters, numbers, and punctuation is known as a QWERTY keyboard because the first six keys on the top row of letters spell QWERTY. The QWERTY keyboard was designed in the 1800s for mechanical typewriters and was actually designed to slow typists down to avoid jamming the keys.
+
+
+keyboard_wedge
+
+A hardware device or software program that interfaces with a computer to translate data read by a device other than a keyboard, such as a magnetic strip or bar code reader or other such scanning device, into keyboard data. For example, data entered into a database via a bar code reader must first be translated into alphanumeric characters in order to be understood by the person interfacing with the database since humans do not read bar codes. The term wedge comes from the fact that the hardware device typically sits, or wedges, between the keyboard and the system unit. The keyboard is attached to the scanner, which is attached to processing component of the computer. Software wedges are programs that reroute the data once it has been input into a computer, typically through a COM port. The input data is routed to the keyboard buffer by the software, making it appear as if it entered the system through the keyboard. Keyboard wedges can be used simultaneously with keyboards.
+
+keyframe
+
+In video compression technology, another name for an I-frame.
+
+keylogger
+
+A keylogger is a type of surveillance software (considered to be either software or spyware) that has the capability to record every keystroke you make to a log file, usually encrypted. A keylogger recorder can record instant messages, e-mail, and any information you type at any time using your keyboard. The log file created by the keylogger can then be sent to a specified receiver. Some keylogger programs will also record any e-mail addresses you use and Web site URLsyou visit.
+Keyloggers, as  a surveillance tool, are often used by employers to ensure employees use work computers for business purposes only. Unfortunately, keyloggers can also be embedded in spywareallowing your information to be transmitted to an unknown third party.
+
+
+keyphrase
+
+Phrases or a search term that is made up of multiple  keywords, or a specific combination of keywords, that a user would enter into a search engine. In SEO (search engine optimization), optimizing your site for specific keyphrases will yield a smaller number of more specific and relevant traffic.
+
+keyphrase_movement
+
+In SEO (search engine optimization) terminology, it is the number of positions a Web page moves up or down in search engine results  (SERP). See also keyphrase position.
+
+keyphrase_position
+
+In SEO (search engine optimization) terminology, it is the position a Web page occupies on a search engine results page (SERP) when a specific keyphrase is searched for by a user. The first page of search results are the top 10 keyphrase positions.
+
+keystroke
+
+The pressing of a key. The efficiency of software programs is sometimes measured by the number of keystrokes it requires to perform a specific function. The fewer the keystrokes, claim some software producers, the faster and more efficient the program. The number of keystrokes, however, is generally less important than other characteristics of the software.  
+
+keyword
+
+(kē´werd) (1) In text editing and database management systems, a keyword is an index entry that identifies a specific record or document.
+(2) In programming, a keyword is a word that is reserved by a program because the word has a special meaning. Keywords can be commands or parameters. Every programming language has a set of keywords that cannot be used as variable names. Keywords are sometimes called reserved names .
+(3) A word used by a search engine in its search for relevant Web pages.
+
+keyword_density
+
+In search engine optimization (SEO) keyword density is the measurement in percentage of the number of times a particular keyword or phrase appears compared to the total number of words in a page.
+
+keyword_frequency
+
+In search engine optimization (SEO) keyword frequency is the number of times a keyword or phrase appears on a single Web page.
+
+keyword_prominence
+
+In search engine optimization (SEO), this refers to the prominent placement of keywords or phrases within a Web page. Prominent placement may be in the page header, meta tags, opening paragraph, or start of a sentence.
+
+keyword_search
+
+A type of search that looks for matching documents that contain one or more words specified by the user. See also keyword and phrase search.
+
+keyword_stuffing
+
+A SEO technique used by Web designers to overload keywords onto a Web page so that search engines will read the page as being relevant in a Web search.
+Because search engines scan Web pages for the words that are entered into the search criteria by the user, the more times a keyword appears on the Web page the more relevancy the search engine will assign to the page in the search results (this is only one way that search engines determine relevancy, however.)
+Search engines often penalize a site if the engine discovers keyword stuffing, as this practice is considered poor netiquette, and some search engines will even ban the offending Web pages from their search results.
+
+kHz
+
+Abbreviation for kilohertz. A unit of measurement of frequency, also known as cycles per second.  One kiloHertz (kHz) is equal to 1,000 Hertz (Hz) or 1,000 cycles per second.See also Hz.
+
+kill_switch
+
+(1)  A security device used to shut off any other device in an emergency situation in which a normal shut down is not possible. Kill switches are commonly used on motorized devices and electronic devices. In computing, a kill switch is often called a BRS or Big Red Switch. (2) In software, a kill switch is used by software developers for anti-piracy measures, where features of the software are "killed" or rendered useless and inaccessible to users running pirated versions of the software.
+
+Kill_Bit
+
+A term used to describe an Internet Explorer feature designed to close security holes. A Kill-Bit (also called killbit) is an instruction to the browser to never use a specific piece of ActiveX control software. It's common for Microsoft security bulletins to include Kill-Bits to disable individual ActiveX controls.
+
+killer_app
+
+See under app.  
+
+kilobit
+
+1,024 bits for technical purposes, such as data storage. 1,000 for general purposes. Data transfer rates are measured in kilobits per second, abbreviated as Kbps, and count a kilo as 1,000 bits.  
+
+kilobyte
+
+In decimal systems, kilo stands for 1,000, but in binary systems, a kilo is 1,024 (2 to the 10th power). Technically, therefore, a kilobyte is 1,024 bytes, but it is often used loosely as a synonym for 1,000 bytes. For example, a computer that has 256K main memory can store approximately 256,000 bytes (or characters) in memoryat one time.
+A megabyte is 2 to the 20th power (approximately 1 million) and a gigabyteis 2 to the 30th power (approximately 1 billion).
+In computer literature, kilobyte is usually abbreviated as K or KB. To distinguish between a decimal K (1,000) and a binary K (1,024), the IEEE has suggested following the convention of using a small k for a decimal kilo and a capital Kfor a binary kilo, but this convention is by no means strictly followed.
+
+kindle
+
+A line of Android-powered portable e-book reader devices developed by Amazon that enable users to shop for, download and read electronic versions of books, newspapers, magazines, websites, blogs and more.  Amazon's basic Kindle devices primarily compete with similar e-book devices like Barnes & Noble's Nook, while the more advanced Kindle Fire competes with mobile devices like Android-powered tablet computers and Apple's iPad.
+The entry-level Kindles' primary purpose is for reading books, and the devices utilize Electronic Ink ("E Ink") technology called E Ink Pearl to improve the reading experience.  Compared to the LCD screens utilized by most mobile devices, the Kindle's E Ink Pearl technology and monochrome matte screen combine to provide sharp, clear text and reduced glare for extended reading with less eye fatigue.  Kindle devices also offer built-in Wi-Fi capabilities for downloading e-books and apps, as well as basic Web browsing, and Kindle users can take advantage of free Wi-Fi access at AT&T hotspots.
+The Kindle line consists of:
+
+kindle_fire
+
+The Kindle Fire is the most recent addition to Amazon's Kindle line of portable e-book reader devices. The Kindle Fire debuted in late 2011 as a 7-inch Android v2.3 "Gingerbread"-powered $199 tablet computer designed to compete with similar devices like the NOOK Tablet and the Apple iPad. In addition to the vast collection of e-books available from Amazon, the Kindle Fire also includes access to Amazon's Appstore for thousands of apps as well as streaming movie and TV content.
+The Kindle Fire is Wi-Fi enabled and delivers Web content via Amazon's Silk cloud-accelerated, Flash-enabled "split browser" Web browser. It also taps into Amazon’s collection of Web services and cloud storage to deliver faster performance, enriched capabilities and additional storage space for users. 
+
+kindle_fire_hd
+
+The Kindle Fire HD follows the company’s 2011 Kindle Fire tablet and is the latest addition to Amazon's Kindle line of portable e-book reader devices. The Kindle Fire HD became available in October 2012 and comes as either a 7-inch or 8.9-inch tablet computer designed to compete with similar devices like the NOOK Tablet HD, the Apple iPad and the Google Nexus 7.  The Kindle Fire HD runs on a customized version of Android 4.0 (“Ice Cream Sandwich”) and offers 1280x800 HD resolution for the 7” tablet, with the 8.9” version increasing the resolution to 1920x1200.  The Kindle Fire HD begins at $199 for the 16GB 7” version.  The Kindle Fire HD utilizes Amazon’s Silk browsing architecture for a faster browsing experience, and in addition to the vast collection of e-books available from Amazon, the Kindle Fire HD also includes access to Amazon's Appstore for thousands of apps as well as streaming movie and TV content.
+
+kindle_fire_hdx
+
+Amazon's third generation of the Kindle Fire line of tablet devices. The Kindle Fire HDX is available in both 7" and 8.9" editions, with the 7" version offering a 1920x1200 resolution display with 323 pixels-per-inch (PPI) density and the 8.9" version providing a 2560x1600 resolution display with 339 PPI density.
+Kindle Fire HDX Processing Power
+The Amazon Kindle Fire HDX tablets deliver triple the processing power of the previous Fire HD tablet with their 2.2GHz quad-core Snapdragon processors, and double the memory. The Kindle Fire HDX also runs "Mojito," the 3.0 release of Amazon's customized Android-based Fire OS.
+Kindle Fire HDX Options & Pricing
+The 7" Kindle Fire HDX starts at $229 for the Wi-Fi-only edition, and the 8.9" Kindle Fire HDX starts at $379 for the Wi-Fi-only edition. When stacked up against its main competition, Apple's iPad Air, the Kindle Fire HDX is less expensive, lighter and faster, and it also offers innovative features like the "Mayday" button, an on-device tech support system that connects users to a live Amazon expert any time of the day.
+
+kindle_paperwhite
+
+The Kindle Paperwhite is a front-lit Kindle e-book reader that offers improved contrast and enables users to more easily read in the dark compared to older backlit Kindle devices. The Kindle Paperwhite’s display is evenly illuminated by a bulb located on the top of the device that shines down on the display.  In addition to its more effective lighting, the Kindle Paperwhite offers a 6” capacitive touchscreen display with a 1024x768 resolution and 62% more pixels (221 pixels per inch) than previous generation Kindles. Amazon also claims the Kindle Paperwhite will delivery up to eight weeks of battery life.  The Kindle Paperwhite became available for pre-ordering in September 2012, with general availability in early October 2012. The Wi-Fi version of the Kindle Paperwhite retails for $119, and the 3G version sells for $179.
+
+kinect
+
+Kinect is an add-on device for the Microsoft Xbox 360 gaming system that enables users to control games, movies and music with physical motion or voice commands and without the need for a separate input controller like a joystick or keyboard.  The controller-free gaming environment provided by Kinect makes it possible for sensors to process basic gestures, facial characteristics, sounds and even full body motion activities such as jumping and kicking.
+Following development under the codename “Project Natal,” Microsoft chose the official name for its Kinect gaming device as a blend of the words “Kinetic” and “Connect.”  Microsoft first launched Kinect in November 2010 and sold more than 8 million units in the device’s first two months.  
+
+kinesthetic
+
+In haptics it is term used to describe the perception of a mechanical interaction with a person's body movements and feeling in muscles.
+
+Kinesthetic_Haptic_Interfaces
+
+Abbreviated as KHI,  Kinesthetic Haptic Interfaces is a type of haptic interface that exerts controlled forces on the human body using a passive connection that constantly remains in contact with the limbs of the operator. During this time no contact with the virtual object is established. For example, in a surgical procedure simulation the connection may mimic the shape of a surgical tool and remain in constant contact with the user's hand.
+
+kiosk
+
+(kē´osk) (n.) A booth providing a computer-related service, such as an Automated Teller Machine (ATM). Another type of Kiosk offers tourist information.  A kiosk requires a simple user interface that can be used without training or documentation, and the hardware must be rugged and capable of operating unattended for long periods of time. Touch screens can provide some of these features because they enable a user to enter and display information on the same device and eliminate the need for keyboards, which are prone to break. 
+
+kiosk_browser
+
+A kiosk browser is a more secure and customizable Internet web browser. Kiosk browsers are of use to public Internet access sites such as schools, libraries, or even retail stores and Internet cafes. The kiosk browser easy allows an administrator to configure restricted access Web sites, limit or disallow file downloads, customize the  toolbar with company logos, and additional features. Many kiosk browsers also allow you to deny access to the desktop of a public computer, and include an integrated e-mail client. For Internet cafes and other pay per usage terminals, a kiosk browser may also include a time logger that will automatically limit the amount of time a user can spend online, determined by the amount they have pre-paid to use the system.
+
+kitkat
+
+KitKat is the dessert-themed Android codename for the 4.4 update of the open source Android mobile operating system.  KitKat debuted in November 2013 as the successor to the "Jelly Bean" Android releases.
+The Android 4.4 update was widely expected to carry the Key Lime Pie codename, but Google instead decided to go with the iconic candy bar for the new update's codename.
+Google first had to get permission to use the KitKat name from the Nestle. Nestle also released a limited edition KitKat bar with Android-decorated packaging in conjunction with the new mobile OS release.
+
+
+KLOC
+
+Short for thousands (kilo) of lines of code. KLOC is a measure of the size of a computer program. The size is determined by measuring the number of lines of source code a program has. High-level languages such as C++, will compile into more lines of machine code than an assembly language, which is a low-level language.
+
+klog
+
+Short for knowledge blog, klog is a type of blog usually used as an internal / Intranet blog that is not accessible to the general public and that serves as a knowledge management system. The term klog is also being used to describe a blog that is technical content oriented. (v.) To author a knowledge blog. Other forms: klogger (a person who knowledge blogs).
+
+kludge
+
+Pronounced klooj. A derogatory term that refers to a poor design. Like hacks, kludges use nonstandard techniques. But, whereas a hack can connote a clever solution to a problem, a kludge always implies that the solution is inelegant.  
+
+Kneber
+
+The name given to a malicious botnet that is used to collect log-in credentials to online financial systems, social networking sites and e-mail systems to break into accounts and steal corporate and government data. By February 2010, the Kneber botnet was believed to consist of nearly 75,000 computers and to have infiltrated 2,500 different companies.
+
+Knol
+
+Knol is a Google service that lets people share knowledge. Many refer to Knol as Google's version of Wikipedia. The Knol project consists of user-written articles on a range of topics. Contributors can write and publish any number of Knols on the same or different topic. Readers with Google accounts can rate, comment on, or suggest edits to the Knols, similar to blog comments. See also "Google Products and Services" in the  Quick Reference section of Webopedia.
+
+knowledge_base
+
+A collection of knowledge in the form of subject-problem-solution information that pertains to a specific topic or subject of interest. The data is typically stored in a searchable database. One popular example of a knowledge base is the Microsoft Help & Support Knowledge Base.
+
+kolibrios
+
+An open source operating system (OS) that fits on a single 1.44MB floppy disk and is able to run on x86 computer systems with 8MB of RAM. As many applications in the KolibriOS are compressed, the lightweight operating system still offers a graphical environment complete with text editors, system utilities, games, browser, media player and more applications. KolibriOS is also called Kolibri.
+
+Koobface
+
+The name given to a computer worm that uses Facebook's messaging system to infect PCs in an attempt to gather sensitive information such as credit card numbers. Koobface propagates by sending notes to Facebook friends of someone whose PC has been infected. The messages, with subject headers like, "You look just awesome in this new movie," direct recipients to a Web site where they are asked to download what it claims is an update of Adobe Systems Inc's Flash player. If they download the software, users end up with an infected computer, which then takes users to contaminated sites when they try to use search engines from Google, Yahoo, MSN and Live.com, according McAfee. The Koobface virus also attacks users of the MySpace social networking site. Variants of the worm include Net-Worm.Win32.Koobface.a. and Net-Worm.Win32.Koobface.b. See also "Facebook Hit With 'Koobface' Virus" on SmallBusinessComputing.com.
+
+KPI
+
+KPIs, or key performance indicators help organizations achieve organizational goals through the definition and measurement of progress. The key indicators are agreed upon by an organization and are indicators which can be measured that will reflect success factors. The KPIs selected must reflect the organization's goals, they must be key to its success, and they must be measurable. Key performance indicators usually are long-term considerations for an organization.
+
+KQML
+
+Short for Knowledge Query and Manipulation Language. KQML is a language and protocol for exchanging information and knowledge. Programs use KQML to communicate attitudes about information, such as querying, stating, believing, requiring and subscribing. It is both a message format and a message-handling protocol that supports run-time knowledge sharing among agents. KQML can be used as a language for an application program to interact with an intelligent system or for disparate intelligent systems to share knowledge in support of cooperative problem solving. The language is indifferent to the format of the information itself, thus KQML expressions can contain subexpressions in other languages. It also is complementary to newer approaches to distributed computing such as CORBA.  KQML is part of the ARPA Knowledge Sharing Effort, which is a consortium to develop conventions facilitating the sharing and reuse of knowledge bases and knowledge-based systems. Its goal is to define, develop, and test infrastructure and supporting technology to enable participants to build much bigger and more broadly functional systems than could be achieved working alone.
+
+KSA
+
+Short for the phrase knowledge, skills, and abilities.
+
+Ksplice
+
+An extension of the Linux kernel that is used for rebootless updates. Security and source code patches are applied without needing to reboot the operating system. Ksplice is developed by Massachusetts-based company, Ksplice Inc.
+
+Ku_band
+
+In satellite communications, Ku band is the frequency range from 10.5 to 17 GHz; where 13.75 to 14.50 GHz is for transmission and 10.7 to 12.75 GHz is used for reception.
+
+kubuntu
+
+Kubuntu is an open source operating system that is based on free software from many communities of developers. The free and open source Kubuntu operating system is an Ubuntu fork that uses the KDE desktop instead of the Unity desktop.
+See "Linux Downloads: Top Linux Distributions" in Webopedia's Did You Know section.
+
+KVCD
+
+Short for K Video Compression Dynamics, KVCD is a modification to the MPEG-1 and MPEG-2 GOP structure that allows you to create over 120 minutes of 'near DVD quality' video on a single 80 minute CD-R/CD-RW. The official KVCD resolution is 528x480(576). This resolution standard is referred to as KVCDx3. An alternate resolution, 544x480(576) is called KVCDx3A.
+
+kvm
+
+Short for Kernel-based Virtualization Machine, KVM is an open source virtualization offering for Linux operating systems that enables Linux to function as a hypervisor for running multiple virtual machines (VMs).
+KVM has been directly integrated into the Linux kernel as of 2007's 2.6.20 Linux kernel release. KVM is the basis for both IBM’s and Red Hat’s Linux virtualization technologies, and it’s also the most widely used virtualization technology in the OpenStack cloud. 
+
+KVM_switch
+
+Short for keyboard, video, mouse switch, a hardware device that enables a single keyboard, video monitor and mouse to control more than one computer one at a time.  KVM switches are popular among users who have upgraded their home PC systems and want to still use their old computers but do not want to invest in a second keyboard, monitor and mouse. KVM switches are also used by business to save money when one person uses more than one computer and in server farms where it is only necessary to periodically access each separate server in the farm one at a time.
+

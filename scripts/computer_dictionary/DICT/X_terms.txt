@@ -1,0 +1,222 @@
+x_height
+
+In typography, the height of a lowercase x in a specific font. This is also called the body height, as it represents the height of the lowercase character's body, excluding ascenders and descenders. 
+
+X_Window
+
+A windowing and graphics  system developed at the Massachusetts Institute of Technology (MIT). MIT has placed the X-Window source code in the public domain, making it a particularly attractive system for UNIX vendors. Almost all UNIX graphical interfaces, including Motif and OpenLook, are based on X-Window. 
+
+X_25
+
+A popular standard for packet-switching networks. The X.25 standard was approved by the CCITT (now the ITU) in 1976. It defines layers 1, 2, and 3 in the OSI Reference Model. 
+
+X_400
+
+An ISO and ITU standard for addressing and transporting e-mail messages. It conforms to layer 7 of the OSI model and supports several types of transport mechanisms, including Ethernet, X.25, TCP/IP, and dial-up lines. 
+
+X_500
+
+An ISO and ITU standard that defines how global directories should be structured. X.500 directories are hierarchical with different levels for each category of information, such as country, state, and city. X.500 supports X.400 systems.  
+
+X_509
+
+(n.) A widely used standard for defining digital certificates.  X.509 (Version 1) was first issued in 1988 as a part of the ITU X.500 Directory Services standard. When X.509 was revised in 1993, two more fields were added resulting in the Version 2 format. These two additional fields support directory access control. X.509 Version 3 defines the format for certificate extensions used to store additional information regarding the certificate holder and to define certificate usage. Collectively, the term X.509 refers to the latest published version, unless the version number is stated. X.509 is published as ITU recommendation ITU-T X.509 (formerly CCITT X.509) and ISO/IEC/ITU 9594-8 which defines a standard certificate format for public key certificates and certification validation. With minor differences in dates and titles, these publications provide identical text in the defining of public-key and attribute certificates.
+
+X2
+
+A technology developed by U.S. Robotics (now 3COM) for delivering data rates up to 56 Kbps over plain old telephone service (POTS). It was long believed that the maximum data transmission rate over copper telephone wires was 33.6 Kbps, but X2 achieves higher rates by taking advantage of the fact that most phone switching stations are connected by high-speed digital lines. X2 bypasses the normal digital-to-analog conversion and sends the digital data over the telephone wires directly to your modem where it is decoded.  3COM has announced that future X2 modems will conform to the new V.90 standard approved by the ITU. And users with older X2 modems may upgrade their modems to support V.90.  While X2 offers faster Internet access than normal modems, there are several caveats to using an X2 modem:  1. The high speeds are available only with downstream traffic (e.g., data sent to your computer). Upstream traffic is delivered using normal techniques, with a maximum speed of 40 Kbps.  2. To connect to the Internet at X2 speeds, your Internet Service Provider (ISP) must have a modem at the other end that supports V.90.  3. Even if your ISP supports V.90, you might not achieve maximum transmission rates due to noisy lines. 
+
+XAML
+
+Shortened as XAML. XAML is a vendor-neutral standard developed jointly by Bowstreet, Hewlett-Packard, IBM, Oracle and Sun that is used to coordinate and process online business transactions. Based on XML, XAML uses a set of XML message formats and interaction models that Web services can use to provide business-level transactions that span multiple parties across the Internet.  XAML distinguishes traditional online transaction processing (OLTP), such as making banking transactions online or purchasing a product from a consumer Web site, from business Web transaction processing (BWTP), which involves Web services from multiple organizations on the Internet and must coordinate the low-level operations of commit, cancel, retry, and compensate (undo or reverse) in order to ensure business-level transaction integrity.  The following example illustrates a business-level transaction involving a set of Web services that would utilize XAML: Consider a lumber company that needs to purchase a large quantity of a chemical it uses to treat its lumber before it is sold. In order for the buyer to purchase the chemical, the company requires additional value-added services provided by third parties, such as shipping with specific delivery terms, government compliance for safe transport, payment financing and casualty insurance. The purchase cannot take place until all these services are coordinated and the buyer is satisfied. XAML will allow the different parties involved to process the transactions over the Web.
+
+Xanga
+
+Xanga (ZANG-uh) is an Internet Web host that provides its users (community) with  access to their own online diaries and journals (often called blogs). A person who belongs to the Xanga community is called a "Xangan". If someone has a Web blog on Xanga, they are being referred to as "having a Xanga."  Xanga services are most popular with youth and young adults. Along with its popularity among younger people, Xanga has been mentioned in major news publications worldwide as many law enforcement agencies believe that many of the 91 percent of some 40 million users aged 13 to 29 are revealing too much personal information about themselves on Xanga journals.
+
+xbox_live
+
+Xbox LIVE is an online gaming service from Microsoft that extends the power of the company's Microsoft Xbox 360 gaming platform by connecting users to other Xbox LIVE subscribers for multiplayer gaming and social networking as well as making a wide variety of Internet-enabled content available to its users.
+With Xbox LIVE users can play their Xbox 360 games online with friends and other gamers, connect to Facebook and Twitter, chat and text with friends, watch streamed movies and TV shows in High Definition, watch live sports, play personalized music from Zune and other sources, and more.
+Microsoft offers a free subscription option for Xbox LIVE with limited functionality (no online multiplayer gaming support, for example), while Gold and Family Plan memberships are available for $69 and $99 a year, respectively. Xbox LIVE is also available through Microsoft's Windows Phone 7 mobile operating system as Xbox LIVE Mobile.
+
+XBRL
+
+Short for Extensible Business Reporting Language, an XML-based specification for publishing the financial information of an enterprise. The standardization of the specification makes it easier for public and private companies to share information with each other and with industry analysts across all software formats and technologies, including the Internet.  XBRL uses XML data tags based on standardized accounting industry definitions to describe financial information for public and private companies and other organizations. The financial information includes such data as annual and quarterly reports, SEC filings, general ledger information, net revenue and accountancy schedules.
+
+Xcerpt
+
+A deductive rule-based query language currently under development by the I4 working group. Xcerpt is for querying XML, RDF and similar data formats. Xcerpt is well-suited for Semantic Web applications and is designed largely for software developers and researchers.
+
+xD
+
+Abbreviated as xD (Extreme Digital), the xD-Picture Card is a type of removable flash memory designed for use in digital cameras. The xD is ultra-compact with its size of 20mm x 25mm x 1.7mm. The xD-Picture Card was developed by Fuji film and Olympus and are used in many models of digital cameras made by Olympus and Fujifilm.
+
+xD_Picture_Card
+
+Abbreviated as xD (Extreme Digital), the xD-Picture Card is a type of removable flash memory designed for use in digital cameras. The xD is ultra-compact with its size of 20mm x 25mm x 1.7mm. The xD-Picture Card was developed by Fuji film and Olympus and are used in many models of digital cameras made by Olympus and Fujifilm.
+
+xDSL
+
+Refers collectively to all types of digital subscriber lines, the two main categories being ADSL and SDSL. Two other types of xDSL technologies are High-data-rate DSL (HDSL) and Very high DSL (VDSL).
+DSL technologies use sophisticated modulation schemes to pack data onto copper wires. They are sometimes referred to as last-mile technologies because they are used only for connections from a telephone switching station to a home or office, not between switching stations.
+xDSL is similar to ISDN inasmuch as both operate over existing copper telephone lines (POTS) and both require the short runs to a central telephone office (usually less than 20,000 feet). However, xDSL offers much higher speeds - up to 32 Mbps for upstream traffic, and from 32 Kbps to over 1 Mbps for downstream traffic.
+
+Xen
+
+Xen is a virtual machine monitor (VMM) for x86-compatible computers. Xen can securely execute multiple virtual machines, each running its own OS, on a single physical system with close-to-native performance. Xen is open source, and is released under terms of the GNU General Public License.
+
+Xenix
+
+A version of UNIX that runs on PCs. Xenix was developed by Microsoft Corporation and is compatible with AT&T's System V definition.
+
+Xeon
+
+A line of Pentium II chipsets from Intel introduced in 1998. Unlike previous Pentium II chips, which used a Slot 1 form factor, Xeon chips use Slot 2. This allows for faster data transfers between the CPU and L2 cache. Xeon chip speeds start at 400 MHz. 
+
+Xerox
+
+Best known for its copier machines, Xerox Corporation has also had a profound influence on the computer industry. During the 70s and 80s, its Palo Alto Research Center conducted pioneering work on user interfaces. Many of their inventions, such as the mouse and the graphical user interface (GUI), have since become commonplace. Xerox continues to do groundbreaking research, especially in the area of document management. 
+
+XGA
+
+Short for extended graphics array, a high-resolution graphics  standard introduced by IBM in 1990. XGA was designed to replace the older 8514/A video standard. It provides the same resolutions (640 by 480 or 1024 by 768 pixels), but supports more simultaneous colors (65 thousand compared to 8514/A's 256 colors). In addition, XGA allows monitors to be non-interlaced.
+
+
+XHTML
+
+Short for Extensible Hypertext Markup Language, a hybrid between HTML and XMLspecifically designed for Net device displays.
+XHTML is a markup language written in XML; therefore, it is an XML application.
+XHTML uses three XML namespaces (used to qualify element and attributes names by associating them with namespaces identified by URI references. Namespaces prevent identically custom-named tags that may be used in different XML documents from being read the same way), which correspond to three HTML 4.0 DTDs: Strict, Transitional, and Frameset.
+
+XHTML_MP
+
+Short for XHTML Mobile Profile XHTML MP is a WAP 2.0 markup language as defined by the WAP Forum. XHTML MP is based on the XHTML Basic specification with some inclusions from the full version of XHTML. XHTML Mobile Profile supports the  WCSS (WAP Cascading Style Sheet).
+
+Xirrus_Management_System
+
+Abbreviated as XMS, the Xirrus Management System is a platform used to provide central management and monitoring of a Xirrus Wi-Fi Array network. XMS uses utilizes a client/server architecture to automatically discover, configure, and monitor an array network. It can also scale from single site to large scale, multi-site deployments.  [Source: Adapted from Xirrus.com] 
+
+Xirrus_WiFi_Array
+
+An architecture designed to replace switched Ethernet on the desktop as the primary network connection. The Xirrus Wi-Fi Array architecture displaces both overlay Wi-Fi offerings and wired Ethernet to the desktop. It integrates 4, 8, 12, 16 or 24 802.11abg+n radios coupled to a high-gain directional antenna system into a single device along with an onboard multi-gigabit switch, Wi-Fi controller, firewall, dedicated Wi-Fi threat sensor, and an embedded spectrum analyzer. [Source: Adapted from Xirrus.com] 
+
+Xlet
+
+An application that is written in Java using the MHP (Multimedia Home Platform) API.See also DVB-Java
+
+XLink
+
+Short for XML Linking Language, a computer language that allows both unidirectional and bidirectional links to other resources (e.g., files, images, documents, programs, query results) to be embedded in XML documents, similar to the hyperlinks found in HTML Web pages.  XLink gives XML documents the ability to: assert linking relationships among two or more resources associate a link with metadata express links that are in a location separate from the linked resources.
+
+XLR
+
+XLR refers to a three-pin locking connector that is used in audio applications. In analog applications, particularly in some high-end consumer audio equipment, XLR connectors are used with balanced lines for optimal interference rejection. An XLR connector's pins usually point in the direction of signal flow. 
+
+XM_Satellite_Radio
+
+A U.S.-based satellite radio provider that offers North American-based services. XM and and competing satellite radio provider, Sirius, merged in 2007 to create a single satellite radio network in the United States and Canada. Since the merger, XM Satellite Radio has been operated by Sirius XM Radio.
+
+XMCL
+
+Short for Extensible Media Commerce Language, an XML-based REL proposed by RealNetworks and then abandoned.
+
+XMI
+
+Short for XML Metadata Interchange, an XML application that facilitates the standardized interchange of object models and metadata over the Internet among groups working in team development environments using tools and applications from multiple vendors. XMI also can be used to exchange information about data warehouses.  XMI is based on three industry standards-XML, UML, and MOF (an OMG modeling and metadata repository standard). The architecture enables tools to share metadata programmatically using XML or CORBA interfaces specified in the UML or MOF standards.
+
+XML
+
+Short for Extensible Markup Language, a specification developed by the W3C. XML is a pared-down version of SGML, designed especially for Web documents. It allows designers to create their own customized tags, enabling the definition, transmission, validation, and interpretation of data between applications and between organizations.
+Also see Understanding "Web Services" in the "Did You Know...?" section of Webopedia.
+
+XML_data_island
+
+Blocks (called islands) of Extensible Markup Language (XML) embedded in an HTML document. Microsoft Internet Explorer 5.0 and newer versions support embedding the XML data inside HTML pages. XML data islands can be accessed from client-side scripts or directly to bound to HTML elements.
+
+XML_schema
+
+See XSD.
+
+XSD
+
+Short for XML Schema Definition, a way to describe and validate data in an XML environment. (A schema is a model for describing the structure of information.) XSD is a recommendation of the W3C.
+XSD has advantages over earlier XML schema languages, such as DTD. Because XSD is written in XML, there is no need for a parser. XSD defines a richer set of data typessuch as booleans, numbers, dates and times, and currencies -- which is invaluable for e-commerce applications. DTDs, on the other hand, express data types as explicit enumerations, which makes validation much more difficult and less accurate.
+More important, XSD makes it easier to validate documents based on namespaces (used to qualify element and attributes names by associating them with namespaces identified by URI references. Namespaces prevent identically custom-named tagsthat may be used in different XML documents from being read the same way), something DTDs cannot do.
+
+XMLHTTP
+
+Short for Extensible Markup Language Hypertext Transfer Protocol, a set of APIs that enables XML, HTML or binary data to be transmitted to and from Web servers over the Internet using HTTP. An advantage of XMLHTTP is that when files that are ASPs or CGI programs are queried from the server, the XMLHTTP object continuously queries the server transparently to retrieve the latest information without the user having to repeatedly refresh the browser. XMLHTTP enables streamed content through DHMTL rather than ActiveX controls or Java applets.
+
+XMLHttpRequest
+
+Abbreviated as XHR, XMLHttpRequest is a set of APIs that can be used by Web  browser scripting languages, such as JavaScript to transfer XML and other text data to and from a Web server using HTTP. XMLHttpRequest works by establishing a communication channel between a Web page's client-side and server-side. XMLHttpRequest can be used to fetch data in a number of formats including XML, HTML, JSON or plain text.  Examples of applications using XMLHttpRequest include Google Gmail and Google Maps. Browsers that support XMLHttpRequest include newer versions of Internet Explorer, Mozilla and Safari.
+
+Xmodem
+
+Originally developed in 1977 by Ward Christensen, Xmodem is one of the most popular file-transfer protocols. Although Xmodem is a relatively simple protocol, it is fairly effective at detecting errors. It works by sending blocks of data together with a checksum and then waiting for acknowledgment of the block's receipt. The waiting slows down the rate of data transmission considerably, but it ensures accurate transmission.  Xmodem can be implemented either in software or in hardware. Many modems, and almost all communications software packages, support Xmodem. However, it is useful only at relatively slow data transmission speeds (less than 4,800 bps).  Enhanced versions of Xmodem that work at higher transmission speeds are known as Ymodem and Zmodem.   
+
+XMPP
+
+Short for Extensible Messaging and Presence Protocol, an open, XML-based protocol for server-to-server near-real-time extensible instant messaging and presence. XMPP is a rival protocol to SIMPLE.  XMPP also is known as the Jabber protocol because Jabber is based on XMPP. Jabber is not, however, the only instant messaging application that relies on XMPP.
+
+XMS
+
+Stands for Extended Memory Specification, a procedure developed jointly by AST Research, Intel Corporation, Lotus Development, and Microsoft Corporation for using extended memory and DOS's high memory area, a 64K block just above 1MB.   
+
+XOR_operator
+
+Known as the exclusive OR operator, a Boolean operator that returns a value of TRUE only if just one of its operands is TRUE. In contrast, an inclusive OR operator returns a value of TRUE if either or both of its operands are TRUE. 
+
+XOTcl
+
+(Pronounced exo-tickle) An open source object-oriented scripting language that is based on OTcl but adds several new concepts. XOTcl was intended to develop language support for the implementation of design patterns, where design patterns can be added or removed at runtime.
+
+XP
+
+(1) See Extreme Programming.  (2) See Windows XP.
+
+XQuery
+
+XQuery or XML Query Language is a W3C specification that provides flexible query facilities to extract data from real and virtual documents and collections both locally and on the  World Wide Web, providing interaction between the Web world and the database world. It is a standardized way of searching through semi-structured data that is either physically stored as XML or virtualized as XML.  The XQuery effort at W3C is lead by the XML Query Working Group.
+
+XrML
+
+Short for Extensible Rights Markup Language, an XML-based REL for expressing rights and conditions associated with digital content, Web services, or any digital resource.
+
+XSL
+
+Short for Extensible Style Language, a specification for separating style from content when creating HTML or XML pages. The specifications work much like templates, allowing designers to apply single style documents to multiple pages. XSL is the second style specification to be offered by the World Wide Web Consortium (W3C )(www.w3c.org). The first, called Cascading Style Sheets (CSS), is similar to XSL but does not include two major XSL's innovations -- allowing developers to dictate the way Web pages are printed, and specifications allowing one to transfer XML documents across different applications. W3C released the first draft of XSL in August 1998, and promotes the specifications as helpful to the Web's speed, accessibility, and maintenance.   
+
+XSLT
+
+Short for Extensible Style Language Transformation, the language used in XSL style sheets to transform XML documents into other XML documents.   An XSL processor reads the XML document and follows the instructions in the XSL style sheet, then it outputs a new XML document or XML-document fragment.   This is extremely useful in e-commerce, where the same data need to be converted into different representations of XML. Not all companies use the exact same programs, applications and computer systems.   XSLT Recommendation was written and developed by the XSL Working Group and became ratified by the W3C on November 16, 1999. 
+
+XSP
+
+(1) When spelled xSP, a generic term for a service provider on the Internet, such as an application service provider (ASP), network service provider (NSP) or an Internet service provider (ISP).  (2) When spelled XSP, short for eXtensible Server Pages. The XSP language is a core technology of Cocoon, XML-based Web publishing in Java and one of the seven parts of the Apache XML Project. XSP is used to build dynamic XML content. It was originally created to allow Web authors to generate dynamic content without forcing them to learn a programming language. Because a Web document's content, style and logic are often created by different working groups or individuals, Cocoon aims for a complete separation of the three layers. Using XSP, content, style and logic are separated into different XML files using an XML DTD and are merged using XSL transformation capabilities.
+
+XSS
+
+An abbreviation of cross-site scripting. XSS is a security breach that takes advantage of dynamically generated Web pages. In an XSS attack, a Web application is sent with a script that activates when it is read by an unsuspecting user��s browser or by an application that has not protected itself against cross-site scripting. Because dynamic Web sites rely on user input, a malicious user can input malicious script into the page by hiding it within legitimate requests. Common exploitations include search engine boxes, online forums and public-accessed blogs. Once XSS has been launched, the attacker can change user settings, hijack accounts, poison cookies with malicious code, expose SSL connections, access restricted sites and even launch false advertisements. The simplest way to avoid XSS is to add code to a Web application that causes the dynamic input to ignore certain command tags.  Scripting tags that take advantage of XSS include <SCRIPT>, <OBJECT>, <APPLET>, <EMBED> and <FORM>. Common languages used for XSS include JavaScript, VBScript, HTML, Perl, C++, ActiveX and Flash.  Cross-site scripting also is referred to as malicious tagging and sometimes abbreviated as CSS, though CSS is more commonly used as an abbreviation for cascading style sheets.
+
+XSVCD
+
+Short for eXtendedSVCD, XSVCD is a nonstandardized recording format that offers features similar to SVCD. However, it can produce a higher video quality. XSVCD uses MPEG2 video. It can be played on computers with a  computers with a CD or  DVD-ROMs with the use of compatible software.See SVCD. See also XVCD.
+
+XUL
+
+Pronounced "zool." Short for Extensible User-Interface Language, a series of XML tags that allow different operating platforms to exchange data that describe a program��s user interface. XUL is designed to ease cross-platform (e.g., Windows, Mac and Linux) interface of applications, which traditionally would have been difficult to customize from one to another.  XUL supports cascading style sheets, JavaSpcript, RDF, DOM and HTML. Since it is an XML language, all features available to XML are also available to XUL. Some of the interface elements that are easily set up using XUL include: toolbars and buttons menu bars and pop-up menus tabbed dialogs keyboard shortcuts scroll bars  Developed jointly by Mozilla and Netscape, XUL also is referred to as XML-Based User-Interface Language or XML User-Interface Language, depending on the source.
+
+XVCD
+
+Short for eXtendedVCD it is a non-standardized recording format that offers features similar to VCD, however it can use a higher resolution to produce higher video quality. XVCD uses MPEG1 video. It can be played on some standalone VCD-compatible players, and on computers with a CD or DVD-ROMs with the use of compatible software. See also XSVCD.
+
+XviD
+
+An open source MPEG-4 video codec. XviD was created to offer a free alternative to other commercial video codecs. The XviD codec makes it possible to compress a full-length DVD-quality movie enough to fit on one or two CDs, depending on the length of the movie. To play XviD videos you first need to install the XviD codec on your computer.
+
+xVM
+
+The name used by Sun Microsystems for its virtualization and management software. Also called Sun xVM, it is a Solaris-based hypervisor that enables servers to run multiple operating systems simultaneously on a single computer, addressing both desktop and server virtualization. The name itself, according to Sun, represents the intersection (x) of virtualization and management (VM). Products in the Sun xVM family include the following:  Sun xVM Server: A cross-platform open source hypervisor capable of hosting multiple operating systems including Windows, Linux and Solaris guest operating systems. It was built using technology from the Xen open source project as well as Sun's Logical Domains. Sun xVM Ops Center: A highly scalable data center automation tool that offers simplified discovery, provisioning, updates and management of physical and virtualized assets in cross-platform Linux and Solaris OS-based x86 and SPARC environments. 
+

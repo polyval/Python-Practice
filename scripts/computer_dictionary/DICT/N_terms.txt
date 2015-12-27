@@ -1,0 +1,751 @@
+n00b
+Abbreviation for "newbie". Newbie is commonly used in newsgroups/a>, chat rooms, instant messaging,  text messaging, SMS, e-mail and other real time text-based communications. See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations.
+
+nag_screen
+Software or programming that routinely issues a pop-up window or other form of visual interface asking the user to register a product, purchase an application or take another form of action. Nagware is typically used in reference to shareware, which typically offers a free-trial period of use for the application and then requests that the user purchase the rights to use the software indefinitely. The term gets its name from the idea that the reminders "nag" the user into taking some particular action as they will keep appearing until the desired action has been performed.
+The reminder window that appears on the monitor often is referred to as the nag screen. Nag screens typically pop up when the application is activated and also when the user quits the program but can appear at any time during the application's use.
+
+nagware
+Software or programming that routinely issues a pop-up window or other form of visual interface asking the user to register a product, purchase an application or take another form of action. Nagware is typically used in reference to shareware, which typically offers a free-trial period of use for the application and then requests that the user purchase the rights to use the software indefinitely. The term gets its name from the idea that the reminders "nag" the user into taking some particular action as they will keep appearing until the desired action has been performed.
+The reminder window that appears on the monitor often is referred to as the nag screen. Nag screens typically pop up when the application is activated and also when the user quits the program but can appear at any time during the application's use.
+
+NAK
+Short for negative acknowledgement code, a transmission control character used to indicate that a transmitted message was received with errors or corrupted or that the receiving station is not ready to accept transmissions. The receiver sends the code to the sender to indicate that the transmission must be resent.
+Compare with ACK.
+
+name
+A sequence of one or more characters that uniquely identifies a file, variable, account, or other entity. Computer systems impose various rules about naming objects. For example, there is often a limit to the number of characters you can use, and not all characters are allowed.  Names are sometimes called identifiers.  
+
+name_scope
+See namsespace.
+
+name_server
+A program that translates names from one form into another. For example, the Internet relies on Domain Name Servers (DNSs) that translate domain names into IP adresses.  
+
+Named_Pipes
+An interprocess control (IPC) protocol for exchanging information between two applications, possibly running on different computers in a network. Named Pipes are supported by a number of network operating systems (NOSs), including Netware and LAN Manager.  
+
+named_user_license
+The phrase used to describe a type of software licensing agreement that allows you to be the only user of the software. The user name is specified when the software is purchased or registered, and while you can install the software on multiple systems, only the named user can access the software on one system at any given time. Named user licenses can also be associated with a single Windows operating system log on name or ID.
+ 
+See "Is Software Ownership the Same as Licensing?" in Webopedia's "Did You Know...?" section.
+
+namespace
+(1)The set of names in a naming system.
+(2)A logical grouping of the names used within a program. Also called name scope.
+(3) A library of classes in .NET.
+
+NAND
+NAND Flash architecture is one of two flash technologies (the other being NOR) used in memory cards such as the CompactFlash cards. It is also used in USB Flash drives, MP3 players, and provides the image storage for digital cameras. NAND is best suited to flash devices requiring high capacity data storage. NAND flash devices offer storage space up to 512-MB and offers faster erase, write, and read capabilities over NOR architecture. NAND flash architecture was introduced by Toshiba in 1989.See also NOR.
+
+nanny_cam
+A type of wireless or wired video surveillance system marketed to parents who want to use an in-home surveillance device to monitor their caregiver's interactions with their children. Many video surveillance systems used as nanny cams can be hidden in small objects such as a child's stuffed toy. There are privacy and legal issues to consider when using a nanny cam without permission being given by the caregiver to be recorded.
+
+NanoBoard
+A Field-Programmable Gate Array (FPGA) development board used for the implementation and debugging of FPGA designs. NanoBoards provide communications to and from the FPGA and also incorporate a range of peripherals including LCD, flash memory, RAM, keyboard, and others used for application development. NanoBoards can also be chained together for complex system development. NanoBoard is a registered trademark of Altium Limited.
+
+nanocomputer
+A computer with circuitry so small that it can only be seen through a microscope. Nanocomputers can be electronic (where nanolithography is used to create microscopic circuits), biochemical or organic (such as DNA computers), or quantum (such as quantum computers). Nanocomputers deal with materials at a molecular level and hold the promise of creating increasingly smaller and faster computers, an important concept in the realm of pervasive computing.
+
+nanolithography
+Lithography at a microscopic scale, nanolithography is used in the creation of nanocomputers.
+
+nanometer
+Commonly used in nanotechnology, a nanometer is a measurement of one billionth of a meter. In is abbreviated as nm. For example 90 nanometer would be written as 90 nm.
+
+nanosecond
+A billionth of a second. Many computer operations, such as the speed of memory chips, are measured in nanoseconds. Nanosecond is often abbreviated as ns.  
+
+nanotechnology
+A field of science whose goal is to control individual atoms and molecules to create computer chips and other devices that are thousands of times smaller than current technologies permit. Current manufacturing processes use lithography to imprint circuits on semiconductor materials. While lithography has improved dramatically over the last two decades -- to the point where some manufacturing plants can produce circuits smaller than one micron (1,000 nanometers) -- it still deals with aggregates of millions of atoms. It is widely believed that lithography is quickly approaching its physical limits. To continue reducing the size of semiconductors, new technologies that juggle individual atoms will be necessary. This is the realm of nanotechnology.  Although research in this field dates back to Richard P. Feynman's classic talk in 1959, the term nanotechnology was first coined by K. Eric Drexler in 1986 in the book Engines of Creation.  In the popular press, the term nanotechnology is sometimes used to refer to any sub-micron process, including lithography. Because of this, many scientists are beginning to use the term molecular nanotechnology when talking about true nanotechnology at the molecular level. 
+
+nanotube
+A sequence of nanoscale C60 atoms arranged in a long thin cylindrical structure. Nanotubes are extremely strong mechanically and very pure conductors of electric current. Applications of the nanotube in nanotechnology include resistors, capacitors, inductors, diodes and transistors.  Nanotubes also are called buckytubes.
+
+NAP
+Short for network access point, a public network exchange facility where Internet Service Providers (ISPs) can connect with one another in peering arrangements. The NAPs are a key component of the Internet backbone because the connections within them determine how traffic is routed. They are also the points of most Internet congestion. 
+
+Napster
+ Created by 19-year-old Shawn Fanning in 1999, Napster is an application that gives individuals access to one another's MP3 files by creating a unique file-sharing system via the Internet.   Napster lets users view and download the contents of MP3 directories from other Napster users' hard drives. Type in the artist and/or song to receive a list, compiled by Napster's servers, of all the files currently available. Double click on a song to download from user's hard drive.   Because Napster searches individual hard drives, the number and variety of MP3 files vary. Not all Napster users are online at the same time; therefore, what you may not find one day, may, in fact, be there the next.   Macintosh faithful who want to benefit from Napster can download Macster, which works the exact same way as Napster. And, for all you open-source nuts, look into GNapster.   Napster has been under fire from the Recording Industry Association of America (RIAA), who interprets Napster as copyright-infringement software. But, because the MP3 files do not reside on Napster's servers, nor does Napster charge a fee for the service, critics felt the RIAA had a weak legal leg to stand on. Napster simply allows individuals to share music, as does tape recorders and CD burners. However, in March of 2001, due to a court order, Napster blocked the trading of over 100,000 files of copyrighted songs. The court ruled that Napster's technology was an infringement on the copyrights of published music.   Many feel that Napster is revolutionizing the consumer music market, and it is up to the Music industry to adapt. 
+
+NAPT
+NAPT, or Network Address Port Translation, is a method by which many network addresses and their TCP/UDP (Transmission Control Protocol/User Datagram Protocol) ports are translated into a single network address and its TCP/UDP ports.  NAPT allows mapping of  tuples of the type (local IP addresses, local TU port number) to tuples of the type (registered IP address, assigned TU port number). NAPT is defined in the RFC3022 section 2.2. See also NAT.
+
+narrowcast
+To send data to a specific list of recipients. Cable television is an example of narrowcasting since the cable TV signals are sent only to homes that have subscribed to the cable service. In contrast, network TV uses a broadcast model in which the signals are transmitted everywhere and anyone with an antenna can receive them.  The Internet uses both a broadcast and a narrowcast model. Most Web sites use a broadcast model since anyone with Internet access can view the sites. However, sites that require you to log-in before viewing content are based more on the narrowcast model. The various push technologies are another form for narrowcasting. Perhaps the best example of narrowcasting are e-mail lists where messages are sent only to individuals who subscribe to the list.  The terms multicast and narrowcast are often used interchangeably, although narrowcast usually refers to the business model whereas multicast refers to the actual technology used to transmit the data.  
+
+NAS
+(1) Short for network-attached storage. (2) Short for network access server.
+ 
+
+network-attached_storage
+A network-attached storage (NAS) device is a server that is dedicated to nothing more than file sharing. Network-attached storage does not provide any of the activities that a server in a server-centric system typically provides, such as email, authentication or file management.
+NAS is a Storage-Centric Design
+NAS allows more hard disk storage space to be added to a network that already utilizes servers without shutting them down for maintenance and upgrades. With a NAS device, storage is not an integral part of the server. Instead, in this storage-centric design, the server still handles all of the processing of data but a NAS device delivers the data to the user.
+A NAS device does not need to be located within the server but can exist anywhere in a LAN and can be made up of multiple networked NAS devices.
+
+Nassi_Schneiderman_diagram
+A Nassi-Schneiderman (NS) diagram is a graphical method of stating algorithms. It is a diagrammatic approach to algorithm design but is not as bulky to draw as flowcharts.
+
+NAT
+Short for Network Address Translation, an Internet standard that enables a local-area network (LAN) to use one set of IP addresses for internal traffic and a second set of addresses for external traffic. A NAT boxlocated where the LAN meets the Internet makes all necessary IP address translations.
+NAT serves three main purposes:
+
+Provides a type of firewallby hiding internal IP addresses
+Enables a company to use more internal IP addresses. Since they're used internally only, there's no possibility of conflict with IP addresses used by other companies and organizations.
+Allows a company to combine multiple ISDN connections into a single Internet connection.
+
+Also see dynamic NAT and static NAT.
+
+native
+Referring to an original form. For example, many applications can work with files in a variety of formats, but an application's native file format  is the one it uses internally. For all other formats, the application must first convert the file to its native format.  
+
+native_code
+Also referred to as native language, programming code that is written to run on a specific processor using that processor��s instruction set. In order for that program to run on a different processor than the one intended by the native code, the code must be run through an emulator software program that instructs the computer to mimic the processor the native code is meant for.  Contrast with bytecode.
+
+Native_Command_Queuing
+Native Command Queuing (NCQ) is a command protocol in Serial ATA that can be implemented only on native Serial ATA hard drives. It allows multiple commands to be outstanding within a drive at the same time. Drives that support NCQ have an internal queue where outstanding commands can be dynamically rescheduled or re-ordered, along with the necessary tracking mechanisms for outstanding and completed portions of the workload. NCQ also has a mechanism that allows the host to issue additional commands to the drive while the drive is seeking data for another command.NCQ allows the drive to set up the direct memory access (DMA) operation for a data transfer without host  software intervention. This is also called first-party DMA - it means that the device is capable of complex sequences of operations without CPU intervention. The drive itself knows the current angular and rotational position of the drive head. The drive then selects the next data transfer to minimize both seek and rotational latencies.* [Definition Source: Seagate Technology]
+
+natty_narwhal
+Natty Narwhal is the Ubuntu codename for version 11.04 of the Ubuntu Linux-based operating system. Officially released in April 2011, Natty Narwhal served as a major update for Ubuntu, with the new Unity interface becoming the default desktop interface, numerous key additions to the Unity app launcher, and several significant default app changes, including Mozilla Firefox 4 as the default Web browser, LibreOffice as the default office suite (replacing OpenOffice.org) and Banshee 2.0 replacing Rhythmbox as the standard music player.
+Natty means "neat and tidy," and the narwhal is a toothed whale found in the Artic that's particularly well known for the male narwhal's unicorn-like tusk. Natty Narwhal followed the Maverick Meerkat (v11.04) release of Ubuntu and was succeeded by Oneiric Ocelot (v11.10) in October 2011.
+
+natural_language
+A human language. For example, English, French, and Chinese are natural languages. Computer languages, such as FORTRAN and C, are not.
+Probably the single most challenging problem in computer science is to develop computers that can understand natural languages. So far, the complete solution to this problem has proved elusive, although a great deal of progress has been made. Fourth-generation languages are the programming languagesclosest to natural languages.
+
+
+natural_search
+In search engines a natural search is one where results are returned based on the natural indexing of the Web site, as opposed to those that are returned based on paid advertising and editorial changes made by the search engine itself. The field of SEO is largely based on making a Web site appear more prominently in organic search results for specific keywords. Also called  organic search or unpaid search. Contrast with paid search.
+
+Nautilus
+An open source file manager for the GNOME desktop that gives users a way to manage their files and applications. Nautilus can be used to do things like create folders and documents, display files and folders, search and manage files, run scripts, launch applications, install and remove fonts, and more.
+
+Navigator
+Netscape Communication's popular Web browser. There are many versions of Navigator, and it runs on all the major platforms -- Windows, Macintoshes, and UNIX. 
+
+NC
+A type of network computer designed to execute Java programs locally. NCs do not contain any storage devices, so they must be connected to a network server that holds the data to be processed. However, unlike thin clients and Windows terminals, NCs do have a microprocessor so that they can execute programs locally. 
+
+NCP
+Acronym for NetWare Core Protocol. NCP, or NetWare Core Protocol is the file-sharing protocol between server and client(s) on a Novell NetWare network. NCP controls many requests to the file and printing system, along with login requests. NCP is a client/server LAN protocol. Clients (or workstations) send NCP requests, which are sent via IPX or IP over the network to the server for interpretation.
+
+ndas-network-direct-attached-storage
+Network Direct Attached Storage (NDAS) is a proprietary digital storage technology that utilizes a Lean Packet Exchange (LPX) protocol to connect external digital storage devices to a network via Ethernet or USB. Unlike Network-Attached Storage (NAS), the LPX-based Network Direct-Attached Storage isn’t routable, so the storage hardware can't be directly accessed via the internet.  Originally developed by Ximeta in 2003 (and later marketed by IOCELL, which acquired Ximeta's NDAS technology in 2011), Network Direct-Attached Storage is also different than Network-Attached Storage in that each client requires a software driver in order to access the NDAS storage hardware. The software driver enables any client on the network to directly control, use and share the NDAS device or devices.
+Advantages of Network Direct-Attached Storage
+The purported advantages of Network Direct-Attached Storage are better performance, lower overhead (no operating system is needed in the device itself), enhanced security and simplified installation and ease of use. A variety of external digital storage devices can be used in Network Direct-Attached Storage form, including hard drives, optical drives, tape drive, flash drives and more.
+NDAS vs. DAS, SAN and NAS
+Network Direct-Attached Storage stands in contrast to Direct-Attached Storage (DAS) in that the latter refers to storage hardware that cannot be directly connected to a network, but they share the inability to be accessed via the internet. Network-Attached Storage (NAS) and Storage Area Networks (SANs), on the other hand, are more closely related to NDAS in that they both provide access to storage hardware on the network.
+
+NDIS
+Short for Network Driver Interface Specification, a Windows device driver interface that enables a single network interface card (NIC) to support multiple network protocols. For example, with NDIS a single NIC can support both TCP/IP and IPX connections. NDIS can also be used by some ISDN adapters.  NDIS includes a protocol manager that accepts requests from the network driver (at the transport layer) and passes these requests to the NIC (at the data link layer). So multiple NDIS-conforming network drivers can co-exist. Also, if a computer contains multiple NICs because it is connected to more than one network, NDIS can route traffic to the correct card.  NDIS was developed by Microsoft and 3COM. Novell offers a similar device driver for NetWare called Open Data-Link Interface (ODI).   
+
+NDMP
+Short for Network Data Management Protocol, a protocol pioneered by Intelliguard and Network Appliance that defines a common architecture for the way heterogeneous file servers on a network are backed up.   The protocol will allow the creation of a common agent used by the central back-up application to back up different file servers running different platforms and platform versions.   With NDMP, network congestion is minimized because the data path and control path are separated. Back up can occur locally--from file servers direct to tape drives, while management can occur from a central location.   NDMP is an open standard protocol promoted and supported by server vendors, back-up software vendors, and back-up device vendors. 
+
+NDR
+Short for Non-Delivery Receipt, NDR is an e-mail related acronym. When an e-mail message is composed and sent to an invalid e-mail address the receiving, or in some cases the sending, e-mail server attempts to send an NDR to the sender of the e-mail message, to inform them that the e-mail address used is invalid. See also hard bounce. Also see Why E-Mails Bounce in the Did You Know section of Webopedia. 
+
+NDS
+Short for Novell Directory Services, the directory services for Novell Netware networks. NDS complies with the X.500 standard and provides a logical tree-structure view of all resources on the network so that users can access them without knowing where they're physically located. NDS also inter-operates with other types of networks. 
+
+Near_Field_Communication
+Abbreviated as NFC, Near Field Communication is a standards-based, short-range wireless connectivity technology that enables convenient short-range communication between electronic devices. The underlying layers of NFC technology are ISO, ECMA, and ETSI standards. NFC applications can be split into the following  four basic categories:   Touch and Go: Applications such as access control or transport/event ticketing, where the user needs only to bring the device storing the ticket or access code close to the reader. Also, for simple data capture applications, such as picking up an Internet URL from a smart label on a poster.  Touch and Confirm: Applications such as mobile payment where the user has to confirm the interaction by entering a password or just accepting the transaction.  Touch and Connect: Linking two NFC-enabled devices to enable peer to peer transfer of data such as downloading music, exchanging images or synchronizing address books.  Touch and Explore: NFC devices may offer more than one possible function. The consumer will be able to explore a device's capabilities to find out which functionalities and services are offered.  [Application information courtesy of  Philips] 
+
+near_letter_quality
+A quality of print that is not quite letter quality, but is better than draft quality. Many dot-matrix printers produce near letter quality print.  Near letter quality is often abbreviated NLQ.  
+
+near-line_storage
+Near-line storage is used by corporations, including data warehouses, as an inexpensive, scalable way to store large volumes of data. Near-line storage devices include DAT and DLT tapes (sequential access), optical storage such as CD-ROM, DVD and Blu-ray, Magneto-Optical which utilize magnetic heads with an optical reader, and standard also slower P-ATA and SATA hard disk drives. Retrieval of data is slower than SCSI hard disk which is usually connected directly to servers or in a SAN environment. Near-Line implies that whatever media the information is stored on, it can be accessed via a tape library or some other method electronically as opposed to off-line which signified some human intervention is required, such as retrieving and mounting a tape, etc. Near-line can be slower, but the type of data (historical archives,  backup data, video, etc.,) dictates that the information will not require instant access and high throughput that SAN and SCSI can provide and is less expensive per byte.
+
+NEC
+One of the world's largest computer and electronics manufacturers. NEC Technologies is the second largest producers of semiconductors (Intel is first) and its line of monitors has set the standard for many years. It also produces PCs and notebook computers, and controls half the PC market in Japan. 
+
+NED
+Short for Nano Emissive Display, NED is the technology that enables manufacturers to design large flat panel displays that exceed the image quality characteristics of plasma and LCD screens at a lower cost. * Instead of using either one cathode ray tube (CRT) or millions of tiny LED lights to project a video image, NED uses millions of accelerated electrons charged by just 5 to 10 volts of electricity, compared with 5,000 volts for large-screen, high-definition LCDs. The electrons shoot toward a phosphor plate, creating the moving image. This technique requires less voltage than a CRT.  [Source:  Technology review].
+
+neglexting
+Short for "neglecting to text" it is a text messaging slang term used to describe a person who fails to respond to a text message.
+
+Neo_Luddite
+A slang term used to describe an individual who believes that using science and technology will have moral and social implications on society. Neo-Luddite is used to describe those who are considered to be anti-technology, or those who dislike or have a difficult time understanding and using modern science and technology. The word Luddite is a historical political movement term used to describe people who are opposed to technological innovations. Neo-Luddite is the modern term used to describe a Luddite.
+
+Nero
+A popular software solution for managing data, audio, video, photo and TV content. Features of Nero include the following: burning and copying for various formats including CD, DVD, Blu-ray, diagnostic tools, virtual disc drives, DVD-9 and DVD-5 compression, and audio support for multiple formats. Nero is developed, supported and distributed by Nero AG.
+
+nested_trigger
+See trigger.
+
+nesting
+Embedding one object in another object of the same type. Nesting is quite common in programming, where different logic structures sequence, selection and loop) are combined (i.e., nested in one another). It also occurs in applications. For example, many word processing applications allow you to embed (nest) one document inside another.  
+
+Net
+The Internet is a global network connecting millions of computers. More than 190 countries are linked into exchanges of data, news and opinions.
+Internet Users Worldwide
+According to Internet Live Stats, as of August 07, 2015 there was an estimated 3,179,035,200 Internet users worldwide. The number of Internet users represents nearly 40 percent of the world's population. The largest number of Internet users by country is China, followed by the United States and India.
+In September 2014, the total number of websites with a unique hostname online exceeded 1 billion. This is an increase from one website (info.cern.ch) in 1991. The first billion Internet users worldwide was reached in 2005.
+
+Net_PC
+Also called a Network PC, a type of network computer designed cooperatively by Microsoft and Intel. In some respects, the Net PC is really just a scaled-down PC since it is able to execute Windows applications locally. However, it also includes features to simplify connecting it to a network and to administer it remotely.  Net PCs are based on the Wintel platform, but are configured to be as inexpensive as possible and to discourage users from configuring the machines themselves (the cases also are sealed to discourage users from altering the hardware). Consequently, they have no floppy disk drive or CD-ROM drive. They do have a hard disk though it's meant to be used as a temporary cache to improve performance rather than for permanently storing data. Configuration and management of a Net PC is performed through a network server and Microsoft's Zero Administration Windows (ZAW) system. 
+
+Net_send
+Net send is used to send messages to any host on network (LAN or the Internet) where messenger service is running. This will send a message to a particular user and a pop-up dialog box will appear on their screen. Also see the page of text messaging abbreviations in the  Quick Reference section of Webopedia.
+
+Netbeui
+Pronounced net-booey, NetBEUI is short for NetBios Extended User Interface. It is an enhanced version of the NetBIOS protocol used by network operating systems such as LAN Manager, LAN Server, Windows for Workgroups, Windows 95 and Windows NT.  Netbeui was originally designed by IBM for their Lan Manager server and later extended by Microsoft and Novell.  
+
+NetBIOS
+(net-bī´ōs) (n.) Short for Network Basic Input Output System, an API that augments the DOS BIOS by adding special functions for local-area networks (LANs). Almost all Windows-based LANs for PCs are based on the NetBIOS. Some LAN manufacturers have even extended it, adding additional network capabilities.  
+
+netbook
+A small portable computing device, similar to a notebook. However, it has a smaller form factor and comes with more limited features. What differentiates a netbook from a notebook is its physical size and computing power.
+A netbook typically has a small display, ranging from 7 to 10 inches. It weighs under 3 pounds, and support a keyboard that is reduced in size from 75 to 80 percent when compared to a standard keyboard. Netbooks have build-in Wi-Fi, Ethernet, USB ports and slots for flash memory cards. To keep the devices small and compact, netbooks do not have a CD or DVD drive, and most use solid-state disks (SSD) for storage. Netbooks commonly run Linux or Windows XP Home edition operating systems. Prices for netbooks range from $200 to $350 USD.
+One of the first netbooks, and most well-known brand name is the ASUS Eee PC. Netbook are a type of a subnotebook computer.
+
+NetBSD
+A free Unix-like Open Source operating system that is the result of a collaborative effort between a large group of people. NetBSD contains a variety of free software, including 4.4BSD Lite from Berkeley. Goals of the NetBSD developers include making the operating system extremely portable for a large number of hardware platforms. The first NetBSD release was version 0.8 in April 1993.
+
+Netbus
+Netbus, also called Netbus Trojan, is a Win32-based Trojan program. Authored by Carl-Frederik Neikter, it first appeared in March 1998 and is one of the most famous Trojans created. Netbus Trojan needs to be executed by the user for it to be installed. Once executed by the user it will install itself in such a way that it will be active all the time by adding an entry into the Windows registry. While you are connected to the Internet, if this program is running on your computer, anyone who has got the Netbus client can sneak in to your computer without your permission or knowledge.  Also see The Difference Between a Virus, Worm and Trojan Horse  in the Did You Know? section of Webopedia.
+
+Netcat
+GNU Netcat, called Netcat for short, is an open source network debugging and exploration utility that can read and write data across network connections, using the TCP/IP protocol. The utility is fully compatible with a number of operating systems including Linux, FreeBSD, NetBSD, SunOS/Solaris, and MacOS X. The GNU Netcat is distributed freely under the GNU General Public License (GPL).
+
+Netcheque
+Developed at the Information Sciences Institute of the University of Southern California. Registered users may write checks to other registered users through e-mail or other network protocols. When the check is deposited, it authorizes the transfer of funds from the issuer's account to the receiver's account. All information is kept on a netcheque server, which is responsible for keeping accounts for customers, approving payments, and making the necessary changes in client accounts.   Security wise, Netcheque uses Kerberos for signature authentication, and it uses conventional cryptography, not public key cryptography. 
+
+NETGEAR
+NETGEAR. (Nasdaq: NTGR) designs branded  networking products that address the specific needs of small and medium business and home users. The company's product offerings enable users to share Internet access,  peripherals, files, digital multimedia content and applications among multiple personal computers and other Internet-enabled devices. NETGEAR is headquartered in Santa Clara, Calif. NETGEAR is a registered trademark of NETGEAR Inc. It is written in all capital letters.
+
+netiquette
+Contraction of Internet etiquette, the etiquette guidelines for posting messages to online services, and particularly Internet newsgroups. Netiquette covers not only rules to maintain civility in discussions (i.e., avoiding flames), but also special guidelines unique to the electronic nature of forum messages. For example, netiquette advises users to use simple formats because complex formatting may not appear correctly for all readers. In most cases, netiquette is enforced by fellow users who will vociferously object if you break a rule of netiquette.
+
+
+netizen
+Slang term derived from the combination of the words "Internet" and "citizen." The term netizen is used to describe people who use the Internet to participate in or contribute to an Internet group or society. The word may also be used to describe  an individual who spends a lot of time on the net.
+
+NetMeeting
+A product developed by Microsoft Corporation that enables groups to teleconference using the Internet as the transmission medium. NetMeeting supports VoIP, chat sessions, a whiteboard, and application sharing. It's built into Microsoft's Internet Explorer Web browser.  
+
+netroots
+A term derived from "Internet" and "grassroots." The term is used to describe political activism or the empowering of an electoral campaign through the use of online social media and services such as blogs, podcasts, newsletters, or wikis. May also be seen written as net-roots.
+ 
+
+Netscape
+Officially called Netscape Communications Corporation, Netscape was founded by James H. Clark and Marc Andreessen in 1994 and was acquired by AOL in 1999. It revolutionized the computer software market by giving away for free its popular Navigator Web browser until it had acquired an overwhelming market share for this category of software.  This strategy is now used by many other software companies, including Microsoft, which also distributes its Web browser, Internet Explorer, for free.  The term Netscape is often used as the name of the company's browser, not the company itself.
+
+netscuse
+n Internet slang term that describes using general Internet or ISP outages as an excuse for not completing a task.
+
+NetShow
+A specification developed by Microsoft for streaming multimedia content over the World Wide Web. A competing specification backed by Netscape is RTSP.  
+
+NetWare
+A local-area network (LAN) operating system developed by Novell Corporation. NetWare is a software product that runs on a variety of different types of LANs, from Ethernets to IBM token-ring networks. It provides users and programmers with a consistent interface that is independent of the actual hardware used to transmit messages.   
+
+NetWare_Loadable_Module
+Known as an NLM, it is software that enhances or provides additional functions in a NetWare 3.x or higher server. Support for database engines, workstations, network protocols, fax and print servers are examples. The NetWare 2.x counterpart is a VAP.  
+
+network
+(n.) A network is a group of two or more computer systems linked together. There are many types of computer  networks, including the following:
+
+local-area networks (LANs): The computers are geographically close together (that is, in the same building).
+wide-area networks (WANs): The computers are farther apart and are connected by telephone lines or radio waves.
+campus-area networks (CANs): The computers are within a limited geographic area, such as a campus or military base.
+metropolitan-area networks MANs): A data network designed for a town or city.
+home-area networks (HANs): A network contained within a user's home that connects a person's digital devices.
+
+
+Network Characteristics
+In addition to these types, the following characteristics are also used to categorize different types of networks:
+
+network_access_server
+Abbreviated as NAS, a network access server is an access gateway between an external communications network and an internal network. A common use of NAS is by Internet service providers (ISP) where the user dials into the ISP and is given access to the Internet after being authorized by the access server. Network access server (NAS) is also referred to as a remote access server (RAS) or as a media gateway. The IETF Network Access Server Requirements Working Group is responsible for defining the requirements for modern network access servers.
+
+network_appliance
+A typically inexpensive personal computer, sometimes called a thin client, that enables Internet access and some business-related activities but lacks many features of a fully equipped PC, such as a hard drive or CD-ROM. Applications used on network appliances typically are housed on a Web server accessed by the appliance. Network appliances are used to ease remote management and cut costs.
+
+network_automation
+The phrase used to describe the methodologies, processes, and technologies needed to help large organizations and enterprises automate the configuration and management of network devices, including hubs, routers and switches. Network automation helps an organization improve network service availability.  Learn more about network automation on Enterprise Networking Planet. 
+
+network_baselining
+Network baselining is the act of measuring and rating the performance of a network in real-time situations. Providing a network baseline requires testing and reporting of the physical connectivity, normal network utilization, protocol usage, peak network utilization, and average throughput of the network usage.
+Such in-depth network analysis is required to identify problems with speed and accessibility, and to find vulnerabilities and other problems within the network.
+Once a network baseline has been established, this information is then used by companies and organizations to determine both present and future network upgrade needs as well as assist in making changes to ensure their current network is optimized for peak performance.
+
+network_camera
+Also called an IP camera, a network camera records images and sends the compressed versions over the network. Network cameras used in surveillance systems usually offer a browser interface so the camera can be remotely accessed and viewed over the Internet. Network Video Recorder (NVR) systems use network cameras.
+
+network_computer
+A computer with minimal memory, disk storage and processor power designed to connect to a network, especially the Internet. The idea behind network computers is that many users who are connected to a network don't need all the computer power they get from a typical personal computer. Instead, they can rely on the power of the network servers.
+This is really a variation on an old idea -- diskless workstations -- which are computers that contain memory and a processor but no disk storage. Instead, they rely on a server to store data. Network computers take this idea one step further by also minimizing the amount of memory and processor power required by the workstation. Network computers designed to connect to the Internet are sometimes called Internet boxes, Net PCs, and Internet appliances.
+One of the strongest arguments behind network computers is that they reduce the total cost of ownership (TCO)-- not only because the machines themselves are less expensive than PCs, but also because network computers can be administered and updated from a central network server.
+
+network_engineer
+A network engineer, also known as network architect, designs and implements computer networks. Unlike network administrators, who perform day-to-day support, the network engineer focuses on high-level design and planning. Network engineers select the appropriate data communications components and configure them to meet user and corporate needs. The construction of a reliable and high-performing network integrating LAN, WAN, Internet, and intranet components entails network modeling and analysis.
+A bachelor's degree in network administration, computer science, or information technology is the standard qualification for a network engineering position. In addition, IT certification in networking offers targeted training for a network computer engineer. Examples include the Microsoft Network Engineer and Cisco Certified Network Associate (CCNA) certifications.
+
+network_identity
+An identity that is recognized throughout a network, such as the Internet or an enterprise��s LAN. This concept is important to enterprises managing which individuals have access to what resources, which can include applications, information, and even equipment.
+
+Network_Information_Service
+Abbreviated as NIS, Network Information Service is a client-server directory service protocol for distributing system configuration data such as user and host names between computers on a computer network. NIS allows a group of machines within an NIS domain to share a common set of configuration files. This permits a system administrator to set up NIS client systems with only minimal configuration data and add, remove or modify configuration data from a single location. NIS was first developed by Sun Microsystems to centralize administration of SunOS systems. Now, NIS is supported by all major Unix-based systems including Solaris, HP-UX, AIX, Linux, NetBSD, OpenBSD, and others.
+
+Network_Load_Balancing
+Network Load Balancing (NLB) is a clustering technology offered by Microsoft as part of all Windows 2000 Server and Windows Server 2003 family operating systems. NLB uses a distributed algorithm to load balance network traffic across a number of hosts, helping to enhance the scalability and availability of mission critical, IP-based services, such as Web, Virtual Private Networking, streaming media, terminal services, proxy and so on. It also provides high availability by detecting host failures and automatically redistributing traffic to operational hosts.
+
+network_management
+Network management refers to the broad subject of managing computer networks. There exists a wide variety of software and hardware products that help network system administrators manage a network. Network management covers a wide area, including:
+
+Security: Ensuring that the network is protected from unauthorized users.
+Performance: Eliminating bottlenecks in the network.
+Reliability: Making sure the network is available to users and responding to hardware and software malfunctions.
+
+
+network_map
+In Windows Vista, a network map is a graphical representation of all the computers and devices on your network that shows how each is connected. To appear on the network map, the device or computer needs to support UPnP technology or Web Services for Devices for Windows. Also, to use the network map in Vista you may need to enable network discovery from within the Network and Sharing Center.
+
+network_meltdown
+A state in which a network grinds to a halt due to excessive traffic. A network meltdown generally starts as a broadcast storm that gets out of control, but even legitimate network messages can cause a meltdown if the network hasn't been designed to accommodate that level of traffic. 
+
+network_monitoring
+In network management terms, network monitoring is the phrase used to describe a system that continuously monitors a network and notifies a network administrator though messaging systems (usually e-mail) when a device fails or an outage occurs. Network monitoring is usually performed through the use of software applications and tools.
+At the most basic level, ping is a type of network monitoring tool. Other commercial software packages may include a network monitoring system that is designed to monitor an entire business or enterprise network.
+Some applications are used to monitor traffic on your network, such as VoIP monitoring, video stream monitoring, mail server (POP3 server) monitoring, and others.
+
+network_multipathing
+In IP networks, multipathing is a type of configuration designed to increase data throughput by using multiple network adapters ("multipathing") connected to the same subnet.
+See also multihomed.
+
+Network_Name
+See SSID.
+
+Network_Neighborhood
+A Windows 95 folder that lists computers, printers and other resources connected to your local-area network (LAN). By default, a Network Neighborhood icon appears on your desktop, and the folder is also accessible from within the Windows 95 Explorer. The Network Neighborhood is designed to replace the drive mapping older system, which associates a letter with each shared disk drive. Many programs, however, still require drive mapping.  The Network Neighborhood serves no purpose if your computer is not connected to a LAN, except that it is required to link two computers using Windows 95's Direct Cable Connection (DCC) feature.  
+
+network_neutrality
+Network neutrality or net neutrality, as it is abbreviated, is the term used to describe networks that are open to equal access to all . They are non-discriminatory as they do not favor any one destination or application over another. Due to the political debate in 2006, the definition of network neutrality has changed to mean those who run networks as opposed to the network itself, where net neutrality is generally understood to mean that the service and telecommunication providers do not discriminate against rivals or individuals when they charge fees or when they prioritize traffic. Net neutrality is a major issue as the U.S. considers new telecommunications laws. In a general sense, it is mainly supported by companies that provide services at the edge of the network, and is generally opposed by companies that manage the middle of the network.
+
+network_security
+A specialized field in computer networking that involves securing a computer network infrastructure. Network security is typically handled by a network administrator or system administrator who implements the security policy, network software and hardware needed to protect a network and the resources accessed through the network from unauthorized access and also ensure that employees have adequate access to the network and resources to work.
+A network security system typically relies on layers of protection and consists of multiple components including networking monitoring and security software in addition to hardware and appliances. All components work together to increase the overall security of the computer network.
+
+network_service_provider
+A company that provides Internet access to ISPs. Sometimes called backbone providers, NSPs offer direct access to the Internet backbone and the Network Access Points (NAPs). 
+
+network_software
+A general phrase for software that is designed to help set up, manage, and/or monitor computer networks. Networking software applications are available to manage and monitor networks of all sizes, from the smallest home networks to the largest enterprise networks.
+
+network_support_engineer
+A network support engineer focuses on the maintenance of an existing corporate network, either as part of the organization's internal IT support team or as technical support staff of a third-party network technology provider. Network support may extend from testing and troubleshooting problems to regular maintenance. Support engineers contribute high-level support such as strategic planning of network upgrades and high-level network performance analyses.
+A computer engineering or computer science degree at the bachelor's level can get you started in a network engineer career. To keep pace with network technology and advance in your career, supplement this educational foundation with a master's degree in computer engineering or computer training certifications. Network support engineers face strong demand for their expertise; according to the Bureau of Labor Statistics, network analysts can expect 53 percent growth in the 2008 to 2018 period, making it the second-fastest-growing career in the U.S.
+See also the list of Computer Certifications in Webopedia's Quick Reference section.
+
+network_transparency
+A condition in which an operating system or other service allows the user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystem's NFS, which has become a de facto industry standard, provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk. 
+
+Network_Video_Recorder
+Abbreviated as NVR a Network Video Recorder is a network camera that enables simultaneous recording and remote access to both live views and recorded images. The NVR is used in conjunction with network cameras that capture images and then transmit compressed video over the network. NVRs can be used on a standard IP network.
+
+network_virtualization_NV
+Network virtualization (NV) is using network resources through a  logical segmentation of a single physical network. Network virtualization is achieved by installing software and services to manage the sharing of storage, computing cycles and applications. Network virtualization treats all servers and services in the network as a single pool of resources that can be accessed without regard for its physical components. The term network virtualization is often used to describe many things including network management, storage virtualization, and even grid computing.
+
+networking
+(n.) A network is a group of two or more computer systems linked together. There are many types of computer  networks, including the following:
+
+local-area networks (LANs): The computers are geographically close together (that is, in the same building).
+wide-area networks (WANs): The computers are farther apart and are connected by telephone lines or radio waves.
+campus-area networks (CANs): The computers are within a limited geographic area, such as a campus or military base.
+metropolitan-area networks MANs): A data network designed for a town or city.
+home-area networks (HANs): A network contained within a user's home that connects a person's digital devices.
+
+
+Network Characteristics
+In addition to these types, the following characteristics are also used to categorize different types of networks:
+
+neural_network
+A type of artificial intelligence that attempts to imitate the way a human brain works. Rather than using a digital model, in which all computations manipulate zeros and ones, a neural network works by creating connections between processing elements, the computer equivalent of neurons. The organization and weights of the connections determine the output.  Neural networks are particularly effective for predicting events when the networks have a large database of prior examples to draw on. Strictly speaking, a neural network implies a non-digital computer, but neural networks can be simulated on digital computers.  The field of neural networks was pioneered by Bernard Widrow of Stanford University in the 1950s. Neural networks are currently used prominently in voice recognition systems, image recognition systems, industrial robotics, medical imaging, data mining and aerospace applications. 
+
+new_media
+A generic term for the many different forms of electronic communication that are made possible through the use of computer technology. The term is in relation to "old" media forms, such as print newspapers and magazines, that are static representations of text and graphics. New media includes:
+
+Web sites
+streaming audio and video
+chat rooms
+e-mail
+online communities
+Web advertising
+DVD and CD-ROM media
+virtual reality environments
+integration of digital data with the telephone, such as Internet telephony
+digital cameras
+mobile computing
+
+Use of the term new media implies that the data communication is happening between desktop and laptop computers and handhelds, such as PDAs, and the media they take data from, such as compact discs and floppy disks.
+
+newbie
+Slang term for someone who is a new user on an online service, particularly the Internet.  
+
+news_reader
+Sometimes spelled as one word, a news reader is a client application that enables you to read messages posted to Internet newsgroups, and to post your own messages. Both Microsoft Internet Explorer and Netscape Navigator come with news readers, but there are also freeware, shareware and commercial stand-alone news readers.   
+
+news_service_provider
+Abbreviated NSP, a typically commercial organization that provides Usenet news as its primary or sole activity.
+
+newsgroup
+Same as forum, an on-line discussion group. On the Internet, there are literally thousands of newsgroups covering every conceivable interest. To view and post messages to a newsgroup, you need a news reader, a program that runs on your computer and connects you to a news server on the Internet.
+
+
+newsletter
+Shortened form of newspaper and informational letter. Generally used to describe a periodic publication distributed by e-mail to an opt-in list of subscribers. Newsletters are normally used by organizations or owners of a Web site to communicate with their readers. Some companies may sell targeted ads within their newsletters.Also called e-newsletter, eNewsletter, E-mail newsletter, or eBulletin. 
+
+NEXT
+Short for near-end crosstalk (the "X" standing for "cross"), the measurement of crosstalk between two twisted-pair wires. Current flowing through wires creates electromagnetic fields that can interfere with signals on adjacent wires. NEXT occurs when a strong signal from one pair of wires is picked up by an adjacent pair. NEXT is the measurement of the portion of the signal that is electromagnetically coupled back into the received signal.
+
+next_generation_firewall_ngfw
+A class of firewalls designed to filter network and Internet traffic based upon the applications or traffic types using specific ports. The application-specific granular security policies provided by Next Generation Firewalls help them detect application-specific attacks, giving them the potential to catch more malicious activity than more traditional firewalls.
+Next Generation Firewalls (NGFWs) blend the features of a standard firewall with quality of service (QoS) functionalities in order to provide smarter and deeper inspection. In many ways a Next Generation Firewall combines the capabilities of first-generation network firewalls and network intrusion prevention systems (IPS), while also offering additional features such as SSL and SSH inspection, reputation-based malware filtering and Active Directory integration support.
+Manufacturers of enterprise-grade and commercial-grade NGFWs include Barracuda Networks (Barracuda NG Firewall series), Juniper Networks (AppSecure Suite), Palo Alto Networks and WatchGuard.
+
+next_hop
+Common routing term that indicates the IP address of the next hop to which packets for the entry should be forwarded.See also hop.
+
+Next_Generation_Network
+A Next-Generation Network (NGN) is the term given to describe a telecommunications packet-based network that handles multiple types of traffic (such as voice, data,  and multimedia). It is the convergence of  service provider networks that includes the public switched telephone network (PSTN), the data network (the Internet), and, in some instances, the wireless network as well. * The NGN system offers key convergent multimedia services using a shared network characterized by several essential elements:  A unique and shared core network for all types of access and services.  A core network architecture divided into three layers: Transport, Control and Services.  Development of packet mode transport (IP flow transport in native IP, or on ATM in the short term with a progressive convergence to IP).  Open and standardized interfaces between each layer, and in particular for the Control and Services layers in order to allow third parties to develop and create services independent of the network.  Support for multiple applications (multimedia, real-time, transactional, total mobility) adaptable to the user and growing and varied capacities of access networks and terminals. * [Adapted from  Moving towards the Next Generation Networks (NGN)] 
+
+NextStep
+An object-oriented operating system developed by Next Inc., a company started in 1985 by Steven Jobs, one of the co-founders of Apple Computer. In 1997, Apple Computer acquired Next, with idea of making NextStep the foundation of its new Macintosh operating system.  
+
+Nexus_One
+The official product name of the smartphone launched by Google in January 2010. Nexus One uses the Android open source mobile operating system and is manufactured by Taiwan HTC Corporation. The phone, which was initially launched only in the United States, is available in an unlocked version. See also Android Platform.
+
+NFC
+Abbreviated as NFC, Near Field Communication is a standards-based, short-range wireless connectivity technology that enables convenient short-range communication between electronic devices. The underlying layers of NFC technology are ISO, ECMA, and ETSI standards. NFC applications can be split into the following  four basic categories:   Touch and Go: Applications such as access control or transport/event ticketing, where the user needs only to bring the device storing the ticket or access code close to the reader. Also, for simple data capture applications, such as picking up an Internet URL from a smart label on a poster.  Touch and Confirm: Applications such as mobile payment where the user has to confirm the interaction by entering a password or just accepting the transaction.  Touch and Connect: Linking two NFC-enabled devices to enable peer to peer transfer of data such as downloading music, exchanging images or synchronizing address books.  Touch and Explore: NFC devices may offer more than one possible function. The consumer will be able to explore a device's capabilities to find out which functionalities and services are offered.  [Application information courtesy of  Philips] 
+
+NFC_Forum
+The Near Field Communication (NFC) Forum is a non-profit industry association formed to advance the use of NFC short-range wireless interaction in consumer electronics, mobile devices and PCs. The NFC Forum promotes implementation and standardization of NFC technology to ensure interoperability between devices and services. See also Near Field Communication (NFC).
+
+NFS
+Abbreviation of Network File System, a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk.  With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used. 
+
+nfv-network-functions-virtualization
+Network Functions Virtualization, or NFV, is a network architecture philosophy that utilizes virtualization technologies to manage core networking functions via software as opposed to having to rely on hardware to handle these functions. The NFV concept is based on building blocks of virtualized network functions, or VNFs, that can be combined to create full-scale networking communication services.
+In Network Functions Virtualization, virtualized network functions handle specific network functions that run in one or more virtual machines on top of the hardware networking infrastructure (both wired and wireless) such as routers, switches, servers or cloud computing systems.
+Examples of the types of networking functions that can be managed by NFV include network security and firewalls, network address translation (NAT), domain name services (DNS), caching, intrusion detection and more.
+
+NGI_Initiative
+Short for Next Generation Internet Initiative, a U.S. program designed to fund and coordinate federal agencies and academia to design and build the next generation of Internet services. The program was first proposed by President Clinton in 1996 and has not yet been formally specified or funded by Congress. It is still unclear how the NGI Initiative will complement other initiatives, such as the NSF's very high-speed Backbone Network Service (vNBS) and Internet2 (I2). 
+
+nginx
+Nginx is an open source HTTP Web server and reverse proxy server. Pronounced as “Engine-Ex,” Nginx has emerged as the third most popular Web server behind the Apache Web server and Microsoft’s IIS, and it currently powers popular websites like Pinterest, WordPress.com, Netflix, Hulu, CloudFlare, Zappos and Zynga.
+In addition to offering HTTP server capabilities, Nginx can also operate as an IMAP/POP3 mail proxy server as well as function as a load balancer and HTTP cache server. Nginx can run on Linux, Mac OS X, Solaris, AIX, HP-UX and BSD variants.
+
+NGMA
+Short for next-generation microarchitecture (Codenamed Conroe, Merom, and Woodcrest for desktop, notebook and server versions, respectively) NGMA is a new CPU from Intel that will be dual-core designs that represent a hybrid of the NetBurst and Pentium M architectures.
+
+NGN
+A Next-Generation Network (NGN) is the term given to describe a telecommunications packet-based network that handles multiple types of traffic (such as voice, data,  and multimedia). It is the convergence of  service provider networks that includes the public switched telephone network (PSTN), the data network (the Internet), and, in some instances, the wireless network as well. * The NGN system offers key convergent multimedia services using a shared network characterized by several essential elements:  A unique and shared core network for all types of access and services.  A core network architecture divided into three layers: Transport, Control and Services.  Development of packet mode transport (IP flow transport in native IP, or on ATM in the short term with a progressive convergence to IP).  Open and standardized interfaces between each layer, and in particular for the Control and Services layers in order to allow third parties to develop and create services independent of the network.  Support for multiple applications (multimedia, real-time, transactional, total mobility) adaptable to the user and growing and varied capacities of access networks and terminals. * [Adapted from  Moving towards the Next Generation Networks (NGN)] 
+
+nibble
+Half of an eight-bit byte - four bits. Nibbles are important in hexadecimal and BCD representations.   The term is sometimes spelled nybble.  
+
+network_interface_card_NIC
+Often abbreviated as NIC, an expansion board you insert into a computer so the computer can be connected to a network. Most NICs are designed for a particular type of network, protocol, and media, although some can serve multiple networks.
+
+
+NIC_bonding
+Short for network interface card (NIC) bonding it is a term used to describe a way to increase available bandwidth. When bonded, two NICs appear to be the same physical device and they also have the same MAC address. Linux uses a special kernel module called bonding to allow users to bond multiple network interfaces into a single channel. NIC bonding may also be called NIC Teaming. See "Understanding NIC Bonding with Linux" on EnterpriseNetworkingPlanet.
+
+NiCad_battery_pack
+NiCad stands for nickel-cadmium, the materials used in the battery packs for many notebook computers. NiCad batteries can provide considerable power, but they need to be recharged every three or four hours. Full recharging can take as much as twelve hours, although newer batteries can be recharged in just a few hours.  Older NiCad batteries suffer from a phenomenon known as the memory effect. If they were only partially drained and then recharged, they lost their capacity to be fully charged. This is not such a problem with modern NiCad batteries.  Even with full drainage (called deep discharging), all batteries have a limit to the number of times they can be recharged. The maximum for most NiCad batteries is about one thousand recharges. 
+
+niche
+Online the word niche is used in a number of technologies to refer to a specific topic, subject or category. Web sites and blogs may provide news and content on a niche (e.g. a blog about sports or finance), while online sellers often sell in niche categories. It is believed that by focusing on a niche topic or category you will see higher traffic numbers for your Web site or blog-or see higher profits in online selling-as you have less competition in a niche area.
+
+nickispy
+Nickispy is a family of Trojan horse viruses that targets smartphones powered by the Android operating system.  The most recent strain of Nickispy, Nickispy.C, masquerades as the Google+ (Google Plus) service in an attempt to dupe Android OS users into installing the malware.  Nickispy.C attempts to trick users into installing a third-party app called Google++ (notice the use of two "plus" signs rather than one), and it even uses the same icon as the real Google+ service. 
+Users installing Google++ provide Nickispy with complete access to their smartphone's text messages and call logs, and the malware can even record phone calls as well as GPS position history.   Nickispy can additionally secretly answer calls on its own and send a user's private information to a remote site without the user's knowledge.
+While many of Nickispy’s malicious capabilities affect all Android smartphones, the malware's ability to surreptitiously intercept calls only affects Android smartphones running version 2.2 or earlier.  Smartphones running version 2.3 ("Gingerbread") or later are protected from this as a result of the modify_phone_state permission being disabled.
+
+NIDS
+An intrusion detection system (IDS) inspects all inbound and outbound network activity and identifies suspicious patterns that may indicate a network or system attack from someone attempting to break into or compromise a system.
+There are several ways to categorize an IDS:
+
+misuse detection vs. anomaly detection: in misuse detection, the IDS analyzes the information it gathers and compares it to large databases of attack signatures. Essentially, the IDS looks for a specific attack that has already been documented. Like a virus detection system, misuse detection software is only as good as the database of attack signatures that it uses to compare packets against. In anomaly detection, the system administrator defines the baseline, or normal, state of the network��s traffic load, breakdown, protocol, and typical packet size. The anomaly detector monitors network segments to compare their state to the normal baseline and look for anomalies.
+network-based vs. host-based systems: in a network-based system, or NIDS, the individual packets flowing through a network are analyzed. The NIDS can detect malicious packets that are designed to be overlooked by a firewall��s simplistic filtering rules. In a host-based system, the IDS examines at the activity on each individual computer or host.
+passive system vs. reactive system: in a passive system, the IDS detects a potential security breach, logs the information and signals an alert. In a reactive system, the IDS responds to the suspicious activity by logging off a user or by reprogramming the firewall to block network traffic from the suspected malicious source.
+
+Though they both relate to network security, an IDS differs from a firewall in that a firewall looks out for intrusions in order to stop them from happening. The firewall limits the access between networks in order to prevent intrusion and does not signal an attack from inside the network. An IDS evaluates a suspected intrusion once it has taken place and signals an alarm. An IDS also watches for attacks that originate from within a system.
+
+night_mode
+In photography and digital photography, night mode is a function of the digital camera that is used when you are taking photos in low-light situations -- or at night time.  When taking photos in night mode, the digital camera uses a long shutter speed to capture scene details and also fires the camera's flash to illuminate the subject or foreground of the shot.
+Other digital camera settings and shooting modes include:
+
+
+Macro mode to focus on subjects close to the camera lens.
+Sports mode to shoot sports and other types of action shots.
+Movie mode to capture moving subjects in a video format.
+In-camera red-eye fix to auto-correct any incidences red-eye.
+Face detection to detect human faces and set the focus and appropriate exposure.
+
+See also "The Digital Camera Picture" in Webopedia's Quick Reference section.
+
+NiMH_battery_pack
+NiMH stands for Nickel-Metal Hydride, the materials used in some battery packs. Unlike NiCad batteries, NiMH batteries do not use heavy metals that may have toxic effects. In addition, they can store up to 50% more power than NiCad batteries and do not suffer from memory effects. 
+
+Nimrod_Routing_Architecture
+An internetwork  routing architecture that can be applied to routing both within a single routing domain and among multiple routing domains. Nimrod works by separating the identification of communicating entities, called endpoints, from any  topological information. It uses  Endpoint Identifiers (EIDs) to specify and identify entities connected to the network. The subsystems which are covered by Nimrod include routing information distribution, route selection, and user  traffic handling. Nimrod is equally applicable to both the TCP/IP and OSI environments.
+
+NIPS
+Short for network-based intrusion prevention system, NIPS is an IPS or intrusion prevention systems designed for security over network-based systems.See also IPS, intrusion prevention systems.
+
+NISO
+Short for the National Information Standards Organization (NISO) is an American National Standards Institute (ANSI) accredited non-profit association that identifies, develops, maintains, and publishes technical standards to manage information.  NISO was founded in 1939 and its community consists of more than 70 organizations in the fields of publishing, libraries, IT, and media. NISO was designated by ANSI to represent U.S. interests as the Technical Advisory Group (TAG) to the International Organization for Standardization (ISO).
+
+NIST
+Short for the National Institute of Standards and Technology, NIST is a non-regulatory federal agency within the U.S. Department of Commerce. Founded in 1901, NIST aims to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security. NIST maintains four cooperative programs including the NIST Laboratories which conducts research that advances the nation's technology infrastructure and the Technology Innovation Program, which provides cost-shared awards to industry, universities, and consortia for research on potentially revolutionary technologies.
+
+nit
+A unit of measurement of luminance, or the intensity of visible light, where one nit is equal to one candela per square meter. Nits are used to describe the brightness of computer displays, such as LCD and CRT monitors.
+
+NLE
+Abbreviation for nonlinear diting. NLE is also used to describe the various nonlinear digital video editing software packages available to video authors. See nonlinear editing.
+
+NLOS
+(n.) Short for near line of sight. Radio frequency technologies use the term NLOS to describe a partially obstructed path between the location of the signal transmitter and the location of the signal receiver. Obstacles that can cause an obstruction in the line of sight include trees, buildings, mountains, hills and other natural or manmade structures or objects.  Compare with LOS.  Near line of sight also is less commonly referred to as loose line of sight.
+
+NLP
+Short for natural language processing, a branch of artificial intelligence that deals with analyzing, understanding and generating the languages that humans use naturally in order to interface with computers in both written and spoken contexts using natural human languages instead of computer languages.  One of the challenges inherent in natural language processing is teaching computers to understand the way humans learn and use language. Take, for example, the sentence "Baby swallows fly." This simple sentence has multiple meanings, depending on whether the word "swallows" or the word "fly" is used as the verb, which also determines whether "baby" is used as a noun or an adjective. In the course of human communication, the meaning of the sentence depends on both the context in which it was communicated and each person��s understanding of the ambiguity in human languages. This sentence poses problems for software that must first be programmed to understand context and linguistic structures.  NLP is also referred to as computational linguistics.
+
+NLX
+A form factor designed by Intel for PC motherboards. The NLX form factor features a number of improvements over the current LPX form factor. Its features include:  Support for larger memory modules and DIMMs Support for the newest microprocessors, including the Pentium II using SEC packaging. Support for AGP video cards. Better access to motherboard components Support for dockable designs in which the motherboard can be removed without tools   
+
+NMOS
+Short for negative-channel metal-oxide semiconductor, and pronounced en-moss, a type of semiconductor that is negatively charges so that transistors are turned on or off by the movement of electrons. In contrast, PMOS (positive-channel MOS) works by moving electron vacancies. NMOS is faster than PMOS, but also more expensive to produce. 
+
+NNTP
+Short for Network News Transfer Protocol, the protocol used to post, distribute, and retrieve USENET messages. The official specification is RFC 977. NNTP replaced UUCP, the original USENET protocol. 
+
+NOC
+Short for network operations center, the physical space from which a typically large telecommunications network is managed, monitored and supervised. The NOC coordinates network troubles, provides problem management and router configuration services, manages network changes, allocates and manages domain names and IP addresses, monitors routers, switches, hubs and UPS systems that keep the network operating smoothly, manages the distribution and updating of software and coordinates with affiliated networks. NOCs also provide network accessibility to users connecting to the network from outside of the physical office space or campus.
+
+node
+(1) In networks, a processing location. A node can be a computer or some other device, such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or Media Access Control (MAC) address.
+(2) In tree structures, a point where two or more lines meet.
+
+
+noise
+(1) In communications, interference (static) that destroys the integrity of signals on a line. Noise can come from a variety of sources, including radio waves, nearby electrical wires, lightning, and bad connections. One of the major advantages of fiber optic cables over metal cables is that they are much less susceptible to noise.  (2) In general, anything that prevents a clear signal or message from being transmitted. For example, you might hear someone complain of a lot of noise in a newsgroup, meaning that there are many superfluous messages that don't add anything to the discussion. (3) In digital images and digital photography the term noise is used to describe the occurrence of color dots or specks where there should be none. For example, in a digital image of a pool of blue water, you may notice white, grey or other colored specks in the image where it should be blue. In scanning technology, image noise is usually referred to as grain or film grain.
+
+nomadic_wireless
+A network technology that delivers connectivity within a limited range using antenna(s). The provider's fixed antennas communicate with an antenna on the user's device. Connectivity is available but only within the limited range of the local antennas. One example of nomadic wireless is Wi-Fi.
+
+nomophobia
+The fear of being out of mobile phone contact. The phrase was coined by a U.K. study commissioned by SecurEnvoy as an abbreviation for no-mobile-phone phobia, and it found that two-thirds of mobile phone users get anxious when losing their phone, running out of battery power or finding themselves in a location without network coverage. 
+The study also showed that younger people (18 to 34) are more likely to be nomophobic, and the level of nomophobia has increased from 50 percent to 66 percent in the last four years.  It also found the average case of nomophobia causes stress levels similar to those of suffering anxiety related to "wedding day jitters" or going to the dentist.
+
+non_homogeneous_register_architecture
+Non-homogeneous register architectures are frequently encountered in Application Specific Instruction Set Processors (ASIPs). These processors usually have a set of very specialized functional units, and associated registers, that are used to efficiently implement operations with performance requirements that frequently occur in the application domain of the processor. Examples of these type of units include Multiply and Accumulate Units (MAC) and Address Calculation Units (ACU). [Source: Optimal Code Generation for Embedded Memory Non-Homogeneous Register Architectures]
+Contrast with homogeneous register architecture.
+
+non_impact_printer
+A type of printer that does not operate by striking a head against a ribbon. Examples of nonimpact printers include laser and ink-jet printers. The term nonimpactis important primarily in that it distinguishes quiet printers from noisy (impact) printers.
+
+
+non_interlaced
+Refers to monitors and video standards that do not use interlacing techniques to improve resolution. Although interlacing increases resolution, it also increases screen flicker and reduces reaction time.  
+
+non_linear_editing
+In digital video editing, non-linear editing is a method that allows you to access any frame in a digital video clip regardless of sequence in the clip. The freedom to access any frame, and use a cut-and-paste method, similar to the ease of cutting and pasting text in a word processor, and allows you to easily include fades, transitions, and other effects that cannot be achieved with linear editing.
+
+non_volatile_memory
+Types of memory that retain their contents when power is turned off. ROM is nonvolatile, whereas RAM is volatile. This term often refers to the CMOS memory in PCs that holds the BIOS. 
+
+nondeterministic_system
+A system in which the output cannot be predicted because there are multiple possible outcomes for each input.  Contrast with deterministic system.
+
+nonrepudiation
+In reference to digital security, nonrepudiation means to ensure that a transferred message has been sent and received by the parties claiming to have sent and received the message. Nonrepudiation is a way to guarantee that the sender of a message cannot later deny having sent the message and that the recipient cannot deny having received the message.
+Nonrepudiation can be obtained through the use of:
+
+digital signatures-- function as a unique identifier for an individual, much like a written signature.
+confirmation services -- the message transfer agent can create digital receipts to indicated that messages were sent and/or received.
+timestamps -- timestamps contain the date and time a document was composed and proves that a document existed at a certain time.
+
+
+nook
+A line of Android-powered portable e-book reader devices developed and marketed by Barnes & Noble that competes with Amazon’s Kindle line of e-books. Like the Kindle, the entry-level NOOK features E Ink (Electronic Ink) technology in a monochrome matte screen display that provides sharp, clear text and reduced glare for extended reading with less eye fatigue.  The more expensive NOOK Color and NOOK Tablet devices provide full color LCD screens for also watching video content, running apps and Web browsing in addition to reading e-books.
+The Nook devices include built-in Wi-Fi capabilities for downloading books, running applications and Web browsing, and the higher level Nook devices offer touch screen support.  The Nook line currently consists of:
+
+
+The original NOOK device, which debuted in 2009 and was phased out in early 2011
+The NOOK Simple Touch, which features an infrared touch screen
+The NOOK Color, which replaces the monochrome E Ink display with a full color LCD screen
+The NOOK Tablet, a tablet device that adds better performance and more features than the Nook Color
+
+
+
+nook_tablet
+The NOOK Tablet is the most recent addition to Barnes and Noble’s NOOK line of portable e-book reader devices. The NOOK Tablet debuted in late 2011 as a replacement for the NOOK color and is designed to compete with similar multifunctional devices like the Kindle Fire and Apple's iPad.
+The $249 tablet computer lacks the Kindle Fire’s dedicated Appstore as well as the video and music content provided by Amazon, but it does offer multimedia content via built-in apps like Hulu Plus, Netflix, Rhapsody, Pandora and TuneIn Radio Pro.
+
+NOR
+NOR architecture is one of two technologies (the other being NAND) used in memory cards. NOR flash is the preferred technology for flash devices used to store and run code, usually in small capacities. NOR flash devices offer storage space up to 32-MB and while it has fast read capabilities it has slow write and slow erase functions compared to the NAND architecture. NOR technology is more commonly found as embedded designs and in lower-end set-top boxes and mobile handsets, and BIOS chips.NOR flash architecture was introduced by Intel in 1988.See also NAND
+
+NOR_operator
+A Boolean operator that returns a value of TRUE only if both operands are FALSE.  
+
+normalization
+(1) In relational database design, the process of organizing data to minimize redundancy. Normalization usually involves dividing a database into two or more tables and defining relationships between the tables. The objective is to isolate data so that additions, deletions, and modifications of a fieldcan be made in just one table and then propagated through the rest of the database via the defined relationships.
+There are three main normal forms, each with increasing levels of normalization:
+
+First Normal Form (1NF):Each field in a table contains different information. For example, in an employee list, each table would contain only one birthdate field.
+Second Normal Form (2NF):Each field in a table that is not a determiner of the contents of another field must itself be a function of the other fields in the table.
+Third Normal Form (3NF): No duplicate information is permitted. So, for example, if two tables both require a birthdate field, the birthdate information would be separated into a separate table, and the two other tables would then access the birthdate information via an index field in the birthdate table. Any change to a birthdate would automatically be reflect in all tables that link to the birthdate table.
+
+There are additional normalization levels, such as Boyce Codd Normal Form (BCNF), fourth normal form (4NF) and fifth normal form (5NF). While normalization makes databases more efficient to maintain, they can also make them more complex because data is separated into so many different tables.
+
+nortel_networks_corporation
+Nortel Networks Corporation (Nortel) is a multinational telecommunications equipment manufacturer. Nortel produces telecommunications and computer network software and equipment.
+Additionally, Nortel offers network computing certifications. There are three subcategories of certifications; technology, support, and design. Certifications cover base level proficiencies in identifying communication solutions, implementation considerations, and engineering or supporting various technological aspects of a converged network solution. 
+
+Northbridge
+In Northbridge/Southbridge chipset architecture designs, the Northbridge is the chip or chips that connect a CPU to memory, the PCI bus, Level 2 cache and AGP activities. The Northbridge chips communicate with the CPU through the FSB.  The Northbridge chip is one of two chips that control the functions of the chipset. The other is the Southbridge. The Northbridge can consist of more than one discrete chip while the Southbridge is typically only one discrete chip.
+
+network_operating_system_NOS
+Abbreviated as NOS, a network operating system includes special functions for connecting computers and devices into a local-area network (LAN). Some operating systems, such as UNIX and the Mac OS, have networking functions built in.
+The term network operating system is generally reserved for software that enhances a basic operating system by adding networking features. Novell Netware, Artisoft's LANtastic, Microsoft Windows Server, and Windows NT are examples of a NOS.
+
+nosql_database
+A database that features fewer consistency restrictions than conventional relational databases. While most often called NoSQL databases, these databases are sometimes also referred to as “Not Only SQL” databases to reflect that SQL queries can be used in some cases.
+NoSQL databases feature highly optimized key-value data designed for quick retrieval and appending operations, and they can offer substantial performance benefits over relational databases in terms of latency and throughput. As a result they’ve become quite popular recently, particularly in use with Big Data, cloud computing and real-time web applications. 
+
+not_invented_here_syndrome
+Not invented here syndrome (NIHS) is a slightly tongue-in-cheek name for the tendency of both individual developers and entire organizations to reject suitable external solutions to software development problems in favor of internally developed solutions. Closely related to the "let's re-invent the wheel" syndrome, NIHS can be seen in intensities ranging from a mild reluctance to accept new ideas all the way up to a raging software xenophobia. NIHS can be defined as a situation where an external solution is rejected only because it was not internally developed - in other words, there are no other factors that dictate an internally developed solution would be superior. [Source: Developer.com]  Not invented here also refers to industries outside of computer programming, where organizations reject research or knowledge in favor of internally-developed solutions.
+
+NOT_operator
+A Boolean operator that returns TRUE if its operand is FALSE, and FALSE if its operand is TRUE.  
+
+notebook_computer
+)(n.) An extremely lightweight personal computer. Notebook computers typically weigh less than 6 pounds and are small enough to fit easily in a briefcase. Aside from size and portability, the principal difference between a notebook computer and a personal computer is the display screen. Notebook computers use a variety of techniques, known as flat-panel technologies,to produce a lightweight and non-bulky display screen.
+The quality of notebook display screens varies considerably. Many notebook display screens are limited to VGA resolution. Active-matrix screens produce very sharp images, but they do not refresh as rapidly as full-size monitors.
+In terms of computing power, modern notebook computers are nearly equivalent to personal computers. They have the same CPUs, memory capacity, and disk drives. However, all this power in a small package is expensive.
+
+Novell
+A prominentnetwork software company. Its flagship product, Netware, has been a corporate standard for building local-area networks (LANs) for more than a decade. Novell was founded in 1983. 
+
+Novell_eDIRECTORY
+Also called Netware Directory Services, Novell eDIRECTORY is directory service software that is used to centrally managing access to resources on multiple servers and computers within a network. The eDirectory software is not available as a standalone product, instead it is part of the Novell Compliance Management Platform. The Novell Compliance Management Platform delivers business process automation that provides users with the appropriate resources, validated in real-time to ensure compliance to company policy.
+
+NPC
+Short for Non-Player Character, it is a game character not played by a person, it is the computer player. In 3-D action and shooter games, especially in deathmatch scenarios, the NPCs are often called bots.
+
+NRZI
+Non-Return-to-Zero Inverted A method for transmitting and recording data so that it keeps the sending and receiving clocks synchronized. This is especially helpful in situations where bit stuffing is employed -- the practice of adding bits to a data stream so it conforms with communications protocols. These added bits can create a long string of similar bits, which register to the receiver as a single, unchanging voltage. Since clocks adjust on voltage changes, they'll lag behind true time. NRZI ensures that after a 0 bit appears, the voltage will immediately switch to a 1 bit voltage level. These voltage changes allow the sending and receiving clocks to synchronize.
+
+NS_Basic
+A development environment for programming in BASIC for handheld devices. NS Basic allows a programmer to develop and test programs in a desktop environment and then download them to handheld devices as handhelds typically do not have the resources to support the development of programs, such as screens to display an IDEM.  NS Basic is currently available for development with Palm OS, Windows CE and Newton.
+
+NSAPI
+Short for Netscape Server API, an API for Netscape's Web servers. NSAPI enables programmers to create Web-based applications that are more sophisticated and run much faster than applications based on CGI scripts. 
+
+NSFnet
+A wide-area network developed under the auspices of the National Science Foundation (NSF). NSFnet replaced ARPANET as the main government network linking universities and research facilities. In 1995, however, the NSF dismantled NSFnet and replaced it with a commercial Internet backbone. At the same time, the NSF implemented a new backbone called very high-speed Backbone Network Service (vBNS), which serves as a testing ground for the next generation of Internet technologies.   
+
+NSP
+Abbreviated NSP, a typically commercial organization that provides Usenet news as its primary or sole activity.
+
+NTFS
+(pronounced as separate letters) Short for NT File System, one of the file systems for the Windows NT operating system (Windows NT also supports the FAT file system). NTFS has features to improve reliability, such as transaction logs to help recover from disk failures. To control access to files, you can set permissions for directories and/or individual files. NTFS files are not accessible from other operating systems such as DOS.
+For large applications, NTFS supports spanning volumes, which means files and directories can be spread out across several physical disks.
+
+
+NTLDR
+Short for NT Loader, a program loaded from the hard drive boot sector that displays the Microsoft Windows NTstartup menu and helps Windows NT load.
+Often a user will see the message "NTLDR is Missing" after attempting to install Windows 2000 or Windows XP, or upgrade a Windows 95-based or Windows 98-based computer to Windows 2000 or Windows XP. The message appears after the first reboot. This occurs only if Windows 95 or 98 has been installed on a drive with the FAT32file system.
+To correct the problem, the user must boot the computer with a Windows 95 or 98 Startup diskette or another bootable diskette with sys.com on it. Then, at the "A:\>" prompt, type "sys c:" and press "enter." A "System Transferred" prompt should appear and then the user must reboot the computer without the diskette.
+
+NTLM
+Abbreviation for "Windows NT LAN Manager"
+The NTLM protocol was the default for network authentication in the Windows NT 4.0 operating system. It is retained in Windows 2000 for compatibility with down-level clients and servers. NTLM is also used to authenticate logons to standalone computers with Windows 2000. Computers with Windows 3.11, Windows 95, Windows 98, or Windows NT 4.0 will use the NTLM protocol for network authentication in Windows 2000 domains. Computers running Windows 2000 will use NTLM when authenticating to servers with Windows NT 4.0 and when accessing resources in Windows NT 4.0 domains.*
+NTLM uses a challenge-response mechanism for authentication, in which clients are able to prove their identities without sending a password to the server. It consists of three messages, commonly referred to as Type 1 (negotiation), Type 2 (challenge) and Type 3 (authentication). The protocol continues to be supported in Windows 2000 but has been replaced by Microsoft Kerberosas the default/standard.
+
+NTP
+Short for Network Time Protocol, an Internet standard protocol (built on top of TCP/IP) that assures accurate synchronization to the millisecond of computer clock times in a network of computers. Based on UTC, NTP synchronizes client workstation clocks to the U.S. Naval Observatory Master Clocks in Washington, DC and Colorado Springs CO. Running as a continuous background client program on a computer, NTP sends periodic time requests to servers, obtaining server time stamps and using them to adjust the client's clock.  The latest version of NTP is defined in RFC 1305.
+
+NTSC
+Short for National Television System Committee. The NTSC is responsible for setting television and video standards in the United States (in Europe and the rest of the world, the dominant television standards are PAL and SECAM). The NTSC standard for television defines a composite video signal with a refresh rate of 60 half-frames(interlaced) per second. Each frame contains 525 lines and can contain 16 million different colors.
+The NTSC standard is incompatible with most computer video standards, which generally use RGB video signals. However, you can insert special video adapters into your computer that convertNTSC signals into computer video signals and vice versa.
+
+
+NTU
+(pronounced as separate letters) Short for network termination unit, a device that connects the PSTN with a CPE. This device marks the final interconnect between the public network and a customer��s private equipment. The NTU is owned by the service provider and typically has communication standards, such as voltages and protocols, that allow specific types of equipment to communicate with the PSTN.
+
+NTVDM
+The NT Virtual DOS Machine (a.k.a WOW, or Windows on Windows), is a Win16 subsystem that runs under Windows NT, which allows 16-bit applications to run as if they were being executed on a DOS machine, with that machine's multitasking and segmented memory model.   Because the system is multitasked 16-bit DOS and Windows applications cannot crash NT. However, 16-bit apps within a Win16 subsystem run the exact same way as they do on a DOS/Win 3.x machine; therefore, 16-bit apps within the subsystem can crash one another, or the subsystem. To prevent this, you can launch multiple WOW subsystems as long as your program does not communicate using shared memory.   Windows NT will not allow NTVDM to execute instructions that try to directly manipulate hardware or memory locations. As a result, some DOS and Windows 3.x applications (such as games) may not run under Windows NT.  
+
+NUA
+In X.25 communications, it is the X.121 address containing up to 15 binary code digits.  [Source: National Center for Supercomputing Applications]
+
+NuBus
+The expansion bus for versions of the Macintosh computers starting with the Macintosh II and ending with the Performa. Current Macs use the PCI bus.  
+
+Nuker
+Now a generic term for several TCP/IP DoS attacks, but originally made infamous by the WinNuke DoS attack, which crashed Windows machines that had not been suitably patched or firewalled. [Source:  CA Anti-spam Solutions]
+
+null_character
+A character that has all its bits set to 0. A null character, therefore, has a numeric value of 0, but it has a special meaning when interpreted as text. In some programming languages, notably C, a null character is used to mark the end of a character string. In database and spreadsheet applications, null characters are often used as padding and are displayed as spaces.  
+
+null_modem_cable
+A specially designed cable that allows a user to connect two computers directly to each other via their communications ports (RS-232 ports). Null modems are particularly useful with portable computers because they enable the portable computer to exchange data with a larger system. Null modem cables have the Tx (transmit) and Rx (Recieve) lines crossed over, thereby allowing data to be sent from one device to the other. They are similar to a crossover cable where it is the CTS (clear to send) and RTS (ready to send) lines are crossed over. Null-modem cables are used for serial port connections.
+
+nullable
+In database management, a field that is allowed to have no values is called nullable. Depending on the application, nullable may also be called a null reference or null object.
+
+Num_Lock_key
+A key that switches the numeric keypad from numeric mode to cursor control mode, and vice versa. In numeric mode, the keys represent numbers even when they are combined with the Shift key, Function key, or Control key. Otherwise these combinations may have different meanings.  The Num Lock key is a toggle key, meaning that it changes the current mode. If the numeric keypad is already locked in numeric mode, pressing the Num Lock key releases it.  
+
+NUMA
+Short for Non-Uniform Memory Access, a type of parallel processing architecture in which each processor has its own local memory but can also access memory owned by other processors. It's called non-uniform because the memory access times are faster when a processor accesses its own memory than when it borrows memory from another processor.  NUMA computers offer the scalability of MPP and the programming ease of SMP. 
+
+number_cruncher
+(1) A computer whose dominant characteristic is its ability to perform large amounts of numerical computations quickly. Supercomputers, for example, are sometimes called number crunchers. In addition, the term number cruncher is often applied to powerful workstations.  (2) The term number cruncher is sometimes applied to programs. For example, statistical programs are number crunchers because their main task is to perform mathematical calculations.  (3) Less frequently, the term number cruncher refers to individuals who use a computer primarily for analyzing numbers.  
+
+numeric_keypad
+)A separate set of keys on some keyboards that contain the numbers 0 through 9 and a decimal point arranged as on an adding machine. Numeric keypads make it easier to enter large amounts of numeric data.  Frequently, the keys on the numeric keyboard also serve as cursor control keys. Their meanings, therefore, depend on what mode the numeric keypad is in. In numeric mode , they represent numbers; in cursor control mode , they are like arrow keys. Keyboards that support these dual functions contain an additional key that enables you to switch modes. The name of this key varies -- on many keyboards it is labeled Num Lock.  
+
+NURBS
+Short for Non-Uniform Rational B-Spline, a mathematical representation of a 3-dimensional object. Most CAD/CAM applications support NURBS, which can be used to represent analytic shapes, such as cones, as well as free-form shapes, such as car bodies. 
+
+nvidia_kepler
+A graphical processing unit that holds the distinction of being the first GPU designed for the cloud. Graphics cards powered by Nvidia Kepler processors are tuned to efficiently serve virtualized desktops, providing auto-scaling to the necessary performance level.  Nvidia Kepler processors are the latest in an enterprise move towards virtualization, joining servers, network components and more.
+
+NVOD
+Short for Near Video on Demand, NVOD is a technique used in digital television by the cable or satellite service to offer the same feature film on different channels at different, staggered start times. The idea is that viewers are never more than 20 minutes away from the start of the film and as such, are more likely to purchase the film through the provider.
+
+NVRAM
+Abbreviation of Non-Volatile Random Access Memory, a type of memory that retains its contents when power is turned off. One type of NVRAM is SRAM that is made non-volatile by connecting it to a constant power source such as a battery. Another type of NVRAM uses EEPROMchips to save its contents when power is turned off. In this case, NVRAM is composed of a combination of SRAM and EEPROM chips.
+
+
+NWLink
+NWLink is the Microsoft implementation of the Internetwork Packet Exchange/Sequenced Packet Exchange (IPX/SPX) protocol used on NetWare networks. NWLink allows connectivity between Windows-based computers and NetWare networks running IPX/SPX. NWLink also provides network basic input/output system (NetBIOS) functionality and the Routing Information Protocol (RIP).  NWLink supports connectivity between computers running Windows and computers running NetWare and compatible systems. You can also use NWLink as a protocol that connects Windows-based computers and computers running MS Client for DOS. *
+ 
+* [Source:  Microsoft Server System Knowledge Base Library]
+
+nym
+A shortened form of the word pseudonym, a nym is an anonymous invented name that a person can use in e-mail or in online discussions arenas, such as chat rooms or newsgroups. Some people create nyms because they want to protect their privacy on the Internet, while others create nyms to keep from being identified because they are involved in unethical practices, such as spam.
+
+nym_server
+A computer that allows a subscribing user to send and receive e-mail messages using a nym, or assumed name, without revealing the user's true identity.
+
+nymi
+A wearable computing device which is designed to replace the need to remember passwords. The Nymi bracelet is equipped with a sensor that reads the electrocardiogram (ECG) of the person wearing it and uses a person's own unique heartbeat signature to log on to computers and access other secure devices.
+According to Nymi developers, the bracelet relies on three factors of authentication: the bracelet, a paired mobile device, and a verified ECG.  The Nymi uses your unique electrocardiogram (ECG) to authenticate  your identity through  an embedded sensor and then uses Bluetooth to communicate your identity to all of your devices.
+
+
+Nyquists_Law
+Also called Nyquist's Theorem. Before sound as acoustic energy can be manipulated on a computer, it must first be converted to electrical energy (using a transducer such as a microphone) and then transformed through an analog-to-digital converter into a digital representation. This is all accomplished by sampling the continuous input waveform a certain number of times per second. The more often a wave is sampled the more accurate the digital representation. Nyquist's Law, named in 1933 after scientist Harry Nyquist, states that a sound must be sampled at least twice its highest analog frequency in order to extract all of the information from the bandwidth and accurately represent the original acoustic energy. Sampling at slightly more than twice the frequency will make up for imprecisions in filters and other components used for the conversion.  For example, human hearing ranges from 20Hz to 20,000Hz, so to imprint sound to a CD, the frequency must be sampled at a rate of 40,000Hz to reproduce the 20,000Hz signal. The CD standard is to sample 44,100 times per second, or 44.1 kHz.
+
+N_Port
+Found in Fibre Channel nodes, the Node port (N_Port) is used to connect an equipment port to the fabric. It connects through a point-to-point link to a single N_Port or a single F_Port. N_Port is a node port that is not loop capable.
+

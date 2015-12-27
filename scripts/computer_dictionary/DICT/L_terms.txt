@@ -1,0 +1,1142 @@
+L0phtCrack
+
+L0phtCrack is  a password auditing and recovery application. It uses multiple assessment methods to assist administrators in reducing security risks. L0phtCrack helps to identify and remediate security vulnerabilities that result from the use of weak or easily guessed passwords and recover Windows and Unix account passwords to access user and administrator accounts whose passwords are lost or to streamline migration of users to another authentication system.  Additionally, some versions of L0phtCrack can process accounts using pre-computed password tables that contain trillions of passwords.
+
+L1_cache
+
+Short for Level 1 cache, a memory cache built into the microprocessor. See under cache.  The L1 cache is also called the primary cache. 
+
+L2_cache
+
+Short for Level 2 cache, cache memory that is external to the microprocessor. In general, L2 cache memory, also called the secondary cache, resides on a separate chip from the microprocessor chip. Although, more and more microprocessors are including L2 caches into their architectures. 
+
+L2TP
+
+Short for Layer Two (2) Tunneling Protocol, an extension to the PPP protocol that enables ISPs to operate Virtual Private Networks (VPNs). L2TP merges the best features of two other tunneling protocols: PPTP from Microsoft and L2F from Cisco Systems. Like PPTP, L2TP requires that the ISP's routers support the protocol. 
+
+L3_cache
+
+As more and more processors begin to include L2 cache into their architectures, Level 3 cache is now the name for the extra cache built into motherboards between the microprocessor and the main memory.   Quite simply, what was once L2 cache on motherboards now becomes L3 cache when used with microprocessors containing built-in L2 caches. 
+
+La_Fonera
+
+The name of the 54 Mbps wireless router used by FON. It plugs into your  broadband Internet connection, and turns it into a public wireless access point (AP), which can then be accessed by members of the FON Wi-Fi community if in that area. For this reason, FON calls the La Fonera a social router and members can personalize the page that other members see when they log on to your FON Access Point. The La Fonera router offers two secured Wi-Fi signals. One encrypted Wi-Fi signal that is only for your own private use and a second one that requires authentication and is for all other registered Foneros.
+
+label
+
+(1) A name.  (2) For mass storage devices, a label is the name of a storage volume. It is sometimes referred to as a volume label. Each operating system has its own set of rules for labeling volumes. The label provides a mnemonic name that indicates what type of information is stored on the media.  (3) In spreadsheet programs, a label is any descriptive text placed in a cell.  (4) In programming languages, a label refers to a particular location in a program, usually a particular line of source code.  (5) The term label is also commonly used to mean a small, sticky piece of paper that you can place on an object to identify it. For example, you can paste labels on floppy disks to indicate what data is stored on them.  
+
+Labelflash
+
+A technology developed by Yamaha Corp. and Fuji Photo Film Co. that enables consumers to burn images directly onto a special dye layer on a disc, using the same laser used for data recording. To burn images and text, you must use the complete Labelflash system which consists of special Labelflash DVD media and a recording system which supports the labelflash function. Labelflash technology burns the image 0.6mm deep into the media in as little as five minutes. Labelflash is a technology similar to HP's  LightScribe technology.
+
+LACNIC
+
+The abbreviation for the Latin American and Caribbean Internet Addresses Registry, one of four regional Internet registries that supply and administer IP addresses. LACNIC focuses on the Latin American and Caribbean region.  Also see RIPE NCC, ARIN and APNIC.
+
+Lambda_Expression
+
+Lambda Expressions are based on function programming; they have been added to .NET. A Lambda Expression is essentially a very compressed function often  used where a delegate would be used, and they have a precise syntax, which is roughly:    Function(arg1, arg2...argn) expression  You can explicitly type the parameters  that is, provide the argument types or leave them unspecified and the compiler will figure it out. The expression part is a statement such as a + b, or s.Length. The Return keyword is implicit.  See also  "Exploring Lambda Expression Trees" on  Developer.com.
+
+lamer
+
+A slang term used to describe a user who is uneducated in a given topic area or one who behaves stupidly when involved in online communities. The word most often associated with and used in place of  newbie. Similar slang terms include llama, which is specifically used in online gaming chat rooms and on multiplayer game servers. Also see "All About Multiplayer PC Gaming" in Webopedia's Did You Know...? section. 
+
+LAMP
+
+Short for Linux, Apache, MySQL and PHP, an open-source Web development platform, also called a Web stack, that uses Linux as the operating system, Apache as the Web server, MySQL as the RDBMS and PHP as the object-oriented scripting language. Perl or Python is often substituted for PHP.   The key to the idea behind LAMP, a term originally coined by Michael Kunze in the German magazine c't in 1998, is the use of these items together. Although not actually designed to work together, these open source software alternatives are readily and freely available as each of the components in the LAMP stack is an example of Free or Open Source Software (FOSS).   LAMP has become a de facto development standard. Today, the products that make up the LAMP stack are included by default in nearly all Linux distributions, and together they make a powerful web application platform.   The original LAMP acronym has spawned a number of other, related acronyms that capitalize on the main focus of the original combination of technologies to provide feature rich Web sites. Some of these related Web stacks include LAPP, MAMP, and BAMP.
+Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+
+local_area_network_LAN
+
+What is a Local-Area Network (LAN)?
+A local-area network (LAN) is a computer  network that spans a relatively small area. Most often, a LAN is confined to a single room, building or group of buildings, however, one LAN can be connected to other LANs over any distance via telephone lines and radio waves. A system of LANs connected in this way is called a wide-area network (WAN).
+Nodes on a LAN
+Most LANs connect workstations and personal computers. Each node (individual computer ) in a LAN has its own CPU with which it executes programs, but it also is able to access data and devices anywhere on the LAN. This means that many users can share expensive devices, such as laser printers, as well as data. Users can also use the LAN to communicate with each other, by sending email or engaging in chat sessions.
+LANs are capable of transmitting data at very fast rates, much faster than data can be transmitted over a telephone line; but the distances are limited and there is also a limit on the number of computers that can be attached to a single LAN.
+
+
+LAN_Adapter
+
+An expansion board that is used to connect a computer or computing device to a network. LAN adapter is the most common and generic alternate name for a Network Interface Card (NIC). However, many similar products, such as a  Wireless USB LAN Adapter or a Wii LAN Adapter is also called a LAN adapter.
+
+lan_network_administrator
+
+The LAN network administrator is responsible for maintaining an organization's local area network. The local area network connects computers and other equipment that shares a common communications line or network server. In most cases, the LAN spans a single geographical site, such as a corporate office. A LAN network administrator's job responsibilities include: installing LAN network components, tracking and renewing licenses for software and equipment, monitoring LAN performance, upgradeing LAN network software and hardware, creating network redundancy and backups to ensure continuity in the event of network failure, and installing software and hardware to ensure local area network security.
+An information technology degree is required for LAN network administrator jobs. The standard qualification is a bachelor's degree in IT, computer science, network administration, or management information systems. Professional IT certifications such as the Certified Wireless Network Administrator (CWNA) program offer access to broader job opportunities. The Bureau of Labor Statistics identifies network administrators among the fastest-growing occupations in the U.S., with 30 percent job growth predicted through the 2008 to 2018 decade.
+
+LAN_party
+
+Slang term used to describe an event or gathering of people, usually gamers, who setup a LAN (local-area network) and play multiplayer games on the LAN. Often, gamers will travel for a LAN party and bring their own computer system with them. Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section. 
+
+LAN_telephony
+
+The technology of using LAN data networks rather than traditional telephone lines and a PBXto carry voice traffic along with the data traffic that is typical of a LAN system.
+A LAN telephony system requires both a device to process incoming and outgoing calls to determine what address on the LAN a call will be sent to and also a voice gateway that connects the LAN telephony system to the PSTN. Each telephone on the LAN has its own network address and converts audio signals to digitized packets for transmission across the LAN. When a call is received from outside the LAN, the call processor determines which network address receives the call and forwards the packets to that address. When a call originates within the LAN, the call processor determines if the packet is to be forwarded to another network address or to the PSTN, in which case the packets must travel through the voice gateway.
+
+land
+
+The raised area on a CD or DVD where data is stored. CDs and DVDs store data in lands and pits. The lands represent 1 and the pits represent 0 in binary computing. The bits are read by the disc drive that uses a laser beam to distinguish between the lands and pits based on the amount of scattering or deflection that occurs when the beam of light hits the surface of the disc.
+
+landing_zone
+
+(n.) A non-data space on a computer's hard disk where the read/write heads rest, or park, when the computer's power is turned off. Also see What's Inside a Hard Drive? in the Did You Know . . . ? section of Webopedia.
+
+landscape
+
+)In word processing and desktop publishing, the terms portrait and landscape refer to whether the document is oriented vertically or horizontally. A page with landscape orientation is wider than it is tall.  Not all printers are capable of generating text in landscape mode. Of those that are, some require special landscape versions of their fonts; others can rotate the standard portrait fonts 90 degrees.  Orientation is also a characteristic of monitors.  
+
+landscape_mode
+
+In photography and digital photography, landscape mode is a function of the digital camera that is used when you are taking photos of a scene, not a single object (see "Portrait Mode"). When taking photos in landscape mode, the digital camera will automatically focus on as much of the scene as possible by using a large depth of field. The digital camera may also use a slower shutter speed in some cases.
+Other digital camera settings and shooting modes include:
+
+
+Macro mode to focus on subjects close to the camera lens.
+Sports mode to shoot sports and other types of action shots.
+Movie mode to capture moving subjects in a video format.
+In-camera red-eye fix to auto-correct any incidences red-eye.
+Face detection to detect human faces and set the focus and appropriate exposure.
+
+Contrast with Portrait Mode. See also "The Digital Camera Picture" in Webopedia's Quick Reference section.
+
+LANE
+
+Short for LAN emulation. LANE is a protocol that allows existing networked applications and protocols to run over an ATM backbone. LANs are connectionless while ATM is a connection-oriented technology. LANE provides a means for ATM hardware and networks to communicate with existing Ethernet and Token Ring networks. LANE works at the MAC (layer 2) networking layer of the OSI model and therefore supports both bridging and routing.  The main objective of LAN emulation is to allow existing applications to access the ATM network by way of MAC drivers as if they were running over traditional LAN's. Standard interfaces for MAC device drivers include NDIS and ODI. These interfaces specify how access to a MAC driver is performed. LANE provides these interfaces and services to the upper layers of the OSI model.
+
+language
+
+A system for communicating. Written languages use symbols (that is, characters) to build words. The entire set of words is the language's vocabulary. The ways in which the words can be meaningfully combined is defined by the language's syntax and grammar. The actual meaning of words and combinations of words is defined by the language's semantics.
+In computer science, human languages are known as natural languages. Unfortunately, computers are not sophisticated enough to understand natural languages. As a result, we must communicate with computers using special computer languages. There are many different classes of computer languages, including machine languages, programming languages, and fourth-generation languages.
+
+
+language_pack
+
+(lang´gwij pak) (n.) A set of files, commonly downloaded over the Internet, that when installed enables the user to interact with an application in a language other than the one in which the application was initially created, including other font characters if they are necessary.
+
+LAPP
+
+Short for Linux, Apache, PostGreSQL, Perl LAPP is an open source Web development platform that is a variation to the LAMP stack. LAPP uses Linux as the operating system, Apache as the Web server, PostGreSQL as the  RDBMS, and PHP as the object-oriented scripting language. Perl or Python may be substituted for PHP.  See LAMP. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+laptop_computer
+
+
+(n.) A small, portable computer -- small enough that it can sit on your lap. Nowadays, a computer laptop is more frequently called a notebook computer, though technically laptops are somewhat larger in size than notebooks in both thickness and weight.
+See also   Laptops and Notebooks - What's the Difference? in the  Did You Know...? section of Webopedia.
+
+Large_Merchant_Services
+
+eBay's Large Merchant Services (LMS) is a set of APIs that enable an online seller's application to send large amounts of inventory to eBay. Using LMS enables large merchants to shift the processing burden for large call volume (and call retries) from your server to eBay servers, reducing your own bandwidth and connection requests. Also, merchants can upload and manage price and quantity updates for thousands of eBay fixed price items and download large amounts of order, invoice, and active listing information. eBay's Large Merchant Services uses the following three APIs:  Merchant Data API (data file): This API defines the data that can be passed to and from the eBay servers in files.  Bulk Data Exchange API (Web service): This API describes how to manage the Large Merchant workflow, such as starting, stopping, and checking the status of data processing.  File Transfer API (Web service): This API service passes the data file to and from the eBay servers.   
+
+large_send_offload
+
+Abbreviated as LSO. Same as TCP segmentation offload (TSO).
+
+large_scale_integration
+
+Abbreviated as LSI, refers to the placement of thousands of electronic components on a single integrated circuit.  
+
+Larrabee
+
+Codename for a hybrid CPU (central processing unit) and GPU (graphics processing unit) chip that is currently in development by Intel. Larrabee is a stand-alone chip with integrated graphics based on the x86 architecture. Intel is expected to debut the Larrabee as a GPU in product release form by in late 2009 or early 2010.
+ 
+
+laser_printer
+
+A type of printer that utilizes a laser beam to produce an image on a drum. The light of the laser alters the electrical charge on the drum wherever it hits. The drum is then rolled through a reservoir of toner, which is picked up by the charged portions of the drum. Finally, the toner is transferred to the paper through a combination of heat and pressure. This is also the way copy machines work.
+Because an entire page is transmitted to a drum before the toner is applied, laser printers are sometimes called page printers. There are two other types of page printers that fall under the category of laser printers even though they do not use lasers at all. One uses an array of LEDs to expose the drum, and the other uses LCDs. Once the drum is charged, however, they both operate like a real laser printer.
+One of the chief characteristics of laser printers is their resolution -- how many dots per inch (dpi) they lay down. The available resolutions range from 300 dpi at the low end to 1,200 dpi at the high end. By comparison, offset printing usually prints at 1,200 or 2,400 dpi. Some laser printers achieve higher resolutions with special techniques known generally as resolution enhancement.
+
+laser_marked_keycap
+
+(lā´z&r markt kē´kap) (n.) A keycap on a keyboard that has had its legend burned into the surface with a laser. In the manufacturing process, the entire keyboard typically is placed into the machine that uses a laser and series of mirrors to etch the legends onto the keycaps all at one time. Laser-marked keyboards often are not printed until right before shipping so that the keyboard��s layout is not determined until the last moment, which enables the manufacturer to provide products more on demand.
+
+LaserWriter
+
+A family of Apple laser printers designed to run off a Macintosh computer.  
+
+Last_Known_Good_configuration
+
+(n.) In versions NT and later of the Windows operating system (OS), a copy of a system's hardware configuration and driver settings taken from the system's registry when the OS successfully boots. This copy is stored in case a subsequent boot process fails, and the OS can use the record of the Last Known Good configuration to perform a successful boot. If Windows detects a problem in the boot process, it will add the Last Known Good configuration option to the start up menu.
+This configuration record often comes in handy after the installation of new drivers or devices, which may cause system errors. Each time the OS successfully boots, it replaces the previous Last Known Good configuration record with the new one from the most recent successful boot.
+See The History of Microsoft Operating Systems in Webopedia's "Did You Know...? section.
+
+last_mile
+
+(adj.) Refers to the telecommunications technology that connects the customer's home directly to the cable or telephone company. When used as an adjective it is spelled last-mile (e.g. the last-mile technology.
+(n.) The portion of the cable or telephone company that is wired directly into the customer's home.
+
+last_mile2
+
+See last mile.
+
+Lastdrive
+
+A command used to specify the number of drives that can be accessed and recognized by MS DOS. For example, in the CONFIG.SYS file the command line lastdrive=h would set the last drive letter to H.
+
+LAT
+
+Short for Local Area Transport, a DEC proprietary Ethernet protocol for connecting terminals to a LAN. Connections are typically between a DEC terminal server and a VAX. LAT operates at the transport layer. LAT is not routable because it lacks a network layer and therefore must be bridged in an enterprise network instead of routed.
+
+LATA
+
+Local Access and Transport Area is a U.S. term that refers to a geographic region assigned to one or more telephone companies for providing communication services.   A connection between two telephone companies within the same region is referred to as intraLATA. A connection between two local exchange carriers in different regions is called interLATA, which is the same as long-distance service.   Provisions guiding the use of LATAs are outlined in the Telecommunications Act of 1996. 
+
+latecomer
+
+In groupware terminology, latecomer is the word used to mean any person who joins a group session, after the session was initiated. In some older groupware system latecomers may not be supported after the system is set-up. In these types of systems all participants must be accounted for before the moderator initiates the session.
+
+latency
+
+(1) In general, the period of time that one component in a system is spinning its wheels waiting for another component. Latency, therefore, is wasted time. For example, in accessing data on a disk, latency is defined as the time it takes to position the proper sector under the read/write head.
+ (2) In networking, the amount of time it takes a packet to travel from source to destination. Together, latency and bandwidth define the speed and capacity of a network.
+(3) In VoIP terminology, latency refers to a delay in packet delivery. VoIP latency is a service issue that is usually based on physical distance, hops, or voice to data conversion.
+
+latency_setting
+
+(n.) A memory setting in a computer system's BIOS that specifies the speed at which memory receives and sends data. The lower the latency number, the better the system performance and the more stress the system is put under, which can lead to system instability, particularly in overclocking scenarios.  Latency settings typically are expressed as a four-digit number separated by dashes, such as 2-2-2-5. The first number always represents the CAS latency, as that type of latency typically is the most important. The second number typically is the RAS-to-CAS delay, followed by the RAS precharge (which is how long the memory is powered so that data can be read from it) and typically concludes with the ACT to precharge delay, which is normally the highest number of the four settings.
+
+Latent_semantic_indexing
+
+Abbreviated as LSI,  Latent semantic indexing it is an algorithm used by search engines to determine what a page is about outside of specifically matching search query text. The LSI algorithm doesn't actually understand the meanings of words on the page but it can spot patterns of related words. LSI will may return relevant results that don't contain the keyword at all, but those pages with related words.
+
+LaTeX
+
+A typesetting system based on the TeX programming language developed by Donald E. Knuth. Most people who use TeX, however, utilize one of several macro packages that provide an easier interface. The two most popular are LaTeX, originally written by Leslie Lamport, and plain TeX, written by Knuth. LaTeX provides higher-level macros, which makes it easier to format documents but sacrifices some of the flexibility of TeX.  
+
+launch
+
+(v.) (1)To start a program.  (2) To make a new or redesigned Web site live.
+
+layer
+
+In graphics software, a layer is the term used to describe the different levels at which you can place an object or image file. In the program you can stack, merge or define layers when creating a digital image. Layers can be partially obscured allowing portions of images within a layer to be hidden or shown in a translucent manner within another image, or you can use layers to combine two or more images into a single digital image. For the purpose of editing, working with layers allows you to go back and make changes within a layer as you work.
+ 
+See also "Graphics Software Terminology" in the  Quick Reference section of Webopedia.
+
+Layer_2_MPLS
+
+Same as AToM.
+
+Layer_Two_Forwarding
+
+Often abbreviated as L2F, a tunneling protocol developed by Cisco Systems. L2F is similar to the PPTP protocol developed by Microsoft, enabling organizations to set up virtual private networks (VPNs) that use the Internet backbone to move packets.  Recently, Microsoft and Cisco agreed to merge their respective protocols into a single, standard protocol called Layer Two Tunneling Protocol(L2TP). 
+
+layered_defense
+
+In computer and network security terminology, a layered defense is used to describe a security system that is build using multiple tools and policies to safeguard multiple areas of the network against multiple threats including worms, theft, unauthorized access, insider attacks and other security considerations. A layered defense ultimately should be able to provide adequate security at the following levels: system level security, network level security, application level security, and transmission level security. Also called a multi-layered defense. See  Intrusion Detection and Prevention in the Did You Know? section of Webopedia. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+layout
+
+(1) In word processing and desktop publishing, layout refers to the arrangement of text and graphics. The layout of a document can determine which points are emphasized, and whether the document is aesthetically pleasing.  While no computer  program can substitute for a professional layout artist, a powerful desktop publishing system can make it easier to lay out professional-looking documents. WYSIWYG helps layout considerably because it allows you to lay out a document on the display screen and see what it will look like when printed.  (2) In database management systems, layout refers to the way information is displayed. You can change the layout by selecting different fields.  
+
+LBA
+
+(pronounced as separate letters) Short for logical block addressing, a method used with SCSI and IDE disk drives to translate the cylinder, head, and sector specifications of the drive into addresses that can be used by an enhanced BIOS. LBA is used with drive's that are larger than 504 MB.  
+
+LCD
+
+Short for liquid crystal display, a type of display used in digital watches and many portable computers. LCD displays utilize two sheets of polarizing material with a liquid crystal solution between them. An electric current passed through the liquid causes the crystals to align so that light cannot pass through them. Each crystal, therefore, is like a shutter, either allowing light to pass through or blocking the light.
+Monochrome LCD images usually appear as blue or dark gray images on top of a grayish-white background. Color LCD displays use two basic techniques for producing color: Passive matrix is the less expensive of the two technologies. The other technology, called thin film transistor (TFT) or active-matrix, produces color images that are as sharp as traditional CRT displays, but the technology is expensive. Recent passive-matrix displays using new CSTN and DSTNtechnologies produce sharp colors rivaling active-matrix displays.
+Most LCD screens used in notebook computers are backlit, or transmissive, to make them easier to read.
+
+LCD_monitor
+
+A monitor that uses LCD technologies rather than the conventional CRT technologies used by most desktop monitors. Until recently, LCD panels were used exclusively on notebook computers and other portable devices. In 1997, however, several manufacturers began offering full-size LCD monitors as alternatives to CRT monitors. The main advantage of LCD displays is that they take up less desk space and are lighter. Currently, however, they are also much more expensive. 
+
+LCD_printer
+
+A type of printer similar to a laser printer. Instead of using a laser to create an image on the drum, however, it shines a light through a liquid crystal panel. Individual pixels in the panel either let the light pass or block the light, thereby creating an image composed of dots on the drum.  Liquid crystal shutter printers produce print quality equivalent to that of laser printers.  
+
+LCoS
+
+Short for Liquid Crystal on Silicon, it is micro-display technology related to LCD, where liquid crystal material has a twisted-nematic structure but is sealed directly to the surface of a silicon chip. * The electronic drivers controlling the crystals' alignment are etched into the silicon. Using these, several million pixels can fit in an area as small as one square inch. The chip is coated with an aluminized layer, which means that LCoS is highly reflective allowing more light to pass on. [Adapted from Digital Home magazine]
+There are two classes of LCOS. 
+
+In a single-chip system, light is filtered through a color-wheel system where the sequence of colors produced is coordinated with the modulation of light by the liquid crystals, producing subtle color variations. 
+In a three-chip system LCoS uses a system of prisms to split a single light source into its red, green and blue components. Video modulations are applied individually to the three resulting light paths, which are then recombined by another prism array to create the composite image.
+
+
+LCP
+
+Short for Link Control Protocol, a protocol that is part of the PPP. In PPP communications, both the sending and receiving devices send out LCP packets to determine specific information that will be required for the data transmission. The LCP checks the identity of the linked device and either accepts or rejects the peer device, determines the acceptable packet size for transmission, searches for errors in configuration and can terminate the link if the parameters are not satisfied. Data cannot be transmitted over the network until the LCP packet determines that the link is acceptable.
+
+LCS
+
+A liquid cooling system (LCS) circulates liquid through small pipes in a heat sink attached to the processor in your system. As the liquid passes through the heat sink, heat from the hot processor is transferred to the cooler liquid. The warmed liquid is then cycled to a radiator on the side or rear of the casing where it is released into the ambient air outside of the unit. The cooled liquid then travels back through the system to the CPU to continue the process. Over traditional air-cooled systems, some advantages and benefits of a LCS include more efficient cooling and less noise when the system is running. The disadvantage is that liquid cooling can be quite complex, costly, and it requires more maintenance than traditional air-cooled systems.
+
+LD_CELP
+
+Short for Low Delay Code Excited Linear  Prediction it is a voice data compression algorithm that uses a low coding delay of less than 2 ms. LD-CELP is used in the ITU-T G.728 specification.
+
+LDAP
+
+Short for Lightweight Directory Access Protocol, a set of protocols for accessing information directories. LDAP is based on the standards contained within the X.500 standard, but is significantly simpler. And unlike X.500, LDAP supports TCP/IP, which is necessary for any type of Internet access. Because it's a simpler version of X.500, LDAP is sometimes called X.500-lite.
+Although not yet widely implemented, LDAP should eventually make it possible for almost any application running on virtually any computer platform to obtain directory information, such as email addresses and public keys. Because LDAP is an open protocol, applications need not worry about the type of server hosting the directory.
+
+
+LDCM
+
+Short for LANDesk Client Manager. LDCM, developed by Intel, is a management tool that constantly monitors networked personal computers and workstations for hardware problems. If a malfunction is detected, the administrator is alerted.   LDCM contains an inventory of hundreds of hardware and thousands of software items and provides a failure mechanism that catches problems with hard drive, fan, power supply and/or temperature.   LDCM works using standards such as SNMP, DMI and WfM. 
+
+Ldifde
+
+Ldifde creates, modifies, and deletes directory objects on computers running Windows Server 2003 operating systems or Windows XP Professional. You can also use Ldifde to extend the schema, export Active Directory user and group information to other applications or services, and populate Active Directory with data from other directory services. * [Source: Microsoft Support Database]
+
+leader
+
+Rows of dots, dashes or other characters that lead your eye from one text element to another. Leaders are used commonly in Tables of contents. For example:  Chapter 5.233  
+
+leading
+
+Pronounced LED-ing. A typographical term that refers to the vertical space between lines of text. The word derives from the fact that typographers once used thin strips of lead to separate lines. Now, the leading value also includes the size of the font. For example, 10-point text with 2 points of spacing between lines would mean a leading of 12 points.  Many word processors and all desktop publishing systems allow you to specify the leading. In addition, some systems automatically adjust leading so that columns and pages have even bottom margins. This feature is called vertical justification.  Leading is also called line spacing.  
+
+leading_zero
+
+A zero that appears in the leftmost digit(s) of a number. Many programs that display numbers in columns allow you to specify whether the number should be preceded with spaces or leading zeros, as shown below.leading zeros - spaces0003.45 - 3.450148.70 - 148.70 
+
+leaf
+
+Items at the very bottom of a hierarchical tree structure. In hierarchical file systems, files are leaves because they can have nothing below them. Directories, on the other hand, are nodes.  
+
+leap_second_bug
+
+The 2012 Leap Second Bug refers to computer glitches and outages resulting from the leap second that added an extra second to June 30th, 2012 in order to keep atomic clocks in line with the planet Earth.  An extra second is periodically added to the Coordinated Universal Time (UTC) in order to compensate for Earth's inconstant speed of rotation.  A leap second was added to the Coordinated Universal Time at the end of the day on June 30th, and it contributed to numerous outages that were caused by leap second bugs in the kernel of Linux-based operating systems and also in some Java apps.  Companies with servers impacted by the Leap Second Bug included Mozilla, Reddit, LinkedIn, StumbleUpon, Gawker, FourSquare, Yelp and several airlines running the Amadeus Altea airline reservation system.  Other companies such as Google have attempted to prevent any leap second bugs from impacting their servers by gradually adding milliseconds to their systems' clocks prior to the officially recognized addition of a leap second.
+
+learn_mode
+
+A mode in which a program learns. The term is usually used to describe a process of defining macros. Once you switch the program into learn mode, it will record all subsequent keystrokes you make. You can then assign these keystrokes to a function key to create a macro.  
+
+leased_line
+
+A permanent telephone connection between two points set up by a telecommunications common carrier. Typically, leased lines are used by businesses to connect geographically distant offices. Unlike normal dial-up connections, a leased line is always active. The fee for the connection is a fixed monthly rate. The primary factors affecting the monthly fee are distance between end points and the speed of the circuit. Because the connection doesn't carry anybody else's communications, the carrier can assure a given level of quality.
+For example, a T-1 channel is a type of leased line that provides a maximum transmission speed of 1.544 Mbps. You can divide the connection into different lines for data and voice communication or use the channel for one high speed data circuit. Dividing the connection is called multiplexing.
+Increasingly, leased lines are being used by companies, and even individuals, for Internet access because they afford faster data transfer ratesand are cost-effective if the Internet is used heavily.
+
+LED
+
+Abbreviation of light emitting diode, an electronic device that lights up when electricity is passed through it. LEDs are usually red. They are good for displaying images because they can be relatively small, and they do not burn out. However, they require more power than LCDs.
+
+
+leech
+
+Slang term frequently used by those actively engaged P2P and unethical file sharing. A leech or leecher is considered to be a user who downloads files and provides few or no uploads in return. Crackers also uses this term to describe those who constantly request sources and information and offer nothing in return.
+
+left_justify
+
+To align text along the left margin. Left-justified text is the same as flush -left text.  
+
+legacy
+
+In computing terms, the word legacy is used to describe outdated or obsolete technology and equipment that is still being used by an individual or organization. Legacy implies that the system is out of date or in need of replacement, however it may be in good working order so the business or individual owner does not want to upgrade or update the equipment. Typically vendor or manufacturer support is not available for legacy systems and applications.
+
+See also legacy application, legacy device, and legacy network.
+
+
+legacy_application
+
+An application in which a company or organization has already invested considerable time and money. Typically, legacy applications are database management systems (DBMSs) running on mainframes or minicomputers. An important feature of new software products is the ability to work with a company's legacy applications, or at least be able to import data from them.  
+
+legacy_device
+
+An outdated device that a person or company has invested money in or is seen as an essential part of their system. Usually the term legacy device is used when referring to any device that is not Plug-and-Play compatible (i.e. in reference to older ISA devices).
+
+legacy_network
+
+(1) The term used to describe a network based on older, outdated protocols. For example, any network not based on the IP (TCP/IP) protocol - like IPX or SNA - is considered a legacy network. (2) In wireless networks, the term is used to describe networks based on older 802.11x standards that predate the 802.11n standard. The legacy standards include 802.11a, 802.11b, and 802.11g.
+
+legend
+
+(lej´&nd) (n.) (1) The letters, numbers, characters and words that are imprinted on a keyboard��s keycaps.  (2) In presentation graphics, text that describes the meaning of colors and patterns used in the chart.  
+
+lens
+
+In photography and digital photography the lens is the part of the digital camera or video recorder that concentrates light and focuses the image. The lens itself is a single piece of glass (or other transparent materials) with one or more curved surfaces. Cameras usually contain a combination of lenses that receive light rays from an object and form an image on the focal plane.
+
+LEO
+
+Short for low earth orbit, a satellite system used in telecommunications. LEO satellites orbit the earth between 400 and 1,000 miles above the earth's surface. LEOs are mostly used for data communication such as e-mail, paging and videoconferencing. Because LEOs are not fixed in space in relation to the rotation of the earth, they move at very high speeds and therefore data being transmitted via LEOs must be handed off from one satellite to the next as the satellites move in and out of range of the earth-bound transmitting stations that are sending the signals into space. Because of the low orbit, the transmitting stations do not have to be as powerful as those that transmit to satellites orbiting at greater distances from the earth's surface. LEO telecommunication systems are a promising technology because they provide the ability for underdeveloped territories to acquire satellite telephone service in areas where it is either too costly or not geographically possible to lay land lines.  Also see MEO and GEO.
+
+LEP
+
+Short for Light Emitting Polymer, it is an emissive technology that emits light as a function of its electrical operation. An LEP display consists solely of the polymer material manufactured on a substrate of glass or plastic and does not require additional elements such as the backlights, filters and polarizers typical of LCDs. LEP is a platform technology that will scale from tiny devices literally millimeters in dimension to large high-definition devices that could be up to 200 inches in diameter. LEP combines the characteristics of a CRT with the performance of an LCD with low power consumption. Light Emitting Polymer technology was developed by Cambridge Display Technology, Ltd. (CDT), based in Cambridge, United Kingdom.
+
+letter_quality_LQ
+
+Refers to print that has the same quality as that produced by a typewriter. Computer  printers are sometimes divided into two classes: those that produce letter-quality type, such as laser, ink-jet, and daisy-wheel printers; and those that do not, including most dot-matrix printers.  The term letter quality is really something of a misnomer now, because laser printers produce print that is considerably better than that produced by a typewriter.  Many dot-matrix printers produce a high-quality print known as near letter quality. You have to look closely to see that the print is not really letter quality. A lower classification of print quality is called draft quality.  
+
+letterbox
+
+A wide-screen picture on a standard 4:3  aspect ratio television screen. Letterbox typically shows a black area above and below the picture.
+
+level_design
+
+The creation or mapping of game levels in video and computer games. Level design requires specific design tools and software that enables the designer to build levels for a specific game. Level designers have specific roles within the game development process, however a growing trend is also on fans of specific games creating levels for those games that can be distributed over the Internet.  Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section. 
+
+Lexmark_International_Inc
+
+Lexmark is a leading developer, manufacturer and supplier of printing solutions, including laser and inkjet printers, multifunction products, and associated supplies and services for offices and homes in more than 150 countries. Lexmark International was formed in 1991 and is credited with being the first company to Lexmark was the first company to market 4800 x 1200 dots per inch (dpi) and 3600 x 1200 dpi resolutions, develop 1200 dpi laser and inkjet printers, produce standalone photo printers, and offer a sub-$100 inkjet printer.
+
+LGPL
+
+Short for Lesser General Public License, the license that accompanies some open source software that details how the software and its accompany source code can be freely copied, distributed and modified. A Lesser General Public License is used to license free software so that it can be incorporated into both free software and proprietary software, and is often referred to as the weaker sibling of GPL. The LGPL and GPL licenses differ with one major exception; with LGPL the the requirement that you open up the source code to your own extensions to the software is removed. The most widespread use of LGPL is in reference to the GNU LGPL. LGPL is also called GNU libraries and formally called the Library GPL. Contrast with GPL. Learn more about   Open Source in Webopedia's "  Did You Know...?" section. 
+
+libpurple
+
+libpurple is a development library that is used as the core of an IM program. When using libpurple, developers basically write a user interface (UI) for this core code. Developers can write a program in C or C++ that provides all the windows and dialogs and any thing that the user will interact with. The program would use the libpurple library to connect to the IM networks and manage accounts and preferences. Several IM clients use libpurple including Adium, Apollo IM, Finch, Instantbird, Meebo, and Pidgin. May also be referred to as Pidgin libpurple. See "A Quick Reference to Consumer Instant Messaging" in the Quick Reference section of Webopedia. See also "Internet-based Communications" in the Did You Know... section of Webopedia.
+
+library
+
+(1) A collection of files.
+(2) In programming, a library is a collection of precompiled routines that a program can use. The routines, sometimes called modules, are stored in object format. Libraries are particularly useful for storing frequently used routines because you do not need to explicitly link them to every program that uses them. The linker automatically looks in libraries for routines that it does not find elsewhere. In MS-Windows environments, library files have a .DLL extension.
+
+
+libreoffice
+
+A new fork of Oracle's Open Office open source office suite that was first released in September 2010 by The Document Foundation.  LibreOffice has started to branch away from its Open Office (or OpenOffice.org) roots in several ways, including a reduced reliance on Java and the inclusion of an improved Windows installer.
+LibreOffice's name is a combination of the French word for free ("Libre") and Office.  Like OpenOffice.org, LibreOffice features a word processor (Writer), a spreadsheet app (Calc), a presentation program (Impress), a database management tool (Base), a vector graphics editor (Draw), and an app for working with mathematical formulas (Math). LibreOffice also includes a PDF creation and import tool for working with Adobe Portable Document Format (PDF) files. 
+LibreOffice uses the OpenDocument Format (ODF) as its native file format, and the office suite also supports reading and writing of numerous other file formats, including both older and newer Microsoft Office files (including the Office Open XML spec used by Microsoft Office 2007 and Office 2010), OpenOffice.org XML files, and Rich Text File (RTF) files.
+
+license
+
+(n.) (1) A contract that grants a party explicit rights to use intellectual property.  (2) A digital permit containing descriptions of rights that can be applied to one or more pieces of content.  (v.) To grant the right to use intellectual property.
+
+license_generator
+
+A license generator can be software, programming code or a Web-based service designed to generate random license keys for software developers to provide licensed users as a way of protecting their software from being used illegally (aka pirated). Some software license generators can also perform additional licensing tasks such as license key delivery, management and verification.
+Generating a Key
+A license key created by a license generator is a unique series of numbers and/or letters that identifies the legal user of a software application. A license key that has been created by a license generator is provided after a software user pays for the software and agrees to the conditions of use and distribution as legally specified in the software license (also known as an End-User License Agreement, or EULA). Software license keys may be verified within the software itself or, more commonly, over the Internet via an online license verification system.
+A license generator also refers to software or Web services designed to generate the language in a software license that stipulates how software can be legally used and by how many users.
+
+license_key
+
+A software license key is a pattern of numbers and/or letters provided to licensed users of a software program. License keys are typically created and delivered via a license generator once a software user has paid for the software and has agreed to the conditions of use and distribution as legally specified in the software license (also known as an End-User License Agreement, or EULA).
+From a software developer standpoint, the purpose of license keys is to prevent the developer's software from being copied, shared or otherwise illegally used (aka pirated) by non-licensed users. A separate class of software apps known as keygens (short for key generators) has been created with the purpose of bypassing the legal product registration and license key activation process by generating counterfeit license keys.
+See "Is Software Ownership the Same as Licensing?" in the "Did You Know..."section of Webopedia. 
+
+license_management
+
+Software license management refers to the software tools or processes used by an organization to control and document where and how the company's software products are able to run in order to enforce and ensure compliance with software licenses (also known as an End-User License Agreement, or EULA).
+License management tools are also employed by software vendors to monitor and ensure compliance with the developer's software license. These tools help prevent the developer's software from being copied, shared or otherwise illegally used (pirated) by non-licensed users. License management on the software vendor's side may also involve creating trial, personal, corporate and/or subscription-based license keys via a license generator; software product activation; product deactivation; and similar tasks.
+Also see "Is Software Ownership the Same as Licensing?" in the "Did You Know..." section of Webopedia. 
+
+license_registration
+
+License registration tools and services provide the means for presenting a software developer's software licenses (also known as an End-User License Agreement, or EULA) to an end user as well as facilitating the transfer of required registration information and consent to the license. Successfully registering a software application often activates the software for legal use by the end user or enterprise.
+License registration is often used in conjunction with license key generation and license management tools to prevent the developer's software from being copied, shared or otherwise illegally used (aka pirated) by non-licensed users.
+Also see "Is Software Ownership the Same as Licensing?" in the "Did You Know..." section of Webopedia.
+
+licensing_collective
+
+An organization that represents a large group of individual rightsholders in negotiating and administering blanket licenses. The American Society of Composers, Artists and Publishers (ASCAP) is an example of a licensing collective.
+
+licensing-strategy
+
+Software licensing strategy involves the decision-making process and implementation of rules or policies for protecting the intellectual property of a software developer. A wide variety of software licensing strategies exist to meet the needs of the software developer as well as the end user or enterprise that will be utilizing the software. Common licensing strategies include per-user licensing, per-computer licensing, per-client licensing (typically seen in server/client applications like databases), site licensing, floating licensing and non-commercial licensing, which is commonly seen in freeware and open source software applications.
+Also see "Is Software Ownership the Same as Licensing?" in the "Did You Know..." section of Webopedia.
+
+licensing-technology
+
+Software licensing technology enables software developers to protect their intellectual property by facilitating the process of creating, issuing and managing software licenses. Licensing technology typically includes license key generation, license registration and license management tools to prevent the developer's software from being copied, shared or otherwise illegally used (aka pirated) by non-licensed users.
+Also see "Is Software Ownership the Same as Licensing?" in the "Did You Know..." section of Webopedia.
+
+light_archive
+
+(n.) In reference to data storage, an archive that can be accessed by many authorized users. Access to the data is open to all the members of the "community" that have a need for the data.  Compare to a dark archive.
+
+light_bar
+
+On a display screen, a highlighted region that indicates a selected component in a menu. The light bar can be produced by using a different color or by reversing the image so that black-on-white text becomes white-on-black.  
+
+light_kit
+
+A set of professional lights, light stands and also various lighting accessories used in video or photography production.
+
+light_pen
+
+)An input device that utilizes a light-sensitive detector to select objects on a display screen. A light pen is similar to a mouse, except that with a light pen you can move the pointer and select objects on the display screen by directly pointing to the objects with the pen.  
+
+Lightbox
+
+In digital asset management (DAM) systems, a Lightbox is the term used to describe an area within the Web site (or Web service) or other internal DAM where users can create and store a list of assets they want to reference or use at a later time. Lightboxes are common on stock photo Web sites where registered users can store images until they are ready to download them.
+
+lightfastness
+
+In photo printing it is a term used to describe the durability of printed digital photos and how well they stand up to exposure to light. Sunlight and other artificial lighting can cause a reaction on ink pigments and can cause the color to fade or change over time with exposure. In printing, when an ink is called lightfast, it means the manufacturer states it has a strong light-fade resistance.  Compare with gasfastness, the durability of a print when exposed to elements other than light.
+
+lightning_connector
+
+An 8-pin power connector developed by Apple, Inc. in 2012 as a replacement for the traditional 30-pin connector previously used on Apple devices like the iPhone, iPad and iPod touch.  The Lightning Connector is currently utilized by the iPhone 5, iPad Mini, fourth generation iPad (iPad 4), fifth generation iPod touch and seventh generation iPod Nano.
+The Lightning connector is much more compact than the previous connector and can be inserted with either side face up.  The downside for consumers is that the Lightning connector is incompatible with cables and devices designed for the older 30-pin connector, although an adapter is available that the Lightning connector can plug in to in order to work with these devices. 
+
+lights_out_server_room
+
+Also called a lights out datacenter, a room that contains a number of servers under lock and key and kept in the dark that under normal operation is not entered by human administrators, and all operations in the room are automated. The computers in a lights out server room typically are controlled by the use of KVM switches to help ensure the security of the locked room.
+
+LightScribe
+
+LightScribe is a direct disc labeling technology that burns text and graphics onto the surface of a CD or DVD using the disc drive's laser and a specially coated LightScribe disc. A LightScribe disc drive burns data and creates labels using the same device. LightScribe's specially coated discs chemically change when a laser strikes the label side, producing titles and graphics created using LightScribe software.  LightScribe is a registered trademark of the  Hewlett-Packard Development Company, L.P. LightScribe was conceived by an HP engineer in Corvallis, Oregon, and brought to market through the joint design efforts of HP's imaging and optical storage divisions. [Source  HP LightScribe technology]
+
+lightweight_browser
+
+Lightweight browser is the term used to describe a Web browser that forgoes support of all Web standards in favor of a faster program that will requires less system resources to run on a computer. Lightweight browsers often do not include support for CSS, JavaScript, and other Web elements but will still render most pages correctly for viewing.
+
+LILO
+
+Short for Linux Loader, a general purpose boot loader used to boot the Linux operating system. LILO can be configured to load other operating systems as well.
+
+LIM_memory
+
+A technique for adding memory to DOS systems. LIM memory lets you exceed the 1MB (megabyte) memory limit imposed by DOS. The name derives from the initials of the three companies that designed the technique -- Lotus, Intel, and Microsoft -- and is sometimes referred to as LIM 4.0, which is its official name.  LIM memory has been superseded by extended memory. 
+
+LimDow
+
+A technology that speeds the copying of information from main memory to CD-ROM. The conventional process for copying to CD-ROM, called magnetic-optico (MO) technology, requires that the disk pass at least twice under the head -- once for erasing and once for copying (also called writing). LIMDOW modulates the laser's intensity for both processes to complete the writing in a single rotation. 
+
+LiMo
+
+Short for Linux Mobile, LiMo is an open hardware-independent, Linux-based operating system for mobile devices. The LiMo platform enables the design, development and deployment of mobile phone devices based on an architecture built around an open operating system with a secure runtime environment for the support of downloaded applications. The LiMo Foundation Platform architecture leverages existing standards and open source projects in development.
+
+LiMo_Foundation
+
+The LiMo Foundation, started by Motorola, has about 40 members, including Verizon Wireless handset suppliers Samsung Electronics and LG Electronics. The consortium is focused on providing an open and globally consistent handset software platform based upon Mobile Linux, called LiMo.
+
+line
+
+(1) A hardware circuit connecting two devices.  (2) In programming, a single program statement.  (3) In caches, a single data entry. A cache line can contain data from one or more addresses. Modern PC motherboards, for example, generally have an L2 cache where each line is 32 bytes wide. 
+
+line_art
+
+A type of graphic consisting entirely of lines, without any shading. Most art produced on computers is not line art because the computer makes it so easy to add subtle shadings.  
+
+line_editor
+
+A primitive type of editor that allows you to edit only one line of a file at a time.  
+
+line_feed
+
+Often abbreviated LF, a line feed is a code that moves the cursor on a display screen down one line. In the ASCII character set, a line feed has a decimal value of 10.  On printers, a line feed advances the paper one line. Some printers have a button labeled LF that executes a line feed when pressed. (Note, however, that the printer must be in off-line  mode   to execute a line feed.)  
+
+line_graph
+
+)A type of graph that highlights trends by drawing connecting lines between data points. Compare with bar chart and pie graph.  
+
+line_printer
+
+A high-speed printer capable of printing an entire line at one time. A fast line printer can print as many as 3,000 lines per minute. The disadvantages of line printers are that they cannot print graphics, the print quality is low, and they are very noisy. 
+
+line_in
+
+A type of connector found on audio devices to attach a device, such as a microphone, for recording audio. Line-in can be analog or digital. Digital line-in is also called optical line-in.
+
+line_out
+
+A type of connector found on audio devices used to attach audio components, such as speakers.
+
+Linear_PCM
+
+See under PCM.
+
+linerd
+
+Slang term used to describe a Linux enthusiast  a geek whose interests are deeply embedded in Linux. It is a play on the words "Linux" and "nerd."
+
+link
+
+)(v.) (1) To bind together.
+(2) In programming, the term link refers to execution of a linker.
+(3) To paste a copy of an object into a document in such a way that it retains its connection with the original object. Updates to the original object can be reflected in the duplicate by updatingthe link.
+
+link_building
+
+In search engine optimization (SEO) terminology link building is the process of exchanging links with other Web sites to increase your own site's backlinks and quality backlinks.
+
+link_checker
+
+A software tool or online service that is used to verify and check for broken hyperlinks within your Web site. Also called a  link verifier.
+
+link_edit
+
+To run a linker.  
+
+link_farming
+
+(1) The process of exchanging reciprocal links with Web sites in order to increase search engine optimization. The idea behind link farming is to increase the number of sites that link to yours because search engines such as Google rank sites according to, among other things, the quality and quantity of sites that link to yours. In theory, the more sites that link to yours, the higher your ranking in the search engine results will be because the more links indicate a higher level of popularity among users of the Internet. However, search engines such as Google consider link farming as a form of spam and have been implementing procedures to banish sites that participate in link farming, so the term link farming has garnered negative connotations across the Internet.  Also see How Web Search Engines Work in the Did You Know . . . ? section of Webopedia.  There are many service providers who promise to help you boost your link popularity by automatically entering you into link exchange programs they operate, often linking your page with Web sites that have nothing to do with your content. But users should be aware of the repercussions of this action as the major search engines penalize sites that participate in link farming, thereby reversing their intended effect. A link farm is a Web page that is nothing more than a page of links to other sites.  (2) In Unix systems, a link farm is a directory tree containing links to files in a master directory tree of files.
+
+link_love
+
+Slang term used to describe reciprocal links.
+
+link_popularity
+
+In search engine optimization (SEO) terminology it is the term used to describe the value of a Web site, where the measurement is based on the quantity of  quality Inbound links (also called backlinks) to your pages. Many search engines, including Google use link popularity in its algorithm when determining where your Web site is listed in its SERP.
+
+link_server
+
+In hypermedia systems, a link server manages hypermedia information, such as links and anchors associated with each resource. In a link server system you have both a link server and a set of clients. The clients in this system manage the display of, and user interaction with, graphical views of resources such as entities or objects in a hyperweb.
+
+
+linkbait
+
+A type of Web site marketing used to increase your Web site link popularitylink popularity. Linkbait is actual content within a Web site or blog that is included by the author to encourage (or "bait") other bloggers and webmasters into linking back to that content from their own page. The content is usually sensational in nature or, at the very least, interesting enough to catch other's attention.
+
+Linked_Data
+
+In Semantic Web terminology, Linked Data is the term used to describe a method of exposing and connecting data on the Web from different sources. Currently, the Web uses hypertext links that allow people to move from one document to another. The idea behind Linked Data is that hyperdata links will let people or machines find related data on the Web that was not previously linked. The concept of Linked Data was first outlined by Tim Berners-Lee in July 2006. In a published W3C design article, Lee outlined the following four principles of Linked Data:  Use URIs as names for things Use HTTP URIs so that people can look up those names. When someone looks up a URI, provide useful information, using the standards (RDF, SPARQL) Include links to other URIs, so that they can discover more things.  [Source: Linked Data - Design Issues, Tim Berners-Lee ] 
+
+linked_list
+
+A method of organizing stored data in a computer��s memory or on a storage medium based on the logical order of the data and not the physical order. All stored data records are assigned a physical address in memory that the computer uses to locate the information. A linked list arranges the data by logic rather than by physical address.  In the table below, each data record is assigned a memory address, and each record has five fields that contain data. The first field holds the physical memory address of the record and the last field holds the physical memory address of the next logical record. The data is organized numerically based on the ID field, and the list is linked because each record is linked to the next based on that last field.   Address of Record  ID  Name Phone Number  Next Name   0000  1111 Adams 265-8943 5500  5500  3333 Johnson 465-7219 6000  6000  4444 Smith 421-6307 8200  8200  5555 Murphy 720-9437 eof (end of file)  If a new record is added to the list, with a numerical ID of "2222," it will be assigned an available physical address that may not be adjacent to the physical memory address of the record that precedes or comes after it numerically (1111 or 3333 in this case). When this record is added to the list, the list changes to reflect the new linking logic, based on the numerical ID. Note how the "Next Name" field changes for ID 1111 to accommodate the added record with ID 2222.   Address of Record  ID  Name  Phone Number  Next Name   0000  1111 Adams 265-8943 9672  9672  2222 Jones 481-9698 5500  5500  3333 Johnson 465-7219 6000  6000  4444 Smith 421-6307 8200  8200  5555 Murphy 720-9437 eof  Linked lists are used to organize data in specific desired logical orders, independent of the memory address each record is assigned to. In the above example, the data is organized numerically by the ID number. In the table below, the same data is organized alphabetically by name. Notice how the linked list still connects each record to the next using the "Next Name" field.   Address of Record  ID  Name  Phone Number  Next Name   0000  1111 Adams 265-8943 5500  5500  3333 Johnson 465-7219 9672  9672  2222 Jones 481-9698 8200  8200  5555 Murphy 720-9437 6000  6000  4444 Smith 421-6307 eof   Linked list data storage works best with data arrays in which one doesn��t know how large the array will need to be or when there is a certainty of more data being added or subtracted at later times. A disadvantage to linked list data storage is that the data must be accessed sequentially and cannot be accessed randomly. Some common applications of linked lists include creating hash tables for collision resolutionn across communication channels, structuring binary trees, building stacks and queues in programming, and managing relational databases.
+
+linker
+
+)Also called link editor and binder, a linker is a program that combines object modules to form an executable program. Many programming languages allow you to write different pieces of code, called modules, separately. This simplifies the programming task because you can break a large program into small, more manageable pieces. Eventually, though, you need to put all the modules together. This is the job of the linker.
+In addition to combining modules, a linker also replaces symbolic addresses with real addresses. Therefore, you may need to link a program even if it contains only one module.
+
+
+linkrot
+
+Internet slang for the condition where hypertext links lead nowhere because Web sites have removed Web pages or reorganized them. Also known as outdated links.   To prevent linkrot, Web sites can add redirects, which automatically take users to the correct URL, or, they can provide the new and correct url on the old page. 
+
+Linksys
+
+Linksys, a division of Cisco Systems, Inc., is a leader in  VoIP, Wireless and Ethernet networking for home, SOHO and small business users. Based in Irvine, California, Linksys specializes in products and solutions that provide effortless and economical sharing of broadband Internet connections, files, printers, digital music, videos, photos and gaming over a wired or wireless network.
+
+Lino
+
+Short for Linotronic, a type of imagesetter. Although Linotronic is a brand name, the terms Lino and Linotronic are often used to refer to any imagesetter.  
+
+Linotronic
+
+A common type of high-quality printer, called an imagesetter, capable of printing at resolutions of up to 2540 dots per inch. Linotronic printers are too expensive for homes or most offices, but you can obtain Linotronic output by taking a PostScript file to a Service Bureau.  
+
+LINQ
+
+Short for Language INtegrated Query, LINQ is set of classes added to the .NET Framework 3.5 along with language enhancements added to C# 3.0 and Visual Basic 9, the versions of the language that ship with Visual Studio 2008. LINQ adds a rich, standardized query syntax as a first-class citizen in .NET programming languages that allows developers to interact with any type of data.   See "An Extensive Examination of LINQ: An Introduction to LINQ" on ASP.NET.4GuysFromRolla.com.
+
+Linus_Torvalds
+
+Linus Torvalds is credited with creating the Linux kernel in 1991 with the assistance of developers around the world. Linus Torvalds was born on December 28, 1969 and was enrolled at the University of Helsinki in 1988 where he studied computer science.  In the book Just For Fun: Linus Torvalds Biography, The Story Of An Accidental Revolutionary by Linus Torvalds and David Diamond, Torvalds says that Linux was created because he was "curious to see if he could improve upon the operating systems already out there".
+
+Linux
+
+Pronounced lee-nucks or lih-nucks. A freely-distributable open source operating system that runs on a number of hardware platforms. The Linux kernel was developed mainly by Linus Torvalds and it is based on Unix. Because it's free, and because it runs on many platforms, including PCs and Macintoshes, Linux has become an extremely popular alternative to proprietary operating systems. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+linux_boot
+
+A Linux boot process is the initialization of the Linux open source operating system on a computer.  Also known as the Linux startup process, a Linux boot process covers a number of steps from the initial bootstrap to the launch of the initial user-space application.
+While specific Linux boot initialization steps and commands vary depending on the Linux distribution that is being installed, the startup process generally runs from the BIOS, to boot loader, to kernel, to scheduler, and finally to Init, which initializes the user environment for user interaction and login.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section.
+
+linux-containers
+
+Linux Containers (LXC) are operating system-level capabilities that make it possible to run multiple isolated Linux systems, or containers, on one control host (the LXC host). Linux Containers serve as a lightweight alternative to full machine virtualization via hypervisors like KVM, VMware's ESXi or Xen.
+Linux offers a powerful API and toolset for helping users easily create and manage system or application containers via Linux Containers. While Linux Containers do not create a true virtual machine (VM), they do provide a virtual environment via the cgroups features in the Linux kernel.
+This LXC virtual environment has its own CPU, memory, block input and output, network functionality and more. These LXC containers typically offer less isolation than a virtual machine, but also provide lower overhead as a result of sharing some portions of the host kernel and operating system instance.
+
+linux-deepin
+
+Linux Deepin, or the Deepin Project, is a Linux distribution based on Ubuntu Linux. Formerly known as Hiweed Linux, Linux Deepin stands out for its polished desktop interface, the Deepin Desktop Environment (DDE), which is based on GNOME 3.
+The Deepin Project is developed by a core team of Chinese developers, Wuhan Deepin Technology Co., Ltd., and is based on HTML 5 technologies. Deepin features a number of customized software applications in addition to the DDE, including the Deepin Software Center,  Deepin Game Center, Deepin Music Player, DPlayer and more.
+The latest official release of Linux Deepin is Deepin 2014, which debuted on July 6, 2014. Deepin 2014 is based on the Ubuntu 14.04 Long Term Support (LTS) “Trusty Tahr” Linux distribution that was released on April 17, 2014.
+
+linux_download
+
+A Linux download is a downloadable software installation, or distribution, of the Linux open source operating system, a freely distributable, cross-platform operating system based on Unix. Popular Linux download distributions include Debian, Ubuntu, Gentoo, Fedora, Red Hat and openSUSE.
+Linux downloads are available for both desktop and server use, and include the Linux kernel (the core of the operating system) as well as supporting tools and libraries.  The term Linux download can also refer to software applications available for the Linux OS such as OpenOffice.org, Evolution and Amarok.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section. 
+
+linux_laptop
+
+A laptop that runs a variant of the Linux open source operating system such as Ubuntu, openSUSE, Fedora, Red Hat or Mandriva.  While a Linux laptop can be purchased with Linux already preinstalled, in many cases a user will need to purchase a laptop that doesn't have an operating system preinstalled or a laptop with a version of the Windows operating system and then install Linux on top of it.
+In the latter case, both Windows and Linux can reside on the same machine in what is known as a "dual-boot" scenario.  PC manufacturers that offer pre-installed Linux laptop computers range from the well known like Dell and HP to less familiar companies like System76, ThinkPenguin and LinPC.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section.
+
+linux_mint
+
+A popular open source distribution of the Linux operating system that provides several desktop environment options for users dissatisfied with GNOME 3 or for users looking for a desktop environment more similar to the task-oriented GNOME 2 than the more application-oriented GNOME 3.  Linux Mint users can select the GNOME 3 environment with the option of two new GNOME 3-based desktop environments -- Cinnamon and Mint GNOME Shell Extensions (MGSE) -- or they can choose the GNOME 2-based MATE environment. 
+Linux Mint is available free of charge, and some of the packages included in the releases are distributed under the GNU GPL (General Public License).   The current version of Linux Mint, version 12 (codename "Lisa"), is based on Ubuntu 11.10 ("Oneiric Ocelot"), Linux 3.0 and GNOME 3.2.  Starting with version 6 ("Felicity"), new releases of Linux Mint have been completely based on the latest available Ubuntu release and have generally followed the corresponding Ubuntu release by a month or so.
+
+linux_on_windows
+
+Linux on Windows refers to running the Linux open source operating system or native Linux applications on Windows computers.
+There are two general options for running Linux on Windows. One option is running Linux in a virtualized environment, while a second option is to run a version of the Linux kernel that has been ported to run on Windows. An example of the latter is andLinux, which uses the Cooperative Linux (coLinux) port of the Linux kernel to enable andLinux to freely run on Windows.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section. 
+
+linux_os
+
+The Linux open source operating system, or Linux OS, is a freely distributable, cross-platform operating system based on Unix that can be installed on PCs, laptops, netbooks, mobile and tablet devices, video game consoles, servers, supercomputers and more.
+
+WEBOPEDIA FACTOID
+The official mascot of the Linux kernel is a penguin character named Tux. This Linux logo was suggested by Linus Torvalds in 1996. The name Tux is derived from (T)orvalds (U)ni(X).
+
+
+The Linux OS is frequently packaged as a Linux distribution for both desktop and server use, and includes the Linux kernel (the core of the operating system) as well as supporting tools and libraries. Popular Linux OS distributions include Debian, Ubuntu, Fedora, Red Hat and openSUSE.
+
+linux_server
+
+A Linux server is a high-powered variant of the Linux open source operating system that's designed to handle the more demanding needs of business applications such as network and system administration, database management and Web services.
+Linux servers are frequently selected over other server operating systems for their stability, security and flexibility advantages. Leading Linux server operating systems include CentOS, Debian, Ubuntu Server, Slackware and Gentoo.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section
+
+linux_small_business_server
+
+A small business server that uses Linux or a variant of the Linux open source operating system. A Linux small business server is designed to handle the more demanding needs of business applications such as network and system administration, database management and Web services. Leading Linux server operating systems include CentOS, Debian, Ubuntu Server, Slackware and Gentoo.
+See also small business server and Linux server for a better understanding of this term.
+
+linux_ssd_caching
+
+The Linux 3.9 kernel (made available on April 28, 2013) introduces SSD caching. The kernel's Device mapper now includes a cache target called dm-cache that enables SSDs or other storage device to be used as a cache for a hard drive. It essentially speeds up data writes and reads as it allows the faster SSD to first cache data and then transfer it to the slower hard drive.
+
+linux_usb
+
+Linux USB typically refers to the capability to boot and run the Linux open source operating system from a USB flash memory stick or USB pen drive. A portable Linux OS on a USB drive enables users to easily take their operating system, supporting apps and personal settings with them and run the OS from any computer that can boot from a USB flash device. Linux USB can also refer to Linux driver support for the three main USB standards, USB 1.1, USB 2.0 and USB 3.0.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section. 
+ 
+
+linux_virtualization
+
+Linux virtualization refers to running one or more virtual machines on a physical computer that's operated by the Linux open source operating system. Linux virtualization can be used for isolating specific apps, programming code or even an operating system itself, as well as for security and performance testing purposes.
+Powerful computers and hardware have made virtualization more practical and feasible for both desktop and server environments, helping to save power by consolidating several workspaces on one system as well as maximizing the workload that the compute can handle. Popular Linux virtualization solutions include Xen, KVM, QEMU, VirtualBox and VMware.
+
+linux_cdorked
+
+A highly advanced and stealthy form of malware that targets backdoor exploits in Web servers like Apache, nginx and lighttpd. Linux/CDorked is one of the first strains of malware to reside entirely in memory, leaving little to no trace of itself on an infected server’s hard drives.  According to an ESET security researcher in an article from Datamation, Linux/CDorked “makes it hard for system administrators to even know it's there and very difficult for them to check system logs to find out how to fix it. Plus, if they reboot the server or aren't extremely careful, all the evidence disappears without a trace."  Once Linux/CDorked infects a server, the malware is able to redirect website visitors to compromised sites without their knowledge. Security researchers claim Linux/CDorked.A, the first reported form of the malware, is the most sophisticated Apache backdoor discovered to date.
+
+linux-ebury
+
+A strain of malware that allows unauthorized access and control of an affected system. Linux/Ebury is a backdoor Trojan and credential stealer that disguises itself as a variant of OpenSSH for Linux and Unix-style operating systems.
+In March 2014, software security firm ESET discovered a connection between Linux/Ebury and other malware components such as Linux/Cdorked, Win32/Glupteba.M and Perl/Calfbot. ESET uncovered the fact that all four malware strains are operated by the same group, and subsequently dubbed the malicious collection of components as Operation Windigo.
+How to Identify and Clean a System Compromised by Ebury
+Linux/Ebury is distributed as a modified version of OpenSSH, which is an open source alternative to Secure Shell Software (SSH). Administrators can determine if a system has been compromised by Linux/Ebury by running the following command:
+
+linuxcon
+
+LinuxCon, short for Linux conference, is an annual technical conference that provides collaboration and education space for all things Linux. LinuxCon events are held each year in different cities in North America, South America, Europe and Asia. LinuxCon is organized by The Linux Foundation, a nonprofit consortium dedicated to fostering the growth of Linux.
+
+Liquavista
+
+A patented display technology for use for handhelds and mobile devices. These screens do not need to be backlit, which is a drain on the device battery  instead they are illuminated by sunlight and the movement of the liquid inside the screen. A display is produced using the principles of Electrowetting to create a pixel modulator. Inside, oil is colored with a dye, which enables the creation of a display when different pixels are independently activated to make an image. Liquavista was developed under the Philip Research Labs in Eindhoven. The company, Liquavista BV, is backed by Philips.
+
+Lisa_mouse
+
+The name for the mouse that was distributed with Apple's first mouse-controlled computer called the Lisa System (pre-Macintosh) in 1983. The Lisa Mouse (model no. A9M0050) used a steel ball (instead of the rubber ball found in more modern mice), and was rectangular in shape with a raised front panel, and contained a single mouse button. 
+
+LISP
+
+Acronym for list processor, a high-level programming language especially popular for artificial intelligence applications. LISP was developed in the early 1960s by John McCarthy at MIT.  
+
+list
+
+(v.) To display data in an ordered format. For example, the LIST command in BASIC displays lines of a program.  (n.) Any ordered set of data.  
+
+list_hygiene
+
+The term used to describe the process of maintaining an  e-mail subscriber list. List hygiene includes taking care of unsubscribe requests, removing e-mail addresses that bounce, updating user e-mail addresses, and so on.
+
+listing
+
+A printout of text, usually a source program.  
+
+Listserv
+
+An automatic mailing list server developed by Eric Thomas for BITNET in 1986. When e-mail is addressed to a LISTSERV mailing list, it is automatically broadcast to everyone on the list. The result is similar to a newsgroup or forum, except that the messages are transmitted as e-mail and are therefore available only to individuals on the list.
+LISTSERV is currently a commercial product marketed by L-Soft International. Although LISTSERV refers to a specific mailing list server, the term is sometimes used incorrectly to refer to any mailing list server. Another popular mailing list server is Majordomo, which is freeware.
+
+
+listwashing
+
+The removal of an email address from an email list when the address owner complains about receiving spam messages. In this scenario, the e-mail list was not created using opt-in subscription lists. Only those who complain about being spammed are removed, and others on the list who do not complain will continue to be spammed. Listwashing will produce a "clean" list of email recipients -- the remaining people who do not or have not objected to receiving the unsolicited email.
+
+literal
+
+In programming, a value written exactly as it's meant to be interpreted. In contrast, a variable is a name that can represent different values during the execution of the program. And a constant is a name that represents the same value throughout a program. But a literal is not a name -- it is the value itself.  A literal can be a number, a character, or a string. For example, in the expression,  x = 3  x is a variable, and 3 is a literal. 
+
+Lithium_Ion_battery
+
+A type of a battery composed of Lithium, the lightest metal and the metal that has the highest electrochemical potential. Lithium, however, is an unstable metal, so Lithium-Ion batteries are made from Lithium ions from chemicals. Because of its lightness and high energy density, Lithium-Ion batteries are ideal for portable devices, such as notebook computers. In addition, Lithium-Ion batteries have no memory effect and do not use poisonous metals, such as lead, mercury or cadmium. The only disadvantage to Lithium-Ion batteries is that they are currently more expensive than NiCad and NiMH battery packs. 
+
+lithography
+
+The process of imprinting patterns on semiconductor materials to be used as integrated circuits.
+
+little_endian
+
+The adjectives big-endian and little-endian refer to which bytes are most significant in multi-byte data types and describe the order in which a sequence of bytes is stored in a computer��s memory.
+In a big-endian system, the most significant value in the sequence is stored at the lowest storage address (i.e., first). In a little-endian system, the least significant value in the sequence is stored first. For example, consider the number 1025 (2 to the tenth power plus one) stored in a 4-byte integer:
+00000000 00000000 00000100 00000001
+
+Live_Access_Server
+
+A Live Access Server (LAS) is a Web server that is typically designed to provide access to geo-referenced scientific data. It can present distributed data sets as a unified virtual database.
+
+live_support
+
+Live support is a Web service that allows businesses to communicate, or chat, in real time with visitors to their Web site. Live support applications are commonly used to provide immediate customer support and information to clients and customers. Exact features and functions of live support are application specific, however you can generally expect a live chat application to provide real time visitor monitoring, custom chat windows, invisible traffic analysis, Web site integration and secure administration controls. Live chat is also called live help or live chat.
+
+livelock
+
+A condition that occurs when two or more processes continually change their state in response to changes in the other processes. The result is that none of the processes will complete. An analogy is when two people meet in a hallway and each tries to step around the other but they end up swaying from side to side getting in each other's way as they try to get out of the way.  Compare with deadlock.
+
+liveware
+
+A slang term used to denote people using (attached to) computers, and is based on the need for a human, or liveware, to operate the system using hardware and software. Other words meaning the same or similar to liveware include wetware, meatware and jellyware. Meatware and jellyware are most often used by internal customer support personnel as slang terms when referencing human operating errors.
+
+LLDP
+
+Called the IEEE 802.1AB Link Layer Discovery Protocol (LLDP), it is an emerging standard which provides a solution for the configuration issues caused by expanding LANs. LLDP specifically defines a standard method for Ethernet network devices such as switches, routers and wireless LAN access points to advertise information about themselves to other nodes on the network and store the information they discover.  LLDP runs on all 802 media. The protocol runs over the data-link layer only, allowing two systems running different network layer protocols to learn about each other.
+
+LLDP_Agent
+
+This term refers to a software entity which implements the Link Layer Discovery Protocol for a particular chassis.
+
+LLF
+
+(n.) Short for low-level format, a formatting method that creates the tracks and sectors on a hard disk. Low-level formatting creates the physical format that dictates where data is stored on the disk. Also see high-level format.  Modern hard drives are low-level formatted at the factory for the life of the drive. A PC can not perform an LLF on a modern IDE/ATA or SCSI hard disk, and doing so would destroy the hard disk. Older MFM drives could be low-level formatted to extend the life of the disk, but modern hard drives no longer use MFM technology.  A low-level format is also called a physical format.  Floppy disks must also undergo low-level and high-level formatting, but these two are generally performed at the same time. On PCs, for example, the FORMAT command performs both a low-level and high-level format the first time a floppy is formatted. (v.) The process of performing low-level formatting.
+
+LMDS
+
+Short for Local Multipoint Distribution Services, a fixed wireless technology that operates in the 28 GHz band and offers line-of-sight coverage over distances up to 3-5 kilometers. It can deliver data and telephony services to 80,000 customers from a single node.   LMDS is one solution for bringing high-bandwidth services to homes and offices within the "last mile" of connectivity, an area where cable or optical fiber may not be convenient or economical.   Data transfer rates for LMDS can reach 1.5 Gbps to 2 Gbps, but a more realistic value may average around 38 Mbps (downstream). 
+
+LMHOSTS_file
+
+Specific to Windows, the LMHOSTS file is a plain text file (without a file extension ) that tells your computer where to find another computer on a network. The file resides in the Windows directory, and it lists the computer names (NetBIOS ) and IP addresses of machines you access on a regular basis.  
+
+LNP
+
+Abbreviated as LNP, Local Number Portability is a service that allows subscribers to switch local or wireless carriers and still retain the same telephone number. LNP is managed through the Number Portability Administration Center (NPAC). It is expected that in the future, subscribers may also be able to change geographical locations and maintain the same number as well.
+
+load
+
+(1) To install. For example, to load a disk means to mount it in a disk drive.
+(2) To copy a program from a storage device into memory. Every program must be loaded into memory before it can be executed. Usually the loading process is performed invisibly by a part of the operating system called the loader. You simply enter the name of the program you want to run, and the operating system loads it and executes it for you.
+(3) In programming, load means to copy data from main memory into a data register.
+
+load_balancing
+
+Distributing processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks where it's difficult to predict the number of requests that will be issued to a server. Busy Web sites typically employ two or more Web servers in a load balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.  
+
+load_file
+
+In automated litigation, load file is a data file that defines the links between multiple records in a database and document images. See also e-discovery.
+
+loader
+
+An operating system utility that copies programs from a storage device to main memory, where they can be executed. In addition to copying a program into main memory, the loader can also replace virtual addresses with physical addresses.  Most loaders are transparent, i.e., you cannot directly execute them, but the operating system uses them when necessary.  
+
+local
+
+In networks, local refers to files, devices, and other resources at your workstation. Resources located at other nodes on the networks are remote.  
+
+local_area_connections
+
+A term most often associated with Microsoft Windows Operating System(s). Typically, computers running Windows are connected to a local area network (LAN). When you install Windows, your  network adapter is detected, and a local area connection is created. It appears, like all other connection types, in the Network Connections folder. By default, a local area connection is always activated. A local area connection is the only type of connection that is automatically created and activated.  [Source:  Windows Product Documentation]
+
+local_bus
+
+A data bus that connects directly, or almost directly, to the microprocessor. Although local buses can support only a few devices, they provide very fast throughput. Modern PCs include both a PCI local bus and a more general ISA expansion bus for devices that do not require such fast data throughput.  
+
+local_loop
+
+In telephony, a local loop refers to the connection between a telecommunication company's CO to the lines in the service subscriber's home or office. Originally, local loop service carried only telephone service to subscribers. But today, with the use of modems, ISDN and DSL signals are transmitted to subscribers as well through the local loop.
+
+Local_Number_Portability
+
+Abbreviated as LNP, Local Number Portability is a service that allows subscribers to switch local or wireless carriers and still retain the same telephone number. LNP is managed through the Number Portability Administration Center (NPAC). It is expected that in the future, subscribers may also be able to change geographical locations and maintain the same number as well.
+
+local_area_wireless_network_LAWN
+
+See WLAN.  
+
+localhost
+
+In TCP/IP networks, localhost is the name used to describe the local computer address. Localhost always translates to the loopback IP address 127.0.0.1. See also local.
+
+localization
+
+The process of adapting software for a particular country or region. For example, the software must support the character set of the local language and must be configured to present numbers and other values in the local format. Localizing a word processor might require adding a new spell checker that recognizes words in the local language.  Software companies that wish to sell their software internationally must invest considerable money and energy in localization efforts. There are also companies that specialize in localizing software for third parties. 
+
+LocalTalk
+
+The cabling scheme supported by the AppleTalk network protocol for Macintosh computers. Most local-area networks that use AppleTalk, such as TOPS, also conform to the LocalTalk cable system. Such networks are sometimes called LocalTalk networks .  Although LocalTalk networks are relatively slow, they are popular because they are easy and inexpensive to install and maintain. An alternative cabling scheme that is faster is Ethernet.  
+
+lock
+
+(1) To make a file or other piece of data inaccessible. File locking is a critical component of all multi-user computer systems, including local-area networks. When users share files, the operating system must ensure that two or more users do not attempt to modify the same file simultaneously. It does this by locking the file as soon as the first user opens it. All subsequent users may read the file, but they cannot write to it until the first user is finished.  In addition to file locking, many database management systems support record  locking, in which a single record, rather than an entire file, is locked. This enables different users to access different records within the same file without interfering with one another.  (2) In Macintosh environments, locking a diskette means write-protecting it.  
+
+lock_in
+
+The phrase used to describe a Web page that disables the browser's back button and prevents the user from leaving the page via the back button. The lock-in practice was originally used by pornography Web sites, however, more mainstream Web sites also use lock-in to keep readers on the Web site once it has loaded. Also a form of mousetrapping.
+
+lockstep_processor_technique
+
+A processor lockstep is a technique used to achieve high reliability in a microprocessor system. This is done by adding a second identical processor to a system that monitors and verifies the operation of the system processor.  * The two processors are initialized to the same state during system start-up, and they receive the same inputs (code, bus operations and asynchronous events), so during normal operation the state of the two processors is identical from clock to clock. They are said to be operating in lockstep. The lockstep technique assumes that an error in either processor will cause a difference between the states of the two processors, which will eventually be manifested as a difference in the outputs, so the lockstep system monitors the outputs of the two processors and flags an error in the case of a discrepancy. [* Adapted from  IBM PowerPC Tips]
+
+log
+
+A file that lists actions that have occurred. For example, Web servers maintain log files listing every request made to the server. With log file analysis tools, it's possible to get a good idea of where visitors are coming from, how often they return, and how they navigate through a site. Using cookies enables Webmasters to log even more detailed information about how individual users are accessing a site.
+
+
+log_file
+
+A file that lists actions that have occurred. For example, Web servers maintain log files listing every request made to the server. With log file analysis tools, it's possible to get a good idea of where visitors are coming from, how often they return, and how they navigate through a site. Using cookies enables Webmasters to log even more detailed information about how individual users are accessing a site.
+
+
+log_on
+
+(v.) To make a computer system or network recognize you so that you can begin a computer session. Most personal computers have no log-on procedure -- you just turn the machine on and begin working. For larger systems and networks, however, you usually need to enter a username and password before the computer system will allow you to execute programs.  Alternative spellings for log on are log in and login. 
+
+log_out
+
+To end a session at the computer. For personal computers, you can log out simply by exiting applications and turning the machine off. On larger computers and networks, where you share computer resources with other users, there is generally an operating system command that lets you log off.  
+
+logic_bomb
+
+Also called slag code, programming code added to the software of an application or operating system that lies dormant until a predetermined period of time (i.e., a period of latency) or event occurs, triggering the code into action. Logic bombs typically are malicious in intent, acting in the same ways as a virus or Trojan horse once activated. In fact, viruses that are set to be released at a certain time are considered logic bombs. They can perform such actions as reformatting a hard drive and/or deleting, altering or corrupting data.
+
+logic_gate
+
+(loj´ik gāt) (n.) A type of circuit (or collection of transistors and resistors) that regulates the flow of electricity (or optical signals in fiber optic computing systems) that determines the Boolean logic computers use to make complex logical decisions. The three simple gates-AND, OR and NOT-combine to perform complex decision making processes. The on or off state of a logic gate corresponds to the binary values.  The complex logic gates are XOR (exclusive-OR), NAND (NOT-AND), NOR (NOT-OR), and XNOR (exclusive-NOR).
+
+logical
+
+(1) Refers to a user's view of the way data or systems are organized. The opposite of logical is physical, which refers to the real organization of a system. For example, a logical description of a file is that it is a collection of data stored together. This is the way files appear to users. Physically, however, a single file can be divided into many pieces scattered across a disk.  (2) Refers to any Boolean logic operation. 
+
+Logical_Domain
+
+In virtualization terminology, Logical Domains (LDom) is a technology for server virtualization that enable users to allocate system resources, such as memory or  devices into logical groupings in order to create multiple virtual machines. Each of these virtual machines can use its own operating system, have its own resources and also be identified as a single stand-alone unit within the computer system. LDom is a free Sun virtualization technology and is supported on Sun servers which utilize UltraSPARC T1 or UltraSPARC T2 processors, running at least Solaris 10 11/06 and the latest server firmware.
+
+logical_drive
+
+A part of a physical disk drive that has been partitioned and allocated as an independent unit, and functions as a separate drive altogether. For example, one physical drive can be partitioned into drives F:, G:, and H:, each representing a separate logical drive but all still part of the one physical drive.  Using the logical drive hierarchy is one method of organizing large units of memory capacity into smaller units.  Contrast with physical drive.
+
+Logical_Link_Control_layer
+
+The Logical Link Control (LLC) layer is one of two sublayers that make up the Data Link Layer of the OSI model. The Logical Link Control layer controls frame synchronization, flow control and error checking.See a breakdown of the seven OSI layers in the Quick Reference section of Webopedia.Also see "The OSI Reference Model - Understanding Layers" in Webopedia's "Did You Know..." section.
+
+logical_topology
+
+Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The way that the workstations are connected to the network through the actual cables that transmit data -- the physical structure of the network -- is called the physical topology. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
+Logical topologies are bound to the network protocols that direct how the data moves across a network. The Ethernet protocol is a common logical bus topology protocol. LocalTalk is a common logical bus or star topology protocol. IBM's Token Ringis a common logical ring topology protocol.
+A network's logical topology is not necessarily the same as its physical topology. For example, twisted pairEthernet is a logical bus topology in a physical star topology layout. While IBM's Token Ring is a logical ring topology, it is physically set up in a star topology.
+
+LOL
+
+Acronym for laughing out loud or lots of love. LOL is commonly used in newsgroups, chat rooms, instant messaging, text messaging, SMS, e-mail and other real time text-based communications.  See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations. 
+ 
+
+lollipop
+
+Lollipop is the dessert-themed Android codename for the 5.0 update of the open source Android mobile operating system. Lollipop debuted in November 2014 as the successor to the "KitKat" Android release.
+What's New in Android Lollipop
+The most noticeable change in Android Lollipop 5.0 is an enhanced user interface called Material Design that utilizes bright colors, layering and subtle shadows to improve the overall user experience. The new Material Design interface is complemented by feature additions like multiple user support and a guest user account option, a new notification system, support for 64-bit CPUs, Project Volta for delivering battery life improvements, and more.
+Continuity across Android devices is another key development in Android Lollipop. The new mobile operating system automatically transfers information and provides seamless integration between Android Lollipop smartphones, tablets, Android Wear and other mobile devices.
+
+LOM
+
+(1) Short for LAN on motherboard. The term refers to a chip or chipset capable of network connections that has been embedded directly on the motherboard of a desktop, workstation or server. Instead of requiring a separate network interface card to access a local-area network, such as Ethernet, the circuits are attached to the motherboard. An advantage of a LOM system is an extra available PCI slot that is not being used by the network adapter.  (2) An early programming language used for data processing.
+
+Longhorn
+
+The codename given to a Microsoft operating system while in its development and beta phases. The Longhorn codename is the operating system that was released under the official name of  Windows Vista. Vista was released worldwide on January 30, 2007. See also "Microsoft Windows Vista - An introduction to its features, retail versions and security" in the Quick Reference section of Webopedia.
+
+Longitudinal_recording
+
+A method of recording data to a hard disk drive (HDD). Used over the last 50 years, Longitudinal recording aligns data bits horizontally in relation to the drive's spinning platter, parallel to the surface of the disk. Contrast with  Perpendicular recording.Also see "What Is Perpendicular Hard Drive Technology?" in Webopedia's "Did You know..." section.
+
+look_and_feel
+
+Refers to the general appearance and operation of a user interface. This is a hot legal issue because some software companies are claiming that competitors who copy the look-and-feel of their products are infringing on their copyright protection. To date, the courts have not ruled definitively on this matter.  
+
+loop
+
+One of the three basic logic structures in computer programming. The other two logic structures are selection and sequence.
+In a loop structure, the program asks a question, and if the answer requires an action, it is performed and the original question is asked again until the answer is such that the action is no longer required. For example, a program written to compute a company��s weekly payroll for each individual employee will begin by computing the wages of one employee and continue performing that action in a loop until there are no more employee wages to be computed, and only then will the program move on to its next action. Each pass through the loop is called an iteration. Loops constitute one of the most basic and powerful programming concepts.
+All logic problems in programming can be solved by forming algorithms using only the three logic structures, and they can be combined in an infinite number of ways. The more complex the computing need, the more complex the combination of structures.
+
+loopback
+
+(1) In telecommunications, loopback is a method used to perform transmission tests of the lines at the switching center. (2) Loopback is a communication channel with only one endpoint. TCP/IP networks specify a loopback that allows client software to communicate with server software on the same computer. users can specify an IP address, usually 127.0.0.1, which will point back to the computer's TCP/IP network configuration. The range of addresses for loopback functionality is the range of 127.0.0.0 to 127.255.255.255. Similar to ping, loopback enables a user to test one's own network to ensure the IP stack is functioning properly.
+
+loopback_address
+
+Loopback address is a special IP number (127.0.0.1) that is designated for the software loopback interface of a machine. The loopback interface has no hardware associated with it, and it is not physically connected to a network.
+The loopback interface allows IT professionals to test IP software without worrying about broken or corrupted drivers or hardware.
+
+
+loopback_plug
+
+Also referred to as a loopback adapter. A connection device that is plugged into a computer's port in order to perform a loopback test.
+
+loopback_test
+
+A diagnostic procedure in which a signal is transmitted and returned to the sending device after passing through all or a portion of a network or circuit. The returned signal is compared with the transmitted signal in order to evaluate the integrity of the equipment or transmission path. A computer needs a loopback plug that is inserted into a port in order to perform a loopback test.
+
+loose_coupling
+
+(1) In computer science, loose coupling (or loosely coupled) is a type of coupling that describes how multiple computer systems, even those using incompatible technologies, can be joined together for transactions, regardless of hardware, software and other functional components. Loosely coupled systems describe those that work on an exchange relationship where little input is needed from each of the additional systems. In a loosely coupled system hardware and software may interact but they are not dependant on each other to work. Computers in a network are considered loose-coupled systems as a client machine may request data from the server, but the two systems also work independently of each other. (2) In software terminology, loosely coupled refers to software where routines, modules, functions, and similar components are executed only as needed, and do not run at the launch of the software application and while it is being used. Web services are a type of software application that uses loose coupling. Also called light coupling. See also coupling,  tight coupling, and decoupled.
+
+LOS
+
+(n.) Short for line of sight. Radio frequency technologies use the term LOS to describe an unobstructed path between the location of the signal transmitter and the location of the signal receiver. Obstacles that can cause an obstruction in the line of sight include trees, buildings, mountains, hills and other natural or manmade structures or objects.  Compare with NLOS.
+
+loss_leader
+
+A slang term used to describe a company that is willing to lose money, or make less money, in order to attract a high-quality, long-term user base. For example the company may sell a product below cost, or offer their product free to attract customers.
+
+lossless_compression
+
+Refers to data compression techniques in which no data is lost. The PKZIP compression technology is an example of lossless compression. For most types of data, lossless compression techniques can reduce the space needed by only about 50%. For greater compression, one must use a lossy compression technique. Note, however, that only certain types of data -- graphics, audio, and video -- can tolerate lossy compression. You must use a lossless compression technique when compressing data and programs.  
+
+lossy_compression
+
+Refers to data compression techniques in which some amount of data is lost. Lossy compression technologies attempt to eliminate redundant or unnecessary information. Most video compression technologies, such as MPEG, use a lossy technique.  
+
+lost_cluster
+
+Also called a lost allocation unit, or a lost file fragment. A data fragment that does not belong to any file, according to the system's file management system, and, therefore, is not associated with a file name in the file allocation table. Lost clusters can result from files not being closed properly, from shutting down a computer without first closing an application or from ejecting a storage medium, such as a floppy disk, from the disk drive while the drive is reading or writing.
+
+Lotus_1_2_3
+
+A spreadsheet program designed for IBM-compatible personal computers by Lotus Corporation in 1982. Lotus 1-2-3 was the first publicly available program to combine graphics, spreadsheet functions and data management (three functions, hence the name). Its relative ease of use and flexibility made it an enormous success and contributed to the acceptance of personal computers in business.  
+
+Lotus_Domino
+
+An IBM server application platform used for enterprise e-mail, messaging, scheduling and collaboration. Lotus Domino was previously called Lotus Notes Server and was initially the server component of Lotus Corp's client-server messaging technology. Lotus Domino provides the complete infrastructure needed to create, test, deploy, and manage distributed, multi-lingual applications, including directory, database, application server, administration, security, connectivity, Web server, e-mail server, calendaring engine, and so on, all in one application.
+
+Lotus_Notes
+
+A groupware application developed by Lotus, now part of IBM. Notes was one of the first applications to support a distributed database of documents that could be accessed by users across a LAN or WAN. Its sophisticated replication features enable users to work with local copies of documents and have their modifications propagated throughout an entire Notes network.  For many years, Notes was the only full-featured groupware solution.
+
+loupe
+
+Loupe is a utility that displays a magnified view of whatever is beneath the mouse cursor, much like a jeweler or printer loupe.  A loupe can be found in products like Adobe Acrobat, or it is available as a stand-alone desktop utility. The term is derived from a loupe magnifying glass, which is usually found to have a magnification of 10X.
+
+low_memory
+
+In DOS systems, the first 640K of memory. This portion of memory is reserved for applications, device drivers, and memory-resident programs (TSRs).  Low memory is also called conventional memory. 
+
+low_level_language
+
+A machine language or an assembly language. Low-level languages are closer to the hardware than are high-level programming languages, which are closer to human languages.
+
+
+lowercase
+
+Small letters, as opposed to capital letters. The word yes, for example, is in lowercase, while the word YES is in uppercase. For many programs, this distinction is very important. Programs that distinguish between lowercase and uppercase are said to be case sensitive.  
+
+loyalty_program
+
+An electronic commerce and channel partner term that is used to describe a program that rewards customers for making purchases from the same vendor or company. Loyalty programs may offer prizes, reward points, future discounts and other incentives designed to keep customers coming back and doing repeat business with you.
+
+LPAR
+
+Short for logical partitioning, a system of taking a computer's total resources - processors, memory and storage -- and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as Web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. IBM was the first to use logical partitioning in 1976.
+
+LPD
+
+Short for line printer daemon/line printer remote, a printer protocol that uses TCP/IP to establish connections between printers and workstations on a network. The technology was developed originally for BSD UNIX and has since become the de facto cross-platformprinting protocol.
+The LPD software typically is stored in the printer or print server and the LPR software must be installed in the client device. The LPR client sends the print request to the IP address of the LPD printer/server, which in turn queues the file and prints it when the printer becomes available.
+
+LPD_LPR
+
+Short for line printer daemon/line printer remote, a printer protocol that uses TCP/IP to establish connections between printers and workstations on a network. The technology was developed originally for BSD UNIX and has since become the de facto cross-platformprinting protocol.
+The LPD software typically is stored in the printer or print server and the LPR software must be installed in the client device. The LPR client sends the print request to the IP address of the LPD printer/server, which in turn queues the file and prints it when the printer becomes available.
+
+LPR
+
+Short for line printer daemon/line printer remote, a printer protocol that uses TCP/IP to establish connections between printers and workstations on a network. The technology was developed originally for BSD UNIX and has since become the de facto cross-platformprinting protocol.
+The LPD software typically is stored in the printer or print server and the LPR software must be installed in the client device. The LPR client sends the print request to the IP address of the LPD printer/server, which in turn queues the file and prints it when the printer becomes available.
+
+LPT
+
+A name frequently used by operating systems to identify a printer. Although LPT originally stood for line printer terminal, it is now used more generally to identify any type of printer.  
+
+LPX
+
+A motherboard form factor used in some desktop model PCs. The distinguishing characteristic of LPX is that expansion boards are inserted into a riser that contains several slots. So the expansion boards are parallel to the motherboard rather than perpendicular to it as in other common form factors, such as AT and ATX. The LPX design allows for smaller cases, but the number of expansion boards is usually limited to two or three.  The LPX form factor is gradually being replaced by NLX. 
+
+LRC
+
+Short for longitudinal redundancy check, it is an error detection and checking method used to verify the accuracy of stored or transmitted data. LRC works by generating a parity bit from a specified string of bits on a longitudinal track.
+
+LRDIMM
+
+Short for load-reduced dual inline memory module. LRDIMM is a load-reduction (LR) DIMM (used in servers) that supports higher densities than RDIMMs and contains a memory buffer (MB) chip, as opposed to a register, in order to reduce and minimize the load on the server memory bus. The memory buffer reduces each clock, command and address and data input to a single load, which increases the memory speed.
+LRDIMMs are useful in memory-intensive applications in data centers, cloud computing and in high-performance computing (HPC) environments. LRDIMM is pin-compatible with existing DDR3 DIMM sockets and is JEDEC standard.
+See also A Quick Reference to System Memory in Webopedia's Quick Reference section.
+
+LSI
+
+(1) Short for  large-scale integration. (2) Short for Latent semantic indexing.
+
+LTHB
+
+Short for Life to Half Brightness, LTHB is a term used when describing the expected lifespan of plasma displays.  LTHB is specifically the number of operating hours you can expect to obtain from your plasma display before the brightness begins to fade from its original state. See also "LCD Versus Plasma" in Webopedia's  Quick Reference section.
+
+LTO
+
+Short for Linear Tape Open, a technology that was developed jointly by HP, IBM and Certance (Seagate) to provide a clear and viable choice in an increasingly complex array of tape storage options.  LTO technology is an "open format" technology, which means that users will have multiple sources of product and media. and the open nature of LTO technology also provides a means of enabling compatibility between different vendors' offerings.  See also LTO Ultrium.
+
+LTO_Ultrium
+
+The LTO (Linear Tape Open) Ultrium format is the high-capacity, single-reel implementation of LTO technology. It is ideally suited for backup, restore and archive applications and provides  reliability in both stand-alone and automated environments. The Ultrium format is the preferred format when capacity rather than fast access is the key storage consideration. An Ultrium format generation 3 cartridge has a capacity of up to 800 GB (2:1 compression) and up to 400 GB native, while the Ultrium format generation 2 has a capacity of up to 400 GB (2:1 compression) and up to 200 GB native. Capacity for LTO Ultrium generation 1 format cartridges reaches up to 200 GB (2:1 compression) and up to 100 GB native. [Source: LTO technology Web site].
+Note: Capacity measurements based on technology available as of August 2005. The capacity may increase as the technology matures. 
+See also LTO.
+
+Luhn_formula
+
+Based on ANSI X4.13, the LUHN formula (also known as the modulus 10 -- or mod 10 -- algorithm ) is used to generate and/or validate and verify the accuracy of credit-card numbers.  Most credit cards contain a check digit, which is the digit at the end of the credit card number. The first part of the credit-card number identifies the type of credit card (Visa, MasterCard, American Express, etc.), and the middle digits identify the bank and customer.   To generate the check digit, the LUHN formula is applied to the number. To validate the credit-card number, the check digit is figured into the formula.   Here's how the algorithm works for verifying credit cards; the math is quite simple:   1) Starting with the second to last digit and moving left, double the value of all the alternating digits.   2) Starting from the left, take all the unaffected digits and add them to the results of all the individual digits from step 1. If the results from any of the numbers from step 1 are double digits, make sure to add the two numbers first (i.e. 18 would yield 1+8). Basically, your equation will look like a regular addition problem that adds every single digit.   3) The total from step 2 must end in zero for the credit-card number to be valid.   The LUHN formula was created in the late 1960s by a group of mathematicians. Shortly thereafter, credit card companies adopted it. Because the algorithm is in the public domain, it can be used by anyone.   The LUHN formula is also used to check Canadian Social Insurance Number (SIN) validity. In fact, the LUHN formula is widely used to generate the check digits of many different primary account numbers. Almost all institutions that create and require unique account or identification numbers use the Mod 10 algorithm. 
+
+luminance_keying
+
+In video editing, luminance keying is setting the brightness level, and all brighter or darker pixels from the set level are turned off and will be transparent. A second clip or image can be inserted behind to show where the pixels have been turned off. Luminance keying is used when working with grayscale images.Compare with chroma key, which uses colors instead of brightness for transparency.
+
+LUN
+
+Short for logical unit number, a unique identifier used on a SCSI bus to distinguish between devices that share the same bus. SCSI is a parallel interface that allows up to 16 devices to be connected along a single cable. The cable and the host adapter form the SCSI bus, and this operates independently of the rest of the computer. Each of the eight devices is given a unique address by the SCSI BIOS, ranging from 0 to 7 for an 8-bit bus or 0 to 15 for a 16-bit bus. Devices that request I/O processes are called initiators. Targets are devices that perform operations requested by initiators. Each target can accommodate up to eight other devices, known as logical units, and each is assigned an LUN. Commands that are sent to the SCSI controller identify devices based on their LUNs.
+
+Lunascape
+
+A "triple-engine" Web browser that contains the rendering engines used in Microsoft Internet Explorer (Trident), Mozilla Firefox (Gecko) and Google Chrome / Apple Safari (WebKit) and allows users to switch between layout engines on the fly.
+The latest edition of the browser, Lunascape 6 Orion, is available for Windows 2000, XP ,Vista, 7, Server 2003 and Server 2008 operating systems.  This release adds a triple add-on function that enables support for Firefox and Internet Explorer add-ons as well as Lunascape-specific add-ons. A mobile device-specific, single-engine edition called iLunascape Lite for iPhone is also available as a free download from Apple's App Store.
+
+lurk
+
+To eavesdrop on a chat room or conference. In most online areas, lurking is perfectly acceptable behavior and is, in fact, encouraged so that you get the feel of the area before posting your own comments. However, some online areas, particularly ones where participants are discussing personal issues, frown on lurking. 
+
+lux
+
+In digital photography, lux is the unit of measurement for light intensity. One lux is equivalent to the light level of a single candle light. The symbol for Lux is lx.
+
+LVDS
+
+Short for Low Voltage Differential Signaling, a low noise, low power, low amplitude method for high-speed (gigabits per second) data transmission over copper wire.   LVDS differs from normal input/output (I/O ) in a few ways:   Normal digital I/O works with 5 volts as a high (binary 1) and 0 volts as a low (binary 0). When you use a differential, you add a third option (-5 volts), which provides an extra level with which to encode and results in a higher maximum data transfer rate.   A higher data transfer rate means fewer wires are required, as in UW (Ultra Wide) and UW-2/3 SCSI hard disks, which use only 68 wires. These devices require a high transfer rate over short distances. Using standard I/O transfer, SCSI hard drives would require a lot more than 68 wires.   Low voltage means that the standard 5 volts is replaced by either 3.3 volts or 1.5 volts.   LVDS uses a dual wire system, running 180 degrees of each other. This enables noise to travel at the same level, which in turn can get filtered more easily and effectively.   With standard I/0 signaling, data storage is contingent upon the actual voltage level. Voltage level can be affected by wire length (longer wires increase resistance, which lowers voltage). But with LVDS, data storage is distinguished only by positive and negative voltage values, not the voltage level. Therefore, data can travel over greater lengths of wire while maintaining a clear and consistent data stream. 
+
+lxd
+
+LXD is a container effort created by Canonical, developers of the Ubuntu Linux operating system distribution, that works in conjunction with LXC to make LXC-based containers easier to use.
+LXD does this in part via the use of a back-end daemon that supports a REST API and a simple CLI client that works with both the local and remote daemons via the REST API.
+The Three Components of LXD
+Pronounced as "lex-dee," LXD comprises three components:
+
+
+lxd – A system-wide daemon
+lxc – A command-line client
+nova-compute-lxd - An OpenStack Nova plugin
+
+
+
+Lycos
+
+A popular World Wide Web search engine and directory. Like Excite, Lycos offers a full-text search engine, a directory of Web sites organized by category, and reviews of selected sites.  
+
+LZW
+
+Short for Lempel-Zif-Welch, a popular data compression technique developed in 1977 by J. Ziv and A Lempel, and later refined by Terry Welch. It is the compression algorithm used in the GIF graphics file format, which is one of the standard graphic formats used by CompuServe and the World Wide Web.  The patent for LZW is owned by Unisys, which for many years allowed anyone to use the algorithm for free. Then in 1995, Unisys suddenly decided to charge a license fee. There was an uproar from the Compuserve and Web communities, and Unisys backed down somewhat, though they still enforce the licensing requirement for commercial applications. 
+
+L_Port
+
+The loop capable fabric port (L_Port) is a basic port in a Fibre Channel Arbitrated Loop (FC-AL) topology. If an N_Port is operating on a loop, it's referred to as an NL_Port. If a F_Port is on a loop it is known as an FL_Port.
+

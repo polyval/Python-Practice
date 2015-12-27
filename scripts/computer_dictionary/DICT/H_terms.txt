@@ -1,0 +1,1140 @@
+hadoop
+
+Hadoop, formally called Apache Hadoop, is an Apache Software Foundation project and open source software platform for scalable, distributed computing. Hadoop can provide fast and reliable analysis of both structured data and unstructured data. Given its capabilities to handle large data sets, it's often associated with the phrase big data.
+Recommended Reading: What is Open Source software?
+The Apache Hadoop software library is essentially a framework that allows for the distributed processing of large datasets across clusters of computers using a simple programming model. Hadoop can scale up from single servers to thousands of machines, each offering local computation and storage.
+
+
+hive
+
+Apache Hive (Hive) is a data warehouse system for the open source Apache Hadoop project. Hive features a SQL-like HiveQL language that facilitates data analysis and summarization for large datasets stored in Hadoop-compatible file systems.  Hive originated as a Facebook initiative before becoming a sub-project of Hadoop. Hive is currently an open source volunteer top-level project under the Apache Software Foundation.
+Top 5 Hadoop Related Questions
+1. What is Apache Hadoop?  2. What is Hadoop MapReduce?  3. What is HortonWorks?  4. What is Hadoop Distributed File System?  5. What is unstructured data?
+
+H_225
+
+H.225.0 is a key  protocol in the H.323 VoIP architecture defined by ITU-T.  H.225.0 describes how audio, video, data and control information on a packet based network can be managed to provide conversational services in H.323 equipment. H.225.0 has two major parts: Call signaling and RAS (Registration, Admission and Status).
+
+H_245
+
+Is an H.323 protocol for capability negotiation, messages for opening and closing channels for media streams; for example - media signaling.
+
+H_248
+
+Megaco is a signaling protocol that enables switching of voice, fax and multimedia calls between the PSTN and IP networks. It is based on the term Media Gateway Controller (MGC) and is used between the Media Gateway and Media Gateway Controller in a VoIP network. Synonymous with H.248.
+
+H_323
+
+An International Telecommunications Union (ITU) standard that provides specification for computers, equipment, and services for multimedia communication over packet based networks that defines how real-time audio, video and data information is transmitted. H.323 is commonly used in VoIP, Internet Telephony, and IP-based videoconferencing. Users can connect with other users over the Internet and use varying products that support H.323. This standard is based on the Internet Engineering Task Force (IETF) Real-Time Protocol (RTP) and Real-Time Control Protocol (RTCP), with additional protocols for call signaling, and data and audiovisual communications.
+
+H_324
+
+A suite of standards approved by the International Telecommunications Union (ITU) that defines videoconferencing over analog (POTS) telephone wires. One of the main components of H.324 is the V.80 protocol that specifies how modems should handle streaming audio and video data.  
+
+hack
+
+(v) 1. To write program code. 2. To modify a program, often in an unauthorized manner, by changing the code itself.  (n) 1. Code that is written to provide extra functionality to an existing program.  2. An inelegant and usually temporary solution to a problem.  Also see hacker.
+
+hack_tool
+
+A term used by the  Symantec Security Response Center to describe tools that are used by a hacker (or unauthorized user) to attack, gain unwelcome access to or perform identification of your computer. Hack tools also generally attempt to gain information on or access hosts or bypass obvious security mechanisms inherent to the system it is installed on. Some tools used by hackers may be programs that have legitimate uses, such as a keystroke logger that can also be used maliciously by a hacker. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+hacker
+
+A slang term for a computer enthusiast, i.e., a person who enjoys learning programming languages and computer systems and can often be considered an expert on the subject(s). Among professional programmers, depending on how it used, the term can be either complimentary or derogatory, although it is developing an increasingly derogatory connotation.
+The pejorative sense of hacker is becoming more prominent largely because the popular press has coopted the term to refer to individuals who gain unauthorized access to computer systems for the purpose of stealing and corrupting data. Hackers, themselves, maintain that the proper term for such individuals is cracker.
+ 
+
+hacktivism
+
+Formed by combining "hack" with "activism," hacktivism is the act of hacking into a Web site or computer system in order to communicate a politically or socially motivated message. Unlike a malicious hacker, who may disrupt a system for financial gain or out of a desire to cause harm, the hacktivist performs the same kinds of disruptive actions (such as a DoS attack) in order to draw attention to a cause. For the hacktivist, it is an Internet-enabled way to practice civil disobedience and protest.
+
+HACMP
+
+Short for high availability cluster multiprocessing, HACMP is an IBM cluster system for AIX-based computing platforms. IBM's HACMP product was first released in 1991. All popular applications work with HACMP including DB2, Oracle, SAP, WebSphere, and others.
+ 
+See also AIX.
+
+hactivism
+
+Hactivism is the concept of hacking into a Web site or computer system in order to communicate a politically or socially motivated message.  Hactivists conduct the same types of disruptive actions as malicious hackers but do so as a way to draw attention to a cause rather than as a means to cause harm or illegally profit from their actions.
+Also referred to as hacktivisim, hactivism gets its name from combining "hack" and "activism."  At its most basic level, hactivism is an Internet-enabled way to practice civil disobedience and protest, with hactivist activities spanning the gamut of political ideals and issues.
+
+hadoop_distributed_file_system_hdfs
+
+The Hadoop Distributed File System (HDFS) is a sub-project of the Apache Hadoop project. This Apache Software Foundation project is designed to provide a fault-tolerant file system designed to run on commodity hardware.
+According to The Apache Software Foundation, the primary objective of HDFS is to store data reliably even in the presence of failures including NameNode failures, DataNode failures and network partitions. The NameNode is a single point of failure for the HDFS cluster and a DataNode stores data in the Hadoop file management system.
+HDFS uses a master/slave architecture in which one device (the master) controls one or more other devices (the slaves). The HDFS cluster consists of a single NameNode and a master server manages the file system namespace and regulates access to files.
+
+hadoop_mapreduce
+
+Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of large data sets on compute clusters of commodity hardware. It is a sub-project of the Apache Hadoop project. The framework takes care of scheduling tasks, monitoring them and re-executing any failed tasks. 
+According to The Apache Software Foundation, the primary objective of Map/Reduce is to split the input data set into independent chunks that are processed in a completely parallel manner. The Hadoop MapReduce framework sorts the outputs of the maps, which are then input to the reduce tasks. Typically, both the input and the output of the job are stored in a file system.
+Also see Apache Hadoop and Hadoop Distributed File System (HDFS).
+
+haiku
+
+An open source operating system (OS) for personal computing that was inspired by the Be Operating System (BeOS). The Haiku operating system offers a custom kernel design, a database-like file system (OpenBFS) with support for indexed metadata, and it is fully threaded design for great efficiency with multi-core CPUs.
+
+hairball
+
+Slang term used to describe a bloated mess of poorly written source code.
+
+hairpin
+
+In VoIP, hairpin (or hairpining) is the means to send a call back in the direction that it came from. If a call cannot be routed over IP to a gateway that is closer to the target telephone, the call typically is sent back out the local zone the same way from which it came.
+
+HAL
+
+Short for hardware abstraction layer, programming in an operating system that functions as an interface between a system��s hardware and software, providing a consistent hardware platform on which to run applications. When a HAL is employed, applications do not access hardware directly but access the abstract layer provided by the HAL. Like APIs, HALs allow applications to be device-independent because they abstract information from such systems as caches, I/O buses and interrupts and use this data to give the software a way to interact with the specific requirements of the hardware on which it is running.
+
+Hal_S
+
+A high-level programming language commissioned by NASA in the 1970's. Hal/S is a a real-time aerospace programming language that is most known for use in NASA's Space Shuttle program. Hal/S is used in the programming of onboard shuttle software. Initially Hal/S was a FORTRAN preprocessor then called Hal that was written in FORTRAN and generated FORTRAN source code. In the early 1970's the language was rewritten in XPL and renamed Hal/S. 
+
+half_height
+
+Some older PCs supported both full-height and half-height bays for disk drives and other mass storage devices. Today, all bays are half-height. 
+
+half_life
+
+Also called life expectancy or shelf life, the time it takes for a data-storing medium to lose half of its strength. Floppy disks and magnetic hard drives have a half life of between five and seven years. Optical media, such as CD-Rs, have a half life of about 30 years.  The term comes from the scientific fields where it means the amount of time it takes for half of something to undergo a process or the amount of time it takes for half of the atoms of a radioactive substance to disintegrate.
+
+half_duplex
+
+(adj.)Refers to the transmission of data in just one direction at a time. For example, a walkie-talkie is a half-duplex device because only one party can talk at a time. In contrast, a telephone is a full-duplex device because both parties can talk simultaneously. Duplex modes often are used in reference to network data transmissions.
+Some modems contain a switch that lets you select between half-duplex and full-duplex modes. The correct choice depends on which program you are using to transmit data through the modem. In half-duplex mode, each character transmitted is immediately displayed on your screen. (For this reason, it is sometimes called local echo -- characters are echoed by the local device). In full-duplex mode, transmitted data is not displayed on your monitor until it has been received and returned (remotely echoed) by the other device. If you are running a communications program and every character appears twice, it probably means that your modem is in half-duplex mode when it should be in full-duplex mode, and every character is being both locally and remotely echoed.
+ 
+
+halftone
+
+In printing, a continuous tone image, such as a photograph, that has been converted into a black-and-white image. Halftones are created through a process called dithering, in which the density and pattern of black and white dots are varied to simulate different shades of gray.  In conventional printing, halftones are created by photographing an image through a screen. The screen frequency, measured in lines per inch, determines how many dots are used to make each spot of gray. In theory, the higher the screen frequency (the more lines per inch), the more accurate the halftone will be. However, actual screen frequencies are limited by the technology because higher screen frequencies create smaller, more tightly packed dots. If you are printing on a low resolution device, therefore, you may get better results with a lower screen frequency.  Modern desktop publishing systems can create halftones by simulating the conventional photographic process. This is why some programs allow you to specify a screen frequency even when no actual screen is used.  
+
+ham
+
+(1) A person who is licensed to operate a ham radio.  (2) Automatic spam filters classify e-mail as either spam or ham (meaning not spam).
+
+ham_radio
+
+Amateur radio communication in a range of frequencies from just above the AM broadcast band (1.6 MHz) to the microwave region, at several hundred gigahertz. These frequencies have been designated for amateur use by the FCC.  Anyone with a radio receiver or a radio scanner can listen in on ham radio communications, but only an operator licensed by the FCC can transmit the signals. Typically, ham radio operators, or hams, do not use ham radio to broadcast in the way radio stations broadcast to large audiences at once. Ham transmission is usually two-way or with groups of people using a transceiver, meaning that two or more hams talk to each other instead of everyone listening to a single ham��s broadcast.  There are hundreds of thousands of amateur radio operators in the U.S. and millions around the world. Ham radio can be useful in spreading information during emergencies when other services such as telephones, television or the Internet fail.  Ham radio also is referred to as amateur radio.
+
+hammering
+
+The act of trying repeatedly to connect to an unavailable FTP server with little or no time between connection attempts. It can be compared to repeatedly hitting the "redial" button on a telephone when dialing a phone number that is busy until the other phone is no longer busy.  Trading servers have a limit on the number of active connections that may be present at one time. A server cannot process an unlimited number of requests, so when servers are occupied to full capacity they will deny further access until they have free space. Hammering consumes bandwidth, slowing down the server. In addition to already working at capacity, the server has to then send a busy response to the device that was unable to connect every time that device attempts a connection, which further depletes the server's resources and slows the system down in its connections with other devices.  Most FTP sites have policies against hammering and require FTP clients to set retry times at specific intervals, commonly at least 120 seconds between each attempt to connect. Most FTP sites can also monitor for devices that hammer, and once detected the server will ban access to the offending IP address either permanently or for a limited amount of time.
+
+Hamming_code
+
+(ham´ing kōd) (n.) In digital data transmissions, a method of error detection and correction in which every string of four bits is replaced with a string of seven bits. The last three added bits are parity-checking bits that the receiving device uses to check for and correct any errors.  Hamming code will detect any double errors but can only correct a single error. This method of error correction is best suited for situations in which randomly occurring errors are likely, not for errors that come in bursts.  Richard Hamming, a theorist with Bell Telephone Laboratories in the 1940s, developed the Hamming code method of error correction in 1949.
+
+hamster
+
+The name given to a cordless mouse which operates through an infrared connection.
+
+HAN
+
+Short for home area network. A HAN is a network contained within a user's home that connects a person's digital devices, from multiple computers and their peripheral devices to telephones, VCRs, televisions, video games, home security systems, "smart" appliances, fax machines and other digital devices that are wired into the network.
+
+hand_of_thief_trojan
+
+Trojan malware developed to enable cyber criminals to compromise Linux systems and steal user information from the systems. The Hand of Thief Trojan (HoT Trojan) is one of the first strains of malware to specifically target desktop Linux systems, and it’s claimed that the HoT Trojan can currently compromise at least fifteen different variants of Linux.
+
+
+hand_held_computer
+
+A portable computer that is small enough to be held in one's hand. Although extremely convenient to carry, handheld computers have not replaced notebook computers because of their small keyboards and screens. The most popular hand-held computers are those that are specifically designed to provide PIM (personal information manager) functions, such as a calendar and address book.  Some manufacturers are trying to solve the small keyboard problem by replacing the keyboard with an electronic pen. However, these pen-based devices rely on handwriting recognition technologies, which are still in their infancy.  
+
+handheld_scanner
+
+A small handheld scanning device used for digitizing images. While images from a handheld scanner are considered low quality, today's technology enables full color 24 bit scanning. Depending on the scanner device type and manufacturer, handheld scanners can also define, translate, and hear printed text, and can also store and beam text to computers and other devices.
+
+
+handle
+
+)(1) In many applications, when you select a graphical object, an outline of the object appears with small boxes. Each box is a handle. By dragging the handles, you can change the shape and size of the object.  (2) In programming, a handle is a token, typically a pointer, that enables the program to access a resource, such as a library function.  (3) When communicating via an online service, your handle is the name that you use to identify yourself. It could be your real name, a nickname, or a completely fictitious name.  
+
+handoff
+
+(n.) The transfer of a cellular phone transmission from one radio frequency within a cell to another radio frequency in an adjacent cell. Handoffs occur when a cellular phone user passes out of the range that the cell can handle and into another cell��s range, and the signal is passed from one base station to the next. The handoff is transparent to the user and typically will not result in a loss of service unless the user moves out of range of a cell��s base station. The transition and the process required to make the transition are both referred to as the handoff.  (v.) To pass a cellular transmission from one cell to another.
+
+hands_free_kit
+
+Also called a mobile phone car kit. A hands-free kit contain both a speaker and a microphone to allow cellphone users to use their cellphone while driving, without using their hands to operate the device. Some kits may also come with a cellphone holder or cradle, and power supply cables and connectors. Hands-free kit cane be hard-wired into the vehicle's electronics or be a portable kit which uses the 12V power adapter found in most vehicles.
+
+handset
+
+An electronic telecommunications device, often referred to as a cellular phone or cellphone. Mobile phones connect to a wireless communications network through radio wave or satellite transmissions. Most mobile phones provide voice communications, Short Message Service (SMS), Multimedia Message Service (MMS),  and newer phones may also provide Internet services such as Web browsing and e-mail.
+See also cellular.
+
+handshaking
+
+The process by which two devices initiate communications. Handshaking begins when one device sends a message to another device indicating that it wants to establish a communications channel. The two devices then send several messages back and forth that enable them to agree on a communications protocol.  
+
+handwriting_recognition
+
+(n.) The technique by which a computer system can recognize characters and other symbols written by hand in natural handwriting. The technology is used for identification and also on devices such as PDA and tablet PCs where a stylus is used to handwrite on a screen with a stylus, after which the computer turns the handwriting into digital text.
+
+hang
+
+To crash in such a way that the computer does not respond to input from the keyboard or mouse. If your computer is hung, you usually need to reboot it, although sometimes hitting the correct sequence of control characters will free it up.  
+
+hanging_indent
+
+In word processing, a paragraph that has all lines but the first indented. A hanging indent is also known as a hanging paragraph. With many word processors, you can create hanging indents by specifying a negative indentation for the first line of each paragraph.
+The following is an example of a hanging indent:
+
+
+haptic
+
+(adj.) Of or relating to the sensation of touch. From the Greek haptesthai, to touch.  Haptics is the science of applying tactile sensation to human interaction with computers. A haptic device is one that involves physical contact between the computer and the user, usually through an input/output device, such as a joystick or data gloves, that senses the body's movements. By using haptic devices, the user can not only feed information to the computer but can receive information from the computer in the form of a felt sensation on some part of the body. This is referred to as a haptic interface. For example, in a virtual reality environment, a user can pick up a virtual tennis ball using a data glove. The computer senses the movement and moves the virtual ball on the display. However, because of the nature of a haptic interface, the user will feel the tennis ball in his hand through tactile sensations that the computer sends through the data glove, mimicking the feel of the tennis ball in the user's hand.
+
+haptic_interface
+
+Communication, or interface, with a computer through a tactile method involving a device that senses body movement, such as a data glove. Also see haptic.
+
+hard
+
+The term hard is used to describe anything that is permanent or physically exists. In contrast, the term soft refers to concepts, symbols and other intangible and changeable objects.  
+
+hard_boot
+
+Same as cold boot.
+
+hard_bounce
+
+When e-mailing, hard bounce is used to describe an e-mail that has bounced back to the sender undelivered without having been accepted by the recipient's mail server.  Compare with soft bounce. Also see Why E-Mails Bounce in the Did You Know section of Webopedia.
+
+hard_card
+
+A hard disk drive and controller on an expansion card. Unlike most disk drives that are either external to the computer or fit in one of the disk drive bays, a hard card slips into an expansion slot. Hard cards are often faster than conventional disk drives, and easier to install. Their storage capacities, however, are more limited.  
+
+hard_coded
+
+Unchangeable. Hard-coded features are built into the hardware or software in such a way that they cannot be modified.  
+
+hard_copy
+
+A printout of data stored in a computer. It is considered hard because it exists physically on paper, whereas a soft copy exists only electronically.  
+
+hard_cut
+
+In video editing, hard cut is the change from one scene to another without any transition effects in between.
+
+hard_disk
+
+A magnetic disk on which you can store computer  data. The term hard is used to distinguish it from a soft, or floppy, disk. Hard disks hold more data and are faster than floppy disks. A hard disk, for example, can store anywhere from 10 to more than 100 gigabytes, whereas most floppies have a maximum storagecapacity of 1.4 megabytes.
+A single hard disk usually consists of several platters. Each platter requires two read/write heads, one for each side. All the read/write heads are attached to a single access arm so that they cannot move independently. Each platter has the same number of tracks, and a track location that cuts across all platters is called a cylinder. For example, a typical 84 megabyte hard disk for a PCmight have two platters (four sides) and 1,053 cylinders.
+In general, hard disks are less portable than floppies, although it is possible to buy removable hard disks.
+
+hard_disk_loading
+
+A type of software piracy that occurs when hardware dealers; brick-and-mortar or Internet vendors, install an unauthorized copy of  commercial software onto a computer system. In many cases consumers will not receive any manuals or original CD of the software but the hardware dealer may charge for the illegal software in the total system purchase price. The end-user, or the purchaser in this case, will then use the computer system with pirated software, often not realizing that the software that was pre-installed on the computer system is not legitimate. This type of piracy is most common with operating systems, especially older Microsoft branded operating systems such as Windows 95 and Windows 98.  Public awareness along with requiring users to  activate or register their products has helped software manufactures deal with hard disk loading piracy. See software piracy. Also see"Is Software Ownership the Same as Licensing?" in the in the "Did You Know..." section of Webopedia.
+
+hard_disk_type
+
+A number that indicates important features of a hard disk, such as the number of platters and cylinders. However, the numbering scheme has broken down over the last few years and is no longer used by most disk drive manufacturers. 
+
+hard_drive_enclosure
+
+The casing that holds a hard drive which can be externally connected to a computer system. Also called a hard drive cage. See external hard drive. Also see  What's Inside a Hard Drive? in the Did You Know . . . ? section of Webopedia. 
+
+hard_error
+
+An error occurence in a computer system that is caused by the failure of a memory chip. Hard errors can appear like chip-level soft errors, but the difference is that the hard error is not rectified when the computer is rebooted. The solution to a hard error is to replace the memory chip or module entirely. Operating a system beyond the speed capacity of its memory and subjecting the system to charges of static electricity are two common causes of hard errors.  Contrast with soft error.
+
+hard_return
+
+A return is the process of jumping from the end of one line of text to the beginning of the next line. Word processors utilize two types of returns: hard returns and soft returns.
+A hard return is an actual symbol inserted into the text. The hard-return symbol is usually invisible, but most word processors support a mode that lets you see them. Whenever you press the Return or Enter key while editing a document, the word processor inserts a hard return.
+Hard returns cause the word processor to start a new line regardless of how margins are set. Therefore, if a document contains hard returns, the lines will end at the same place even if you change the margins. In contrast, soft returns, inserted by the program rather than the user, depend on how the margins are set.
+
+hardware
+
+Refers to objects that you can actually touch, like disks, disk drives, display screens, keyboards, printers, boards, and chips. In contrast, software is untouchable. Software exists as ideas, concepts, and symbols, but it has no substance.
+Books provide a useful analogy. The pages and the ink are the hardware, while the words, sentences, paragraphs, and the overall meaning are the software. A computer without software is like a book full of blank pages -- you need software to make the computer useful just as you need words to make a book meaningful.
+
+Hardware_Compatibility_List
+
+Abbreviated as HCL, the Hardware Compatibility List is a list of products maintained by Microsoft that note devices that have been tested for compatibility with Windows Vista or XP.   For Windows Vista, devices that have been tested and found to provide the best experience are are marked with logos stating they are "Certified For Windows Vista". The Hardware Compatibility List will also note those products that have been tested to pass Microsoft standards of compatibility, reliability and security and will work with all PCs running Windows Vista. These devices will normally show an image that states "Works With Windows Vista".  For Windows XP those hardware products and devices that meet or exceed standards of quality and compatibility with the Microsoft Windows XP operating system are marked with "Designed for Microsoft Windows XP". 
+
+hardwired
+
+Refers to elements of a program or device that cannot be changed. Originally, the term was used to describe functionality that was built into the circuitry (i.e., the wires) of a device. Nowadays, however, the term is also used to describe constants built into software.  
+
+harlem_shake_technology
+
+Harlem Shake is a dance that has become an almost overnight phenomenon using Internet technology, including YouTube, social media, blogs and online media publications, to go viral.
+The Harlem Shake is a hip-hop style dance started in 1981 by Harlem, New York resident "Al B," and it became mainstream in 2001 when featured in a music video.  
+The Harlem Shake  took on a whole new meaning in February 2013 when Harry Rodrigues (aka "Baauer") released a heavy bass instrumental track titled "Harlem Shake."  This Harlem shake meme ("Internet meme") showed people performing a skit to the song Harlem Shake (view it on YouTube). 
+
+hash_tag
+
+A hash tag or hashtag is a way of organizing your Tweets for Twitter search engines. Users simply prefix a message with a community driven hash tag to enable others to discover relevant posts. One commonly used hash tag on twitter is #followfriday where users network by providing the names of their favorite people to follow on Twitter.
+
+hashing
+
+Producing hash values for accessing data or for security. A hash value (or simply hash), also called a message digest, is a number generated from a string of text. The hash is substantially smaller than the text itself, and is generated by a formula in such a way that it is extremely unlikely that some other text will produce the same hash value.
+Hashes play a role in security systems where they're used to ensure that transmitted messages have not been tampered with. The sender generates a hash of the message, encrypts it, and sends it with the message itself. The recipient then decrypts both the message and the hash, produces another hash from the received message, and compares the two hashes. If they're the same, there is a very high probability that the message was transmitted intact.
+Hashing is also a common method of accessing data records. Consider, for example, a list of names:
+
+haswell
+
+Haswell is the codename for Intel's processor microarchitecture that serves as the successor to the Sandy Bridge and Ivy Bridge architectures. Like Ivy Bridge, Haswell utilizes a 22nm (nanometer) die shrink fabrication process, and it serves as the "tock" in Intel's alternating tick-tock model of releasing new processor families. The "tick" to Haswell, codenamed Broadwell, will be fabricated on a 14nm die shrink.
+Processors utilizing Haswell were officially announced by Intel in June 2013 as the "4th Generation Intel Core Processor Family," with each Haswell processor bearing a 4-digit number with an initial digit of “4.” This follows the pattern of Ivy Bridge processors bearing a number in the “3xxx” range and Sandy Bridge processors falling in the “2xxx” range.
+The successors to Haswell and Broadwell will be Skylake and Skymont, and they’re expected to use a 14nm die shrink and a 10nm die shrink, respectively.
+
+HAVi
+
+Short for Home Audio Video interoperability, a vendor-neutral audio-video standard aimed specifically at the home entertainment environment. HAVi allows different home entertainment and communication devices (such as VCRs, televisions, stereos, security systems, video monitors) to be networked together and controlled from one primary device, such as a PC or television.  Using IEEE 1394 as the interconnection medium, HAVi allows products from different vendors to comply with one another based on defined connection and communication protocols and APIs. One of the key features of HAVi is its ability to easily add new devices to the network. When a new device is installed, the system will configure itself to accommodate it. Other services provided by the distributed application system include: addressing scheme and message transfer, lookup for discovering resources, posting and receiving local or remote events, streaming and controlling isochronous data streams.  This industry standard has been jointly developed by Grundig AG, Hitachi Ltd., Matsushita Electric Industrial Co. (Panasonic), Royal Philips Electronics, Sharp Corporation, Sony Corporation, Thomson Multimedia and Toshiba Corporation.
+
+haxie
+
+Formed from the combination of the words hack and Mac OS X, a haxie is a hack specifically designed for use with the Mac OS X operating system.  The term was coined by software company Unsanity.
+
+Hayes_compatible
+
+(adj.) Describes any modem that recognizes Hayes modem commands. Hayes Microcomputer Products is one of the leading manufacturers of modems and has developed a language called the AT command set for controlling modems that has become the de facto standard.
+
+HBA
+
+Short for host bus adapter. An HBA is an I/O adapter that sits between the host computer's bus and the Fibre Channel loop and manages the transfer of information between the two channels. In order to minimize the impact on host processor performance, the host bus adapter performs many low-level interface functions automatically or with minimal processor involvement.
+
+HCI
+
+Short for human-computer Interaction, a discipline concerned with the study, design, construction and implementation of human-centric interactive computer systems. A user interface, such as a GUI, is how a human interacts with a computer, and HCI goes beyond designing screens and menus that are easier to use and studies the reasoning behind building specific functionality into computers and the long-term effects that systems will have on humans.
+HCI is a very broad discipline that encompasses different specialties with different concerns regarding computer development: computer science is concerned with the application design and engineering of the human interfaces; sociology and anthropology are concerned with the interactions between technology, work and organization and the way that human systems and technical systems mutually adapt to each other; ergonomics is concerned with the safety of computer systems and the safe limits of human cognition and sensation; psychology is concerned with the cognitive processes of humans and the behavior of users; linguistics is concerned with the development of human and machine languages and the relationship between the two.
+As computers become more and pervasive in culture, designers are increasingly looking for ways to make interfacing with devices easier, safer and more efficient.
+
+hcm-human-capital-management
+
+Human capital management (HCM) is a business philosophy that emphasizes the enhancement of employees while viewing them as a quantifiable asset whose future value can be increased through investment.
+Employees are perceived as assets that can be provided with clear performance expectations, against which they can be rated and rewarded based on their progress over time.
+Human Capital Management Metrics and Solutions
+Human capital management involves providing employees with the tools and training needed to accomplish stated performance goals, as well as metrics for monitoring and assessing the progress made toward these goals. HCM is also typically a key component of a company’s comprehensive enterprise resource planning (ERP) system.
+
+HD_voice
+
+Short for high-definition voice, and also called wideband voice, in Internet telephony, it refers to the use of wideband technology to provide a deeper clarity and better audio experience in VoIP communications. Traditional telephony is based on sampling the sound stream 8,000 times a second, and constraining the reproduction of the sound spectrum to the range between 200Hz on the low end to 3.3KHz on the high end-and fitting it into a 64Kbps bandwidth. In HD voice, a wideband codec doubles the sampling rate and more than doubles the width of the sound spectrum reproduced, from 50Hz to 7KHz. This adds significant depth and nuance to the transmitted sound-and it reduces the bandwidth requirement to 32Kbps, half that of PSTN transmission.  HD voice technology uses Digital Signal Processing (DSP) technology to capture and transmit the higher quality sound. Several wideband codecs currently being used for HD voice include G.722 and G.722.1, and the MPEG-4 AAC Low Delay codec. See also "High-Definition Voice: The Future of Phone" on  EnterpriseVoIPplanet.com. See also "The Difference Between VoIP and PSTN Systems" in the "Did You Know..." section of Webopedia.
+
+HD_DVD
+
+Short for high definition-DVD, a generic term for the technology of recording high-definition video on a DVD. In general, HD-DVD is capable of storing between two and four times as much data as standard DVD. The two most prominent competing technologies are Blu-ray and AOD.
+
+HDCP
+
+Short for high-bandwidth digital-content protection, a specification developed by Intel for protecting digital entertainment content that uses the DVI interface. HDCP encrypts the transmission of digital content between the video source, or transmitter -- such as a computer, DVD player or set-top box -- and the digital display, or receiver -- such as a monitor, television or projector. HDCP is not designed to prevent copying or recording of digital content but to protect the integrity of content as it is being transmitted.
+Implementation of HDCP requires a license obtainable from the Digital Content Protection, LLC, which then issues a set of unique secret device keys to all authorized devices. During authentication, the receiver will only accept content once it demonstrates knowledge of the keys. Furthermore, to prevent eavesdropping and stealing of the data, the transmitter and receiver will generate a shared secret value that is consistently checked throughout the transmission. Once authentication is established, the transmitter encrypts the data and sends it to the receiver for decryption.
+
+
+hard_disk_drive
+
+Hard disk drives (also called hard drives or disk drives) is the mechanism that reads and writes data on a hard disk. Hard disk drives (HDDs) for PCs generally have seek times of about 12 milliseconds or less. Many disk drives improve their performance through a technique called caching. 
+There are several interface standards for passing data between a hard disk and a computer. The most common are IDE and SCSI.
+Hard disk drives are sometimes called Winchester drives, Winchester being the name of one of the first popular hard disk drive technologies developed by IBMin 1973.
+
+HDLC
+
+Short for High-level Data Link Control, a transmission protocol used at the data link layer (layer 2) of the OSI seven layer model for data communications. The HDLC protocol embeds information in a data frame that allows devices to control data flow and correct errors. HDLC is an ISO standard developed from the Synchronous Data Link Control (SDLC)standard proposed by IBM in the 1970's.
+For any HDLC communications session, one station is designated primary and the other secondary. A session can use one of the following connection modes, which determine how the primary and secondary stations interact.
+
+Normal unbalanced: The secondary station responds only to the primary station.
+Asynchronous: The secondary station can initiate a message.
+Asynchronous balanced: Both stations send and receive over its part of a duplex line. This mode is used for X.25 packet-switching networks.
+
+The Link Access Procedure-Balanced (LAP-B) and Link Access Procedure D-channel (LAP-D)protocols are subsets of HDLC.
+
+HDMI
+
+Short for High-Definition Multimedia Interface, it is the first industry-supported uncompressed, all-digital audio/video interface. It's a single cable and user-friendly connector that replaces the maze of cabling behind the home entertainment center. HDMI provides an interface between any audio/video source, such as a set-top box, DVD player, or A/V receiver and an audio and/or video monitor, such as a digital television (DTV), over a single cable.  HDMI supports standard, enhanced, or high-definition video, plus multi-channel digital audio on a single cable. It transmits all ATSC HDTV standards and supports 8-channel digital audio with bandwidth to spare to accommodate future enhancements and requirements. [Source: Adapted from HDMI.org]
+HDMI was defined to carry 8 channels, of 192kHz, 24-bit uncompressed audio, which exceeds all current consumer media formats. In addition, HDMI can carry any flavor of compressed audio format such as Dolby or DTS. HDMI has the capacity to support existing high-definition video formats such as 720p, 1080i, and 1080p, along with  support of enhanced definition formats like 480p, as well as standard definition formats such as NTSC or PAL.
+HDMI was developed by Developed by Sony, Hitachi, Thomson (RCA), Philips, Matsushita (Panasonic), Toshiba and Silicon Image.
+
+HDML
+
+Handheld Device Markup Language is used to format content for Web-enabled mobile phones. HDML is Openwave's (formerly known as phone.com) proprietary language, which can only be viewed on mobile phones that use Openwave browsers.   HDML came before the WAP standard was created. It uses Openwave's Handheld Device Transport Protocol (HDTP), instead of WAP.   Phones access HDML sites the following way:   Once the URL is typed into the phone, the phone sends the request to Openwave's UP.Link gateway. The gateway sends a HTTP request to the Web server. The Web servers returns the page via HTTP back to the Openwave UP.Link gateway. The gateway sends the data via HDTP to the wireless carrier's network and down to the phone.   HDML and the Openwave gateway are most popular throughout North America. In Europe, WML and the Nokia WAP gateway and browser are the emerging standard. However, some versions of Openwave browsers do interpret basic WML.   To serve HDML pages, administrators must add the text/x-hdml mime type to their Web servers.  
+
+HDR
+
+Short for personal video recorder, PVR is a generic term for a device that is similar to a VCR but records television data in digital format as opposed to the VCR's analog format. VCRs utilize analog tapes to record and play programs broadcast over television, but PVRs encode video data in MPEG-1 or MPEG-2 formats and store the data in a hard drive. PVRs have all of the same functionality of VCRs (recording, playback, fast forwarding, rewinding, pausing) plus the ability to instantly jump to any part of the program without having to rewind or fast forward the data stream.
+A PVR is essentially made up of two elements: the device that stores its hardware elements, such as the hard disk drive, power supply and buses, and the software in the form of a subscription service that provides programming information and the ability to encode the data streams.
+Two common PVR systems are TiVo and ReplayTV.
+
+HDTV
+
+Short for High-Definition Television, a new type of television that provides much better resolution than current televisions based on the NTSC standard. HDTV is a digital TV broadcasting format where the broadcast transmits widescreen pictures with more detail and quality than found in a standard analog television, or other digital television formats. HDTV is a type of Digital Television (DTV) broadcast, and is considered to be the best quality DTV format available. Types of HDTV displays include direct-view, plasma, rear screen, and front screen projection. HDTV requires an HDTV tuner to view and the most detailed HDTV format is 1080i.
+* HDTV Minimum Performance Attributes:
+
+Receiver: Receives ATSC terrestrial digital transmissions and decodes all ATSC Table 3 video formats
+Display Scanning Format: Has active vertical scanning lines of 720 progressive (720p), 1080 interlaced (1080i), or higher
+Aspect Ratio: Capable of displaying a 16:9 image1
+Audio: Receives and reproduces, and/or outputs Dolby Digital audio
+
+(* Adapted from Digital Connection)
+
+HDTV_tuner
+
+A device capable of receiving and outputting HDTV signals for display. HDTV tuners can be a stand-alone device or it can integrated in the HDTV display. HDTV has many different consumer names including HDTV decoder, HDTV receiver, and set-top box.
+
+HDTV_ready
+
+HDTV-ready refers to a television set which does not come with an integrated HDTV tuner. You must purchase the tuner (also called the HDTV receiver, set-top box, or HDTV decoder) separately. See also integrated HDTV.
+
+HDV
+
+Short for High Definition Video, HDV is a video format, commonly used in camcorders, that allows high-definition footage to be recorded onto standard DV tapes. HDV uses Long GOP MPEG2 compression. The HDV format includes both 720p and 1080i specifications. The HDV standard was established by Canon Inc., Sharp Corp., Sony Corp., and the Victor Company of Japan, Ltd. 
+
+head
+
+(n.) The mechanism that reads data from or writes data to a magnetic disk or tape. If the head becomes dirty, it will not work properly. This is one of the first things to check if your disk drive or tape drive begins to malfunction.  The head is sometimes called a read/write head. Double-sided floppy disk drives have two heads, one for each side of the disk. Hard disk drives have many heads, usually two for each platter.  Also see What's Inside a Hard Drive? in the Did You Know . . . ? section of Webopedia.  
+
+head_crash
+
+(n.) A serious disk drive malfunction. A head crash usually means that the head has scratched or burned the disk. In a hard disk drive, the head normally hovers a few microinches from the disk. If the head becomes misaligned or if dust particles come between it and the disk, it can touch the disk. When this happens, you usually lose much of the data on the hard disk and will need to replace both the head and the disk. For this reason, it is important to operate disk drives, particularly hard disk drives, in as clean an environment as possible. Even smoke particles can cause a head crash.  Head crashes are less common for floppy disks because the head touches the disk anyway under normal operation.  Another term for head  crash is disk  crash.  
+
+header
+
+(1) In many disciplines of computer science, a header is a unit of information that precedes a data object. In a network transmission, a header is part of the data packet and contains transparent information about the file or the transmission. In file management, a header is a region at the beginning of each file where bookkeeping information is kept. The file header may contain the date the file was created, the date it was last updated, and the file's size. The header can be accessed only by the operating system or by specialized programs.
+In e-mail, the first part of an e-mail message containing controlling and meta-data such as the Subject, origin and destination e-mail addresses, the path an e-mail takes, or its priority. The header will contain information about the e-mail client, and as the e-mail travels to its destination information about the path it took will be appended to the header.
+(2) In word processing, one or more lines of text that appears at the top of each page of a document. Once you specify the text that should appear in the header, the word processor automatically insertsit.
+
+headroom
+
+Also known as headroom, attenuation crosstalk ratio (ACR) is the difference between attenuation and crosstalk at a given frequency along a cable. Measured in decibels, ACR is a calculation used in networking transmission to assure that a signal transmitted across a twisted-pair cable is stronger at the receiving end than any interference signals imposed on that same pair by crosstalk from adjacent pairs.
+
+heap
+
+(1) In programming, an area of memory reserved for data that is created at runtime -- that is, when the program actually executes. In contrast, the stack is an area of memory used for data whose size can be determined when the program is compiled.  (2) A special type of binary tree in which the value of each node is greater than the values of its leaves. A heap sort algorithm works by first organizing a list of data into a heap. 
+
+heap_sort
+
+A sorting algorithm that works by first organizing the data to be sorted into a special type of binary tree called a heap. The heap itself has, by definition, the largest value at the top of the tree, so the heap sort algorithm must also reverse the order. It does this with the following steps:  1. Remove the topmost item (the largest) and replace it with the rightmost leaf. The topmost item is stored in an array.  2. Re-establish the heap.  3. Repeat steps 1 and 2 until there are no more items left in the heap.  The sorted elements are now stored in an array.  A heap sort is especially efficient for data that is already stored in a binary tree. In most cases, however, the quick sort algorithm is more efficient. 
+
+heartbleed-bug
+
+The Heartbleed Bug is an OpenSSL vulnerability that would allow malicious hackers to steal information from websites that would normally be protected by the SSL/TLS encryption. The open source OpenSSL cryptography library is used to implement the Internet's Transport Layer Security (TLS) protocol.
+Named by the researchers who discovered the security flaw, the Heartbleed Bug theoretically lets anyone on the Internet access a secure Web server running certain versions of OpenSSL to obtain site encryption keys, user passwords and site content. 
+According to the official Heartbleed Bug website, OpenSSL 1.0.1 through 1.0.1f (inclusive) are vulnerable while OpenSSL version 1.0.1g patches the security flaw.
+Heartbleed Flaw Creation and Bug Discovery
+The Heartbleed bug was initially discovered by Google engineer Neel Mehta and the Finnish security firm Codenomicon. The security flaw was introduced in the open source OpenSSL encryption protocol by German software developer Robin Seggelmann. Since the flaw has become widely known, Seggelmann has said the bug was inadvertently missed by himself and another code reviewer and the bug was not inserted maliciously, despite online conspiracy theories concerning Heartbleed, such as NSA using the Heartbleed bug to spy.
+
+The Heartbleed Bug in the News
+Heartbleed Bug RumorsRCMP asked Revenue Canada to delay news of SIN thefts Heartbleed bug bites millions of Android phones Heartbleed bug: What’s affected and what passwords you need to changeTests confirm Heartbleed bug can expose server's private key
+
+
+
+
+heat_sink
+
+A component designed to lower the temperature of an electronic device by dissipating heat into the surrounding air. All modern CPUs require a heat sink. Some also require a fan. A heat sink without a fan is called a passive heat sink; a heat sink with a fan is called an active heat sink.Heat sinks are generally made of an aluminum alloy and often have fins.
+
+
+heat_spreader
+
+An external casing usually made from aluminium or copper that is designed to cover an electronic device and dissipate heat. In overclocking terms, a heat spreader usually will refer to the casing used for memory.
+
+heisenbug
+
+In computer programming, heisenbug is a classification of an unusual software bug that disappears or alters its behavior when an attempt to isolate it is made. Due to the unpredictable nature of a heisenbug, when trying to recreate the bug or using a debugger, the error may change or even vanish on a retry. The name heisenbug is derived from Heisenberg's Uncertainty Principle which states, "it is fundamentally impossible to predict the position and momentum of a particle at the same time".  Contrast with bohrbug.
+
+hekaton
+
+The codename for a Microsoft project that will provide support for mixing in-memory database tables with more traditional on-disk tables in the same database. These hybrid databases will be able to dynamically handle both in-memory and on-disk storage in the same database for optimal performance and reliability.    Project Hekaton's in-memory database technology will be featured in the next major release of Microsoft SQL Server, which is expected to officially debut sometime in 2015. The project gets its codename from the Greek word for 100 times, which is the peak performance improvement goal the company has set for Hekaton.  Project Hekaton will enable Microsoft to compete in the in-memory database market with products like Oracle Database's Exadata and Exalytics appliance options and SAP Hana.
+
+helical_scan_cartridge
+
+A type of magnetic tape that uses the same technology as VCR tapes. The term helical scan usually refers to 8mm tapes, although 4mm tapes (called DAT  tapes) use the same technology. The 8mm helical-scan tapes have data capacities up to 40GB. 
+
+Help
+
+Online documentation. Many programs come with the instruction manual, or a portion of the manual, integrated into the program. If you encounter a problem or forget a command while running the program, you can summon the documentation by pressing a designated Help key or entering a HELP command. In Windows, the Help key is the function key labeled F1.  Once you summon the Help system, the program often displays a menu of Help topics. You can choose the appropriate topic for whatever problem you are currently encountering. The program will then display a help screen  that contains the desired documentation.  Some programs are more sophisticated, displaying different Help messages depending on where you are in the program. Such systems are said to be context sensitive.  The Macintosh Help system is often referred to as Balloon Help because the help messages appear in a cartoon-like balloon. Newer Macs (starting with System 7.5) also have something called Interactive  Help, which contains tutorials that show you how to perform different operations. 
+
+help_desk
+
+A department within a company that responds to user's technical questions. Most large software companies have help desks to answer user questions. Questions and answers can be delivered by telephone, e-mail, BBS, or fax. There is even help desk software that makes it easier for the people running the help desk to quickly find answers to common questions.
+ 
+ 
+
+Hercules_graphics
+
+A graphics display system for PCs developed by Van Suwannukul, founder of Hercules Computer Technology. Suwannukul developed the system so that he could produce his doctoral thesis on PC equipment using his native Thai alphabet.  First offered in 1982, the original Hercules system filled a void left by IBM's MDA ( monochrome display adapter ) system. MDA produces high-resolution monochrome text but cannot generate graphics. Hercules systems generate both high-resolution text and graphics for monochrome monitors. The resolution is 720 by 348.  Hercules has been supplanted by other standards, such as VGA, and is now obsolete. 
+
+heterogeneous_network
+
+A network that includes computers and other devices from different manufacturers. For example, local-area networks (LANs) that connect PCs with Apple Macintosh computers are heterogeneous.  
+
+heuristic_programming
+
+A branch of artificial intelligence, which uses heuristics -- common-sense rules drawn from experience -- to solve problems. This is in contrast to algorithmic programming, which is based on mathematically provable procedures. Heuristic programming is characterized by programs that are self-learning; they get better with experience. Heuristic programs do not always reach the very best result but usually produce a good result. Many expert systems use heuristic programming.   
+
+hexadecimal
+
+Refers to the base-16 number system, which consists of 16 unique symbols: the numbers 0 to 9 and the letters A to F. For example, the decimal number 15 is represented as F in the hexadecimal numbering system. The hexadecimal system is useful because it can represent every byte (8 bits) as two consecutive hexadecimal digits. It is easier for humans to read hexadecimal numbers than binary numbers.
+To convert a value from hexadecimal to binary, you merely translate each hexadecimal digit into its 4-bit binary equivalent. Hexadecimal numbers have either an 0x prefix or an hsuffix. For example, the hexadecimal number
+0x3F7A
+
+HFC
+
+Short for Hybrid Fiber Coax, a way of delivering video, voice telephony, data, and other interactive services over coaxial and fiber optic cables.   An HFC network works consists of a headend office, distribution center, fiber nodes, and network interface units.   The headend office receives information such as television signals, Internet packets, and streaming media, then delivers them through a SONET ring to distribution centers. The distribution centers then send the signals to neighborhood fiber nodes, which convert the optical signals to electrical signals and redistributes them on coaxial cables to residents' homes where network interface units send the appropriate signals to the appropriate devices (i.e. television, computer, telephone).   An HFC network provides the necessary bandwidth for home broadband applications, using the spectrum from 5 MHz to 450 MHz for conventional downstream analog information, and the spectrum from 450 MHz to 750 MHz for digital broadcast services such as voice and video telephony, video-on-demand, and interactive television.   
+
+Hi8
+
+A higher-quality version of the 8mm videotape format that offers a sharper picture. Hi8 is the successor to the original Video8 format and is an analog format. 
+
+hibernate_mode
+
+A power management mode that conserves power by powering down the system. In hibernate mode the current state of the system is saved to the hard drive, and the system will power down. When a user turns the system power back on, the saved information is read from the hard disk, restoring the last used settings. Hibernate mode is similar to sleep mode, however in sleep mode the power cannot be shut off. See also "Getting Started With Green IT" in Webopedia's Did You Know? section.
+
+hidden_file
+
+A file with a special hidden attribute  turned on, so that the file is not normally visible to users. For example, hidden files are not listed when you execute the DOS DIR command. However, most file management utilities allow you to view hidden files.  DOS hides some files, such as MSDOS.SYS and IO.SYS, so that you will not accidentally corrupt them. You can also turn on the hidden attribute for any normal file, thereby making it invisible to casual snoopers. On a Macintosh, you can hide files with the ResEdit utility.  
+
+hidden_keyword
+
+In search engine optimization (SEO), this refers to keywords or phrases that are placed in the HTML source code and are not seen by those visiting the Web page.
+
+hidden_text
+
+See under keyword stuffing.
+
+hierarchical
+
+)Refers to systems that are organized in the shape of a pyramid, with each row of objects linked to objects directly beneath it. Hierarchical systems pervade everyday life. The army, for example, which has generals at the top of the pyramid and privates at the bottom, is a hierarchical system. Similarly, the system for classifying plants and animals according to species, family, genus, and so on, is also hierarchical.
+Hierarchical systems are as popular in computer systems as they are in other walks of life. The most obvious example of a hierarchical system in computers is a file system, in which directories have files and subdirectories beneath them. Such a file organization is, in fact, called a hierarchical file system .
+In addition to file systems, many data structures for storing information are hierarchical in form. Menu-driven programs are also hierarchical, because they contain a root menu at the top of the pyramid and submenusbelow it.
+
+HiFD
+
+Short for High Floppy Disk, a type of high-density floppy disk developed by Sony that can hold 200 MB of data. Like the competing SuperDisk disk drive from Imation, HiFD disk drives can read and write old 1.44 MB floppy disks in addition to the new high-density disks. HiFD drives support data transfer rates of up to 3.6 MBps. 
+
+High_Availability
+
+High Availability, or HA as it is abbreviated, refers to the availability of resources in a computer system, in the wake of component failures in the system. This can be achieved in a variety of ways, spanning the entire spectrum ranging at the one end from solutions that use custom and redundant hardware to ensure availability, to the other end to solutions that provide software solutions using off-the-shelf hardware components. The former class of solutions provide a higher degree of availability, but are significantly more expensive, than the latter class. This has led to the popularity of the latter class, with almost all vendors of computer systems offering various HA products. Typically, these products survive single points of failure in the system. [Source: IEEE Task Force on Cluster Computing]
+
+high_definition_photo
+
+In digital camera terminology, high definition photo is a shooting mode found on some digital cameras that produces a 1920x1080 pixel high-definition (HD) quality photo that will perfectly fit a wide-screen HDTV (16:9) for full-screen viewing. High definition photos may also be available on some digital cameras when capturing motion picture recording (videos) using the camera, rather than still pictures. Digital cameras that have the high definition photo feature also will offer an optional component cable that you can use to connect the digital camera directly to the HDTV. See also "Digital Cameras" in the  Quick Reference section of Webopedia.
+
+High_Dynamic_Range
+
+See under High Dynamic Range Imaging (HDRI).
+
+High_Dynamic_Range_Imaging
+
+Short for High Dynamic Range Imaging, HDRI is an imaging technique that allows for a greater dynamic range of exposure than would be obtained through any normal imaging process. HDRI is now more commonly used for real photograph scenes where, for example, a large range of exposures would be found between sunlight and shadows. However, it was initially developed for use with computer-generated graphics and images. HDRI, also called HDR (High Dynamic Range) is a feature commonly found in high-end graphics and imaging software.  See also "An Introduction to High Dynamic Range Imaging" on Graphics.com.
+
+high_memory
+
+See high memory area. 
+
+high_memory_area
+
+In DOS -based systems, the high memory area refers to the first 64K of extended memory.  
+
+High_Speed_Packet_Access
+
+Abbreviated as HSPA, High Speed Packet Access is a set of mobile telephony protocols that includes two popular standards; HSDPA (High Speed Downlink Packet Access) and HSUPA (High Speed Uplink Packet Access).
+
+high_density_disk
+
+A high-quality floppy disk capable of holding more data than a double-density disk. High-density 5¼-inch disks for PCs can hold 1.2MB (megabytes) of data. High-density 3½-inch disks can store 1.44MB.  
+
+high_gain_antenna
+
+An antenna that is used to increase signal strength. High-gain antennas are necessary for long-range wireless networks.
+
+high_level_language
+
+)A programming language such as C, FORTRAN, or Pascal that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. In contrast, assembly languagesare considered low-level because they are very close to machine languages.
+The main advantage of high-level languages over low-level languages is that they are easier to read, write, and maintain. Ultimately, programs written in a high-level language must be translated into machine language by a compiler or interpreter.
+The first high-level programming languages were designed in the 1950s. Now there are dozens of different languages, including Ada, Algol, BASIC, COBOL, C, C++, FORTRAN, LISP, Pascal, and Prolog.
+
+High_Performance_Computing
+
+(n.) A branch of computer science that concentrates on developing supercomputers and software to run on supercomputers. A main area of this discipline is developing parallel processing algorithms and software: programs that can be divided into little pieces so that each piece can be executed simultaneously by separate processors.  
+
+highlight
+
+To make an object on a display screen stand out by displaying it in a different mode from other objects. Typical highlighted objects include menu options, command buttons, and selected blocks of text.  
+
+himem_sys
+
+An extended memory (XMS) driver included with DOS, Windows 3.1, Windows for Workgroups and Windows 95. Windows 95 automatically loads himem.sys during start-up. With older versions of Windows, and with DOS, himem.sys must be explicitly loaded by placing a command in CONFIG.SYS. 
+
+HIPAA
+
+Short for Health Insurance Portability and Accountability Act, HIPAA provides national standards to protect the privacy of personal health information. To improve the efficiency and effectiveness of the health care system, the Health Insurance Portability and Accountability Act (HIPAA) of 1996, Public Law 104-191, included "Administrative Simplification" provisions that required HHS to adopt national standards for electronic health care transactions. Congress incorporated into HIPAA provisions that mandated the adoption of Federal privacy protections for individually identifiable health information. [Source: HIPAA Overview (PDF)]
+
+HiperLAN
+
+Short for high performance radio local area network. Developed by the European Telecommunications Standards Institute, HiperLAN is a set of WLAN communication standards used chiefly in European countries. HiperLAN is similar to the IEEE 802.11 WLAN standards used in the U.S.  There are two types of HiperLAN: HiperLAN/1: provides communications at up to 20 Mbps in the 5 GHz band. HiperLAN/2: provides communications at up to 54 Mbps in the 5 GHz band.   Like 802.11, HiperLAN serves to ensure the possible interoperability of different manufacturers' wireless communications equipment that operate in this spectrum. Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+Hippi
+
+Short for High Performance Parallel Interface, a standard technology for physically connecting devices at short distances and high speeds. The basic flavor of HIPPI transfers 32 bits in parallel for a data transfer speed of 0.8 Gbps. Wide HIPPI transfers 64 bits at a time to yield 1.6 Gbps. New HIPPI standards supporting rates of 6.4 Gbps are under development.  HIPPI became an official ANSI standard in 1990 and is used primarily to connect supercomputers and to provide high-speed backbones for local-area networks (LANs).  
+
+HIPS
+
+Short for host-based intrusion prevention system, HIPS is an IPS or intrusion prevention system designed for security over host-based systems where intrusions and infections are dealt with at the individual workstation level to provide a more effective level of security. See also IPS, intrusion prevention systems.
+
+hit
+
+(1) Also called a page hit. The retrieval of any item, like a page or a graphic, from a Web server. For example, when a visitor calls up a Web page with four graphics, that's five hits, one for the page and four for the graphics. For this reason, hits often aren't a good indication of Web traffic. Compare with page view.   (2) Any time a piece of data matches criteria you set. For example, each of the matches from a Yahoo or any other search engine search is called a hit.   
+
+hit_and_run_post
+
+In online forums and other online discussion spaces, a hit-and-run post is the term used to describe users who register for the service, post one message, then never return. In most cases these single posts contains information not related to the forum topic or the post may contain a single URL that is posted for the purpose of advertising.
+
+
+HLF
+
+(n.) Short for high-level format, a formatting method that initializes portions of the hard disk and creates the file system structures on the disk, such as the master boot record and the file allocation tables. Also see low-level format.  High-level formatting is typically done to erase the hard disk and reinstall the operating system back onto the disk drive.  (v.) The process of performing high-level formatting.
+
+HLLAPI
+
+Short for High Level Language Application Program Interface, an IBM API that allows a PC application to communicate with a mainframe computer. HLLAPI requires a PC to run 3270 emulation software and then defines an interface between a PC application and the emulation software. This API is also called screen-scraping because the approach uses characters that would otherwise be displayed on a terminal screen. 
+
+HMC
+
+Short for Hardware Management Console, HMC is an acronym frequently used to describe the IBM technology for managing and monitoring IBM mainframe (System z) or IBM UNIX (system p) servers. The HMC uses its network connections to one or more servers or frames to perform various management functions.  As defined by IBM, Hardware Management Console technology provides a standard user interface for configuring and operating partitioned and SMP systems. The HMC enables a system administrator to manage configuration and operation of partitions in a system, as well as to monitor the system for hardware problems. 
+
+HMD
+
+Short for head-mounted display, a headset used with virtual reality systems. An HMD can be a pair of goggles or a full helmet. In front of each eye is a tiny monitor. Because there are two monitors, images appear as three-dimensional. In addition, most HMDs include a head tracker so that the system can respond to head movements. For example, if you move your head left, the images in the monitors will change to make it seem as if you're actually looking at a different part of the virtual reality. 
+
+hoax
+
+In e-mail terminology a hoax is a message which is written to deliberately spread fear, uncertainty and doubt.
+
+hold_down_timer
+
+A function of a router that prevents a route from being updated for a specified length of time, in seconds. A hold down timer is often used to ensure sufficient time for all routers to be updated when a route fails. See router. Also see routing.
+
+hold_up_time
+
+The amount of time, measured in in milliseconds that a power supply unit (PSU) can maintain output within the specified voltage range after a loss of input power. The hold-up time is thje amount of time that the system can continue to run without resetting or rebooting during a power interruption. Some power supplies may also includes a battery to maintain power in the event of a power outage. These are called an uninterruptible power supply.
+
+hole
+
+In security terminology, a hole refers to a software or operating system vulnerability that could be exploited to compromise the overall security of the computer system or network on which the hole resides.
+
+holographic_data_storage
+
+Holographic storage is a  mass storage technology that uses three-dimensional holographic images to enable more information to be stored in a much smaller space.  The technology uses holograms which are created when a light from a single laser beam is split into two beams; the signal beam (which carries the data) and the reference beam. In holographic storage, at the point where the reference beam and the data carrying signal beam intersect, the hologram is recorded in the light sensitive storage medium.  When you create a variance in the reference beam angle or media position then hundreds of unique holograms can be recorded in the same volume of material. To read the stored holographic data, the reference beam is deflected off the hologram reconstructing the stored information. This hologram is then projected onto a detector that reads the entire data page of over one million bits at once. [Adapted from InPhase Technologies]
+
+home_computer
+
+A personal computer specially configured for use in a home rather than an office. Typically, home computers have only medium -power microprocessors, but are equipped with a full complement of multimedia devices. In addition, manufacturers often bundle recreational and educational software with home computers.  
+
+Home_key
+
+A key on PC and newer Macintosh keyboards that controls cursor movement. Usually, the Home key moves the cursor to the top left corner of the screen or to the beginning of the file, but it can have other meanings depending on which program is running.  
+
+Home_Location_Register
+
+Abbreviated as HLR, a Home Location Register is the main database of subscriber information for a mobile network. Every subscriber is allocated to a HLR. The HLR is an integral component of code division multiple access (CDMA), time division multiple access (TDMA), and Global System for Mobile communications (GMS) networks.
+
+home_page
+
+The main page of a Web site. Typically, the home page serves as an index or table of contents to other documents stored at the site.  
+
+Home_RF
+
+Short for home radio frequency. Designed specifically for wireless networks in homes - in contrast to 802.11, which was created for use in businesses -- HomeRF networks are designed to be more affordable to home users than other wireless technologies. Based on frequency hopping and using radio frequency waves for the transmission of voice and data, HomeRF has a range of up to 150 feet. HomeRF uses Shared Wireless Access Protocol. Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+Home_Server
+
+A computer server used in the home network. Home server is also the specific name given to the actual computer system that is running the Windows Home Server operating system.
+
+HomePlug
+
+HomePlug is the name of the specification that defines the home networking technology that connects devices to each other through the power lines in a home (see power line networking). HomePlug certified products connect PCs and other devices that use Ethernet, USB and 802.11 Wi-Fi technologies to the power line via a HomePlug bridge or adapter. Some products have HomePlug technology built-in.  HomePlug uses Intellon's PowerPacket solution as its baseline technology. Intellon created and patented the baseline technology for the HomePlug 1.0 standard and introduced the first HomePlug 1.0-based IC in June 2001. 
+
+HomeRF
+
+Short for home radio frequency. Designed specifically for wireless networks in homes - in contrast to 802.11, which was created for use in businesses -- HomeRF networks are designed to be more affordable to home users than other wireless technologies. Based on frequency hopping and using radio frequency waves for the transmission of voice and data, HomeRF has a range of up to 150 feet. HomeRF uses Shared Wireless Access Protocol. Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+homogeneous_register_architecture
+
+In homogeneous register architectures, the selection of an instruction has no connection whatsoever with the types of registers that the instruction uses.
+Selecting instructions for non-homogeneous register architectures usually requires allocating register types for the operands and resulting data. As a consequence, the IR patterns associated with instructions in this kind of processor should carry information regarding the type of register the instruction uses.
+Contrast with  non-homogeneous register architecture.
+
+Honeycomb
+
+The name used to describe Sun Microsystems' storage appliance for fixed content archiving. The network-attached storage appliance uses technology that Sun calls Project Honeycomb; a cluster architecture that uses new metadata and search tools to retrieve files in large storage systems much more efficiently.
+
+android_honeycomb
+
+Honeycomb is the dessert-themed Android codename for the version 3.0 update of the open source Android mobile operating system. Honeycomb made its debut in February 2011 as a tablet-centric update that delivered a new interface optimized for devices with larger screen sizes (particularly tablets), video chat support based on Google Talk protocols, a new System Bar for global status and notifications and an Action Bar for application control, tabbed Web browsing, optimized soft keyboard and a new email interface.
+Honeycomb followed several earlier updates for Android – Cupcake (v1.5), Donut (v1.6), Eclair (v2.0), FroYo (v2.2) and Gingerbread  (v2.3) – and is expected to be followed by the upcoming Ice Cream Sandwich (v4.0) update currently in development.
+See also Android platform, Android SDK and Android codenames.
+
+HoneyMonkey
+
+A honeymonkey is a computer or a virtual PC that actively mimics the actions of a user surfing the Web. A series of "monkey programs," which drive a browser in a manner similar to that of a human user, run on virtual machines in order to detect exploit sites. The browsers can be configured to run with fully updated software, or without specific updates in order to look for exploit sites that target specific vulnerabilities. In this manner, the attacks more likely to impact customers can be analyzed and detected.  The Strider HoneyMonkey Exploit Detection System, is a codename for a Microsoft Research project which permits investigators to detect and analyze Web sites hosting malicious code  in particular, code that exploits browser vulnerabilities. At each Web site identified by Strider HoneyMonkey, however, follow-up work is required to identify what kind of exploit exists and how it operates.  [Source: Microsoft Research]
+
+honeynet
+
+A network of honeypots.
+
+honeypot
+
+An Internet-attached server that acts as a decoy, luring in potential hackers in order to study their activities and monitor how they are able to break into a system. Honeypots are designed to mimic systems that an intruder would like to break into but limit the intruder from having access to an entire network. If a honeypot is successful, the intruder will have no idea that s/he is being tricked and monitored. Most honeypots are installed inside firewalls so that they can better be controlled, though it is possible to install them outside of firewalls. A firewall in a honeypot works in the opposite way that a normal firewall works: instead of restricting what comes into a system from the Internet, the honeypot firewall allows all traffic to come in from the Internet and restricts what the system sends back out.  By luring a hacker into a system, a honeypot serves several purposes:  The administrator can watch the hacker exploit the vulnerabilities of the system, thereby learning where the system has weaknesses that need to be redesigned. The hacker can be caught and stopped while trying to obtain root access to the system. By studying the activities of hackers, designers can better create more secure systems that are potentially invulnerable to future hackers.
+
+hoot_and_holler
+
+Hoot and holler networks provide "always on" multiuser conferences without requiring that users dial into the conference. These networks came into being more than 40 years ago when local concentrations of small specialized businesses with common, time-critical informational interests. Junkyards for example, began to install their own phone wires, speakers (called squawk boxes), and microphones between their businesses to ask each other about parts customers needed. These networks functioned as crude, do-it-yourself, business-to-business intercom systems.  Hoot and holler broadcast audio network systems have since evolved into the specialized leased-line networks used by financial and brokerage firms to trade stocks and currency futures and the accompanying time-critical information such as market updates and morning reports. Hoot and holler is used in various industries as a way to provide a one-to-many or many-to-many conferencing service for voice communications. * [Source: Cisco Hoot & Holler Over IP]
+
+hop
+
+An intermediate connection in a string of connections linking two network devices. On the Internet, for example, most data packets need to go through several routers before they reach their final destination. Each time the packet is forwarded to the next router, a hop occurs. The more hops, the longer it takes for data to go from source to destination. You can see how many hops it takes to get to another Internet host by using the PING or traceroute utilities.  Some Internet Service Providers (ISPs) advertise how many hops away from Internet backbone they are. Theoretically, the fewer hops it takes to get your data onto the backbone, the faster your access will be. 
+
+hop_off
+
+Point at which a call transitions from H.323 to non-H.323, typically at a gateway.
+
+horizontal_application
+
+A horizontal application is any software application that targets a large number of users with different knowledge and skill sets. Because these types of applications can extend across markets and be used in a range of industries, they typically do not offer market-specific features. 
+Horizontal applications can be off-the-shelf solutions or integrated and proprietary vendor solutions. Some examples of horizontal applications include word processors, spreadsheets, financial software and Web browsers.
+See also application and enterprise application. Contrast with vertical application.
+
+Horizontal_Enterprise_Portal
+
+Abbreviated as HEP, a Horizontal Enterprise Portal is a type of enterprise portal that is used by numerous users across an enterprise for a variety of business functions.  Contrast with Vertical Enterprise Portal (VEP).
+
+hortonworks
+
+An enterprise software firm that specializes in open source Apache Hadoop development and support. HortonWorks was launched in 2011 by Yahoo and Benchmark Capital, and its flagship product is Hortonworks Data Platform, which is powered by Apache Hadoop. 
+Hortonworks Data Platform is designed as an open source platform that facilitates integrating Apache Hadoop with an enterprise’s existing data architectures. In late 2012, Hortonworks collaborated with Rackspace to provide an OpenStack-based Hadoop offering for the public and private cloud.
+
+host
+
+(n) (1) A computer system that is accessed by a user working at a remote location. Typically, the term is used when there are two computer systems connected by modems and telephone lines. The system that contains the data is called the host, while the computer at which the user sits is called the remote terminal.
+(2) A computer that is connected to a TCP/IP network, including the Internet. Each host has a unique IP address.
+(3) To provide the infrastructure for a computer service. For example, there are many companies that host files, programs, applications or even a Web server for companies and individuals. In the case of a Web server, it means that they provide the hardware, software, and communications lines required by the server, but the content on the server may be controlled by someone else.
+
+host_bus
+
+Another name for the system bus.
+
+host_bus_adapter
+
+See HBA.
+
+Host_Channel_Adapter
+
+Abbreviated as HCA, Host Channel Adapter is a network fabric interconnect based on InfiniBand technology (which provides the specification for the transmission of data between processors and I/O devices). It provides a computer with port connection to other InfiniBand devices. That port can be connected to another HCA, a target device, or an InfiniBand switch fabric that redirects the data coming in on one of its ports out to a device attached to another of its ports. 
+
+host_based
+
+Refers to any device that relies on the host computer (that is, the computer the device is attached to) to handle some operations. Two common examples are host-based printers and host-based modems.  
+
+host_based_modem
+
+A modem that uses the computer's processor to handle some operations. Because host-based modems require less processing power of their own, they should be less expensive than conventional modems. There are also software modems, in which there's no modem device at all. Instead, all of the modem's functions are handled by the computer's processor.  In the PC world, host-based modems are sometimes called Winmodems. 
+
+host_based_printer
+
+A printer that relies on the host computer's processor to generate printable pages. Most host-based printers on the market today use the GDI interface built into Windows. Because they don't need a powerful processor of their own, host-based printers tend to be less expensive than conventional printers. But because they share your computer's processor, they may be slow and they may slow down your other computer work. How fast these printers operate depends on how powerful the host computer is and how occupied it is with other operations.  
+
+hosted
+
+A computer, usually a server, containing data, files, or programs that another computer can access by means of a network or modem.  See also host.
+
+hosted_PBX
+
+A  private branch exchange (PBX) phone system that's delivered as a hosted service, typically by one of the major telephone companies.  Frequently referred to as a  centrex or a virtual PBX, a hosted PBX can free companies from having to invest in the costly equipment of a complex  business phone system, while still enabling the company to utilize telephony features like voicemail,  faxing, automated greetings, touchtone menus, conference calling, call auditing and calling logs, and more.
+Hosted PBX companies handle call routing, or switching, at their own location and are responsible for managing all of the PBX equipment and software involved in the virtual PBX service.  Hosted PBX services can function over the Public Switched Telephone Network (PSTN) over the Internet (hosted IP PBX via  Internet telephony, or  VoIP), or over a combination of the two.
+See  The Difference Between VoIP and PSTN Systems in the  Did You Know... section of Webopedia.Also see the  VoIP Meets Wi-Fi article in the  Did You Know? section of Webopedia. 
+
+hosted_small_business_server
+
+A managed IT service that small businesses use instead of having an server located on-premises. A hosted small business server is provided by a managed service provider (MSP) on an as-needed basis. Small business employees use a remote desktop connection to access the server. Some small businesses choose a hosted server, as the provider is responsible for all data backup, security, migrating to newer server software versions, maintaining the hardware and also providing technical support to the small business.
+See also small business server.
+Webopedia Small Business Server Q&A Slideshows
+1) Do I Need More Than One Server? 2) Does Your Business really Need a Server? 3) How Much Will a Server Cost?
+
+hosted_VoIP
+
+A form of business VoIP services where the VoIP equipment, servers and services are hosted by the VoIP provider, which manages calls and routes them to and from the subscriber's existing telephony system and equipment.  Hosted VoIP is also frequently referred to as managed VoIP and can save companies from the potentially expensive costs of having to invest in VoIP equipment and manage the system.
+As with all VoIP (or Internet telephony) solutions, hosted VoIP services usepacket-switched telephony to transmit calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN), although in some hosted VoIP cases calls from the subscriber are routed over the PSTN to the hosted VoIP PBX system.
+See  The Difference Between VoIP and PSTN Systems in the  Did You Know... section of Webopedia.Also see the  VoIP Meets Wi-Fi article in the  Did You Know? section of Webopedia. 
+
+hosting_server
+
+A server dedicated to hosting a service or services for users. Hosting servers are most often used for hosting Web sites but can also be used for hosting files, images, games and similar content.  Hosting servers can be shared among many clients (shared hosting servers) or dedicated to a single client (dedicated servers), the latter of which is particularly common for larger Web sites where the hosting needs of the Web site owner necessitate more control and/or bandwidth.
+See also "All About Web Site Hosting" in the  Did You Know...? section of Webopedia.
+
+hosting_services
+
+A service provider that offers shared hosting or dedicated hosting of a service or services to customers.   Hosting services are most often used for hosting Web sites but can also be used for hosting files, images, games and similar content.
+In the case of Web site hosting services, there are three main types of hosting available:  1) Shared Web hosting, where a large number of Web sites are typically housed on the same server; 2) Dedicated Web hosting, where an entire server is leased and reserved for a single Web site; and 3) Virtual Private Server hosting, a hybrid of the first two options in which a Web site is hosted on its own virtual server so that it won't be affected by the Web sites of other customers.
+See All About Web Site Hosting in the  Did You Know...? section of Webopedia.
+
+Hosting_Services_Provider
+
+A Hosting Services Provider (HSP) is an application service provider dedicated to providing hosting services. Typically operates a Web server farm, either at a data center or colocation facility.
+
+hot_aisle_cold_aisle
+
+The name given to a specific controlled airflow layout associated with enclosures and cabinets. As more heat becomes concentrated within the cabinet space, the risk of overheating and damaging the equipment increases. *Contemporary thinking in data center thermal management promotes the hot aisle/cold aisle layout where cold air is segregated in front of equipment cabinets and hot exhaust air is expelled behind equipment cabinets. This layout eliminates the direct transfer of hot exhaust air from one system into the intake air of another system.  *[Source: Chatsworth Products - Views & Tips]
+
+hot_backup
+
+A technique used in  data storage and backup that enables a system to perform a routine backup of data, even if the data is being accessed by a user. Hot backups are a popular backup solution for multi-user systems as no downtime to perform the backup is required. If a user alters the data during the backup process (e.g. makes changes at the exact moment the backup system is processing that data) the final version of the backup may not reflect those changes. Hot backup may also be called a dynamic backup or active backup.
+
+hot_fixing
+
+In a Microsoft NT File System (NTFS), hot fixing of disk sectors prevents data from being stored in a bad sector or cluster. During a hot fix, the operating system automatically detects bad disk sectors, relocates the data to a safe cluster and marks the bad cluster as unusable to the system. This process is transparent to the user, requires no interaction on the user's part and does not report any error messages (such as Abort, Retry or Fail) to any applications.
+
+hot_key
+
+A user -defined key sequence that executes a command or causes the operating system to switch to another program. In DOS systems, for example, you can use hot keys to open memory-resident programs (TSRs). In Windows environments, you can often press a hot key to execute common commands. For example, Ctrl +C usually copies the selected objects.  
+
+hot_link
+
+(n) A link between two applications such that changes in one affect the other. For example, some desktop publishing systems let you establish hot links between documents and databases or spreadsheets. When data in the spreadsheet changes, the corresponding charts and graphs in the document change accordingly.  (v) To establish a link between two applications.  
+
+hot_plugging
+
+The ability to add and remove devices to a computer while the computer is running and have the operating system automatically recognize the change. Two external bus standards -- Universal Serial Bus (USB ) and IEEE 1394 -- support hot plugging. This is also a feature of PCMCIA.  Hot plugging is also called hot swapping.   
+
+hot_potato_routing
+
+(n.) A form of routing in which the nodes of a network have no buffer to store packets in before they are moved on to their final predetermined destination. In normal routing situations, when multiple packets contend for a single outgoing channel, packets that are not buffered are dropped to avoid congestion. But in hot potato routing, each packet that is routed is constantly transferred until it reaches its final destination because the individual communication links can not support more than one packet at a time. The packet is bounced around like a "hot potato," sometimes moving further away from its destination because it has to keep moving through the network. This technique allows multiple packets to reach their destinations without being dropped. This is in contrast to "store and forward" routing where the network allows temporary storage at intermediate locations. Hot potato routing has applications in optical networks where messages made from light can not be stored in any medium.  Also referred to as deflection routing.
+
+hot_spare
+
+A backup device such as a hard disk or controller that is in a standby mode, meaning it is online and available should the primary device go offline or fail. The system would detect the failure and automatically switch to the hot spare to use as a replacement. Hot spare is commonly used in  RAID arrays where additional drives are attached to the controller and left in standby mode until a failure occurs.  Compare with hot standby. See hot swapping, also called hot plugging.
+
+hot_spot
+
+An area of a graphics  object, or a section of text, that activates a function when selected. Hot spots are particularly common in multimedia applications, where selecting a hot spot can make the application display a picture, run a video, or open a new window of information.  Also see hotspot. 
+
+hot_standby
+
+(hot stand´bī) (n.) A method of redundancy in which the primary and secondary (i.e., backup) systems run simultaneously. The data is mirrored to the secondary server in real time so that both systems contain identical information.  Also see warm standby and cold standby.
+
+HotBot
+
+A World Wide Web search engine developed collaboratively by Inktomi Corporation and HotWired, Inc., the publisher of Wired magazine. Rather than using a few mainframes or supercomputers to search and index Web pages, HotBot uses many workstations working in parallel, what they call a Network of Workstations (NOW). HotBot claims that this strategy allows them to keep up with the exponential growth of the Web better than competing search engines.   
+
+hotfix
+
+A package composed of one or more files used to address a problem or issues in consumer products. Hotfix is synonymous with patch. See also patch.
+
+HotJava
+
+A set of products developed by Sun Microsystems that utilize Java technology. Currently, HotJava products include a set of libraries for building Java-aware applications, and a Java-enabled Web browser. Other Java-enabled Web browsers include the newest versions of Netscape Navigator and Microsoft Internet Explorer.   
+
+hotlist
+
+A list of frequently accessed documents. The term is often used to describe a list of Web pages that you keep in one place for easy access. In Netscape Navigator, the hotlist is called the bookmark list. In Internet Explorer, it's called the Favorites folder. 
+
+Hotmail
+
+Formerly called Hotmail (Windows Live Hotmail) is one of the most popular free online email services, provided by Microsoft. Hotmail is a Webmail service and users can access Hotmail from a Web browser anywhere in the world. The service was renamed to Outlook.com in 2012.
+The History of Hotmail
+
+Hotmail was launched in 1996 and was the first free web-based email service. Founded by Sabeer Bhatia and Jack Smith, it was originally spelled HoTMaiL, putting emphasis on the "HTML" in the name. Microsoft acquired Hotmail in 1997. In August, 2012, Microsoft revamped Hotmail and renamed the service as Outlook.com
+
+hotspot
+
+A specific geographic location in which an access point provides public wireless broadband network services to mobile visitors through a WLAN. Hotspots are often located in heavily populated places such as airports, train stations, libraries, marinas, conventions centers and hotels. Hotspots typically have a short range of access.
+Also see hot spot.
+See Public Wi-Fi Hotspots in the Quick Reference section of Webopedia.
+
+HotSync
+
+The trademarked name for linking a Palm handheld device and a computer system to synchronize the two systems. HotSync is performed through the use of a HotSync cable or wireless connection. HotSync automates the synchronization process and exchanges updates and information between the device and computer. Changes made to the handheld device since the last HotSync are saved to the computer system and vice versa.
+
+house_ad
+
+In  Online Advertising, house ad refers to a self-promotional ad that a company runs on their own Web site or Network of Web sites to use space left from unsold inventory. In electronic commerce, house ads are commonly used to display new products or special features to consumers while visiting your e-commerce Web site.
+
+HP
+
+Short for Hewlett-Packard, one of the world's largest computer and electronics companies. Founded in 1939 by William Hewlett and David Packard, HP is best known today for its line of LaserJet and DeskJet printers. However, it produces more than 10,000 different products, ranging from computer systems to specialized electronic devices.
+ 
+
+hp_moonshot
+
+A project from HP initiated to develop ultra-low-power servers for specific data center workloads such as cloud computing and big data. The HP Moonshot Project was first announced in 2011, and systems became publicly available in the first half of 2013.
+The company claims its HP Moonshot server systems are the first "software-defined servers." HP Moonshot systems use 89 percent less power and 80 percent less space than traditional systems and reduce complexity by 97 percent, according to HP. Up to 1,800 HP Moonshot servers can fit in a single server rack.
+HP Project Moonshot servers are powered by ultra-low-power processors such as Intel’s Atom S1200 Centerton chips as well as chips from companies like Calxeda, Texas Instruments, and AMD.
+
+HP_compatible_printer
+
+Hewlett-Packard was one of the first companies to produce a laser printer for PCs, and most software products include drivers for HP printers. The drivers control the printers through a language called PCL  (printer control language  ). Other manufacturers of laser printers design their printers so that they, too, understand PCL, making them able to emulate HP printers. In this way, their printers are HP-compatible and are thus automatically supported by many software products.  No non-HP printer, however, is 100 percent HP-compatible. Manufacturers claim HP compatibility even if their printers only recognize a subset of PCL commands. Note also that there are different versions of PCL. A printer may be able to emulate an HP LaserJet Plus but not a LaserJet II. Finally, HP laser printers support font cartridges, and not all HP-compatible printers can accept the same cartridges.   
+
+HPA
+
+Short for High-Performance Addressing, an passive-matrix display technology the provides better response rates and contrast than conventional LCD displays. Although HPA displays aren't quite as crisp or fast as active-matrix (TFT) displays, they're considerably less expensive to produce. Consequently, HPA is being used by a number of computer manufacturers for their low-end notebook computers.  
+
+HPC
+
+(n.) A branch of computer science that concentrates on developing supercomputers and software to run on supercomputers. A main area of this discipline is developing parallel processing algorithms and software: programs that can be divided into little pieces so that each piece can be executed simultaneously by separate processors.  
+
+HPCC
+
+The U.S. government's term for High Performance Computing. There are a number of U.S. agencies conducting HPCC research.  
+
+HPFS
+
+Short for High Performance File System, a file system created specifically for IBM��s OS/2 to improve upon the limitations of the FAT file system. Among its improvements include support for mixed-case file names and long file names (256 characters as opposed to FAT��s 11 characters), more efficient use of disk space (files are not stored using multiple-sector clusters but on a per-sector basis), an internal architecture that keeps related items close to each other on the disk volume, less fragmentation of data and a centrally-located root directory.
+
+HPGL
+
+Short for Hewlett-Packard Graphics Language, a set of commands for controlling plotters and printers. HPGL is part of Hewlett-Packard's  PCL Level 5 page description language.  
+
+HPNA
+
+Also referred to as HomePNA. A de facto home networking standard developed by the Home Phoneline Networking Alliance. This technology, building on Ethernets, allows all the components of a home network to interact over the home's existing telephone wiring without disturbing the existing voice or fax services. In the same way a LAN operates, home networking processes, manages, transports and stores information, which enables the disparate devices in a home network such as telephones, fax machines, desktops, laptops, printers, scanners and Web cameras to connect and integrate over a home's unpredictable wiring topology.   HPNA technology must coexist with telephone service and comply with FCC Part 68. 
+
+HQ_VCD
+
+Short for High-quality Video Compact Disc, HQ-VCD is enhancement to Video CD developed by a Chinese government-backed committee of manufacturers and researchers. This format was superseded by the SVCD specification.
+
+HRIS
+
+Short for Human Resources Information System HRIS is a system used by human resources departments to track employees and information about them. A HRIS is often a database system or a series of inter-related databases.  See also Human Resources Management System  (HRMS).
+
+HRMS
+
+A Human Resources Management System (HRMS) is a software application that combines many human resources functions, including benefits administration, payroll, recruiting and training, and performance analysis and review into one package.
+
+HSDPA
+
+Acronym for High Speed Downlink Packet Access.
+High Speed Downlink Packet Access, or HSDPA, is a packet based data service feature of the in WCDMA standard which provides a downlink with data transmission up to 8-10 Mbps (and 20 Mbps for MIMO systems) over a 5MHz bandwidth in WCDMA downlink. The high speeds of HSDPA is achieved through techniques including; 16 Quadrature Amplitude Modulation, variable error coding, and incremental redundancy. HSDPA is a technology upgrade to current UMTS networks.
+ See also UMTS.
+
+HSM
+
+Short for Hierarchical Storage Management, a data storage system that automatically moves data between high-cost and low-cost storage media. HSM systems exist because high-speed storage devices, such as hard disk drives, are more expensive (per byte stored) than slower devices, such as optical discs and magnetic tape drives. While it would be ideal to have all data available on high-speed devices all the time, this is prohibitively expensive for many organizations. Instead, HSM systems store the bulk of the enterprise's data on slower devices, and then copy data to faster disk drives when needed. In effect, HSM turns the fast disk drives into caches for the slower mass storage devices. The HSM system monitors the way data is used and makes best guesses as to which data can safely be moved to slower devices and which data should stay on the hard disks.  Learn more about storage management on Enterprise Storage Forum.
+
+HSP
+
+A Hosting Services Provider (HSP) is an application service provider dedicated to providing hosting services. Typically operates a Web server farm, either at a data center or colocation facility.
+
+HSRP
+
+Short for Hot Standby Routing Protocol, a proprietary protocol from Cisco. HSRP is a routing protocol that provides backup to a router in the event of failure. Using HSRP, several routers are connected to the same segment of an Ethernet, FDDI or token-ring network and work together to present the appearance of a single virtual router on the LAN. The routers share the same IP and MAC addresses, therefore in the event of failure of one router, the hosts on the LAN are able to continue forwarding packets to a consistent IP and MAC address. The process of transferring the routing responsibilities from one device to another is transparent to the user.
+
+HSSI
+
+Short for High-Speed Serial Interface. HSSI is a serial interface that supports transmission rates up to 52 mbps. It is used to connect routers on local area networks with wide area networks over a 680x0 or similar high-speed line. HSSI can also be used to provide high-speed connectivity between LANs, such as token ring and Ethernet.   HSSI is a DTE /DCE interface developed by Cisco Systems and T3plus Networking to address the need for high-speed communication over WAN links. 
+
+HSV
+
+Short for Hue, Saturation, and Value it is a color model that is often used in place of the RGB color model in graphics and paint programs. In using this color model, a color is specified then white or black is added to easily make color adjustments. HSV may also be called HSB (short for hue, saturation and brightness). See "The Science of Color" in the Did You Know... section of Webopedia. See also Webopedia's  Digital Camera Quick Reference.
+
+htaccess
+
+htaccess is a Web server configuration file that contains commands known by the server that tell the server how to behave in certain instances. Some of the most common uses of an htaccess file include the capability to restrict access to certain files or directories on the Internet (or intranet) through password protection. Additionally htaccess is used to automatically redirect users, ban or allow certain IP addresses access to the server, and to call a custom designed 404 error Web rather than the standard error 404 file that usually appears in your browser. Apache Web servers, and other NCSA compliant Web servers can use htaccess.
+
+HTML
+
+Short for HyperText Markup Language, the authoring language used to create documents on the World Wide Web. HTML is similar to SGML, although it is not a strict subset.
+HTML defines the structure and layout of a Web document by using a variety of tags and attributes. The correct structure for an HTML document starts with <HTML><HEAD>(enter here what document is about)<BODY> and ends with </BODY></HTML>. All the information you'd like to include in your Web page fits in between the <BODY> and </BODY> tags.
+HTML Formatting Tags
+There are hundreds of other tags used to format and layout the information in a Web page. Tags are also used to specify hypertext links. These allow Web developers to direct users to other Web pages with only a click of the mouse on either an image or words. For a more complete list of HTML tags, check out the WC3 website.
+
+HTML_converter
+
+A software program that is used to convert basic text files to HTML code.
+
+HTML_editor
+
+Also called an authoring tool, an HTML editor is a software program that inserts HTML code as you create a HTML file. Some editors will provide a word processing GUI enabling users to create HTML documents without knowing any HTML code.
+
+html-microdata
+
+HTML microdata, an HTML5 specification, is used to label content to describe a specific type of information. It is machine-readable data that is embedded in HTML documents and compatible with other data formats, including RDF and JSON. The purpose of the microdata specification is to help automated programs to better understand the content of your web page.
+Microdata Item Types and Properties
+Microdata could include information types such as reviews, personal information or events. Each information type has its own properties. For example properties of an event include venue, starting time, name, and category. Microdata is implemented using attributes in HTML tags, typically < span > or < div > is used to assign descriptive names to properties.
+The basic syntax for HTML microdata consists of a group of name-value pairs. The groups are called items, and each name-value pair is a property. The HTML microdata specification defines five attributes that can be applied to any HTML5 tag:
+
+HTML5
+
+HTML5 is a W3C specification that defines the fifth major revision of the Hypertext Markup Language (HTML). One of the major changes in HTML5 is in respect to how HTML addresses Web applications. Other new features in HTML5 include specific functions for embedding graphics, audio, video, and interactive documents.  New elements also allow you to define sections of your Web page using new tags such as < article > which defines an article, < nav > which defines navigation links, < source > which defines media resources, and many others. For example, the navigation section of your page would be enclosed in the < nav > tags.  HTML5 may also be referred to as Web Applications 1.0.
+
+HTPC
+
+Short for Home Theater Personal Computer, HTPC generally refers to a computer that is connected to a television and often includes software and hardware elements such as a TV tuner card, surround sound, music and a video player, large storage capabilities, and often LCD displays. May also be called a media center.
+
+HTTP
+
+Short for HyperText Transfer Protocol, HTTP is the underlying protocol used by the World Wide Web. HTTP defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. For example, when you enter a URL in your browser, this actually sends an HTTP command to the Web server directing it to fetch and transmit the requested Web page.
+The other main standard that controls how the World Wide Web works is HTML, which covers how Web pages are formatted and displayed.
+HTTP: A Stateless Protocol
+HTTP is called a stateless protocol because each command is executed independently, without any knowledge of the commands that came before it. This is the main reason that it is difficult to implement Web sites that react intelligently to user input. This shortcoming of HTTP is being addressed in a number of new technologies, including ActiveX, Java, JavaScript and cookies.
+
+HTTP_request_header
+
+The information, in the form of a text record, that a user��s browser sends to a Web server containing the details of what the browser wants and will accept back from the server. The request header also contains the type, version and capabilities of the browser that is making the request so that server returns compatible data.  Upon receipt of the request header, the server will return an HTTP response header to the client that is attached to the file(s) being sent.
+
+HTTP_response_header
+
+The information, in the form of a text record, that a Web server sends back to a client��s browser in response to receiving an HTTP request. The response header contains the date, size and type of file that the server is sending back to the client and also data about the server itself. The header is attached to the files being sent back to the client.  Contrast with an HTTP request header.
+
+HTTPD
+
+(pronounced as separate letters) Short for HTTP daemon, a software program that runs in the background of a Web server and waits for incoming server requests. The daemon answers the requests automatically and serves the hypertext and multimedia documents over the Internet using HTTP.
+
+httperf
+
+An open source server benchmarking tool commonly used when prototyping Web applications or when testing a Web server.
+The httperf tool generates workloads to test HTTP servers, and it works with HTTP/1.0 and HTTP/1.1, as well as SSL. After you run httperf, it generates a report with information about the test, including the number of connections, rate of connections, request size, request rate, reply time/size and rate, and much more. It also provides a list of errors, if any.
+Httperf resides on Google Code. It was written by David Mosberger, and it is released under the GPLv2. Many Linux distros, including Debian, Ubuntu, Fedora and openSUSE have httperf packaged already.
+
+hub
+
+A hub is a common connection point for devices in a network. Hubs are commonly used to connect segments of a LAN. A hub contains multiple ports. When a packet arrives at one port, it is copied to the other ports so that all segments of the LAN can see all packets.
+What Hubs Do
+Hubs and switches serve as a central connection for all of your network equipment and handles a data type known as frames. Frames carry your data. When a frame is received, it is amplified and then transmitted on to the port of the destination PC. 
+In a hub, a frame is passed along or "broadcast" to every one of its ports. It doesn't matter that the frame is only destined for one port. The hub has no way of distinguishing which port a frame should be sent to. Passing it along to every port ensures that it will reach its intended destination. This places a lot of traffic on the network and can lead to poor network response times.
+
+HUD
+
+Short for Heads Up Display in video and computer games HUD is the display area where gamers can see their character's vital statistics such as current health, bonus attributes, armor level, ammunition count, and more. What attributes are shown in the HUD differs depending on the type of game played and the game itself.  Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section. 
+
+Huffman_compression
+
+Also known as Huffman encoding, an algorithm for the lossless compression of files based on the frequency of occurrence of a symbol in the file that is being compressed. The Huffman algorithm is based on statistical coding, which means that the probability of a symbol has a direct bearing on the length of its representation. The more probable the occurrence of a symbol is, the shorter will be its bit-size representation. In any file, certain characters are used more than others. Using binary representation, the number of bits required to represent each character depends upon the number of characters that have to be represented. Using one bit we can represent two characters, i.e., 0 represents the first character and 1 represents the second character. Using two bits we can represent four characters, and so on.  Unlike ASCII code, which is a fixed-length code using seven bits per character, Huffman compression is a variable-length coding system that assigns smaller codes for more frequently used characters and larger codes for less frequently used characters in order to reduce the size of files being compressed and transferred.  For example, in a file with the following data:  XXXXXXYYYYZZ  the frequency of "X" is 6, the frequency of "Y" is 4, and the frequency of "Z" is 2. If each character is represented using a fixed-length code of two bits, then the number of bits required to store this file would be 24, i.e., (2 x 6) + (2x 4) + (2x 2) = 24.  If the above data were compressed using Huffman compression, the more frequently occurring numbers would be represented by smaller bits, such as:  X by the code 0 (1 bit) Y by the code 10 (2 bits) Z by the code 11 (2 bits)  therefore the size of the file becomes 18, i.e., (1x 6) + (2 x 4) + (2 x 2) = 18.  In the above example, more frequently occurring characters are assigned smaller codes, resulting in a smaller number of bits in the final compressed file.  Huffman compression was named after its discoverer, David Huffman.
+
+Human_Resources_Management_System
+
+A Human Resources Management System (HRMS) is a software application that combines many human resources functions, including benefits administration, payroll, recruiting and training, and performance analysis and review into one package.
+
+humanware
+
+A buzzword for both hardware and software that are designed primarily around the end user experience and user interface rather than focusing on the task that the product is meant to accomplish. The design of humanware often begins with understanding the needs and limitations of the end user and working backwards to design the final product. Typically, a great deal of testing is done on the product to ensure that its design is enhancing the end user��s experience in the desired way. For example, technology designed to aid persons with disabilities typically begins with understanding the needs of the end user before designing the product.
+
+HUSPA
+
+Short for High Speed Uplink Packet Access, HUSPA is a method of sending data through UMTS devices. It enables high-speed symmetrical data communications such as VoIP and interactive multimedia by better data rates and shorter delay. The procedure for the receiving is called HSDPA (High Speed Downlink Packet Access).  See also HSDPA.
+
+HWID
+
+Short for Hardware Identification, a security measure used by Microsoft upon the activation of the Windows operating system. As part of the Product Activation system, a unique HWID number is generated when the operating system is first installed. The HWID identifies the hardware components that the system is utilizing, and this number is communicated to Microsoft. Every 10 days and at every reboot the operating system will generate another HWID number and compare it to the original to make sure that the operating system is still running on the same device. If the two HWID numbers differ too much then the operating system will shut down until Microsoft reactivates the product.
+The theory behind HWID is to ensure that the operating system is not being used on any device other than the one for which it was purchased and registered. However, problems can arise when users start replacing or adding hardware components -- such as motherboards, sound cards, CD-R drives, Ethernet adapters -- because these will generate new HWIDs, and if there are too many differences from the original installation number the system will register that the operating system has been installed on a different device than the original and subsequently shut itself down. The only way to resolve the issue is to telephone Microsoft and explain the new hardware in order to obtain a new code.
+
+hybrid_cloud
+
+A combined form of private clouds and public clouds in which some critical data resides in the enterprise’s private cloud while other data is stored in and accessible from a public cloud. Hybrid clouds seek to deliver the advantages of scalability, reliability, rapid deployment and potential cost savings of public clouds with the security and increased control and management of private clouds.  Related Terms: Hybrid cloud storage, public cloud, private cloud and private cloud project
+
+hybrid_cloud_storage
+
+A combination of public cloud storage and private cloud storage where some critical data resides in the enterprise's private cloud while other data is stored and accessible from a public cloud storage provider. With hybrid cloud storage, enterprises are able to mix and match cloud storage resources between local data center infrastructure and scalable, on-demand infrastructure, with the cloud storage provider typically fully managing the cloud storage.
+Hybrid cloud storage combines the advantages of scalability, reliability, rapid deployment and potential cost savings of public cloud storage with the security and full control of private cloud storage.
+See also Webopedia's Cloud Computing Dictionary Resource and Cloud Computing Security Challenges.
+
+hybrid_database
+
+A relational database system that supports both in-memory and on-disk storage. Hybrid databases are typically deployed to retain the high performance and small database footprint advantages of in-memory databases while leveraging the durability and potential cost savings of on-disk databases.
+
+hybrid_encryption
+
+A method of encryption that combines two or more encryption schemes and includes a combination of symmetric and asymmetric encryption to take advantage of the strengths of each type of encryption.
+
+hybrid_hard_disk_drive
+
+Abbreviated as HHDD, a hybrid hard disk drive is a large-buffer computer hard drive that uses non-volatile flash memory (also known as NVRAM) to cache data during normal use. Hybrid hard drives uses 128MB (or more) of high speed flash memory, which is embedded directly on the hard drive itself, to serve as a fast cache for booting and saving data. When booting the PC, the operating system loads data from the flash memory first, speeding boot-up times and it also removes the need to quickly spin up the drive, which saves on power consumption as well. HHDs released by both Samsung and Seagate in 2007 are also called ReadyDrive (the name used by Microsoft) and it is a Windows Vista only technology. The first hybrid hard disk drives were 2.5-inch drives for notebooks.
+
+hybrid_routing_protocol
+
+Hybrid Routing, commonly referred to as balanced-hybrid routing, is a combination of distance-vector routing, which works by sharing its knowledge of the entire network with its neighbors and link-state routing which works by having the routers tell every router on the network about its closest neighbors.  Hybrid Routing is a third classification of routing algorithm. Hybrid routing protocols use distance-vectors for more accurate metrics to determine the best paths to destination networks, and report routing information only when there is a change in the topology of the network. Hybrid routing allows for rapid convergence but requires less processing power and memory as compared to link-state routing.  An example of a hybrid routing protocol is the Enhanced Interior Gateway Routing Protocol (EIGRP), developed by Cisco.
+
+Hyper_CD_ROM
+
+The Hyper CD-ROM is a tri-dimensional multilayer optical memory, based on the phenomenon of controlled extinction of the fluorescence. The Hyper CD-ROM allows the recording of information inside the a glass disk using laser beams. The glass disk has a storing capacity of over 10,000 Gigabytes (GB) of memory. The Hyper CD-ROM was invented by Romanian scientist Dr. Eugen Pavel. [Adapted from The Hyper CD-ROM Web site]
+
+hyper-converged-infrastructure
+
+A hyper-converged infrastructure refers to an infrastructure system that is largely software-defined with tightly-integrated compute, storage, networking and virtualization resources. This stands in contrast to a traditional converged infrastructure, where each of these resources is typically handled by a discrete component that serves a singular purpose.
+Benefits of Hyper-Converged Infrastructure Systems
+Hyper-converged infrastructure systems are designed to offer the following benefits:
+
+
+Elimination of infrastructure silos and the need for discrete components
+Data processing with a single-policy engine
+Creation of a virtualization-ready environment with highly efficient scalability
+Shift in management paradigm from a hardware approach to an application-focused one, with centralized management, policies and mobility conducted at the virtual machine level
+Potential CapEx and OpEx Cost savings resulting from streamlined acquisition, deployment, management and support costs as well as reduced complexity, interoperability issues and operational expenses
+
+Vendors of Hyper-Converged Infrastructure Systems
+Some of the well-known established hyper-converged infrastructure vendors include Nutanix, SimpliVity and Scale Computing. VMware entered the hyper-converged infrastructure market recently as well, with the launch of its EVO:RAIL and EVO:RACK hyperconverged offerings, which respectively serve as an all-in-one virtualization solution and a full-scale software-defined data center (SDDC) in a box.
+
+Hyper_Threading
+
+A technology developed by Intel that enables multithreaded software applications to execute threads in parallel on a single multi-core processor instead of processing threads in a linear fashion. Older systems took advantage of dual-processing threading in software by splitting instructions into multiple streams so that more than one processor could act upon them at once.
+
+Hyper_V
+
+Codenamed "Viridian" but given the the formal name of Hyper-V, it is a hypervisor-based Windows Server virtualization platform that is included as a role of Windows Server 2008. Hyper-V enables you to consolidate workloads onto a single physical server using a broad range of services ranging from resource-intensive services like Microsoft SQL Server to third-party applications that may run on previous versions of Windows or Linux. 
+
+HyperCard
+
+A hypertext programming environment for the Macintosh introduced by Apple in 1987. The HyperCard model consists of cards, and collections of cards, called stacks. You can connect the cards in various ways, and leaf through them the way you would with a set of Rolodex cards. In addition to data, each card can contain graphics and buttons that trigger other events, such as sound or video.  Each object in a HyperCard system -- stack, card, text field, button, or background -- can have a script associated with it. A script is a set of instructions that specify what actions should take place when a user selects an object with the mouse or when some other event  occurs.  Writing HyperCard applications is known as authoring.   
+
+hyperdata_browser
+
+Also called a semantic Web browser, it is a browser used for navigating the Semantic Web. As the Semantic Web architecture does not involve HTML, which standard HTML browsers rely on, these browsers specifically requests RDF data from Web servers. A hyperdata browser renders all information that it can find on the Semantic Web about a specific resource, as an HTML page that contains hyperlinks for users to navigate between the resources.
+
+HyperDisco
+
+In hypermedia systems, a HyperDisco architecture is based on three levels of tools consisting of a combination of hypermedia tools and integrated third-party applications, as well as tool integrators. Tool integrators provide the hypermedia services to tools and act as session managers  to coordinate a users' access to multiple workspaces. In this system, the workspace provides both hypermedia database and document management services. These architectural elements may be distributed on wide-area or local-area networks.
+
+hyperlink
+
+An element in an electronic document that links to another place in the same document or to an entirely different document. Typically, you click on the hyperlink to follow the link. Hyperlinks are the most essential ingredient of all hypertext systems, including the World Wide Web.
+
+
+hypermedia
+
+An extension to hypertext that supports linking graphics, sound, and video elements in addition to text elements. The World Wide Web is a partial hypermedia system since is supports graphical hyperlinks and links to sound and video files. New hypermedia systems under development will allow objects in computer videos to be hyperlinked.
+
+
+HyperOffice
+
+A collaboration tool with features ranging from e-mail to shared workspaces to project management. It offers Outlook integration that specifically targets the challenges of extended team members, and also helps users break free from reliance on Exchange or SharePoint. Some of its newest features include collaboration tools that connect the Apple iPhone to corporate e-mail, contacts, calendars, notes, and tasks.
+
+hyperscale
+
+Hyperscale computing refers to the infrastructure and provisioning needed in distributed computing environments for effectively scaling from several servers to thousands of servers. Hyperscale computing is often employed in environments like cloud computing and big data and is commonly associated with platforms like Apache Hadoop.
+Top 5 Hadoop Related Questions
+1. What is Apache Hadoop?  2. What is Hadoop MapReduce?  3. What is HortonWorks?  4. What is Hadoop Distributed File System?  5. What is unstructured data?
+
+hyperstitial
+
+A companion application, developed in the Fall of 1997 by San Francisco based software development firm Streamix Corp. as a cure for the World Wide Wait. HyperStitial technology is an application that runs alongside a browser, allowing advertisers to present full-screen ads during the delay of Web page downloads. As users wait for the content of a Web site to be displayed, or downloaded, Hyperstital "ads" are displayed in a similar manner as television commercials. Viewers are subjected to the advertisements, which are more difficult to ignore than the common banner ad. 
+
+hypertext
+
+A special type of database system, invented by Ted Nelson in the 1960s, in which objects (text, pictures, music, programs, and so on) can be creatively linked to each other. When you select an object, you can see all the other objects that are linked to it. You can move from one object to another even though they might have very different forms. For example, while reading a document about Mozart, you might click on the phrase Violin Concerto in A Major, which could display the written score or perhaps even invoke a recording of the concerto. Clicking on the name Mozart might cause various illustrations of Mozart to appear on the screen. The icons that you select to view associated objects are called Hypertext links  or buttons.
+Hypertext systems are particularly useful for organizing and browsing through large databases that consist of disparate types of information. There are several Hypertext systems available for Apple Macintosh computers and PCs that enable you to develop your own databases. Such systems are often called authoring systems . HyperCard software from Apple Computeris the most famous.
+
+
+HyperTransport
+
+HyperTransport technology is a high-speed, low-latency, point-to-point link designed to increase the communication speed between integrated circuits in computers, servers, embedded systems, and networking and telecommunications equipment up to 48 times faster than some existing technologies. HyperTransport technology is usually integrated directly into the processor, but in some cases HyperTransport is used as an integrated, high performance I/O bus that pipes PCI, PCI-X, USB, Firewire and audio/video links through the system. HyperTransport technology was invented at AMD with contributions from industry partners and is managed and licensed by the HyperTransport Technology Consortium.
+
+hypervisor
+
+In virtualization technology, hypervisor is a software program that manages multiple operating systems (or multiple instances of the same operating system) on a single computer system. The hypervisor manages the system's processor, memory, and other resources to allocate what each operating system requires. Hypervisors are designed for a particular processor architecture and may also be called virtualization managers.
+
+hyphenation
+
+In word processing, hyphenation refers to splitting a word that would otherwise extend beyond the right margin. Not all word processors support hyphenation, and of those that do support it, not all perform it correctly.  Word processors use two basic techniques to perform hyphenation. The first employs an internal dictionary of words that indicates where hyphens may be inserted. The second uses a set of logical formulas to make hyphenation decisions. The dictionary method is more accurate but is usually slower. The most sophisticated programs use a combination of both methods.  Most word processors allow you to override their own hyphenation rules and define yourself where a word should be divided.  Hyphens inserted automatically by a hyphenation utility are called discretionary or soft  hyphens. Hyphens that you add explicitly by entering the dash character are called hard  hyphens.  
+
+Hz
+
+Short for Hertz, a unit of frequency of electrical vibrations equal to one cycle per second. The Hertz is named after Heinrich Hertz, who first detected electromagnetic waves.
+
+HomeGroup
+
+In Windows 7, the HomeGroup feature makes home networking easier by letting you set up a simple password — protected network with other Windows 7 systems through which you can easily share printers and folders located anywhere on your system including those that belong to individual accounts. You only need to enter the network password once, when you join the Windows 7 system to the HomeGroup.
+The HomeGroup feature is found in every version of Windows 7, but there are a couple of important caveats to be aware of. First, systems with Windows 7 Starter (available mainly on netbooks and other low-end systems) only let you join a HomeGroup, not create one. Second, Windows 7 systems that are members of a domain can also join a HomeGroup, but only for purposes of accessing resources other systems are sharing for security reasons, a domain member can't share its own data with a HomeGroup.
+See also Make Home Networking Easier with Windows 7 HomeGroups on PracticallyNetworked.com.
+

@@ -1,0 +1,1114 @@
+r_programming_language
+R is a free and open source software programming language and software environment for statistical computing and graphics.  Distributed under the GNU General Public License version 2, R is an easy language to learn and commonly used for developing data analysis and statistical software. R compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+R is designed to allow users to add additional functionality by defining new functions. Much of the system is itself written in the R dialect of the S programming language. For computationally-intensive tasks, C, C++ and Fortran code can be linked and called at run time. Advanced users can write C code to manipulate R objects directly.
+R was initially written by Robert Gentleman and Ross Ihaka, also known as "R & R" of the Statistics Department of the University of Auckland. Today, R is the result of a collaborative effort with contributions from all over the world.
+
+r_commerce
+Short for relationship e-commerce, it is electronic commerce with an emphasized focus on the relationship between the merchant and the consumer, as opposed to just focusing on selling the product. May also be seen written as R-commerce or rcommerce. See also e-commerce.
+
+racetrack_memory
+The Magnetic Racetrack Memory Project is in development by IBM's Almaden Research Center. Informally called racetrack memory (RM), it is a non-volatile memory device that offers a storage density higher than solid-state memory devices with a higher read/write performance. The design is a racetrack concept where RM memory moves magnetic bits along nanoscopic "racetracks."  Racetrack memory may be seen abbreviated as RM.
+
+rack_and_stack
+A term commonly used by deployment technicians in reference to the assembly of computer hardware within a system, computer rack or computer cabinet.
+
+rackmount
+The term rackmount is used to describe electronic equipment and devices designed to fit industry-standard-sized computer racks and cabinets (19" wide). Rackmount devices are also standard 1.75 inch units. Rackmount is measured in U.
+
+radio_buttons
+In graphical user interfaces, groups of buttons, of which only one can be on at a time. When you select one button, all the others are automatically deselected. Compare with check box, which allows you to select any combination of options. 
+
+RADIUS
+Short for Remote Authentication Dial-In User Service, an authentication and accounting system used by many Internet Service Providers (ISPs). When you dial in to the ISP you must enter your username and password. This information is passed to a RADIUS server, which checks that the information is correct, and then authorizes access to the ISP system.
+Though not an official standard, the RADIUS specification is maintained by a working group of the IETF.
+ 
+
+ragged
+In text processing, ragged means not aligned along a margin. The opposite of ragged is flush or justified. For example, the following text has a ragged right margin:  This text has ragged right  margin because each line ends at a different spot.  Most word processors allow you to choose between ragged and justified margins.   
+
+RAID
+RAID is short for redundant array of independent disks.
+Originally, the term RAID was defined as redundant array of inexpensive disks, but now it usually refers to a redundant array of independent disks. RAID storage uses multiple disks in order to provide fault tolerance, to improve overall performance, and to increase storage capacity in a system. This is in contrast with older storage devices that used only a single disk drive to store data.
+RAID allows you to store the same data redundantly (in multiple paces) in a balanced way to improve overall performance. RAID disk drives are used frequently on servers but aren't generally necessary for personal computers.
+
+raid_level_0
+In RAID (redundant array of independent disks) storage technology, "RAID levels" are different architectures that strike a balance between performance, capacity and tolerance.
+RAID Level 0 (Striped Disk Array without Fault Tolerance) provides data striping (spreading out blocks of each file across multiple disk drives), but it lacks both fault tolerance and redundancy to improve performance. As a result, if one drive fails then all data in the array is lost.
+See also RAID to learn more about different RAID levels.
+
+RAIDb
+Short for Redundant Arrays of Inexpensive Databases (Db), RAIDb is a standard for combining multiple database instances into an array of databases. RAIDb was derived from two technologies; Redundant Arrays of Inexpensive Disks (RAID) and computing clusters to provide better performance and fault tolerance than a single database would, with the benefits of a distributed workload, load balancing, and caching. RAIDb is defined at three different levels which vary the cost, performance and fault tolerances. The levels include the following:  RAIDb-0: full partitioning RAIDb-1: full replication RAIDb-2: partial replication where the user defines the degree of replication of each database table.  Redundant Arrays of Inexpensive Databases was defined in September 2003 at INRIA (Institut National De Recherche En Informatique Et En Automatique) by Emmanuel Cecchet, Julie Marguerite, and Willy Zwaenepoel.
+
+RAIN
+Short for Redundant Array of Independent Nodes, RAIN is a data storage and protection system architecture. It uses an open architecture that combines standard computing and networking hardware with management software to create a system that is more distributed and scalable. RAIN is based on the idea of linking RAID nodes together into a larger storage mechanism. In a RAIN set-up there are multiple servers, each with disk drive and RAID functionality, all working together as a RAIN, or a parity or mirrored implementation. RAIN may also be called storage grid. See also "RAID Revs for the Future" on  EnterpriseStorageForum.com.
+
+raised_floor
+A type of flooring supported by a metal grid and typically used in data centers. Raised flooring can be removed in pieces to allow for cabling, wiring, and cooling systems to run under the floor space. When the floor is raised it usually can accommodate space for walking or crawling in.
+
+RAM
+RAM (pronounced ramm) is an acronym for random access memory, a type of computer memory that can be accessed randomly; that is, any byte of memory can be accessed without touching the preceding bytes. RAM is the most common type of memory found in computers and other devices, such as printers.
+Main Types of RAM
+There are two main types of RAM:
+
+
+DRAM (Dynamic Random Access Memory)
+SRAM (Static Random Access Memory).
+
+The two types of RAM differ in the technology they use to hold data, with DRAM being the more common type. In terms of speed, SRAM is faster. DRAM needs to be refreshed thousands of times per second while SRAM does not need to be refreshed, which is what makes it faster than DRAM.
+
+RAM_cache
+(1) Same as L2 cache.  (2) On Apple Macintosh computers, the term RAM cache refers to a disk cache.  
+
+RAM_disk
+Refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.  Because they are made of normal RAM, RAM disks lose their contents once the computer is turned off. To use a RAM disk, therefore, you need to copy files from a real hard disk at the beginning of the session and then copy the files back to the hard disk before you turn the computer off. Note that if there is a power failure, you will lose whatever data is on the RAM disk. (Some RAM disks come with a battery backup to make them more stable.)  A RAM disk is also called a virtual disk or a RAM drive. 
+
+RAM_latency
+A delay in transmitting data between a computer's RAM and its processor. Since RAM is not necessarily fast compared to the computer's processor, RAM latency can occur, causing a delay between the time a computer's hardware recognizes the need for a RAM access (initiates a request for data) and the time the data or instruction is available to the processor. If the CPU requests data that is not stored in the cache, then it will have to wait for the RAM to retrieve the data, opening the door to latency problems.   Also see latency. 
+
+RAMbo_drive
+A DVD-RAM drive that can read and write CD-R and CD-RW media.
+
+RAMDAC
+Short for Random Access Memory Digital-to-Analog Converter, a single chip on video adapter cards. The RAMDAC's role is to convert digitally encoded images into analog signals that can be displayed by a monitor. A RAMDAC actually consists of four different components - SRAM to store the color map and three digital-to-analog converters (DACs), one for each of the monitor's red, green, and blue electron guns. 
+
+random_access
+)Refers to the ability to access data at random. The opposite of random access is sequential access. To go from point A to point Z in a sequential-access system, you must pass through all intervening points. In a random-access system, you can jump directly to point Z. Disks are random access media, whereas tapes are sequential access media.  The terms random access and sequential access are often used to describe data files. A random-access data file enables you to read or write information anywhere in the file. In a sequential-access file, you can only read and write information sequentially, starting from the beginning of the file.  Both types of files have advantages and disadvantages. If you are always accessing information in the same order, a sequential-access file is faster. If you tend to access information randomly, random access is better.  Random access is sometimes called direct access.   
+
+range
+In spreadsheet applications, one or more contiguous cells. For example, a range could be an entire row or column, or multiple rows or columns. The only restrictions on ranges is that all the cells of the range must be contiguous and the entire range must be rectangular in shape; that is, you cannot have a range consisting of three cells in one column and four cells in the next.  Once you have defined a range, you can perform operations on it. This is a powerful feature because it allows you to manipulate a set of cells with one expression. 
+
+rank
+In SEO and SEM terms, rank (or ranking) refers to where a Web site or Web page is ranked within search engine results. For example, if your Web site is about microphones, when a person queries "microphones" in a search engine, your ranking indicates where in the search results your Web page is listed (e.g. within the top 5 results, on the first page, the 300th page and so on). A Web page rank within a search engine is also commonly called a  position.
+
+ransomware
+ 
+Ransomware is a form of malware in which  rogue software code effectively holds a user's computer hostage until a "ransom" fee is paid. Ransomware often infiltrates a PC as a computer worm or Trojan horse that takes advantage of open security vulnerabilities. Most ransomware attacks are the result of clicking on an infected e-mail attachment or visiting a hacked website.
+Upon compromising a computer, ransomware will typically either lock a user's system or encrypt files on the computer and then demand payment before the system or files will be restored.
+
+Rapid_Application_Development
+A programming system that enables programmers to quickly build working programs. In general, RAD systems provide a number of tools to help build graphical user interfaces that would normally take a large development effort. Two of the most popular RAD systems for Windows are Visual Basic and Delphi.
+Historically, RAD systems have tended to emphasize reducing development time, sometimes at the expense of generating efficient executable code. Nowadays, though, many RAD systems produce extremely fast code. Conversely, many traditional programming environments now come with a number of visual tools to aid development. Therefore, the line between RAD systems and other development environments has become blurred.
+
+
+rapid_BIOS_boot
+Intel Rapid BIOS Boot is an option in the Intel BIOS that significantly reduces BIOS boot time without sacrificing important functionality. This results in faster POST (Power On Self Test) times that eliminate redundant code, reduce legacy features, and implement selective hardware usage and configuration logic. Rapid BIOS Boot has been available on Intel desktop boards since 2002.* * [Source:Intel Rapid BIOS Boot]
+
+raring_ringtail
+Raring Ringtail is the Ubuntu codename for version 13.04 of the Ubuntu Linux-based operating system. Officially released in April 2013, Raring Ringtail follows the Quantal Quetzal (v12.10) release and serves as a minor, non-LTS update for Ubuntu.
+Ubuntu Raring Ringtail features an updated Linux kernel, 3.8, the latest OpenStack release (Grizzly) with high availability as a standard feature, and performance and quality improvements for desktop Ubuntu users. Graphical enhancements have been introduced as well to help prepare Ubuntu for convergence across a variety of computing devices, including PCs and laptops, tablets and smartphones.  Raring is an adjective that means ready or willing (as in “raring to go”), and the Ringtail is a North American mammal in the raccoon family. The ringtail is also sometimes referred to as a ring-tailed cat.  The Raring Ringtail release of Ubuntu Linux is expected to be succeeded by Saucy Salamander (Ubuntu v13.10) in October 2013.
+
+RARP
+Short for Reverse Address Resolution Protocol, a TCP/IP protocol that permits a physical address, such as an Ethernet address, to be translated into an IP address. Hosts such as diskless workstations often only know their hardware interface addresses, or MAC address, when booted but not their IP addresses. They must discover their IP addresses from an external source, usually a RARP server. RARP is defined in RFC 903.  Compare with ARP.
+
+RAS
+Abbreviated RAS, a signal, or strobe, sent by the processor to a DRAM circuit to activate a row address. DRAM stores data in a series of rows and columns, similar in theory to a spreadsheet, and each cell where a data bit is stored exists in both a row and a column. A processor uses RAS and CAS (column address strobe) signals to retrieve data from DRAM. When data is needed, the processor activates the RAS line to specify the row where the data is needed, and then activates the CAS line to specify the column. Combined, the two signals locate the data stored in DRAM.
+
+raster
+The rectangular area of a display screen actually being used to display images. The raster is slightly smaller than the physical dimensions of the display screen. Also, the raster varies for different resolutions. For example, VGA resolution of 640x480 on a 15-inch monitor produces one raster, whereas SVGA resolution of 1,024x768 produces a slightly different raster. Most monitors are autosizing, meaning that they automatically use the optimal raster depending on the monitor's size and the video adapter's resolution. In addition, most monitors have controls that allow you move the raster, resize it, and even to rotate it. 
+
+raster_image_processor_RIP
+A hardware -software combination that converts a vector image into a bit-mapped image. All PostScript printers contain a RIP that converts the PostScript commands into bit-mapped pages that the printer can output. 
+
+RAT
+Short for Remote Access Trojan, a Trojan horse that provides the intruder, or hacker, with a backdoor into the infected system. This backdoor allows the hacker to snoop your system, use your infected system to launch a zombie (attacks on other systems), or even run malicious code.
+ 
+See also zombie.
+
+Rav_Mon_E_virus
+Also called W32/Rjump, this virus is known to open a back door on a computer that runs Microsoft Windows, then create a copy of itself in the Windows system directory of a computer. Italso creates a log file that includes the port number on which the back door component listens. The Rav Mon E virus enables hackers to gain access to the computer's programs and files once it has become infected. If you are using an anti-software program that is is up-to-date the RavMon E virus can usually be detected before it does any damage. This virus is most commonly spread through e-mail attachments, although it can also be spread through portable devices such as multimedia players and digital cameras. Apple reported that in October of 2006 many of its video iPods had been shipped out with the RavMon E virus already installed on them.
+
+raw
+Unprocessed. The term refers to data that is passed along to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device.  The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill are processed by the device driver before being sent the output device.  
+
+raw_data
+(râ dā´t&) (n.) Information that has been collected but not formatted or analyzed. Raw data often is collected in a database where it can be analyzed and made useful. 
+
+raw_footage
+The original unedited footage that is captured while shooting. Also called source video.
+
+raw_hits
+In  online advertising, the term raw hits is used to refer to the total number of visits to any Web site, or clicks on a specific ad, including repeat visitors and clicks. Contrast with unique visitor.
+
+ray_tracing
+In computer graphics, an advanced technique for adding realism to an image by including variations in shade, color intensity, and shadows that would be produced by having one or more light sources. Ray tracing software works by simulating the path of a single light ray as it would be absorbed or reflected by various objects in the image. To work properly, the artist must specify parameters of the light source (intensity, color, etc.) as well as all the objects (how reflective or absorbent the materials are).  Ray tracing requires enormous computational resources, and is supported by only the most advanced graphics systems.   
+
+Razer
+A peripheral company that manufactures a line of gaming peripherals, under the same name. The first Razer product released was the Razer Boomslang mouse in 1999. This mouse, designed for computer gamers, offered 2,000 dpi, when other mice on the market at this time were still around 400 dpi. The Razer Diamondback mouse followed the Boomslang in 2004 and this was another first as a 1600 dpi optical mouse for gaming. Other products in the Razer line include the Razer Tarantula keyboard with special features for gamers like anti-ghosting capabilities, onboard memory, and programmable gaming hot keys.
+
+RBAC
+Short for Role-Based Access Control, a system of controlling which users have access to resources based on the role of the user. Access rights are grouped by role name, and access to resources is restricted to users who have been authorized to assume the associated role. For example, if a RBAC system were used in a hospital, each person that is allowed access to the hospital's network has a predefined role (doctor, nurse, lab technician, administrator, etc.). If someone is defined as having the role of doctor, than that user can access only resources on the network that the role of doctor has been allowed access to. Each user is assigned one or more roles, and each role is assigned one or more privileges to users in that role.
+
+RBGAN
+Short for Regional Broadband Global Area Network, the RBGAN network provides e-mail and satellite internet access direct to portable terminals. The terminal is roughly the size of a laptop computer, and is connected to a standard PC using the plug and play features of the modem itself (USB, Ethernet, or Bluetooth). RBGAN service is based on Internet Protocol (IP) and Packet-Data technologies. Subscribers are usually charged by the amount of data one transfers (per-Mbyte) rather than per minute service, where the charge is based on the amount of data sent and received, not the total time spent online. See also BGAN
+
+RBL
+Short for Realtime Blackhole List, a list of IP addresses whose owners refuse to stop the proliferation of spam. The RBL usually lists server IP addresses from ISPswhose customers are responsible for the spam and from ISPs whose servers are hijacked for spam relay.
+As subscribers to the RBL, ISPs and companies will know from which IP addresses to block traffic. Most traffic blocking occurs during the SMTP connection phase. The receiving end will check the RBL for the connecting IP address. If the IP address matches one on the list, then the connection gets dropped before accepting any traffic from the spammer. Some ISPs, though, will choose to blackhole (or ignore) IP packets at their routers. The goal here is to block all IP traffic.
+It is important to note that all e-mail and packet blocking is done by the recipient, not the RBL administrator, which is only responsible for bouncing spam that is directed at its servers.
+
+RC4_RC5_RC6
+A series of symmetric encryption algorithms developed by RSA Security.  RC4 -- a variable key-size stream cipher with byte-oriented operations. The algorithm is based on the use of a random permutation. RC5 -- a parameterized algorithm with a variable block size, a variable key size, and a variable number of rounds. Allowable choices for the block size are 32 bits (for experimentation and evaluation purposes only), 64 bits (for use a drop-in replacement for DES), and 128 bits. The number of rounds can range from 0 to 255, while the key can range from 0 bits to 2040 bits in size. RC5 has three routines: key expansion, encryption, and decryption. RC6 -- a block cipher based on RC5. RC6 is a parameterized algorithm where the block size, the key size, and the number of rounds are variable. The upper limit on the key size is 2040 bits. RC6 adds two features to RC5: the inclusion of integer multiplication and the use of four 4-bit working registers instead of RC5��s two 2-bit registers. 
+
+RCA_cable
+A standard type of cable used to transmit analog audio and composite-video signals between devices such as televisions, satellite or cable receivers, VCRs, game console systems, speakers and more. Typical RCA cables will have two or three color coded connectors. RCA audio cables have two connectors: red (right stereo) and white or black for left stereo. An additional third connector on an RCA cable will be yellow for composite video.
+
+rcmp_fbi_scam
+The RCMP Computer Scam
+Reported by Canadian residents, the RCMP computer scam is a type of ransomware (see also "scareware") where a pop-up window informs the user that the computer being used has been found to be "associated with child pornography" by the RCMP (Royal Canadian Mounted Police) or CSIS (Canadian Security Intelligence Service). The user is asked to pay $100 dollars (via Ukash) to have the computer unlocked.
+The FBI Computer Scam
+In the United States a similar scam warns residents that the FBI's Computer Crime & Intellectual Property Section has "identified the user's IP address  as visiting child pornography and other illegal content." Victims are then instructed to pay a $100 fine to the US Department of Justice, using prepaid money card services.
+The RCMP and FBI scams are a variant of Citadel malware.Learn more about rogue antivirus software.
+
+RDBMS
+Short for relational database management system and pronounced as separate letters, a type of database management system (DBMS) that stores data in the form of related tables. Relational databases are powerful because they require few assumptions about how data is related or how it will be extracted from the database. As a result, the same database can be viewed in many different ways.
+An important feature of relational systems is that a single database can be spread across several tables. This differs from flat-file databases, in which each database is self-contained in a single table.
+Almost all full-scale database systems are RDBMS's. Small database systems, however, use other designs that provide less flexibility in posing queries.
+
+RDF
+RDF is short for Resource Description Framework.
+RDF is a general framework for describing website metadata, or "information about the information" on the website. It provides interoperability between applications that exchange machine-understandable information on the Web. RDF details information such as a site's sitemap, the dates of when updates were made, keywords that search engineslook for and the Web page's intellectual property rights.
+Developed under the guidance of the World Wide Web Consortium, RDF was designed to allow developers to build search engines that rely on the metadata and to allow Internet users to share Web site information more readily. RDF relies on XMLas an interchange syntax, creating an ontology system for the exchange of information on the Web.
+
+RDF_Schema
+RDF schema is a semantic extension of RDF. The RDF schema language is used for declaring basic class and types when describing the terms used in RDF and are used to determine characteristics of other resources, such as the domains and ranges of properties.
+
+RDFPic
+While RDF is a general framework for describing a Web site's metadata, RDFPic is a tool developed by the W3C that authors can use to embed RDF metadata inside JPEG images. Using RDFPic authors see a side-by-side view of the image and a text form where you input data entry. RDFPic is copyrighted by the World Wide Web Consortium. See also RDF.
+
+RDI
+RDI is short for Remote Debug Interface
+The Remote Debug Interface (RDI) is an Application Programming Interface (API) that defines a standard set of data structures and functions that abstract hardware for debugging purposes. *The Remote Debug Interface has for ten years served as a useful and widely adopted interface between debuggers and debug target (simulators,  emulators and monitors) for the ARM architecture. [Source: ARM DevZone]
+
+RDMA
+Short for remote direct memory access (DMA), a communications technique that allows data to be transmitted from the memory of one computer to the memory of another computer without passing through either device��s CPU, without needing extensive buffering, and without calling to an operating system kernel. RDMA is a response to increasing demands for network speed. Data can be transferred faster when it does not have to pass through the CPU.  Infiniband is an example of a form of RDMA. Applications of RDMA include clustering and storage and networking for data centers.
+
+rDNS
+(pronounced as separate letters) Short for reverse DNS, a method of name resolution in which an IP address is resolved into a domain name, which is the opposite of the typical resolution method of DNS, which resolves domain names into IP addresses. One practical application of reverse DNS is as an anti-spam measure. Because spammers often use invalid IP addresses to send e-mails, rDNS will determine the authenticity of a domain name compared to the IP address from which it is originating.
+
+RDP
+Abbreviated as RDP, the Microsoft Remote Desktop Protocol is a multi-channel protocol that allows a user to connect to a computer running Microsoft Terminal Services. RDP is designed to support many different types of network  topologies such as ISDN, POTS, and many LAN protocols such as IPX, NetBIOS, or TCP/IP. See also Remote Desktop.
+
+RDRAM
+Short for Rambus DRAM, a type of memory (DRAM) developed by Rambus, Inc. Whereas the fastest current memory technologies used by PCs (SDRAM) can deliver data at a maximum speed of about 100 MHz, RDRAM transfers data at up to 800 MHz.  In 1997, Intel announced that it would license the Rambus technology for use on its future motherboards, thus making it the likely de facto standard for memory architectures. However, a consortium of computer vendors is working on an alternative memory architecture called SyncLink DRAM (SLDRAM).  RDRAM is already being used in place of VRAM in some graphics accelerator boards. As of late 1999, Intel has been using RDRAM in its Pentium III Xeon processors and more recently in its Pentium 4 processors. Intel and Rambus are also working a new version of RDRAM, called nDRAM, that will support data transfer speeds at up to 1,600 MHz. 
+
+read
+(v.) To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory.  (n.) The act of reading. For example, a fast disk drive performs 100 reads per second. 
+
+read_only
+Capable of being displayed, but not modified or deleted. All operating systems allow you to protect objects (disks, files, directories) with a read-only attribute  that prevents other users from modifying the object.   
+
+read_write
+(rēd/rīt) (adj.) Capable of being displayed (read) and modified (written to). Most objects (disks, files, directories) are read/write, but operating systems also allow you to protect objects with a read-only  attribute  that prevents other users from modifying the object.   
+
+readme_file
+A small text file that comes with many software packages and contains information not included in the official documentation. Typically, readme files contain late-breaking information that could not be included in the printed documentation.
+ 
+
+Real_Life_technologies
+Technologies found in some HP digital cameras, printers and scanners that are designed to help users get better quality images. HP's Photosmart digital cameras that have Real Life technologies are designed to produce crisper, more realistic and more true-to-life photos. The Real Life features include HP in-camera red-eye removal, HP Adaptive Lighting technology, HP in-camera panorama preview , HP in-camera panorama stitching, HP Image Advice and HP still images from video. See also "The Digital Camera Picture" in  Webopedia's Quick Reference section.
+
+real_mode
+An execution mode supported by the Intel 80286 and later processors. In real mode, these processors imitate the Intel 8088 and 8086 microprocessors, although they run much faster. The other mode available is called protected mode. In protected mode, programs can access extended memory and virtual memory. Protected mode also supports multitasking. The 80386 and later microprocessors support a third mode called virtual  8086 mode. In virtual mode, these microprocessors can run several real-mode programs at once.  The DOS operating system was not designed to take advantage of protected mode, so it always executes programs in real mode unless a protected mode extender is run first. 
+
+real_printer
+Refers to the printer hardware attached to a serial or parallel port at a unique hardware device address. The printer device driver in the kernel communicates with the printer hardware and provides an interface between the printer hardware and a virtual printer.
+
+real_time
+Occurring immediately. The term is used to describe a number of different computer features. For example, real-time operating systems are systems that respond to input immediately. They are used for such tasks as navigation, in which the computer must react to a steady flow of new information without interruption. Most general-purpose operating systems are not real-time because they can take a few seconds, or even minutes, to react.
+Real time can also refer to events simulated by a computer at the same speed that they would occur in real life. In graphics  animation, for example, a real-time program would display objects moving across the screen at the same speed that they would actually move.
+
+Real_Time_Locating_System
+Abbreviated as RTLS, Real Time Locating System is a fully automated Wi-Fi-based tracking system that uses RF tags on the objects to be tracked, and then uses wireless technology to detect the the presence and location of the RF tags in real time. RTLS is similar to RFID (radio frequency identification), however RFID tags are read as they pass fixed points and RTLS tags are automatically and continuously read. Some RTLS systems use  GPStechnology to locate tags.
+See also "All About RFID" in the  Did You Know...? sectionof Webopedia.
+
+
+real_time_clock
+A clock that keeps track of the time even when the computer is turned off. Real-time clocks (RTCs) run on a special battery that is not connected to the normal power supply. In contrast, clocks that are not real-time do not function when the computer is off.
+Do not confuse a computer's real-time clock with its CPU clock. The CPU clock regulates the execution of instructions.
+
+Real_Time_Optimization
+Abbreviated as RTO, Real Time Optimization is a type of software that can be used to improve the performance of server software, in real time. It provides a real time view and control of the corporate IT infrastructure including  applications, servers, and network devices. Using RTO software, for example you can report and track configuration changes, maintain your corporate information regarding software licenses, map application dependencies, and other supported tasks.
+
+RealAudio
+The de facto standard for streaming audio data over the World Wide Web. RealAudio was developed by RealNetworks and supports FM-stereo-quality sound. To hear a Web page that includes a RealAudio sound file, you need a RealAudio player or plug-in, a program that is freely available from a number of places. It's included in current versions of both Netscape Navigator and Microsoft Internet Explorer.    
+
+RealMedia
+A codec for streaming digital video and  sound over the Internet. RealMedia is comprised of RealVideo, RealAudio, and other file formats created by Real Networks.
+
+RealServer
+A software program from RealNetworks that allows the streaming of audio, video and rich media files.
+
+RealVideo
+A streaming technology developed by RealNetworks for transmitting live video over the Internet. RealVideo uses a variety of data compression techniques and works with both normal IP connections as well as IP Multicast connections.   
+
+rear_screen_TV
+A rear screen TV uses a projection screen in place of a CRT to display images. Rear screen TVs offer high resolution, bright colors, and newer models use high quality screens that allow for many viewing angles.
+
+reboot
+To restart a computer. In DOS, you can reboot by pressing the Alt, Control and Delete keys simultaneously. This is called a warm boot. You can also perform a cold boot by turning the computer off and then on again.  On a PC running Microsoft Windows you reboot by selecting the "Shut Down" option from the Start menu. On Macs, you reboot by selecting the "Restart" option from the Special menu. See "Tips to Fix a Slow Running Computer" in the Quick Reference section of Webopedia.  
+
+recalculate
+In spreadsheet programs, recalculation refers to computing the values of cells in a spreadsheet. Recalculation is necessary whenever you change a formula or enter new data into one or more cells. Depending on the size and complexity of your spreadsheet, recalculation can be a time-consuming process. One criterion for evaluating spreadsheet programs, therefore, is how fast they recalculate.  To make recalculation faster, many spreadsheet programs support minimal recalculation (also called optimal recalculation), in which the program calculates only the values of cells that will change. In addition, some spreadsheets support background recalculation, which allows you to perform other operations while a recalculation is in progress. 
+
+reciprocal_link
+(re��cip��ro��cal) Interchanged, given, or owed to each other: i.e. reciprocal agreements  A reciprocal link is an agreement between two webmasters to provide a hyperlink within their own website to each other's web site. Generally this is done to provide readers with quick access to related sites, or to show a partnership between two sites. Reciprocal links can also help to increase traffic to your web site in two ways. First you will probably have some viewers visit your site from clicking the reciprocal link directly. Secondly, most Internet search engines also take into account the number of web sites which contain links to your web site; the more hyperlinks to your site found, the higher up in the search engine rankings (depending on the search term) you'll find your site.
+
+recommended_system_requirements
+See under system requirements.
+
+recommender_systems
+An information filtering technology, commonly used on e-commerce Web sites that uses a collaborative filtering to present information on items and products that are likely to be of interest to the reader. In presenting the recommendations, the recommender system will use details of the registered user's profile and opinions and habits of their whole community of users and compare the information to reference characteristics to present the recommendations.  An example of a recommender system is WhatShouldIReadNext.com, a site where users can enter a title of a recent book they have read and enjoyed to see recommended books that they are likely to also enjoy.
+
+record
+)(1) In database management systems, a complete set of information. Records are composed of fields, each of which contains one item of information. A set of records constitutes a file. For example, a personnel file might contain records that have three fields: a name field, an address field, and a phone number field.
+In relational database management systems, records are called tuples.
+(2) Some programming languages allow you to define a special data structure called a record. Generally, a record is a combination of other data objects. For example, a record might contain three integers, a floating-point number, and a character string.
+
+Recovery_Time_Objective
+Abbreviated as RTO, Recovery Time Objective is a term associated with business continuity and disaster recover. Specifically, the RTO is the period of time after an outage in which the systems and data must be restored to the predetermined RPO (Recovery Point Objective).
+
+rectifier
+(rek´ti-fī´´&r) (n.) A component of a circuit that allows current to pass in one direction yet blocks the flow of current in the other direction. Rectifiers are used to convert AC into DC. A PC��s PSU typically contains a rectifier.
+
+recursion
+A programming method in which a routine calls itself. Recursion is an extremely powerful concept, but it can strain a computer's  memory resources. Some programming languages, such as LISP and Prolog, are specifically designed to use recursive methods. 
+
+recursive_acronym
+A type of acronym commonly used in the computer and technology industry that will reference a person, company or a product name in the acronym itself. Sometimes the acronym is created using another company or product's acronym if it is a related development. Often, recursive acronyms are created from the egotistical or humorous nature of the developer. Some examples of recursive acronyms in the technology industry include the following:
+ 
+
+Zinf (Zinf Is Not Freeamp): this recursive acronym references technology name in the acronym.
+SPARQL (SPARQL Protocol And RDF Query Language):  this recursive acronym references another technology name in the acronym.
+CAVE (Cave Automatic Virtual Environment): this recursive acronym references "Allegory of the Cave" by the Greek philosopher Plato in the acronym.
+
+See also acronym.
+
+recycle_bin
+(rē-sī´k&l bin) (n.) An icon on the Windows desktop that represents a directory where deleted files are temporarily stored. This enables you to retrieve files that you may have accidentally deleted. From time to time, you'll want to purge the recycle bin to free up space on your hard disk. You can also configure Windows so that it doesn't use the recycle bin at all, but then you won't be able to retrieve accidentally deleted files.  The recycle bin is modeled after the Macintosh trash can, which has been part of the Mac GUI since its inception. Also see Are Deleted Files Completely Erased? in the Did You Know . . . ? section of Webopedia.
+
+recycle_time
+The phrase used to mean the amount of time a  digital camera requires to reset the flash between one photo and the next. A longer recycle time makes it more difficult to capture action or time lapse shots.  May also be called lag time or refresh rate. See also "The Digital Camera Picture" in  Webopedia's Quick Reference section.
+
+Red_Book
+The standard for audio CDs, developed by Phillips and Sony. The specification is formally known as Compact Disc-Digital Audio (CD-DA). It specifies up to 74 minutes of digital audio transferred at 150 Kbps. The first CD-ROM players also transmitted data at this rate, so they came to be called single-speed drives. 
+
+Red_Hat_Certified_Engineer_RHCE
+
+HTML clipboard
+The  Red Hat Certified Engineer  (RHCE) is a certification you can earne to become a Red Hat Certified System  Administrator (RHCSA). The RHCE certification shows that upi have demonstrated the knowledge, skill and ability required of senior system  administrator responsible for Red  Hat  Enterprise Linux systems.
+Red Hat Certified Engineer (RHCE) certification requires you to complete  the RHCE Exam (EX300). According to information provided on the Red Hat website,    this exam is a hands-on, performance-based, two-hour exam. Participants are    encouraged to augment their skills and build on their expertise by reading the    RHCE exam objectives guide.
+
+red_hat_cloud_computing
+Red Hat Cloud Computing refers to solutions for private clouds, hybrid clouds, and public clouds offered by Red Hat.
+Types of Red Hat Cloud Computing
+Red Hat maintains two primary services for cloud computing deployment:
+1. CloudForms
+Red Hat CloudForms is an Infrastructure-as-a-Service (IaaS) offering that builds upon a collection of more than 60 open source projects. CloudForms include application lifecycle management capabilities as well as the capability to create hybrid, public and private clouds from the broadest range of computing resources with unique portability across physical, virtual and cloud computing resources.
+
+red_hat_cloudforms
+Red Hat CloudForms is an Infrastructure-as-a-Service (IaaS) offering that builds upon a collection of more than 60 open source projects. CloudForms include application lifecycle management capabilities as well as the capability to create hybrid public and private clouds from the broadest range of computing resources with unique portability across physical, virtual and cloud computing resources.
+Red Hat officially announced CloudForms and OpenShift for cloud deployment in 2011 and maintains updated information regarding versions on this website.
+
+red_hat_enterprise_linux
+Red Hat Enterprise Linux, or RHEL, is the enterprise-grade version of Red Hat's open source Linux operating system distribution.  Red Hat Enterprise Linux can be deployed on both servers and desktops, and it competes in the enterprise Linux market with the likes of SUSE Linux Enterprise, Oracle Linux and CentOS.  Red Hat Enterprise Linux branches are currently based on Fedora, an open source Linux distribution developed and supported by the Fedora Project, of which Red Hat is a founding partner.
+
+red_hat_enterprise_virtualization_rhev
+A desktop and server virtualization platform from Red Hat that is based on the KVM hypervisor as well as the company’s Red Hat Enterprise Linux (RHEL) server operating system.
+Red Hat Enterprise Virtualization, or RHEV, provides a RHEL-based centralized management server with a web-based interface for managing virtual machines (VMs) called the RHEV Manager. Red Hat Enterprise Virtualization is based on open standards and works with Linux and Windows, as well as enterprise applications like SAP, SAS and Oracle.
+
+Red_Hat_Global_File_System
+Red Hat GFS (Global File System) is an open source cluster file system and volume manager that executes on Red Hat Enterprise Linux servers attached to a storage area network (SAN). It enables a cluster of Linux servers to share data in a common pool of storage to provide a consistent file system image across server nodes. Red Hat Global File System works on all major server and storage platforms supported by Red Hat.   See cluster. See also clustering.
+
+red_hat_openshift
+OpenShift provides developers with a choice in languages, frameworks, and clouds to build, test, run, and manage Java, Ruby, PHP, Perl and Python applications. Developers can also choose the cloud provider the applications will run on.
+See also "Red Hat Debuts CloudForms and OpenShift for Cloud Deployment" on ServerWatch.com.  Also see "A Cloud Computing Dictionary Resource" and "Cloud Computing White Papers and Resources for Small Businesses" on Webopedia.com.
+
+red_hat_summit
+Red Hat Summit is the name of a yearly technology event to showcase the latest in open source cloud computing, platform, virtualization, middleware, storage, and systems management technologies. Red Hat Summit highlights include keynotes, product experts, sessions and Red Hat ecosystem access.
+
+RedBrowser
+A type of cellphone Trojan horse that infects mobile phones running Java (J2ME). The Trojan spreads through a program known as 'RedBrowser', which claims to enable users to send text messages to a premium service at a low cost. The Trojan can be downloaded to the cellphone either via the Internet (from a WAP Web site), through Bluetooth or a personal computer.
+
+redirect
+(1) In e-mail, a redirect is an option found in e-mail clients that is similar to a forward, with the exception that the body of the text is not normally shown as quoted text. Additionally the From (or) Sender field will show the e-mail address of the original sender, and in brackets it will show your information. For example if you received the e-mail from "me@me.com" and your e-mail address is "thisisme@me.com", when you redirect this e-mail to another recipient, the From (or) Sender information might read something like this:   From: me@me.com ( by way of "Your Name" <thisisme@me.com> )  (2) Redirect also refers to a Web server function where an old URL can be redirected to a new one. There are a series of redirect HTTP response codes that a server can return, including the following:
+
+redirection
+(1) In operating system shells, redirection refers to directing input and output to files and devices other than the default I/O devices. By default, input generally comes from the keyboard or mouse, and output goes to the display monitor. With a redirection operator, you can override these defaults so that a command or program takes input from some other device and sends output to a different device.  In DOS and UNIX systems, the redirection operators are < for input and > for output. For example, the DOS command  sort < c:\list > c:\sorted  takes input from a file called list, sorts it, and sends output to a file called sorted.  (2) See meta refresh.
+
+redlining
+In word processing, redlining refers to marking text that has been edited. Typically, redlining is used when two or more people are working on a document together; each individual can redline the text he or she has added or edited. The redlined text will then appear in a special color (or as bold) so that others can see the changes that have been made. 
+
+redundant
+(ri-dun´d&nt) (adj.) Used to describe a component of a computer or network system that is used to guard the primary system from failure by acting as a back up system. Redundant components can include both hardware elements of a system -- such as disk drives, peripherals, servers, switches, routers -- and software elements -- such as operating systems, applications and databases.  Redundancy is the quality of systems or elements of a system that are backed up with secondary resources. For example, "The network has redundancy."
+
+Reed_Solomon
+Abbreviated as RS, Reed-Solomon is an algorithm for Forward Error Correction (FEC) that was introduced by Irving S. Reed and Gustave Solomon of MIT Labs. It does not specify a block size or a specific number of check symbols, instead these variables can be set to the best variables for each transmission medium. Reed Solomon codes are used in a wide variety of commercial applications such as CDs, DVDs, and in data transmission technologies like DVB and WiMAX.
+
+reef_retainable_evaluator_execution_framework
+The Retainable Evaluator Execution Framework (REEF) is a Microsoft big data technology that works with the Apache Hadoop YARN resource manager. REEF is a framework to implement scalable, fault-tolerant runtime environments for computational models. With REEF, users can build jobs that utilize data from where it's needed and also maintain state after jobs are done. REEF is believed to be well-suited for building machine learning jobs.
+In August 2013, Microsoft announced plans to open source its Retainable Evaluator Execution Framework (REEF) technology.
+
+refactoring
+Improving the design of existing software code. Refactoring doesn't change the observable behavior of the software; it improves its internal structure. For example, if a programmer wants to add new functionality to a program, he may decide to refactor the program first to simplify the addition of new functionality in order to prevent software entropy.
+
+reference_template
+(n.) Also referred to as simply a template, the data in a biometric security system that represents the biometric measurement of a specific person��s identity.
+
+referential_integrity
+A feature provided by relational database management systems (RDBMS's) that prevents users or applications from entering inconsistent data. Most RDBMS's have various referential integrity rules that you can apply when you create a relationship between two tables.
+For example, suppose Table B has a foreign key that points to a field in Table A. Referential integrity would prevent you from adding a record to Table B that cannot be linked to Table A. In addition, the referential integrity rules might also specify that whenever you delete a record from Table A, any records in Table B that are linked to the deleted record will also be deleted. This is called cascading delete. Finally, the referential integrity rules could specify that whenever you modify the value of a linked field in Table A, all records in Table B that are linked to it will also be modified accordingly. This is called cascading update.
+
+
+referrer
+Used in Web analytics, it is the URL or IP address that tracks where a visitor to a Web page originated (e.g., previous page, link from another Web site, or search engine).
+
+reflection
+A feature of attribute-based programming that allows an application to query its own metadata. Reflection allows an application to discover information about itself so that it may display this information to the user, modify its own behavior by using late-binding and dynamic invocation (i.e., binding to and calling methods at runtime), or create new data types at runtime.
+
+reflective
+(adj.) A type of LCD screen in which the pixels are illuminated from in front of the monitor��s screen (the same side as the user). Reflective LCDs reflect polarized light from the environment in which they are functioning and bounces the light back to the user through the monitor. They are well-suited for bright and medium light conditions, such as an office or outdoors. However, they have lower contrast than other forms of LCD illumination because the light passes through the monitor��s screen twice. Because reflective LCDs require less power than other forms of LCD screens, they typically are used in devices such as PDAs and other devices that have low battery life.  Compare to transmissive and transflective.
+
+refresh
+(1) Generally, to update something with new data. For example, some Web browsers include a refresh button that updates the currently displayed Web pages. This feature is also called reload.  (2) To recharge a device with power or information. For example, dynamic RAM needs to be refreshed thousands of times per second or it will lose the data stored in it.  Similarly, display monitors must be refreshed many times per second. The refresh rate for a monitor is measured in hertz (Hz) and is also called the vertical frequency, vertical scan rate, frame rate or vertical refresh rate. The old standard for monitor refresh rates was 60Hz, but a new standard developed by VESA sets the refresh rate at 75Hz for monitors displaying resolutions of 640x480 or greater. This means that the monitor redraws the display 75 times per second. The faster the refresh rate, the less the monitor flickers. 
+
+refurbished
+In computer technology, refurbished refers to "old" or used computer equipment that has been restored to like-new working condition and/or appearance. It may also refer to any computer device that has been sent back to the factory to fix a flaw.
+Refurbished Generally Refers to Hardware
+The term typically refers to the hardware components of a computer that have been either replaced with similar components or updated with newer technology than the device originally came with. Companies that lease computers will often refurbish the computers after they are turned in and resell the refurbished units, commonly referred to as refurbs, at prices lower than those of new computers, or donate the refurbs to schools or charities.
+
+Regional_Code
+DVD movies are usually coded with what is called a country or regional code or a zone lock. The three names, however, mean the same thing. DVD movies are given a regional code and the code on the DVD movie must match that of the DVD player to be viewed. DVD region codes are numbered 1 through to 8; with the first six being specific geographical regions and seven and eight being reserved for special play arenas.   Region 1 (R1): USA, Canada  Region 2 (R2): Japan, Europe, South Africa, Middle East, Greenland  Region 3 (R3): S.Korea, Taiwan, Hong Kong, Parts of South East Asia  Region 4 (R4): Australia, New Zealand, Latin America (including Mexico)  Region 5 (R5): Eastern Europe, Russia, India, Africa  Region 6 (R6): China  Region 7 (R7): Reserved for unspecified special use  Region 8 (R8): Reserved for cruise ships, airlines and so on  All-region Discs (also called Region 0) are un-coded and can be played Worldwide  See Webopedia's DVD Regional (Country) Codes in our Quick Reference section.
+
+register
+(n) A special, high-speed storage area within the CPU. All data must be represented in a register before it can be processed. For example, if two numbers are to be multiplied, both numbers must be in registers, and the result is also placed in a register. (The register can contain the address of a memory location where data is stored rather than the actual data itself.)
+The number of registers that a CPU has and the size of each (number of bits) help determine the power and speed of a CPU. For example a 32-bit CPU is one in which each register is 32 bits wide. Therefore, each CPU instructioncan manipulate 32 bits of data.
+Usually, the movement of data in and out of registers is completely transparent to users, and even to programmers. Only assembly language programs can manipulate registers. In high-level languages, the compiler is responsible for translating high-level operations into low-level operations that accessregisters.
+
+registered_memory
+A memory module that contains registers that hold the data for one clock cycle before it is moved on to the motherboard. This process increases the reliability of high-speed data access. Registered memory modules are typically used only in servers and other mission-critical systems where it is extremely important that the data is properly handled.
+
+Registration_Admission_Status
+Registration, Admission and Status (RAS) is a management protocol between endpoints (terminals and gateways) and gatekeepers. The RAS is used to perform registration, admission control, bandwidth changes, status, and disengage procedures between endpoints and gatekeepers.
+
+registry
+A database used by the Windows operating system (Windows 95 and NT ) to store configuration information. The Registry consists of the following major sections:  HKEY_Classes_Root - file associations and OLE information HKEY_Current_User - all preferences set for current user HKEY_User - all the current user information for each user of the system HKEY_Local_Machine - settings for hardware, operating system, and installed applications HKEY_Current_Configuration - settings for the display and printers HKEY_Dyn_Data - performance data   Most Windows applications write data to the Registry, at least during installation. You can edit the Registry directly by using the Registry Editor (regedit.exe) provided with the operating system. However, you must take great care because errors in the Registry could disable your computer. Find out more about  Your Windows System Registry in Webopedia's "Did You Know...?" section.
+
+regression_testing
+
+The selective retesting of a software system that has been modified to ensure that any bugs have been fixed and that no other previously working functions have failed as a result of the reparations and that newly added features have not created problems with previous versions of the software. Also referred to as verification testing, regression testing is initiated after a programmer has attempted to fix a recognized problem or has added source codeto a program that may have inadvertently introduced errors. It is a quality control measure to ensure that the newly modified code still complies with its specified requirements and that unmodified code has not been affected by the maintenance activity.
+
+
+reimage
+Reimage is the process of removing all software on a computer and reinstalling everything. A reimage is necessary if your operating system becomes damaged or corrupted. You may also need to reimage if your system is plagued with spyware problems. The word reinstall is often used in place of reimage.
+
+REL
+Short for Rights Expression Language, a language for specifying rights to content, fees or other consideration required to secure those rights, types of users qualified to obtain those rights, and other associated information necessary to enable e-commerce transactions in content rights.
+
+related
+A Google search operator that allows a user to find websites similar to the site you specify in the search query. For example, related:www.webopedia.com will provide a Google search engine results page (SERP) that lists Web pages and Web sites that are similar to Webopedia.com.
+
+relational_database
+See RDBMS.
+
+relational_operator
+An operator that compares two values.  For example, the expression  x < 5  means x is less than 5. This expression will have a value of TRUE if the variable x is less than 5; otherwise the value of the expression will be FALSE.  Relational operators are sometimes called comparison operators. Expressions that contain relational operators are called relational expressions.   
+
+relationship_commerce
+Same as r-commerce.
+
+relative_address
+)An address specified by indicating its distance from another address, called the base address. For example, a relative address might be B+15, B being the base address and 15 the distance (called the offset).  There are two types of addressing: relative addressing and absolute addressing. In absolute addressing, you specify the actual address (called the absolute address ) of a memory location.  Relative and absolute addressing are used in a variety of circumstances. In programming, you can use either mode to identify locations in main memory or on mass storage devices. In spreadsheet applications, you can use either mode to designate a particular cell.   
+
+relative_cell_reference
+In spreadsheet applications, a reference to a cell or group of cells by indicating how far away it is from some other cell. For example, in Lotus 1-2-3 and many other spreadsheet programs, the cell reference "C2" is relative. Initially it points to the cell in the third column and second row, but it does this by specifying how far away this cell is from some other cell. For example, if you insert this reference in cell A1, the program will translate it to "2 columns right and 1 row down". If you then copy the reference to cell B4, it will now point to cell D5.  In contrast, an absolute cell reference always points to the same cell, no matter where the reference appears. 
+
+release_candidate
+Abbreviates as RC, a release candidate is a version of a program or software that is functional but not quite ready to be released to the consumer market. Often, glitches and issues with the software are known to the developer, and those issues need to be fixed before the developer releases the product to a sample of consumers for the next phase of development, beta testing. Some developers, such as Microsoft, have a special technical service users group to which they offer a release candidate for trial before a more open public beta test.
+
+remanufactured_cartridge
+In inkjet printing, a remanufactured cartridge is an OEM cartridge that has been used, but are remanufactured (recycled) and refilled with ink. Some printer manufacturers do offer remanufactured cartridges.
+
+remote
+In networks, remote refers to files, devices, and other resources that are not connected directly to your workstation. Resources at your workstation are considered local. 
+
+remote_access
+The ability to log onto a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. Whereas remote control refers to taking control of another computer, remote access means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
+
+remote_access_server
+A server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials into a network from home using an analog modem or an ISDN connection will dial into a remote access server. Once the user is authenticated he can access shared drives and printers as if he were physically connected to the office LAN.
+See the Server Types page in the Quick Reference section of Webopedia for a comparison of server types.
+
+Remote_Access_Service
+A feature built into Windows NT that enables users to log into an NT-based LAN using a modem, X.25 connection or WAN link. RAS works with several major network protocols, including TCP/IP, IPX, and Netbeui.  To use RAS from a remote node, you need a RAS client program, which is built into most versions of Windows, or any PPP client software. For example, most remote control programs work with RAS.
+
+Remote_Access_Trojan
+Abbreviated as RATs, a Remote Access Trojan is one of seven major types of Trojan horse designed to provide the attacker with complete control of the victim's system. Attackers usually hide these Trojan horses in games and other small programs that unsuspecting users then execute on their PCs. See also Trojan horse.
+
+remote_attack
+Any malicious attack that targets any computer other than the computer the attacker is currently logged on to. For example, the attacker can log on to a system but actually attack any computer or server on the same network. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+remote_backup
+In storage terminology, a remote backup refers to an online managed backup service for backing up data to a remote, cloud-based server ("cloud backup").
+To update or restore a cloud backup, customers need to use the service provider's specific client application or Web browser interface. Files and data can be automatically saved to the cloud backup service on a regular, scheduled basis, or the information can be automatically backed up anytime changes are made.
+Recommended Reading: Webopedia explains cloud backup.
+
+remote_control
+Refers to a program's or device's ability to control a computer system from a remote location. Remote-control programs for PCs enable you to access data stored on your home system even when you are traveling.  Remote control is different from remote access. In remote control, only keystrokes and screen updates are transmitted between the two machines as all processing originates in the remote-control device. In a remote access setup, the user is logged onto the network, using the phone line as an extension to the network. Thus, all traffic has to flow over a low-speed telephone line. 
+
+remote_control_software
+Software, installed in both machines, that allows a user at a local computer to have control of a remote computer via modem or other connection. Remote control operation is used to take control of an unattended desktop personal computer from a remote location as well as to provide instruction and technical support to remote users. 
+
+Remote_Desktop
+Remote Desktop, a function included with Windows XP Professional, enables you to connect to your computer across the Internet from virtually any computer, Pocket PC, or smartphone. Unlike a typical VPN connection (which will give a remote PC access to the company network) Remote Desktop will actually allow you to see and control your connected PC as though you were sitting directly in front of it.
+
+Remote_Desktop_Protocol
+Abbreviated as RDP, the Microsoft Remote Desktop Protocol is a multi-channel protocol that allows a user to connect to a computer running Microsoft Terminal Services. RDP is designed to support many different types of network  topologies such as ISDN, POTS, and many LAN protocols such as IPX, NetBIOS, or TCP/IP. See also Remote Desktop.
+
+remote_software
+Software for controlling a computer remotely via another device that's connected through a network or the  Internet. Remote desktop software enables the user to see and control a connected PC as though they are sitting directly in front of it.
+Remote access and desktop control software options include Windows-based applications such as Citrix Systems' GoToMyPC, LogMeIn, Symantec pcAnywhere and RealVNC, and Macintosh-based software like Apple Remote Desktop and Timbuktu.
+Newer versions of Windows also offer built-in remote desktop capabilities via the Remote Desktop Connection feature, which utilizes Microsoft's proprietary Remote Desktop Protocol (RDP).
+
+remote_terminal_unit
+Short for remote terminal unit. In SCADA systems, an RTU is a device installed at a remote location that collects data, codes the data into a format that is transmittable and transmits the data back to a central station, or master. An RTU also collects information from the master device and implements processes that are directed by the master. RTUs are equipped with input channels for sensing or metering, output channels for control, indication or alarms and a communications port.
+
+remote_wake_up
+See RWU.
+
+remotely_sensed_data
+A term commonly used in the GIS industry. Refers to data that has collected by a sensor that is not in direct contact with the area being mapped.
+
+remoting
+A .NET technology that allows objects residing in different application domains to communicate. Objects in different application domains are said to be separated by a remoting boundary. Objects using remoting may be on the same computer, or on different computers connected by a network. Remoting is the .NET replacement for DCOM.
+
+removable_hard_disk
+A type of disk drive system in which hard disks are enclosed in plastic or metal cartridges so that they can be removed like floppy disks. Removable disk drives combine the best aspects of hard and floppy disks. They are nearly as capacious and fast as hard disks and have the portability of floppy disks. Their biggest drawback is that they're relatively expensive. 
+
+rendering
+Refers to the process of adding realism to a computer graphics by adding three-dimensional qualities such as shadows and variations in color and shade. One technique for rendering graphics is called ray tracing. Another type of rendering is scanline rendering, which renders images one vertical line at a time instead of object-by-object as in ray tracing. In general, scanline rendering doesn't produce as good results as ray tracing, but it is used frequently in animation packages where the image quality of each individual frame isn't so important.    
+
+render_right
+The right to read, play, print or otherwise make content understandable to humans.
+
+RenderMan
+A rendering API that defines how  animation and modeling software should talk to rendering software. RenderMan's high-level language for the complex shaders that are used in very detailed animated movies and its antialiased motion blur allow designers to integrate stunning synthetic effects with live-action footage. RenderMan is a registered trademark of PIXAR. 
+
+repaginate
+To recalculate page breaks. Word processing and desktop publishing systems decide where to end one page and begin the next based on a set of parameters including the page size, margin size, and widow and orphan settings. Most systems automatically repaginate whenever you modify a document. However, repagination can be time-consuming, so some systems allow you temporarily turn off automatic repagination until you're ready. 
+
+repeater
+(rē-pēt´ër) (n.) A network device used to regenerate or replicate a signal. Repeaters are used in transmission systems to regenerate analog or digital signals distorted by transmission loss. Analog repeaters frequently can only amplify the signal while digital repeaters can reconstruct a signal to near its original quality.
+In a data network, a repeater can relay messages between subnetworks that use different protocols or cable types. Hubs can operate as repeaters by relaying messages to all connected computers. A repeater cannot do the intelligent routing performed by bridges and routers.
+
+
+replace
+To insert a new object in place of an existing object. The term is used most often in connection with search and replace operations, in which you search for one word or phrase and replace all occurrences with a new word or phrase. 
+
+replication
+The process of creating and managing duplicate versions of a database. Replication not only copies a database but also synchronizes a set of replicasso that changes made to one replica are reflected in all the others. The beauty of replication is that it enables many users to work with their own local copy of a database but have the database updated as if they were working on a single, centralized database. For database applications where users are geographically widely distributed, replication is often the most efficient method of database access.
+The Lotus Notes system was one of the first to make replication a central component of its design, which has been one of the main reasons for its success.
+
+
+report
+A formatted and organized presentation of data. Most database management systems include a report writer that enables you to design and generate reports. 
+
+report_writer
+Also called a report generator, a program, usually part of a database management system, that extracts information from one or more files and presents the information in a specified format. Most report writers allow you to select records that meet certain conditions and to display selected fields in rows and columns. You can also format data into pie charts, bar charts, and other diagrams. Once you have created a format for a report, you can save the format specifications in a file and continue reusing it for new data. 
+
+repository
+(1) Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network.
+Also see data warehouse and data mining.
+(2) In a CASE development system, a database of information about the software, including data elements, processes, inputs, outputs and interrelationships. A CASE system uses a repository to identify objects and rules for reuse.
+
+reputation_based_security
+An approach to system security that evaluates the reputations of the files and applications running on your PC on the fly. The security software tracks files and applications and dozens of their attributes including their age, download source, digital signature and prevalence. The attributes are then run through several complex algorithms to determine a reputation of a file. Reputation-based security is a feature of Norton Internet Security 2010 and Norton Antivirus 2010.  See also  Symantec Norton 2010 Hinges on Reputation on InternetNews.com.
+
+resample
+In graphics, the term resampling is used to describe the process of reducing or increasing the number of pixels in an image. Resampling can change the image file size as well as the image resolution.
+
+reserved_word
+A special word reserved by a programming language or by a program. You are not allowed to use reserved words as variable names. For example, in BASIC and COBOL, the word IF is reserved because it has a special meaning.  Reserved words are sometimes called keywords.   
+
+reset_button
+A button or switch on many computers that allows you to reset the computer. When you press the reset button, the computer will enter its start-up procedure as if you had turned the power off and then on again. Generally, you would use the reset button only when a program error has caused your computer to hang.  Note that on PCs, pressing the reset button is somewhat different from performing a warm reboot by pressing the Ctrl +Alt+Del reboot keys. Pressing the reset button performs a cold reboot. When you perform a warm reboot, the system does not repeat the initial start-up stages during which memory is checked. 
+
+resident_font
+Also called an internal font or built-in font, a resident font is a font built into the hardware of a printer. All dot-matrix and laser printers come with one or more resident fonts. You can add additional fonts by inserting font cartridges or downloading soft fonts.   
+
+residual_earnings
+A type of affiliate program where an affiliate is paid for not only the first sale from a referral, but and all subsequent sales from that  referrer over the life of the customer.  See "How Affiliate Marketing Works" in the Did You Know... section of Webopedia. Also see Refer-It.com, a directory of referral & affiliate programs for e-commerce, featuring information on over 6,500 affiliate programs. 
+
+resistive_memory_reram_rram
+ReRAM, or resistive memory cells, is a type of non-volatile memory that shares some similarities with phase change memory as both are considered to be types of memristor  technologies.
+ReRAM, also called RRAM (Resistive Random Access Memory), is considered to be a type of memristor technology — a passive two-terminal electronic device that is designed to express only the property of an electronic component that lets it recall the last resistance it had before being shut off ("memristance").
+How ReRAM Works
+ReRAM stores data using ions (charged atoms) as changes in electrical resistance, rather than electrons. According to researchers of Jülich Aachen Research Alliance (JARA), resistive memory can reduce the energy consumption of modern IT systems while increasing performance.
+
+resistive_touch
+One of the two primary types of touchscreen displays (along with capacitive) employed on smartphones, tablets, laptops and similar electronic devices. Resistive touch screens are typically cheaper to produce than their capacitive counterparts, but they have the drawbacks of being less sensitive and delivering reduced visual clarity in most cases.
+Contrast with Capacitive Touch
+In contrast to capacitive touch displays, which rely on electrical impulses, resistive touch displays distinguish and sense specific touch location when the two electrically-charged layers of the touchscreen are pressed together with physical force at a specific point.
+
+resistor
+An electronic component that resists, limits or regulates the flow of electrical current in an electronic circuit. Since the device has resistance it is used in a circuit for protection and current control.
+
+resolution
+Refers to the sharpness and clarity of an image. The term is most often used to describe monitors, printers, and bit-mapped graphic images. In the case of dot-matrix and laser printers, the resolution indicates the number of dots per inch. For example, a 300-dpi (dots per inch) printer is one that is capable of printing 300 distinct dotsin a line 1 inch long. This means it can print 90,000 dots per square inch.
+For graphics monitors, the screen resolution signifies the number of dots (pixels) on the entire screen. For example, a 640-by-480 pixel screen is capable of displaying 640 distinct dots on each of 480 lines, or about 300,000 pixels. This translates into different dpi measurements depending on the size of the screen. For example, a 15-inch VGAmonitor (640x480) displays about 50 dots per inch.
+Printers, monitors, scanners, and other I/O devices are often classified as high resolution, medium resolution, or low resolution. The actual resolution ranges for each of these grades is constantly shifting as the technology improves.
+
+resolution_enhancement
+A collection of techniques used in many laser printers to enable the printer to print at a higher resolution than normal. Most laser printers have printer engines that print at either 300 dpi (dots per inch) or 600 dpi. Using clever algorithms that recognize curved lines, a printer with resolution enhancement can produce output whose resolution appears to be much higher than the print engine's rated resolution. This is why many printer manufacturers characterize their printers with two resolution ratings: the engine resolution and the effective resolution.  A common resolution enhancement technique is to vary the size of the dots. 
+
+resource
+(1) Generally, any item that can be used. Devices such as printers and disk drives are resources, as is memory.  (2) In many operating systems, including Microsoft Windows and the Macintosh operating system, the term resource refers specifically to data or routines that are available to programs. These are also called system resources. 
+
+resource_locking
+(rē´s��rs lok´ing) (n.) The process of protecting the data in a database in a multiprocessing environment. Situations in which multiple users access common data at the same time require a method of ensuring the integrity of the data to ensure that more than one user does not write data to the database at the same time, which would result in data conflicts. In a DBMS, the degree of locking differs depending on how many users, or resources sharing data, are given locking and unlocking privileges.
+
+REST
+Short for Representational State Transfer is an architectural style for large-scale software design. REST was first articulated by Roy Fielding in his dissertationas:
+
+"REST emphasizes scalability of component interactions, generality of interfaces, independent deployment of components, and intermediary components to reduce interaction latency, enforce security, and encapsulate legacy systems. I describe the software engineering principles guiding REST and the interaction constraints chosen to retain those principles, contrasting them to the constraints of other architectural styles. Finally, I describe the lessons learned from applying REST to the design of the Hypertext Transfer Protocol and Uniform Resource Identifier standards, and from their subsequent deployment in Web client and server software." [Read the Dissertation]
+
+
+restore
+In graphical user interfaces, to restore means to return a window to its original size. 
+
+Retail_Software_License_Terms
+Abbreviated as RSLT, the Retail Software License Terms is a term used by Microsoft to describe an  end-user license agreement that governs single  software titles acquired by Full Packaged Product (FPP) purchase or acquired with the purchase of a new PC from an original equipment manufacturer (OEM). An RSLT generally grants the right to install one copy of the software on one PC and generally does not grant downgrade rights. See software licensing and EULA. See also "Is Software Ownership the Same as Licensing?" in the Did You Know...? section of Webopedia.
+
+retention
+The term used by online marketers to describe the efforts of a company to keep their customer or client from defecting to the competition.
+
+retina_display
+Retina Display is a marketing term developed by Apple to refer to devices and monitors that have a resolution and pixel density so high – roughly 300 or more pixels per inch – that a person is unable to discern the individual pixels at a normal viewing distance. Apple's Retina Display made its debut on 2011's iPhone 4S, which featured a 960x640 pixel screen with four times the number of pixels (326 pixels per inch) as the iPhone 4.
+The new iPad that was released in early 2012 included a 2048x1536 resolution Retina Display as well. The 2012 lines of updated Mac Book Pro and Mac Book Air notebooks are expected to include Retina Display screens with 2880x1800 resolution displays. Intel is also expected to help make Retina Display a reality in laptops and Windows 8 tablets and ultrabooks with its new Ivy Bridge processor architecture.
+
+retina-hd-display
+Retina HD Display is a marketing term first introduced by Apple with the debut of its iPhone 6 and iPhone 6 Plus smartphones. Retina HD Displays have a high-definition quality resolution and pixel density of at least 326 pixels per inch, which is sufficiently high enough for the average person to be unable to discern the individual pixels at a normal viewing distance.
+The iPhone 6 features a 4.7" Retina HD Display with a resolution of 1334x750, or 326 pixels per inch, which is actually the same pixel density as in the standard Retina Display of the iPhone 5S. The iPhone 6 Plus, on the other hand, sports a 5.5" Retina HD Display with a resolution of 1920x1080, or 401 pixels per inch.
+Additional Features in Retina HD Displays
+Some of the unique features in Retina HD Displays include dual-domain pixels, which enable color accuracy from corner to corner for better wide-angle viewing, an improved polarizer for clearer viewing when viewing the device with sunglasses, and precisely-aligned crystals for an enhanced viewing experience with deeper blacks and sharper text.
+
+retrosourcing
+Retrosourcing is the term used to describe the act of returning  outsourced operations back to in-house or moving it to a different service provider. Retrosourcing is typically a result of a contract termination or expiration.
+
+retrovirus
+Based on the biological term retrovirus, a computer retrovirus is one that actively seeks out an antivirus program on a computer system and attacks it. A retrovirus will attempt to disable and infect the antivirus software in order to avoid detection in the computer system. Also called anti-antivirus virus.See also AV Killer.
+
+return
+(1) (n.) A special code that causes a word processor or other application to advance to the beginning of the next line. A soft return is a return that the application inserts automatically when you reach the end of a line. A hard return is a return that you explicitly enter by pressing the Return or Enter key.  (2) (v.) When used in reference to search engines, to display the results of the searched information.
+
+Return_key
+Almost all computer keyboards have a key marked Return or Enter; the two names are synonymous. The Return key moves the cursor (or insertion point) to the beginning of the next line. But more important, it returns control to whatever program is currently running. After a program requests information from you (by displaying a prompt), it will usually not respond to your input until you have pressed the Return key. This allows you to correct typing mistakes or to reconsider your entry before it is too late. In many applications, pressing the Return key moves the cursor to the next field.  In word-processing programs, pressing the Return key inserts a hard return into a document.  In technical documentation, the Return key is sometimes signified by an arrow that looks something like <-'.  
+
+return_receipt
+A return receipt is an e-mail notification that informs you when and if the recipient has opened your message. This is one way to know if an e-mail you sent was received. It is important, however, not to rely on this alone for confirmation, because when you receive an e-mail with a return receipt notification, many e-mail clients will allow a user to send a return receipt "now", "later", or "never".
+
+returning_sessions
+In Google Analytics average page depth is the number of times unique visitors returned to your Web site during a specified time period. 
+
+Retweet
+Abbreviated as RT, Retweet is used on the Twitter Web site (a free social messaging tool), to show you are tweeting content that has been posted by another user. The format is RT @username where username is the twitter name of the person you are retweeting.
+
+reverse_engineering
+The process of recreating a design by analyzing a final product. Reverse engineering is common in both hardware and software. Several companies have succeeded in producing Intel-compatible microprocessors through reverse engineering. Whether reverse engineering is legal or not depends on who you ask. The courts have not yet made a definitive ruling. 
+
+reverse_Hyper_Threading
+A type of anti Hyper-Threading, in theory, that would allow two (or multiple) physical cores to emulate one physical core. Contrast with Hyper-Threading that enables multithreaded software applications to execute threads in parallel on a single physical core. In April 2006 it was reported by several Web sites that AMD is currently working on reverse Hyper-Threading  technology.See also Hyper-Threading.
+
+reverse_video
+A display method that causes a portion of the display to appear like a negative of the regular display. If the display screen normally displays light images against a dark background, putting it in reverse video mode  will cause it to display dark images against a light background.  Many programs use reverse video to highlight items, such as selected text or menu options. Also, some systems allow you to change the mode for all displays, so you can choose the display that is most comfortable for you. Some people prefer dark images on a light background, while others prefer light images on a dark background.   
+
+Revolution
+The codename given to a Nintendo game console system while in its development and beta phases. The Revolution codename is the console which was released under the official name of Wii. The Wii was released in North America in November 2006.
+
+revolution_analytics_big_data_analytics_software
+Revolution Analytics is a provider of big data analytics software. The company is a commercial provider of software and services based on the open source R project for statistical computing. The Revolution R Enterprise analytics software is designed to enable statistical analysis of big data.
+Revolution R Enterprise is a commercial package of R, an open-source functional programming language designed for statistical computing and graphics. R is being increasingly used for data analysis. Revolution R offers a version of R that can run in parallel, across multiple processors.
+
+
+Rexx
+Short for Restructured Extended Executor, an interpreted, structured, procedural script programming language created by IBM's Mike Cowlishaw that allows programs and algorithms to be written in a clear structured way. It was designed so that it would be truly easy to use for both professionals and casual users and was designed to work in several diverse application areas -- such as personal programming, command processing, application macro processing and application prototyping -- where different languages are typically used. It is, however, designed to be platform-independent.  Even though Rexx is not BASIC, it can be used to write simple programs and large robust programs and can be used for many of the programs for which BASIC would otherwise be used.  Rexx evolved between the years 1979 and 1982 and, in 1983, IBM made Rexx the standard System Product interpreter for CMS in VM/SP and VM/XA. IBM selected Rexx as its SAA Procedures Language in 1987 and brought the language to all of its operating platforms, including MVS, VM, OS/400, AIX and OS/2. Today, Rexx is available in either commercial form or as freeware for operating systems including Amiga, MS/PC-DOS, most UNIX systems, VMS, 16-bit Windows, Macintosh, Windows NT and all IBM systems. 
+
+rezence
+Rezence is a wireless charging technology and specification based on the principles of magnetic resonance and developed to wirelessly power smartphones, tablets, wearable computing devices and other mobile electronics. The name Rezence is derived from the words resonance and essence.
+The Alliance for Wireless Power (A4WP) organization is responsible for maintaining, promoting and evolving the Rezence technology. The A4WP was formed in 2012, and it launched the Rezence name and compatibility program in late 2013. The non-profit organization also revealed the Rezence logo at that time, a lightning bolt between a bottom and top bracket that together form the letter "Z."
+The Nascent But Heated Wireless Charging Battle
+Rezence contends in the nascent wireless charging sector with a number of competing standards, including the Wireless Power Consortium's Qi and the Power Matters Alliance's PowerMat. In February 2014, the A4WP and the Power Matters Alliance signed an agreement to adopt each other's technologies for greater compatibility and a higher likelihood of gaining mainstream acceptance.
+
+RF
+Short for radio frequency, RF is any frequency within the electromagnetic spectrum associated with radio wave propagation. When an RF current is supplied to an antenna, an electromagnetic field is created that then is able to propagate through space. Many wireless technologies are based on RF field propagation.
+These frequencies make up part of the electromagnetic radiation spectrum:
+
+Ultra-low frequency (ULF) -- 0-3 Hz
+Extremely low frequency (ELF) -- 3 Hz - 3 kHz
+Very low frequency (VLF) -- 3kHz - 30 kHz
+Low frequency (LF) -- 30 kHz - 300 kHz
+Medium frequency (MF) -- 300 kHz - 3 MHz
+High frequency (HF) -- 3MHz - 30 MHz
+Very high frequency (VHF) -- 30 MHz - 300 MHz
+Ultra-high frequency (UHF)-- 300MHz - 3 GHz
+Super high frequency (SHF) -- 3GHz - 30 GHz
+Extremely high frequency (EHF) -- 30GHz - 300 GHz
+
+Radio frequency is also abbreviated as rf or r.f..
+
+RF_site_survey
+A process used to determine the number and placement of access points (AP) that provides adequate coverage throughout the facility. With wireless systems, it's difficult to predict the propagation of radio waves and detect the presence of interfering signals without the use of test equipment. As a result, it's often necessary to perform a RF site survey to fully understand the behavior of radio waves within a facility before installing wireless network access points.  The ultimate goal of a RF site survey is to supply enough information to determine the number and placement of access points that provides adequate coverage throughout the facility. In most implementations, adequate coverage means support of a minimum data rate. A RF site survey also detects the presence of interference coming from other sources that could degrade the performance of the wireless LAN.   See "RF Site Survey Steps" on Wi-Fi Planet.
+
+RF_tag
+In an RFID system the transponder that contains the data to be transmitted is called an RF tag. RF tags are either active or passive. See also active tag and passive tag.
+
+RFC
+Short for Request for Comments, a series of notes about the Internet, started in 1969 (when the Internet was the ARPANET). An Internet Document can be submitted to the IETF by anyone, but the IETF decides if the document becomes an RFC. Eventually, if it gains enough interest, it may evolve into an Internet standard.
+Each RFC is designated by an RFC number. Once published, an RFC never changes. Modifications to an original RFC are assigned a new RFC number.
+
+
+RFID
+(pronounced as separate letters) Short for radio frequency identification, RFID is a technology similar in theory to bar code identification. With RFID, the electromagnetic or electrostatic coupling in the RF portion of the electromagnetic spectrum is used to transmit signals.
+RFID Systems
+RFID systems consists of an antenna and a transceiver, which read the radio frequency and transfer the information to a processing device, and a transponder, or tag, which is an integrated circuit containing the RF circuitry and information to be transmitted.
+RFID systems can be used just about anywhere, from clothing tags to missiles to pet tags to food -- anywhere that a unique identification system is needed. The tag can carry information as simple as a pet owners name and address or the cleaning instruction on a sweater to as complex as instructions on how to assemble a car. Some auto manufacturers use RFID systems to move cars through an assembly line. At each successive stage of production, the RFID tag tells the computers what the next step of automated assembly is.
+
+RFID_printer
+A printing device used to write data to a RFID tag and also print any graphics, barcodes and text onto the label as well.
+
+RFMON
+Short for Radio Frequency Monitoring, RFMON is a passive method of WLAN discovery. It is a sniffing mode which allows the card to report drivers from the 802.11 layer. A client with a wireless card that is configured in RFMON mode will be able to capture all RF signals on the channels to which it is configured to listen. RFMON is a receive-only mode. While in RFMON mode, wireless clients are unable to transmit any frames; their cards are only able to receive, and therefore capture traffic.
+
+RFP
+Short for Request for Proposal, a document that an enterprise sends to a vendor inviting the vendor to submit a bid for hardware, software, services, or any combination of the three. An organization typically issues the RFP in order to assess competing bids.
+
+RG
+Short for Radio Guide, RG is a designation for different types of coaxial cable, which is a type of wire that consists of a center wire surrounded by insulation and then a grounded shield of braided wire. The RG specification is a older military-initiated specification. RG-6 is one of the most commonly used coaxial cables for residential and commercial applications, and is also the standard CATV used to route home cable television.
+
+RGB_monitor
+Short for red, green, blue monitor, a monitor that requires separate signals for each of the three colors. This differs from color televisions, for example, which use composite video signals, in which all the colors are mixed together. All color computer monitors are RGB monitors.  An RGB monitor consists of a vacuum tube with three electron guns -- one each for red, green, and blue -- at one end and the screen at the other end. The three electron guns fire electrons at the screen, which contains a phosphorous coating. When the phosphors are excited by the electron beams, they glow. Depending on which beam excites them, they glow either red, green, or blue. Ideally, the three beams should converge for each point on the screen so that each pixel is a combination of the three colors. Also see The Science of Color and Northern vs. Southern Hemishpere Monitors in the Did You Know . . . ? section of Webopedia.
+
+rhapsody
+An online music and Internet radio service that serves music on demand to its subscribers.  Originally launched in 1999 as TuneTo.com, Rhapsody was acquired first by Listen.com in 2001 and then by RealNetworks in 2003 before becoming independent again in 2010. Rhapsody offers subscription plans for $10 (Rhapsody Premier) and $15 a month (Rhapsody Premier Plus), with the latter option providing mobile access for up to three devices instead of just one.
+Rhapsody subscribers have on-demand access to a catalog of more than 13 million songs and can purchase songs for use separate from the Rhapsody service.  Subscribers can listen to Rhapsody via a Web-enabled player, a standalone downloadable player or a downloadable app.  Rhapsody apps for various smartphone and mobile device platforms, including Apple’s iPhone and iPod touch, Android-powered devices, BlackBerry phones and Windows Phone 7 smartphones, are currently available to Rhapsody subscribers.
+
+RHSBL
+Acronym for Right-Hand Side Blacklist. A type of DNSBL that uses  domain names instead of IP addresses.
+
+RIA
+Abbreviated as RIA, Rich Internet Applications are Web-based applications that function as traditional desktop applications however Web browsers (or clients) are required for access but unlike traditional applications, software installation is not required, however depending on the application you usually will need to have ActiveX, Java, Flash, or similar technologies installed on the client machine.
+
+ribbon_cable
+A flat, thin cable containing many parallel wires. Because of their shape, ribbon cables are ideal for situations where space needs to be conserved. They're used, for example, within a computer chassis to connect disk drives to the disk drive controllers. 
+
+Rich_Internet_Application
+Abbreviated as RIA, Rich Internet Applications are Web-based applications that function as traditional desktop applications however Web browsers (or clients) are required for access but unlike traditional applications, software installation is not required, however depending on the application you usually will need to have ActiveX, Java, Flash, or similar technologies installed on the client machine.
+
+Rich_Snippets
+In Google search engine technology a snippet is the small sample of content shown to users on the Google search results page. In May 2009, Google introduced Rich Snippets, which according to Google is "a new presentation of snippets that applies Google's algorithms to highlight structured data embedded in Web pages". Rich Snippets are used by Webmasters and site authors to provide a convenient summary about the search result. To display Rich Snippets, Google looks for markup formats (microformats and RDFa) that Webmasters can add to Web pages to make structured data available for Google's search results. [Source:  Adapted from Google Webmaster Central]
+
+rich_text_format_RTF
+A standard formalized by Microsoft Corporation for specifying formatting of documents. RTF files are actually ASCII files with special commands to indicate formatting information, such as fonts and margins. Other document formatting languages include the Hypertext Markup Language (HTML), which is used to define documents on the World Wide Web, and the Standard Generalized Markup Language(SGML), which is a more robust version of HTML.
+
+
+Richard_Stallman
+)[Image courtesy Richard Stallman Bio] Richard Matthew Stallman is a software developer and self-titled software freedom activist. He is credited with founding the GNU Project in 1984 (first announced in 1983), and the Free Software Foundation in 1985. He is also the author of several development tools including the GNU Compiler Collection (GCC), the GNU symbolic debugger (GDB) and GNU Emacs.  In 1999, Stallman called for development of a free on-line encyclopedia through the means of inviting the public to contribute articles, the same philosophy which was adopted by the Wikipedia encyclopedia project
+
+RIFF
+RIFF is a file structure for multimedia resource files, it is not a file format but rather the structure that defines the class of more specific file formats, such as WAV and AVI. The RIFF format specifications were first developed by IBM and Microsoft, and published by in 1991 in "Microsoft Windows Multimedia Programmer's Reference". Since 1990 no new multimedia file formats have used the RIFF file structure.
+
+right
+A legally recognized entitlement to do something to or with content.
+
+rights_clearance
+Obtaining a right from a rightsholder, often through a permission letter or a financial transaction.
+
+rightsholder
+The person or entity that owns a set of rights (often the copyright) on a given content item.
+
+Rijndael
+(1) Short for Advanced Encryption Standard, a symmetric 128-bit block data encryption technique developed by Belgian cryptographers Joan Daemen and Vincent Rijmen. The U.S government adopted the algorithm as its encryption technique in October 2000, replacing the DES encryption it used. AES works at multiple network layers simultaneously. The National Institute of Standards and Technology (NIST) of the U.S. Department of Commerce selected the algorithm, called Rijndael (pronounced Rhine Dahl or Rain Doll), out of a group of five algorithms under consideration, including one called MARS from a large research team at IBM.While the terms AES and Rijndael are used interchangeably, there are some differences between the two. AES has a fixed block size of 128-bits and a key size of 128, 192, or 256-bits, whereas Rijndael can be specified with any key and block sizes in a multiple of 32-bits, with a minimum of 128-bits and a maximum of 256-bits.  (2) Short for Audio Engineering Society, AES is a professional standards organization that is devoted exclusively to audio technology. Founded in 1948, AES is an international organization with a mission of uniting audio engineers, creative artists, scientists and students. AES currently has over 14,000 members and offers guest speakers, technical tours, demonstration, scientific presentations and exhibitions. The organization is also involved in the creation and maintenance of international standards in the areas of digital and analog audio engineering, communications technology, acoustics, media preservation and creative practice.
+
+RILOE_2
+Short for Remote Insight Lights-Out Edition II  it provides a remote management option for HP ProLiant server models without embedded Integrated Lights-Out. RILOE II provides full front-of-the-server remote control of resources located in data centers and remote sites. Using RILOE II features, an administrator can deploy, configure, monitor, update, and troubleshoot remote ProLiant servers anywhere, anytime from a standard Web browser in Windows and Linux environments.
+
+RIMM
+The memory module used with RDRAM chips. It is similar to a DIMM package but uses different pin settings. Rambus trademarked the term RIMM as an entire word. It is the term used for a module using Rambus technology. It is sometimes incorrectly used as an acronym for Rambus Inline Memory Module.
+
+ring_network
+A local-area network (LAN) whose topology is a ring. That is, all of the nodes are connected in a closed loop. Messages travel around the ring, with each node reading those messages addressed to it. One of the advantages of ring networks is that they can span larger distances than other types of networks, such as bus networks, because each node regenerates messages as they pass through it. For network diagrams, see Network Topology Diagrams in the Quick Reference section of Webopedia.
+
+ringtone
+The sound a mobile phone makes to notify the owner they have an incoming call. The term is most often used to describe the many different customizable sounds and music available for cellphone owners to download and use.
+
+RIP
+(1) Pronounced rip, acronym for raster image processor.  (2) Short for Routing Information Protocol.  (3) See ripper.
+
+ripcording
+Slang term for ripping and  recording. The term is used to describe the process of recording a music or audio stream from the Web while simultaneously ripping an MP3 of the file.
+
+RIPE_NCC
+Short for the R��seaux IP Europ��ens Network Coordination Centre. RIPE NCC is one of four regional Internet registries that supply and administer IP addresses. Founded in 1989, RIPE NCC is a non-profit organization. RIPE NCC provides IP numbers to Europe, the Middle East and parts of Africa and Asia.  Also see ARIN, LACNIC and APNIC.
+
+ripper
+A software program that "grabs" digital audio from a compact disc and transfers it to a computer's hard drive. The integrity of the data is preserved because the signal does not pass through the computer's sound card and does not need to be converted to an analog format. The digital-to-digital transfer creates a WAV file that can then be converted into an MP3 file.  To rip is to move the data from the compact disc to the hard drive.
+
+RIS
+Short for Remote Installation Service, a feature of Microsoft's Windows 2000 Server. RIS allows a network administrator to install the Windows 2000 operating system to any number of client computers simultaneously from a central location. The administrator places images, or versions, of built systems onto a central server and then downloads those images to a computer with an empty hard disk. RIS also allows administrators to implement upgrades in the same simultaneous fashion.
+
+RISC
+Pronounced risk, acronym for reduced instruction set computer, a type of microprocessor that recognizes a relatively limited number of instructions. Until the mid-1980s, the tendency among computer manufacturers was to build increasingly complex CPUs that had ever-larger sets of instructions. At that time, however, a number of computer manufacturers decided to reverse this trend by building CPUs capable of executing only a very limited set of instructions. One advantage of reduced instruction set computers is that they can execute their instructions very fast because the instructions are so simple. Another, perhaps more important advantage, is that RISC chips require fewer transistors, which makes them cheaper to design and produce. Since the emergence of RISC computers, conventional computers have been referred to as CISCs (complex instruction set computers).  There is still considerable controversy among experts about the ultimate value of RISC architectures. Its proponents argue that RISC machines are both cheaper and faster, and are therefore the machines of the future. Skeptics note that by making the hardware simpler, RISC architectures put a greater burden on the software. They argue that this is not worth the trouble because conventional microprocessors are becoming increasingly fast and cheap anyway.  To some extent, the argument is becoming moot because CISC and RISC implementations are becoming more and more alike. Many of today's RISC chips support as many instructions as yesterday's CISC chips. And today's CISC chips use many techniques formerly associated with RISC chips.    
+
+riser_card
+(1) An expansion card that is used to extend a slot for a chip or card in a fully loaded computer to make room to plug it in. It may also refer to a card that contains several slots used in low-profile, space-saving cabinets. The cards are plugged into the riser card and reside parallel with the motherboard. (2) A PC expansion card that contains audio, modem and networking capabilities. See also AMR and CNR.
+
+RJ_11
+Short for Registered Jack-11, a four- or six-wire connector used primarily to connect telephone equipment in the United States. RJ-11 connectors are also used to connect some types of local-area networks (LANs), although RJ-45 connectors are more common. 
+
+RJ_45
+Short for Registered Jack-45, an eight-wire connector used commonly to connect computers onto a local-area networks (LAN), especially Ethernets. RJ-45 connectors look similar to the ubiquitous RJ-11 connectorsused for connecting telephone equipment, but they are somewhat wider.
+
+
+RLaB
+A high-level programming language used for fast prototyping and program development, as well as easy data-visualization and processing. Rlab is copyrighted with the GNU General Public License. RLaB is no longer under active development.
+
+RLC
+The file extension for graphics that have been reduced using run-length encoding. RLE is a compression method that converts consecutive identical characters into a code consisting of the character and the number marking the length of the run. The longer the run, the greater the compression. It works best with black-and-white or cartoon-style graphics, and is used to compress Windows start-up logos.
+Related terms include RLC. Short for Run-Length Coding, a standard coding technique for image or video compression.
+
+RLE
+The file extension for graphics that have been reduced using run-length encoding. RLE is a compression method that converts consecutive identical characters into a code consisting of the character and the number marking the length of the run. The longer the run, the greater the compression. It works best with black-and-white or cartoon-style graphics, and is used to compress Windows start-up logos.
+Related terms include RLC. Short for Run-Length Coding, a standard coding technique for image or video compression.
+
+RLL
+Short for run length limited, an encoding scheme used to store data on newer PC hard disks. RLL produces fast data access times and increases a disk's storage capacity over the older encoding scheme called MFM  (modified frequency modulation).  Technically, any disk drive can use MFM, RLL, or some other encoding scheme. The one used depends on the integrate disk controller within the disk drive. 
+
+RMA
+(pronounced as separate letters) Short for returned materials (or merchandise) authorization, an alphanumeric identifier used by hardware manufacturers that indicates a user has been authorized by a company representative to return a product to the manufacturer for repair or refund. An RMA is similar to a tracking number in that it identifies a transaction, and both parties can get information on the progress of the transaction by using the RMA. It is not uncommon for a company to refuse a returned item if it is not accompanied by an RMA identifier. A practical reason for using an RMA system is that manufacturers want the customer to contact them before simply returning a product for repair or refund because the problem may be remedied during the live interaction with the company��s representative. The issuance of an RMA often is the last resort when the problem with the product cannot be rectified.
+
+RMI
+Short for Remote Method Invocation, a set of protocols being developed by Sun's JavaSoft division that enables Java objects to communicate remotely with other Java objects. RMI is a relatively simple protocol, but unlike more complex protocols such as CORBA and DCOM, it works only with Java objects. CORBA and DCOM are designed to support objects created in any language. 
+
+RMON
+Short for remote monitoring, a network management protocol that allows network information to be gathered at a single workstation. Whereas SNMP gathers network data from a single type of Management Information Base (MIB), RMON 1 defines nine additional MIBs that provide a much richer set of data about network usage. For RMON to work, network devices, such as hubs and switches, must be designed to support it. 
+
+RMS
+Acronym for Root Mean Square. 
+RMS is the process used to determine the average power outputof the speakers over a long period of time. RMS is derived from an equation which produces the most mathematically accurate measure of a speaker's power output. The RMS value is often seen listed as "watts RMS" on product packaging.
+The alternative to RMS is PMPO(peak momentary power output) which represents peak output measured in microseconds rather than over a long period of time.
+
+roaming
+In wireless networking, roaming refers to the ability to move from one AP coverage area to another without interruption in service or loss in connectivity.
+
+ROBO
+(pronounced as a single word) Short for remote office, branch office ROBO is a term used to refer to any off-site office that connects to the organization's WLAN or LAN externally.
+
+robot
+(1) A device that responds to sensory input. See under robotics.  (2) A program that runs automatically without human intervention. Typically, a robot is endowed with some artificial intelligence so that it can react to different situations it may encounter. Two common types of robots are agents and spiders. 
+
+robotics
+The field of computer science and engineering concerned with creating robots, devices that can move and react to sensory input. Robotics is one branch of artificial intelligence.
+Robots are now widely used in factories to perform high-precision jobs such as welding and riveting. They are also used in special situations that would be dangerous for humans -- for example, in cleaning toxic wastes or defusing bombs.
+Although great advances have been made in the field of robotics during the last decade, robots are still not very useful in everyday life, as they are too clumsy to perform ordinary household chores.
+
+robots_dot_txt
+Robots.txt is common name of a text file that is uploaded to a Web site's root directory and linked in the html code of the Web site. The robots.txt file is used to provide instructions about the Web site to Web robots and spiders. Web authors can use robots.txt to keep cooperating Web robots from accessing all or parts of a Web site that you want to keep private.
+
+robust
+(adj.) When used to describe software or computer systems, robust can describe one or more of several qualities: a system that does not break down easily or is not wholly affected by a single application failure a system that either recovers quickly from or holds up well under exceptional circumstances a system that is not wholly affected by a bug in one aspect of it a system that comes with a wide range of capabilities. (It should be noted that this last sense of the term robust is not uniformly accepted in technical circles. The term is typically used in this sense in the marketing of software or computer systems to emphasize a selling point and does not refer to the first three meanings of the term.)
+
+ROC
+Short for Run Of Channel, in  online advertising ROC is a type of online ad buying campaign where the banner, image or media ad will appear on any channel of a publisher's site.
+See ROS. See also RON.
+
+ROCm
+Short for Radio-on-Chip for Mobile, ROCm is a single chip wireless LAN (WLAN) solutions that incorporate 802.11g or 802.11a/g into consumer mobile  devices such as handsets, PDAs, cameras, game units and media players. ROCm products are small form factor, offer low power consumption and provide an overall high throughput performance in data or video networking products.
+
+rogue_access_point
+A rogue access point, also called rogue AP, is any Wi-Fi access point that is installed on a  network but is not authorized for operation on that network, and is not under the management of  the network administrator. Rogue access points often do not conform to wireless LAN (WLAN) security policies, and additionally can allow anyone with a Wi-Fi device to connect to your network. A rogue access point is one of two categories of rogue wireless devices, with the other being rogue peers. See also access point (AP). Also see the  Wireless Networking Standards chart in the Quick Reference section of Webopedia. 
+
+rogue_antivirus_software
+Also called smitfraud, scareware, or rogue security software, this type of software is defined as malware - it is designed specifically to damage or disrupt a computer system. In this case, not only is the software going to disrupt your system, it's going to try and trick you into making a purchase using your credit card.   This specific type of malware appears to users in the form of a fake Windows warning on your computer system that reads you have a specific number of viruses on your computer (usually in the hundreds) and that this software has detected those viruses. To get rid of them you must download and purchase the full-version of the antivirus software. It's important to remember that by purchasing the "claimed full version to remove the viruses" you will be submitting your personal information to unscrupulous persons and may also end up being a victim of credit card or identity fraud or theft.  The good news is that you probably do not have a computer that is infested with hundreds of viruses as the rouge software claims. The bad news is that the rogue antivirus software itself is on your computer and you must remove it, a process that is hindered as the rouge software usually locks the control panel and the the Add/Remove Programs function to prevent users from removing it. Other things that may be disrupted by the rogue software include being unable to visit reputable and valid antivirus and malware Web sites, being able to install legitimate antivirus software and also being unable to access your desktop.   Common names of some rogue antivirus software include; AntiVirus (2007, 2008, and 2009), MS-Antispyware, XP AntiVirus (2007, 2008, and 2009), Home Antivirus 2009, SpyWareGuard, Malware Cleaner, Extra Antivirus, as well as many other names. See "Rogue Anti-Virus Software Explained" in the Did You Know...? section of Webopedia.
+
+rogue_certification_authority_certificate
+A false digital certificate used to secure Web sites. A rogue Certification Authority (CA) certificate allows malicious users to impersonate any Web site on the Internet, including banking and e-commerce sites secured using the HTTPS protocol. A rogue CA certificate would be seen as trusted by Web browsers, and it is harmful because it can appear to be signed by one of the root CAs that browsers trust by default. A rogue Certification Authority (CA) certificate can be created using a vulnerability in the Internet Public Key Infrastructure (PKI) used to issue digital certificates for secure Web sites.
+
+rogue_peer
+A rogue peer is an end-user computer-usually a  laptop-that has both bridging and wireless enabled. Since the basic functions of an access point are bridging and wireless access, any laptop that has these capabilities presents a similar vulnerability or worse. The vulnerability with a rogue peer can be much more severe than with a rogue AP, because laptops provide almost no security features to prevent connections from other unauthorized users.  A rogue peer is one of two categories of  rogue wireless devices, with the other being rogue access points.
+
+rogue_wireless_device
+A wireless networking term used to describe unauthorized devices connected to the network that poses a significant risk to the organization. Rogue wireless devices can be broken down into two categories: access point (AP) based threats (rogue access points) and computer based threats (rogue peers).
+
+ROI
+(1) Short for return on investment, ROI is an accounting formula used to obtain an actual or perceived future value of an expense or investment.
+(2) Short for region of interest, it is a term most commonly used in reference to a "machine vision" field of view (i.e. digital camera, scanner, medical x-ray equipment, etc.). 
+(3) Short for region of interest (ROI) coding it is a function supported by JPEG2000 it enables a non-uniform distribution of the image quality between a selected region (the ROI) and the rest of the image (background).
+
+RoIP
+Short for Radio over Internet Protocol (IP), RoIP is frequently used to describe an extension of VoIP using radio repeaters and base stations. Unlike VoIP, where two voice communication takes place between two telephones (or devices that act as telephones), RoIP is radio interoperability that is enabled through hardware devices, such as between new and legacy radio systems or land mobile radio and a computer or PDA.  To work, devices are connected at base stations that are connected to IP gateways. At the IP gateway software will transcode the voice communication into IP packets which is then transmitted through to one or more other gateways to be converted into the language of the device being used. This is what enables the different types of devices to talk to each other.
+
+ROKSO
+Acronym for Register of Known Spam Operations, a free-access public register of spam operations that have been thrown off of at least three ISPs for their spamming activities. ISPs do not throw off suspected spammers without warning and giving the outfits a chance to stop their activities. ROKSO's rationale is that any organization that has been thrown off three or more ISPs for spamming are considered "hard-line" spammers who have signed onto an ISP with the intention of breaking the ISP's Terms of Service -- most ISPs have regulations that specifically state that known spamming will not be tolerated. ROKSO is maintained by The Spamhaus Project, an organization that works with ISPs to identify and remove spammers from the Internet.Also see Getting Rid of Spam in the Did You Know section of Webopedia.
+
+Role_Based_Access_Control
+See RBAC.
+
+ROM
+Pronounced rahm, acronym for read-only memory, computer memory on which data has been prerecorded. Once data has been written onto a ROM chip, it cannot be removed and can only be read.
+Unlike main memory (RAM), ROM retains its contents even when the computer is turned off. ROM is referred to as being nonvolatile, whereas RAM is volatile.
+Most personal computers contain a small amount of ROM that stores critical programs such as the program that boots the computer. In addition, ROMs are used extensively in calculators and peripheral devices such as laser printers, whose fontsare often stored in ROMs.
+
+roman
+In typography, roman refers to fonts with characters that are straight up and down rather than slanted. A font designed with characters slanted to the right is italic.   
+
+ROMB
+Short for RAID on motherboard, a memory system in which every component of the RAID subsystem is placed directly on the motherboard. A ROMB system is advantageous because the RAID component of the system is kept separate from the PCI buses so that the PCI buses do not interfere with RAID traffic and cause bottlenecking. The motherboard also typically stays cooler than other parts of a computer; therefore, the RAID system works more efficiently and reliably because it too stays cooler.  One disadvantage to a ROMB system is that the hardware is not upgraded easily.
+
+RON
+Short for run of network, in  Online Advertising RON is a type of online ad buying campaign where the banner, image, media or text ads can appear on any Web site within an ad network.
+
+root_directory
+)The top directory in a file system. The root directory is provided by the operating system and has a special name; for example, in DOS systems the root directory is called \. The root directory is sometimes referred to simply as the root.   
+
+root_disk
+Refers to the disk where the root directory is stored. A root disk is usually a fixed disk or hard disk.
+
+root_server_system
+A system of 13 file servers that are distributed around the globe and contain authoritative databases that form a master list of all top-level domain names (TLDs). There is one central, or "A", server that replicates changes to the other servers on a daily basis. Different organizations maintain the servers on the root server system. The U.S. government plays a role in maintaining about half of the servers.
+
+rooting
+Rooting refers to the process of giving root access to subsystems of the Android mobile operating system on Android-based mobile devices like smartphones and tablets.
+Specifically, rooting an Android mobile device involves adding a Linux application called "su," which stands for SuperUser, that allows applications and commands on the device to run with elevated permissions. With the Android mobile OS utilizing the Linux kernel at its core, rooting an Android mobile device gives similar but more restricted access as on Linux operating systems.
+Examples of actions a user can perform on a rooted device include running applications with administrator-level permissions, changing restricted system settings and applications, setting up wireless tethering, customizing the look of the device, and removing and replacing the device's operating system with a newer or different mobile OS.
+
+rootkit
+A rootkit is a type of malicious software that is activated each time your system boots up. Rootkits are difficult to detect because they are activated before your system's Operating System has completely booted up. A rootkit often allows the installation of hidden files, processes, hidden user accounts, and more in the systems OS. Rootkits are able to intercept data from terminals, network connections, and the keyboard.
+
+ROR
+Short for remote outdoor router, a device that connects a remote location in a WLAN to either another remote location with an ROR for a point-to-point connection or to the system's COR for point-to-multipoint connections. The ROR can connect to only one other unit at one time - either another ROR or the COR. The COR can connect to multiple RORs.
+
+ROS
+Short for run of site, in  Online Advertising ROS is a type of online ad buying campaign where the banner, image, or media ad can appear on any page within the targeted Web site.
+
+RossettaNet
+Named after the ancient Rosetta stone, which helped decipher hieroglyphics. A non-profit organization (www.rosettanet.org) that seeks to implement standards for supply-chain (manager-supplier) transactions on the Internet. Created in Winter 1998, the group includes companies like American Express, Microsoft, Netscape, and IBM, and is working to standardize labels for elements like product descriptions, part numbers, pricing data, and inventory status. The group hopes to implement many of its goals through XML, a mark-up language that lets programmers classify information with tags. 
+
+rotational_latency
+Also called rotational delay, the amount of time it takes for the desired sector of a disk (i.e., the sector from which data is to be read or written) to rotate under the read-write heads of the disk drive. The average rotational latency for a disk is half the amount of time it takes for the disk to make one revolution. The term typically is applied to rotating storage devices, such as hard disk drives and floppy drives (and even older magnetic drum systems), but not to tape drives.
+
+ROTFL
+Acronym for rolling on the  floor laughing. ROTFL is commonly used in  newsgroups, chat rooms, instant messaging, text messaging, SMS, e-mail and other real time text-based communications.  See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations. 
+
+rotoscoping
+In 3D animation, rotoscoping is a technique that allows you to create animation that mimics live action video. For example, a live actor may be filmed doing a series of actions, and the  animator would have the digital character mimic the actions of the human actor for a realistic animated scene.  The rotoscoping technique was invented by Max Fleischer, who used it in his series "Out of the Inkwell" in 1915.
+
+Round_Robin_DNS
+A load balancing technique in which balance power is placed in the DNS server instead of a strictly dedicated machine as other load techniques do.  Round robin works on a rotating basis in that one server IP address is handed out, then moves to the back of the list; the next server IP address is handed out, and then it moves to the end of the list; and so on, depending on the number of servers being used. This works in a looping fashion.  Round robin DNS is usually used for balancing the load of geographically distributed Web servers. For example, a company has one domain name and three identical home pages residing on three servers with three different IP addresses. When one user accesses the home page it will be sent to the first IP address. The second user who accesses the home page will be sent to the next IP address, and the third user will be sent to the third IP address. In each case, once the IP address is given out, it goes to the end of the list. The fourth user, therefore, will be sent to the first IP address, and so forth.  Although very easy to implement, round robin DNS has important drawbacks, such as those inherited from the DNS hierarchy itself and TTL times, which causes undesired address caching to be very difficult to manage. Moreover, its simplicity makes that remote servers that go unpredictably down inconsistent in the DNS tables. However, this technique, together with other load balancing and clustering methods, can produce good solutions for some situations.  (Special thanks to Tom��s S��nchez L��pez for providing the updated definition for this term.)
+
+route_control
+Route control product packages provide optimized Internet connectivity and, at the same time, decreases the cost of bandwidth for large data centers and other organizations where bandwidth costs and high network traffic are a concern. Data centers multihomed with multiple ISP connections benefit from route control as constant ISP performance evaluations are executed, and your outgoing data traffic is then directed to the ISP connection that is currently boasting the best performance at the best price. Route control products handle the switching of outgoing data between ISPs in real time, adapting the routing choice based on the results of the performance evaluations.
+
+routefile
+The name of a file containing routing rules.  See also routing.
+
+router
+(row´ter) (n.) A router is a device that forwards data packets along networks. A router is connected to at least two networks, commonly two LANs or WANs or a LAN and its ISP's network. Routers are located at gateways, the places where two or more networks connect.
+Routers use headers and forwarding tables to determine the best path for forwarding the packets, and they use protocols such as ICMP to communicate with each other and configure the best route between any two hosts.
+Very little filtering of data is done through routers.
+
+router_firmware
+Software that is embedded inside your router. This software provides network protocols, security and administrative controls. When users install a router they access the firmware that is on a read-only memory chip inside inside the router to set up security and administrative options. Router firmware can be upgraded by the user.
+See "Common Router Settings" in the Quick Reference section of Webopedia. See also Webopedia's "Did You Know... Routers, Switches and Hubs: What's the Difference?"
+
+routine
+A section of a program that performs a particular task. Programs consist of modules, each of which contains one or more routines. The term routine is synonymous with procedure, function, and subroutine.   
+
+routing
+(n.) In internetworking, the process of moving a packet of data from source to destination. Routing is usually performed by a dedicated device called a router. Routing is a key feature of the Internet because it enables messages to pass from one computer to another and eventually reach the target machine. Each intermediary computer performs routing by passing along the message to the next computer. Part of this process involves analyzing a routing tableto determine the best path.
+Routing is often confused with bridging, which performs a similar function. The principal difference between the two is that bridging occurs at a lower level and is therefore more of a hardware function whereas routing occurs at a higher level where the software component is more important. And because routing occurs at a higher level, it can perform more complex analysis to determine the optimal path for the packet.
+
+
+Routing_and_Remote_Access_Service_RRAS
+Routing and Remote Access Service (RRAS), a Microsoft API that makes it possible to create applications to administer the routing and remote access service capabilities of the operating system. RRAS makes it possible for a computer to function as a network router, and developers can also use RRAS to implement routing  protocols. The RRAS server functionality follows and builds upon the Remote Access Service (RAS).  [Adapted from  MSDN Library] See also Remote Access Service (RAS). 
+
+routing_information_field
+(n.) In token-ring networks, the optional field at the end of a MAC header right before the user data that contains the routing information. Routing bridges use this data to determine where to route tokens when sending data from one token-ring network to another interconnected token-ring network. The routing information field typically contains a series of ring and bridge addresses that data will travel through to the final destination.
+
+Routing_Information_Protocol
+(n.) Abbreviated as RIP, an interior gateway protocol defined by RFC 1058 that specifies how routers exchange routing table information. With RIP, routers periodically exchange entire tables. Because this is inefficient, RIP is gradually being replaced by a newer protocol called Open Shortest Path First (OSPF). 
+
+routing_metric
+A variable used by a dynamic router to calculate its routing table. This determines which route the router should use to forward a packet.
+
+routing_protocol
+A generic term that refers to a formula, or protocol, used by a router to determine the appropriate path over which data is transmitted. The routing protocol also specifies how routers in a network share information with each other and report changes. The routing protocol enables a network to make dynamic adjustments to its conditions, so routing decisions do not have to be predetermined and static.
+
+routing_switch
+(n.) A switch that also performs routing operations. Usually a switch operates at layer 2 (the Data Link layer) of the OSI Reference Model while routers operate at layer 3 (the Network layer). Routing switches, however, perform many of the layer 3 functions usually reserved for routers. And because the routing is implemented in hardware rather than software, it is faster. The downside of routing switches is that they are not as powerful or as flexible as full-fledged routers.  Because they perform some layer 3 functions, routing switches are sometimes called layer-3 switches. See a breakdown of the seven OSI layers in the Quick Reference section of Webopedia.
+
+row
+In spreadsheets, rows are numbered horizontal groups of cells. Contrast with  column, which are vertical rows of cells, usually identified by letters.
+
+row_address_strobe
+Abbreviated RAS, a signal, or strobe, sent by the processor to a DRAM circuit to activate a row address. DRAM stores data in a series of rows and columns, similar in theory to a spreadsheet, and each cell where a data bit is stored exists in both a row and a column. A processor uses RAS and CAS (column address strobe) signals to retrieve data from DRAM. When data is needed, the processor activates the RAS line to specify the row where the data is needed, and then activates the CAS line to specify the column. Combined, the two signals locate the data stored in DRAM.
+
+RPC
+Short for remote procedure call, a type of protocol that allows a program on one computer to execute a program on a server computer. Using RPC, a system developer need not develop specific procedures for the server. The client program sends a message to the server with appropriate argumentsand the server returns a message containing the results of the program executed.
+Two newer object-oriented methods for programs to communicate with each other, CORBA and DCOM, provide the same types of capabilities as traditional RPCs.
+
+
+RPG
+(1) Short for Report Program Generator, a programming language developed by IBM in the mid-60's for developing business applications, especially generating reports from data. The newest version, RPG IV, is still widely used on AS/400 systems.  (2) Short for role-playing game, it is a game genre where one or more players adopt a role and act it out in a virtual reality. Usually in an RPG game, you will set out on an adventure or quest, and multiplayer RPG games allows gamers to complete these quests with other gamers as allies over the Internet or as a LAN game.
+
+RPL
+(1) Short for Remote Program Load, RPL occurs where an image is stored on a bootable floppy disk or hard disk that remote computers use to start the system (or system prompt). The client computers, often called diskless workstations do not need the floppy or hard drive to function on the network. Remote Program Load is also used to describe the booting of a computer where the operating system is obtained and loaded into its memory by another server on the network. (2) Short for Requested Privilege Level, RPL refers to a level of privilege within the architecture of a computer system where the most privileged layer is usually zero. Ring 0 not only has the most privileges but also is the layer which directly accesses the system's hardware.  See also Understanding Hardware-Assisted Virtualization.
+
+RPO
+Short for Recovery Point Objective, it is a term associated with business continuance and disaster recovery. Specifically the RPO is the point in time (prior to the outage) in which systems and data must be restored to.
+
+RS_232C
+)Short for recommended standard-232C, a standard interface approved by the Electronic Industries Alliance (EIA) for connecting serial devices. In 1987, the EIA released a new version of the standard and changed the name to EIA-232-D. And in 1991, the EIA teamed up with Telecommunications Industry association (TIA) and issued a new version of the standard called EIA/TIA-232-E. Many people, however, still refer to the standard as RS-232C, or just RS-232.
+Almost all modems conform to the EIA-232 standard and most personal computers have an EIA-232 port for connecting a modem or other device. In addition to modems, many display screens, mice, and serial printers are designed to connect to a EIA-232 port. In EIA-232 parlance, the device that connects to the interface is called a Data Communications Equipment (DCE) and the device to which it connects (e.g., the computer) is called a Data Terminal Equipment (DTE).
+The EIA-232 standard supports two types of connectors -- a 25-pin D-type connector (DB-25) and a 9-pin D-type connector (DB-9). The type of serial communications used by PCsrequires only 9 pins so either type of connector will work equally well.
+
+RS_422_and_RS_423
+Standard interfaces approved by the Electronic Industries Alliance (EIA) for connecting serial devices. The RS-422 and RS-423 standards are designed to replace the older RS-232 standard because they support higher data rates and greater immunity to electrical interference. All Apple Macintosh computers contain an RS-422 port that can also be used for RS-232C communication.  RS-422 supports multipoint connections whereas RS-423 supports only point-to-point connections.  
+
+RS_485
+An Electronics Industry Alliance (EIA) standard for multipoint communications. It supports several types of connectors, including DB-9 and DB-37. RS-485 is similar to RS-422 but can support more nodes per line because it uses lower-impedance drivers and receivers. 
+
+RS_PC
+Short for Reed-Solomon Product Code. RS-PC is an error-correction system for encoding data for DVDs. It uses Reed-Solomon encoding to increase the effectiveness of error-correction. See also Reed-Solomon.
+
+RSA
+A public-key encryption technology developed by RSA Data Security, Inc. The acronym stands for Rivest, Shamir, and Adelman, the inventors of the technique. The RSA algorithm is based on the fact that there is no efficient way to factor very large numbers. Deducing an RSA key, therefore, requires an extraordinary amount of computer processing power and time.
+The RSA algorithm has become the de facto standard for industrial-strength encryption, especially for data sent over the Internet. It is built into many software products, including Netscape Navigator and Microsoft Internet Explorer. The technology is so powerful that the U.S. government has restricted exporting it to foreign countries.
+A similar technology that is also used widely is offered by a company called Cylink.
+
+rsa_secure_id
+RSA SecurID ( “SecurID”) is a two-factor authentication technology that is used to protect network resources.  The authentication is based on two factors -- something you know (a password or PIN) and something you have (an authenticator).  The authenticator is typically a hardware token (such as a USB token, smart card or key fob) and the software token is the RSA Authentication Manager Software that provides the security engine used to verify authentication requests.
+How RSA Secure ID Works
+When a user attempts to access a protected resource, he is prompted for a unique passcode. The passcode is a combination of their user’s PIN and the code that is displayed on the authenticator token at the time of log in.
+The user ID and pass code are intercepted by the RSA Authentication Agent and presented to the RSA Authentication Manager software which validates the pass code.  The RSA SecurID system computes what number the token is supposed to be showing at that moment in time, checks it against what the user entered, and makes the decision to allow or deny access.
+
+RSIP
+Short for Realm-Specific Internet Protocol, an IP address translation technique that is an alternative to NAT. RSIP lets an enterprise safeguard many private Internet addresses behind a single public Internet address.  RSIP functions by leasing public IP addresses and ports to RSIP hosts located in private addressing realms. The RSIP client requests registration with an RSIP server, or gateway. The server in turn delivers either a unique public IP address or a shared public IP address and a unique set of TCP/UDP ports and attaches the RSIP host��s private address to this public address. The RSIP host uses this public address to send packets to public destinations. The packets contain both the public and private addresses, and the RSIP server strips off the private address header and sends the packet on with a public IP header.  RSIP can also be used to relay traffic between several different privately addressed networks by leasing several different addresses to reach different destination networks.
+
+RSS
+RSS is the acronym used to describe the de facto standard for the  syndication of Web content. RSS is an XML-based format and while it can be used in different ways for content distribution, its most widespread usage is in distributing news headlines on the Web. A Web site that wants to allow other sites to publish some of its content creates an RSS document and registers the document with an RSS publisher. A user that can read RSS-distributed content can use the content on a different site. Syndicated content can include data such as news feeds, events listings, news stories, headlines, project updates, excerpts from discussion forums or even corporate information.
+Because there are different versions of RSS, the term RSS is most frequently used as a name to mean the syndication of Web content, rather than as an acronym for its founding technology. When using the name RSS the speaker may be referring to any of the following versions of Web content syndication:
+
+RDF Site Summary (RSS 0.9, RSS 1.0)
+Rich Site Summary (RSS 0.91, RSS 1.0)
+Really Simple Syndication (RSS 2.0)
+
+When using the term RSS, most will use it in reference to Rich Site Summary or the previous version called RDF Site Summary. When referring to  Really Simple Syndication, it will usually be called RSS 2.0, not RSS.  There are several versions of RSS available, with the most commonly implemented version being RSS 0.91.  The most current version, however, is RSS 2.0 and it is backward-compatible with RSS 0.91. RSS was originally developed by Netscape. The RSS 2.0 specification was authored by Dave Winer.
+
+RSS_channel
+(1) Another name for an RSS feed.  (2) In creating an RSS feed the content that is used to identify the feed source, which is usually your Web site that publishes the content. The channel tags <channel> </channel> are inserted at the beginning and end of your RSS document. See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.
+
+RSS_description
+A required RSS tag (also called an element) that consists of a phrase or sentence that is used to describe the feed. The description information must be inserted between an open and closed description tag.  EXAMPLE: <description>How to create simple RSS Feeds</description>  See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.
+
+RSS_link
+A required RSS tag (also called an element) that  is used to specify the URL of the Web page where the content (or news story) is located. The link information must be inserted between an open and closed link tag.  EXAMPLE: <link>http://www.webopedia.com</link>  See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.
+
+RSS_Optional_Channel_Elements
+In creating an RSS feed (also called an RSS document) Optional Channel Elements are tags you can include in your feed, but are not required in order for the feed to work. Optional channel elements are added in the beginning of your feed and require an open and close tag. Examples of Optional Channel Elements, as defined in the RSS 2.0 Specification, include the following:  <language> The language the channel is written in (view the RSS Language Codes here). <copyright> Copyright notice for content in channel <managingEditor> e-mail contact for editorial content <webMaster> e-mail contact for technical issues.  <pubDate> The publication date for the content in the channel.  <lastBuildDate> The last time the content of the channel changed.  <category> Specify one or more categories that the channel belongs to.  <generator> Indicate the program used to generate the channel.  <docs> A URL that points to the documentation for the format used in the RSS file <cloud> Allows processes to register with a cloud to be notified of updates to the channel <ttl> "Time To Live." Specify a number of minutes that indicates how long a channel can be cached before refreshing. <image> A GIF, JPEG or PNG image that can be displayed with the channel.  <rating> PICS rating for the channel.  <textInput> A text input box that can be displayed with the channel.  <skipHours> Tells aggregators which hours they can skip.  <skipDays> Tells aggregators which days they can skip.   See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.
+
+RSS_title
+A required RSS tag (also called an element) that is used to provide the name for the feed. The title information must be inserted between an open and closed title tag.  EXAMPLE: <title>All About RSS</title>  See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.
+
+RSVP
+Short for Resource Reservation Setup Protocol, a new Internet protocol being developed to enable the Internet to support specified Qualities-of-Service (QoS's). Using RSVP, an application will be able to reserve resources along a route from source to destination. RSVP-enabled routers will then schedule and prioritize packets to fulfill the QoS.  RSVP is a chief component of a new type of Internet being developed, known broadly as an integrated services Internet. The general idea is to enhance the Internet to support transmission of real-time data. 
+
+RTC
+A clock that keeps track of the time even when the computer is turned off. Real-time clocks (RTCs) run on a special battery that is not connected to the normal power supply. In contrast, clocks that are not real-time do not function when the computer is off.
+Do not confuse a computer's real-time clock with its CPU clock. The CPU clock regulates the execution of instructions.
+
+RTM
+Short for release to manufacturing, the version of a software product that is given to manufacturers to bundle into future versions of their hardware products. RTM versions are typically released to manufacturers before they are released to the general public so that the manufacturers can work out any bugs the software may encounter with hardware devices. The release of an RTM version does not necessarily mean that the creators have worked out all the problems with the software; there still may be more versions of the product before it is released to the general public.
+
+RTO
+Abbreviated as RTO, Real Time Optimization is a type of software that can be used to improve the performance of server software, in real time. It provides a real time view and control of the corporate IT infrastructure including  applications, servers, and network devices. Using RTO software, for example you can report and track configuration changes, maintain your corporate information regarding software licenses, map application dependencies, and other supported tasks.
+
+RTOS
+Short for real-time operating system it is an operating system that has been developed for real-time applications and typically used for embedded applications on a special-purpose computer with a limited set of functions determined by the hardware design.
+
+RTP
+Short for Real-Time Transport Protocol, an Internet protocol for transmitting real-time data such as audio and video. RTP itself does not guarantee real-time delivery of data, but it does provide mechanisms for the sending and receiving applications to support streaming data. Typically, RTP runs on top of the UDP protocol, although the specification is general enough to support other transport protocols.
+
+RTP_Control_Protocol_RTCP
+RTP control protocol or RTCP, forms part of the RTP protocol used to carry VoIP communications. RTCP monitors the quality of service (QoS) and to convey information about the participants in an on-going session. It is based on the periodic transmission of control packets to all participants in the session, using the same distribution mechanism as the data packets.  See also RTP.
+
+RTS
+Short for real-time strategy, it is a game genre. An RTS game is usually from a third-person perspective, and in these games you control vast numbers of soldiers (called units) in a tactical game scenario. Newer RTS games allow you to compete against others over the Internet or LAN, or to play allies against computer players with other gamers.
+
+RTSP
+Short for Real Time Streaming Protocol, a standard for controlling streaming data over the World Wide Web.  Like H.323, RTSP uses RTP (Real-Time Transport Protocol) to format packets of multimedia content. But whereas H.323 is designed for videoconferencing of moderately-sized groups, RTSP is designed to efficiently broadcast audio-visual data to large groups.  RTSP grew out of work done by Columbia University, Netscape and RealNetworks.
+
+RTT
+(1) Short for real-time technology. RTT refers to technology that allows a user to receive data during the actual time that a physical process occurs, known as real time. Real time is measured in milliseconds or microseconds.  While RTT is used for sophisticated entertainment purposes, such as streaming live video or audio and has applications that ultimately will make Internet use more lively and practical, this immediate-response technology is being used for a wide array of critical applications that require instant response times. For example, an automatic pilot must respond to data on changing flight conditions or the position of other aircraft immediately; nuclear power plants must have real-time information on what is happening at all times in all critical areas of the plant for safety; space flight computers must respond instantly to changing conditions in the atmosphere.  (2) Short for round-trip time, the time required for a network communication to travel from the source to the destination and back. RTT is used by some routing algorithms to aid in calculating optimal routes.
+
+RTU
+Short for remote terminal unit. In SCADA systems, an RTU is a device installed at a remote location that collects data, codes the data into a format that is transmittable and transmits the data back to a central station, or master. An RTU also collects information from the master device and implements processes that are directed by the master. RTUs are equipped with input channels for sensing or metering, output channels for control, indication or alarms and a communications port.
+
+Ruby
+Ruby is a simple but powerful object-oriented programming language (everything in Ruby is an object), created by Yukihiro Matsumoto, who goes by the online name "Matz." Ruby programs are compact, yet readable and maintainable. Ruby offers features such as blocks, iterators, meta-classes and others. It can be used to write servers, to experiment with prototypes, and for everyday programming tasks. Ruby is open source and freely available for both development and deployment.[Source: Adapted from The official Ruby FAQ] Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+Ruby_on_Rails
+Abbreviated as RoR, Ruby on Rails (also referred to as just Rails) is an open source Web application framework, written in Ruby (object-oriented programming language), for developing database-backed Web applications. RoR closely follows the Model-View-Control (MVC) pattern, where models, views and controllers are fully integrated in a seamless fashion. Rails is a pure Ruby development environment that allows for real-world applications to be developed in less code and with a minimum of configuration.Ruby on Rails was created by David Heinemeier Hansson, a partner at 37signals, then extended and improved upon by a core team and hundreds of open-source contributors. Rails is released under the MIT license. Ruby is available under the Ruby License.Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+rule
+(1) In word processing and desktop publishing, a straight line that separates columns of text or illustrations.  (2) In expert systems, a conditional statement that tells the system how to react to a particular situation. 
+
+Rule_Interchange_Format
+Abbreviated as RIF, the Rule Interchange Format is a W3C recommended effort to develop a format for interchange of rules in rule-based systems on the Semantic Web. The overall RIF design takes the form of a layered  architecture organized around the notion of a dialect. RIF has a number of extensions to support features such as objects and frames,  URIs as identifiers for concepts, and XML schema data types. While this makes RIF a Web language, RIF is designed to enable interoperability among rule languages in general, and is not limited to the Web.
+
+rule_based_system
+In computer science, a rule-based system is a set of "if-then" statements that uses a set of assertions, to which rules on how to act upon those assertions are created. In software development, rule-based systems can be used to create software that will provide an answer to a problem in place of a human expert. These type of system may also be called an expert system. Rule-based systems are also used in  AI (artificial intelligence)programming and systems.
+See also backward chaining and forward chaining.
+
+RuleML
+Short for Rule Markup Language RuleML defines a shared Rule Markup Language, permitting both forward (bottom-up) and backward (top-down) rules in XML for deduction, rewriting, and further inferential-transformational tasks. It's considered to be a markup language for the Semantic Web. The RuleML Initiative represents a collaborative research effort with a goal to develop RuleML as the Web language for rules using XML markup and formal semantics.
+
+ruler
+In word processing, a line running across the display screen. It measures the page layout in points, picas, inches, or centimeters. It is sometimes called the ruler line and is particularly useful for setting margins and tabs. Sophisticated desktop publishing systems and page layout programs sometimes support movable rulers that you can move around the display screen to measure particular items of text or graphics. 
+
+run
+(1) To execute a program.
+(2) To operate. For example, a device that is running is one that is turned on and operating properly.
+ 
+
+run_book
+In computer systems and networks a run book is a set of defined procedures developed by the administrator or IT professional for maintaining the everyday routine, as well as the exceptional operations of the computer system or network. The run book should contain all the information a staff would need to perform daily operations as information on dealing with any problems that arise during usage from the operational system or network. Some procedures defined in an organization's run book would include procedures for starting and stopping the system, instructions for handling special devices, such as mounting optical disks or tapes, and procedures for how to perform backups, and so on.
+
+run_book_automation
+Abbreviated as RBA, run book automation refers to technologies used to achieve operational IT efficiency by streamlining run book procedures through automating many of the daily manual tasks. RBA helps organizations by reducing manual tasks which are time consuming and also prone to human-error issues, provides a more efficient workflow through automation, and reduces operational costs while still meeting IT service levels and compliance.
+
+runt
+When used in reference to networks, a runt is a packet that is too small to traverse the network. Network protocols such as Ethernet often require that packets be a minimum number of bytes in order to travel the network. Runts are often the result of packet collisions along a busy network or can result from faulty hardware that is forming the packets or from corrupted data being sent across the network.  Also see giant.
+
+runtime
+Occurring while a program is executing. For example, a runtime error is an error that occurs during program execution and a runtime library is a library of routines that are bound to the program during execution. In contrast, compile-time refers to events that occur while a program is being compiled. 
+
+runtime_error
+(run´tīm er´&r) (n.) An error that occurs during the execution of a program. In contrast, compile-time errors occur while a program is being compiled. Runtime errors indicate bugs in the program or problems that the designers had anticipated but could do nothing about. For example, running out of memorywill often cause a runtime error.
+Note that runtime errors differ from bombs or crashesin that you can often recover gracefully from a runtime error.
+
+
+runtime_version
+A limited version of one program that enables you to run another program. To run a program written in Visual Basic, for example, you need the runtime version of Visual Basic. This allows you to run Visual Basic programs but not to develop them yourself. Many other development applications, particularly database applications, require a runtime version to execute.  Software companies have different approaches to runtime versions. Some allow you to distribute the runtime version freely, while others require that you pay a license fee.  
+
+RUP
+Short for Rational Unified Process, a software development methodology from Rational. Based on UML, RUP organizes the development of software into four phases, each consisting of one or more executable iterations of the software at that stage of development.
+
+inception-- In this stage, the project��s business case is stated and the team decides if the project is worth doing or if it is even possible. It is important to the process to first formulate the scope of the project and also determine what resources will be needed.
+elaboration -- In this stage, the developers take a closer look at the project to determine its architecturefoundation and to evaluate the architecture in relation to the project. This stage is important to the RUP because it is here that developers analyze the risks associated with changing the scope of the project or adding new technologies along the way.
+construction-- In this stage, the development of the project is completed. The application design is finished and the source code is written. It is in this stage that the software is tested to determine if the project has met its goal laid out in the inception phase.
+transition -- In this stage, any fine-tuning is performed. Any final adjustments can be based on user feedback, usability or installation issues.
+
+RUP is similar in concept to Extreme Programming in that only what is useful and required is produced and the development plan is updated throughout the process. Both methods seek to develop a system of best practices in software development.
+
+RWU
+Short for remote wake-up, a generic term for the action of turning on a computer over a network from a remote location. Often, IT personnel prefer to maintain client systems after employees have gone home. Even if these tasks are automated, client machines must be left on. In the past, if they weren't left on, personnel had to manually turn them on. But, with wake-on-LAN, client systems can be remotely and automatically powered up.  Wake-on-LAN is considered a form of remote wakeup, but not all RWU systems are Wake-on-LAN as it is possible to wake a computer remotely using a dial-up connection from outside a local-area network.
+

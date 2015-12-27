@@ -1,0 +1,962 @@
+G
+
+2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. Gigabyte is often abbreviated as G or GB.  
+
+G_711
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.711 is also known as Pulse Code Modulation (PCM). It is the ITU-T international standard for encoding telephone audio on a 64 kbps channel. PCM samples the signal 8000 times a second; each sample is represented by 8 bits for a total of 64 kbit/s. There are two versions of the this standard codec. The ��-law  (pronounced as mew law) is generally used in North America and Japan digital communications. The A-law is used in European digital communications. The difference between the two standards is the method in which the analog signal is sampled. (See also PCM).  See G.7xx for more information on how these standards are used in telephony networks. 
+
+G_721
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.721 is an ITU-T standard codec that uses Adaptive Differential Pulse Code Modulation (ADPCM); a form of Pulse Code Modulation (PCM), to produce a digital signal with a lower bit rate than standard PCM. This ITU standard for speech codecs uses ADPCM on a  32 kbit/s channel. NOTE: G.721 was first introduced in 1984. In 1990 this standard was folded into G.726 along with G.723. (See also ADPCM). See G.7xx for more information on how these standards are used in telephony networks. 
+
+G_722
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.722 is an ITU-T standard codec that uses sub-band adaptive differential pulse code modulation (SB-ADPCM) within a bit rate of 64 kbit/s. The system is referred to as 64 Kbps (7 kHz) audio coding. SB-ADPCM splits the frequency band into two sub-bands (higher and lower) and the signals in each sub-band are encoded using ADPCM. Extensions to the G.722 standard include the following;  G.722.1 - Is the ITU-T standard for low-complexity coding at 24 and 32 kbit/s for hands-free operation in systems with low frame loss. G.722.2 -  Is the ITU-T standard for coding at 24 and 32 kbit/s for hands-free operation in systems with low frame loss.  See G.7xx for more information on how these standards are used in telephony networks. 
+
+G_723
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.723 is an ITU-T standard codec that uses Adaptive Differential Pulse Code Modulation (ADPCM) standard for speech codecs on a 24 and 40 kbps channel. NOTE: G.723 was first introduced in 1988. In 1990 this standard was folded into G.726 along with G.721. (See also ADPCM). See G.7xx for more information on how these standards are used in telephony networks. 
+
+G_726
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.726 is an ITU-T Adaptive Differential Pulse Code Modulation (ADPCM) standard speech codec used for the  transmission of voice at rates on 16, 24, 32, and 40 kbit/s channels. G.726 supersedes both G.721 and G. 723 as it includes both of these standards plus includes the new standard for the 16 kbit/s rate. G.726 was the standard codec used in Digital Enhanced Cordless Telecommunications (DECT) wireless phone systems. See G.7xx for more information on how these standards are used in telephony networks.  See also ADPCM.
+
+G_727
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.727 is a specialized version of the ITU-T G.726 protocol that is intended for packet-based systems using the Packetized Voice Protocol (PVP). G.727 uses 5, 4, 3 and 2-bit/sample embedded  Adaptive Differential Pulse Code Modulation (ADPCM). (See also ADPCM). See G.7xx for more information on how these standards are used in telephony networks.  See also ADPCM.
+
+G_728
+
+An International Telecommunications Union (ITU-T) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals. G.728 is an ITU-T speech coding  standard that uses Low Delay Code Excited Linear Prediction (LD-CELP) operating at 16 kbit/s compression at a sampling rate of 8,000 samples per second. The algorithmic coding delay of G.728 is 0.625 ms. G.728, when compared to G.726 delivers close to the same voice quality but uses only one-half the bandwidth. See G.7xx for more information on how these standards are used in telephony networks.  See also LD-CELP.
+
+G_729
+
+An International Telecommunications Union (ITU) standard for for audio (speech) compression and decompression that is used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  G.729 is an ITU-T audio data compression standard that operates at 8 kbit/s using a conjugate-structure algebraic-code-excited linear-prediction (CS-ACELP). This algorithm for voice compresses voice audio in 10 millisecond frames. G.729 is commonly used in in Voice over IP (VoIP) applications because of its inherently low bandwidth requirement. Extensions to the G.729 standard include the following;  G.729a (G.729 Annex A) - Compatible with G.729 Annex A specifies a coder with several simplifications, including code book search routines. These modifications are known to often result in a slightly lower voice quality.  G.729b (G.729 Annex B) - Compatible with G.729, Annex B specifies a coder that uses Discontinuous Transmission (DTX), Voice Activity Detection (VAD), and Comfort Noise Generation (CNG) to reduce bandwidth usage. Bandwidth is reduced by preventing the transmission of non-voice during periods of silence.   See G.7xx for more information on how these standards are used in telephony networks. 
+
+G_7xx
+
+Refers to a suite of International Telecommunications Union (ITU) standards for audio (speech) compression and decompression.  This family of standards is included in the G Series ITU Recommendations.  The G.7xx recommendations are used in digital transmission systems, and in particular, used for the coding of analog signals into digital signals.  Telephony networks employ a system of coders and decoders, called a codec. A codec is used  to reduce bandwidth requirements over limited capacity channels in two-way real-time communications. The codec takes an analog voice signal from an input source, like a microphone, and converts the analog signal into a digital format that can be transmitted across a packet network. At the receiving end the signal is converted back again to an analog signal for human consumption.  The G.7xx family of standards are comprised of speech and audio codecs that are primarily used in cellular telephony and Internet telephony including VoIP communications. There are several specifications (protocols) in the G.7xx family of G Series ITU Recommendations, including the following: 
+
+G_lite
+
+G.lite (also known as Universal ADSL, and referred to as G.992.2 by the ITU ), allows for high-speed "always on" digital communications over standard copper phone lines.   While it is based on the same underlying technology as standard ADSL, G.lite doesn't require a splitter to be installed at the customer location. The customer simply connects the G.Lite modem -- the same way he'd hook-up an analog modem -- after he signs up for the service.   Unlike standard ADSL, G.lite works with DLC (Digital Loop Carrier - the local loop infrastructure that connects customers located more than 18,000 feet from the central office), which opens the technology to a much wider audience. The tradeoff for the increased availability of G.lite is lower speed. While standard or full-rate ADSL provides downstream speeds of up to 8-Mbps and upstream speeds of 1.5-Mbps, G.lite is limited to  1.5-Mbps downstream and 512-Kbps upstream. 
+
+G_SHDSL
+
+Also known as G.991.2, G.SHDSL is an international standard for symmetric DSL developed by the ITU. G.SHDSL provides for sending and receiving high-speed symmetrical data streams over a single pair of copper wires at rates between 192 kbps and 2.31 Mbps. G.SHDSL was developed to incorporate the features of other DSL technologies, such as ADSL and SDSL and will transport T1,E1, ISDN, ATM and IP signals. This is the first DSL technology to be developed from the ground up as an international standard.  G.SHDSL was ratified by the ITU in February 2001.
+
+G1
+
+The name of the first smartphone using the  Android open source platform. The G1 was announced by T-Mobile includes built-in support for T-Mobile's 3G and EDGE networks, as well as Wi-Fi compatibility. Android is a mobile platform that is backed by Google. See "G1 Takes on iPhone" on Wi-FiPlanet.com See also an "Introduction to Mobile Devices" In the  Quick Reference section of Webopedia.
+
+google_app_engine_gae
+
+The Google App Engine (GAE) is a development environment that enables developers to build Web applications on the same scalable systems that power Google's own applications.
+Using App Engine, developers upload an application and it's ready --  there are no servers to maintain. Apps can be served from your own domain name using Google Apps or using a free name on the "appspot.com" domain.
+Google App Engine supports a number of programming languages including Java, Python, Go and PHP. Developers can design scalable applications that grow from one to millions of users and every Google App Engine application has enough CPU, bandwidth and storage to serve around 5 million monthly page views for free (additional resources can be purchased).  
+
+gain
+
+In electronics and audio consumer electronics gain is a unit of measurement used to mean the ratio of a signal output of a system to the signal input of the system. Gain is a term most commonly associated with amplifiers.
+
+galaxy_gear
+
+A wearable computing smartwatch device developed by Samsung that functions similar to a smartphone. The Samsung Galaxy Gear is expected to officially debut in early September 2013 at a reported price of $300.
+The Galaxy Gear will reportedly offer a primary focus on mobile fitness and health tracking, and will include features like a Wi-Fi radio, a 4 megapixel camera, speakers, a microphone and Samsung S Voice command capabilities that can be used when paired with a compatible Samsung smartphone.
+
+
+game_cheat
+
+A keyboard or game pad button sequence that gives the player an advantage in the game. For example, you may have a cheat code to give your character infinite health, walk through walls, skip a level, or even 'god mode' where your character can't die. Codes are initially used by developers and beta testers to test specific aspects and functions in a game and cheat modes are often left in the finished game product. Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+game_level
+
+A game level is a section or part of a game.  Most games are so large that they are broken up into levels, so only one portion of the game needs to load at one time. To complete a game level, a gamer usually needs to meet specific goals or perform a specific task to advance to the next level. In puzzle games, levels may be similar but more difficult as you progress through the game. Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+gameover-zeus
+
+GameOver Zeus is a sophisticated evolution of the ZeuS malware that cybercriminals created to steal usernames and passwords from users on infected systems.
+GameOver Zeus, or GOZ, initially spread via a malicious spam and phishing campaign that sent out e-mails appearing to come from reputable organizations such as the Federal Reserve Bank, the Federal Deposit Insurance Corporation (FDIC) and the National Automated Clearing House Association (NACHA).
+A link in these e-mails, if clicked upon, would open a fraudulent website where the GOZ malware would then be downloaded and run on the system, subsequently opening the infected computer for financial information and login credentials to be obtained.
+
+gameplay
+
+Gameplay is a term most commonly used to used to rate, or score the quality of the experience had by gamer while playing a particular game. The term gameplay is often found in game reviews where a score is given based on player experiences during the interaction with game.Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+gamer
+
+(n) A person who plays video, Internet or computer games.Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+Games_Explorer
+
+A feature in Microsoft's Windows 7 operating system that enables users to quickly find and manage all PC games on your computer. In addition to seeing all the games, users can also see information about the installed games, including the ESRB rating, system requirements, updates and scores.
+
+gamification
+
+Gamification means using digital game design techniques in non-game context, such as education, business or social. For example, a business can take techniques used by game designers and apply it to a non-gaming website to improve customer engagement and loyalty.
+Taking popular elements of games and applying it to non-game actions is not a new idea. Gamification has been used for many years in the form of traditional hotel loyalty clubs and credit card or retail store reward programs. Gamification is a buzzword today because it is popular with younger, tech-savvy consumers who tend to look for engaging experiences.
+Gamification Is Not Games For Business
+Gamification is not about creating games for business or creating something new -- the techniques are applied to an existing experience or product to help a business improve high value interactions with customers and partners.
+
+Gamimma
+
+Known as W32.Gammima.AG, it is a worm that spreads through removable media such as USB drives and external hard drives, and is known to steal online gamers' user names and passwords. Gamimma steals sensitive information for various online games, including ROHAN, R2 (Reign of Revolution), Talesweaver, Seal Online, and several games popular mainly in China, including ZhengTu and HuangYi Online, according to Symantec. The Gamimma worm was first discovered on August 27, 2008.  See "Password Stealing Worm Catches NASA Napping" on internetnews.com Also see "The Difference Between a Virus, Worm and Trojan Horse" in the Did You Know?" section of Webopedia.   
+
+gaming
+
+(n) The act of playing a video, Internet or computer game.Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+GAN
+
+Global area network (GAN)refers to any network that is composed of different interconnected computer networks (WANs) and also covers an unlimited geographical area. [Source: Adapted from ATIS]
+
+garbage_collection
+
+A term associated with the use of solid state drive (SSD) technology in data storage applications. One of the biggest issues is the way these drives collect garbage and delete it from data blocks prior to a write operation. Garbage collection, as it is known in the industry, improves write performance by eliminating the need to perform whole block erasure prior to every write. Working in the background, garbage collection accumulates data blocks previously marked for deletion, performs a whole block erasure on each "garbage" block, and returns the reclaimed space for reuse by subsequent write operations. See also  Solid State Drives Take Out the Garbage on EnterpriseStorageForum.com.
+
+garbage_in_garbage_out
+
+Often abbreviated as GIGO, this is a famous computer axiom meaning that if invalid data is entered into a system, the resulting output will also be invalid. Although originally applied to computer software, the axiom holds true for all systems, including, for example, decision-making systems.  
+
+Garden_by_eBay
+
+An eBay service that lets users test, review and interact with new features that eBay is developing. Formally called " Garden by eBay" and casually referred to as "eBay garden", the site is designed to also solicit eBay user feedback and new ideas for products and features users want to see eBay add.  See  Online Auction Abbreviations in the Quick Reference section of Webopedia. 
+
+gas_plasma_display
+
+A type of thin display screen, called a flat-panel display, used in some older portable computers. A gas-plasma display works by sandwiching neon gas between two plates. Each plate is coated with a conductive print. The print on one plate contains vertical conductive lines and the other plate has horizontal lines. Together, the two plates form a grid. When electric current is passed through a horizontal and vertical line, the gas at the intersection glows, creating a point of light, or pixel. You can think of a gas-plasma display as a collection of very small neon bulbs. Images on gas-plasma displays generally appear as orange objects on top of a black background.  Although gas-plasma displays produce very sharp monochrome images, they require much more power than the more common LCD displays. 
+
+gasfastness
+
+In photo printing gasfastness is a term used to describe the durability of printed photos and how well they stand up to exposure to elements in the air after printing. Poor gasfastness of a print may show swelling of the paper, or changes to the print when handle or exposed to elements in the air. Gasfastness is determined by how ink pigment particles bond to the surface of the paper, so each printer manufacturer will have a different gasfastness depending on the paper you use to print. While the term is used as a measurement, there is no real formula to determine gasfastness.  Compare with lightfastness, the durability of a print when exposed to light.
+
+gateway
+
+(n.) (1) A node on a network that serves as an entrance to another network. In enterprises, the gateway is the computer that routes the traffic from a workstation to the outside network that is serving the Web pages. In homes, the gateway is the ISPthat connects the user to the internet.
+In enterprises, the gateway node often acts as a proxy server and a firewall. The gateway is also associated with both a router, which use headers and forwarding tables to determine where packets are sent, and a switch, which provides the actual path for the packet in and out of the gateway.
+(2) A computer system located on earth that switches data signals and voice signals between satellites and terrestrialnetworks.
+
+gateway_antivirus
+
+A feature of  network security appliances that provides integrated antivirus security on the appliance to block potential threats before reaching the network. Gateway antivirus allows corporate and enterprise to check for viruses at the application layer using a web-based scanning service.
+A number of security vendors offer gateway antivirus solutions and the phrase is commonly used to identify this specific type of network security, WatchGuard's product is specifically called Gateway AntiVirus (GatewayAV).
+See also Extensible Threat Management (XTM) and Unified Threat Management (UTM).
+
+gawk
+
+The GNU version of awk. The original version of gawk was written in 1986 by Paul Rubin and Jay Fenlason.
+
+GBIC
+
+Short for gigabit interface converter, a transceiver that converts serial electric signals to serial optical signals and vice versa. In networking, a GBIC is used to interface a fiber optic system with an Ethernet system, such as Fibre Channel and Gigabit Ethernet.  A GBIC allows designers to design one type of device that can be adapted for either optical or copper applications. GBICs also are hot-swappable, which adds to the ease of upgrading electro-optical communication networks.
+
+Gbps
+
+(1) When spelled Gbps, short for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.  (2) When spelled GBps, short for Gigabytes per second.
+
+GDDR
+
+A category of DDR SDRAM chips that are made to specifically handle the enormous demands of graphics processing. Currently, three standards exist: GDDR-I, GDDR-II and GDDR-III, and almost all modern graphics cards use this type of memory. The standards differ in their clock speed, bandwidth, and power-management capabilities. GDDR is typically more expensive than DDR memory.
+
+GDI
+
+Short for Graphical Device Interface, a Windows standard for representing graphical objects and transmitting them to output devices, such as monitors and printers.  
+
+GDI_printer
+
+A printer that has built-in support for Windows Graphical Device Interface (GDI). GDI is used by most Windows applications to display images on a monitor, so when printing from a Windows application to a GDI printer, there is no need to convert the output to another format such as PostScript or PCL.  GDI printers are sometimes called host-based printers because they rely on the host computer to rasterize pages.  
+
+geek
+
+Short for computer geek, an individual with a passion for computers, to the exclusion of other normal human interests. Depending on the context, it can be used in either a derogatory or affectionate manner. Basically, geek and nerd are synonymous. 
+
+GEM
+
+(1) A graphical user interface developed by Digital Research that is built into personal computers made by Atari, and is also used as an interface for some DOS programs. Like the Macintosh interface and Microsoft Windows, GEM provides a windowed environment for running programs.  GEM also refers to a special graphics file format used in GEM-based applications.   (2) Short for Globally Executable Multimedia Home Platform (MHP) it defines specifications based on MHP together with DVB. GEM is a framework  not a standalone specification, used by those wanting to define specifications based on MHP. The GEM specification lists those parts of the MHP specification that have been found to be DVB technology or market specific. The OpenCable Project is based on the GEM standard.
+
+gender_changer
+
+A gender changer refers to any adapter, connector or cable that can be used to change the male connectors (end with pins) to female connectors, and vise versa.
+
+generation_loss
+
+(1) The loss of quality when copying or printing data. The more copies are used, rather than originals, and saved the higher the quality loss.  (2) In video terminology it is video degradation caused by successive recordings from the original source (dubs from dubs). Generation loss also results from analog duplication of original video recording.
+
+genetic_programming
+
+A type of programming that utilizes the same properties of natural selection found in biological evolution. The general idea behind genetic programming is to start with a collection of functions and randomly combine them into programs; then run the programs and see which gives the best results; keep the best ones (natural selection), mutate some of the others, and test the new generation; repeat this process until a clear best program emerges.  LISP is a popular language for genetic programming. 
+
+genlock
+
+Short for generator locking device , a genlock is a device that enables a composite video machine, such as a TV, to accept two signals simultaneously. A genlock locks one set of signals while it processes the second set. This enables you to combine graphics from a computer with video signals from a second source such as a video camera.  
+
+genre
+
+Games like most other forms of media are categorized into genres based on gameplay, atmosphere and various other factors. Common game genres include FPS (first-person shooter), RTS (real-time strategy), MMORPG (massively multiplayer online role-playing game), arcade, and adventure.
+
+gentoo
+
+A free operating system based on either Linux or FreeBSD that's optimized and customized to efficiently operate in server, workstation, desktop and gaming environments.  Pronounced as it appears ("gen-too"), Gentoo takes its name from the Gentoo penguin, which is the fastest swimming species of penguins.
+At the heart of Gentoo is a unique software distribution system called Portage that simplifies Gentoo updates and enables user to build their entire system from source, with complete control over which packages are or aren't installed. The Gentoo distribution is actively maintained by a group of more than 300 developers.
+See  Linux and   operating system terms in Webopedia, and learn more about   Open Source in Webopedia's "Did You Know...?" section
+
+GEO
+
+Short for geosynchronous, or geostationary, earth orbit, a satellite system used in telecommunications. GEOs orbit the earth at 22,300 miles above the earth's surface. They are tied to the earth's rotation and are therefore in a fixed position in space in relation to the earth's surface. The satellite goes around once in its orbit for every rotation of the earth. The advantage of a GEO system is that the transmission station on earth needs to point to only one place in space in order to transmit the signal to the GEO satellite. GEO systems are used for transmissions of high-speed data, television signals and other wideband applications.  Also see MEO and LEO.
+
+geo_dispersed_cluster
+
+Microsoft Cluster Server (MSCS) is a term used to describe a cluster configuration where the servers are separated geographically and the physical storage is synchronously replicated among the sites. In a geo-dispersed cluster both the public and private network interfaces have to exist in the same network segment, and cluster nodes also must share the same IP subnet. Also called multi-site cluster.See cluster.See also Microsoft Cluster Server (MSCS).
+
+geo-fence
+
+Geo-fencing, or geofencing, is a term that refers to software tools or applications that utilize global positioning systems (GPS) or radio frequency identification (RFID) to establish a virtual perimeter or barrier around a physical geographical area.
+Geo-fence apps and tools monitor when mobile devices or other physical objects enter or exit an established geo-fenced area and provide administrators with alerts when there’s a change in status for a device. These alerts can take the form of text messages, e-mail notifications, phone calls or similar means of communication.
+Popular Uses for Geo-Fencing
+Geo-fencing is frequently deployed by companies to monitor and restrict the use of mobile devices beyond a geo-fenced perimeter. Another popular geo-fencing use is by advertisers to serve customized advertising content to potential or existing customers based on their current location and proximity to nearby retail locations.
+
+Geocaching
+
+Geocaching is an entertaining adventure game for GPS users. Participating in a cache hunt is a good way to take advantage of the features and capability of a GPS unit. The basic idea is to have individuals and organizations set up caches all over the world and share the locations of these caches on the internet. GPS users can then use the location coordinates to find the caches. Once found, a cache may provide the visitor with a wide variety of rewards. All the visitor is asked to do is if he or she gets something is to leave something for the cache. [Source: Geocashing.com FAQ] Other names for Geocaching include GPS Stash Hunt or Global Positioning Stash hunt.
+
+geolocation
+
+Geolocation is a term used to describe the capability to detect and record where you and other people are located, and to use the information to enhance the desktop using an Internet-connected computer or device. Geolocation information can be obtained in a number of ways including data bout a user's IP address, MAC address, RFID, Wi-Fi connection location, or GPS coordinates.
+
+Geoport
+
+A serial port for Apple computers that provides an interface between a telephone line and the computer. The GeoPort Telecom Adapter Kit announced in late 1996 supports modem speeds of up to 28.8 Kbps and provides enhanced fax and telephone services when used with the Apple Telecom 3.0 suite of communications applications. 
+
+geosynchronous_satellite
+
+Also called geostationary, or simply GEO, it refers to the movement of communications satellites where the satellite circles the globe over the equator, in a movement that is synchronized with the earth's rotation. Because of this synchronization, the satellite appears to be stationary, and they also offer continuous operation in the area of visibility. These types of satellite are said to have a  geostationary orbit, and it is the most common type of orbit for communications satellites. Bird is the slang term given to a communications satellite that is in geosynchronous orbit.
+
+geotagging
+
+The process of assigning geographic location metadata to a photos' EXIF data, which normally would only contain details about the camera being used to take the photo. The geographic information can include details such as the latitude and longitude coordinates or city and state details for the geographic location of the photo. The EXIF data can be read by programs that can allow you to see maps of where a photo was taken. Geotagged photos, when shared online, can also be linked to several map services including Google Maps, Microsoft Virtual Earth, Yahoo Maps and other applications.Also called geocoding. See "Technology Terms to Know for 2009" in the Did You Know...? section of Webopedia.
+
+gesture_recognition
+
+Interface with computers using gestures of the human body, typically hand movements. In gesture recognition technology, a camera reads the movements of the human body and communicates the data to a computer that uses the gestures as input to control devices or applications. For example, a person clapping his hands together in front of a camera can produce the sound of cymbals being crashed together when the gesture is fed through a computer.  One way gesture recognition is being used is to help the physically impaired to interact with computers, such as interpreting sign language. The technology also has the potential to change the way users interact with computers by eliminating input devices such as joysticks, mice and keyboards and allowing the unencumbered body to give signals to the computer through gestures such as finger pointing.  Unlike haptic interfaces, gesture recognition does not require the user to wear any special equipment or attach any devices to the body. The gestures of the body are read by a camera instead of sensors attached to a device such as a data glove.  In addition to hand and body movement, gesture recognition technology also can be used to read facial and speech expressions (i.e., lip reading), and eye movements.
+
+getusermedia_api
+
+A new feature in the Google Chrome 21 browser that enables the browser to access a user's webcam and microphone, directly through the browser and not through a third party plugin like Flash. The getUserMedia API is part of a larger effort to enable richer in-browser interactivity, known as WebRTC (Web Real-Time Communications).
+Learn more about the Chrome 21 browser on Datamation.
+
+GG
+
+Acronym for gotta go or good game (online gaming). GG is commonly used in  newsgroups, chat rooms, instant messaging, text messaging, SMS, e-mail and other real time text-based communications. See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations. 
+
+GGSN
+
+Short for gateway GPRS support node it is the gateway between the GPRS (General Packet Radio Service) wireless data network and other external packet data networks such as radio networks, IP networks, or private networks. GGSN provides network access to external hosts wishing to communicate with mobile subscribers (MS).
+
+ghost-bug
+
+The GHOST bug is a buffer overflow security vulnerability in some distributions of Linux that can potentially enable attackers to execute arbitrary code on systems.
+Specifically categorized as GHOST (gethostbyname) CVE-2015-0235, the GHOST bug flaw resides in the gethostbyname() and gethostbyname2() function calls in older versions of the GNU C Library (glibc) that is packaged with a variety of Linux distributions, including versions 5, 6 and 7 of Centos / RHEL / Fedora as well as Ubuntu 12.04.
+In addition to older Linux distributions being vulnerable, applications and websites running on server hosts that use these older distributions may be susceptible to the GHOST bug as well, including Wordpress Web sites and various PHP applications.
+
+ghost_imaging
+
+ Ghost imaging, using ghosting software, is a method of converting the contents of a hard drive -- including its configuration settings and applications -- into an image, and then storing the image on a server or burning it onto a CD.   When contents of the hard drive are needed again, ghosting software converts the image back to original form.   Companies use ghost imaging when they want to create identical configurations and install the same software on numerous machines. For instance, if a company needs to dole out 100 laptops to its employees, then instead of manually setting configurations, and installing applications on each machine, ghosting software (usually contained on a floppy ) will retrieve the ghost image from the server, convert it into its original form, and copy it onto the laptop.   Now the laptop is ready for use.  
+
+ghost_site
+
+A Web site that remains live but is no longer updated or maintained or only done so very infrequently. Unlike a site that is no longer available and results in a 404 error message when the user tries to access it, ghost sites can be accessed even though they have not been updated. Web sites typically strive for relevant information that is timely and current. However, there are some sites in which the content will never or rarely change, so there is no need to update the site. For example, a Web site that contains only the full text of the Declaration of Independence does not need to be updated as that data is never going to change.
+
+GHz
+
+Abbreviation for gigahertz. One GHz represents 1 billion cycles per second. The speed of microprocessors, called the clock speed, often is measured in gigahertz. For example, a microprocessor that runs at 200 GHz executes 200 billion cycles per second. Each computer  instruction requires a fixed number of cycles, so the clock speed determines how many instructions per second the microprocessor can execute. To a large degree, this controls how powerful the microprocessor is.
+
+giant
+
+When used in reference to networks, a giant is a packet that is too large to traverse the network. Network protocols such as Ethernet often require that packets can not be over a specific number of bytes in order to travel the network.  Also see runt.
+
+Giant_Global_Graph
+
+A term used in place of Semantic Web. The term was coined by Tim Berners-Lee in November 2007 on his blog. Here Lee suggests that Giant Global Graph may be a more appropriate  taxonomy than "Semantic Web." See also "Berners-Lee and The Giant Global Graph" on  SemanticWeb.com".
+
+Gibbs_Effect
+
+An MPEG compression artifact that blurs the outline of sharp objects. The Gibbs Effect is commonly seen in end-video credits where text images have been compressed. May also be called mosquito noise.
+
+GID_file
+
+A hidden Windows 95 configuration file, ending with a .gid extension, used by the Windows Help system. The first time you open a Windows help file, the Help system analyzes the file and creates an associated GID file that helps speed up access to help file topics. You can delete a GID file without harming your system, but Windows will automatically recreate the file next time you open the corresponding help file.  
+
+GIF
+
+Pronounced jiff or giff (hard g) stands for graphics interchange format, a bit-mapped graphics file format used by the World Wide Web, CompuServe and many BBSs. GIF supports color and various resolutions. It also includes data compression, but because it is limited to 256 colors, it is more effective for scanned images such as illustrations rather than color photos.
+Also see JPG vs. GIF vs. PNG in the Did You Know . . . ? section of Webopedia.
+
+giga_G
+
+(1) When decimal notation is used, giga stands for 10 to the 9th power. For example, a gigavolt is 1,000,000,000 volts.  (2) When applied to computers, which use the binary notation system, giga represents 2 to the 30th power, which is 1,073,741,824, a little more than 1 billion. A gigabyte, therefore, is about 1.073 billion bytes.   
+
+gigabit
+
+(1) When used to describe data storage, 1,024 megabits.  (2) When used to describe data transfer rates, it refers to 10 to the 9th power (1,000,000,000) bits.  Gigabit is abbreviated Gb, as opposed to gigabyte, which is abbreviated GB.
+
+Gigabit_Ethernet
+
+Abbreviated GbE, a version of Ethernet, which supports data transfer rates of 1 Gigabit (1,000 megabits) per second. The first Gigabit Ethernet standard (802.3z) was ratified by the IEEE 802.3 Committee in 1998.
+Also see the Ethernet Designations chart in the Quick Reference section of Webopedia.
+
+gigabit_wi-fi
+
+Gigabit Wi-Fi refers to the upcoming 802.11ac Wireless LAN specification that will support data transfer speeds of 433Mbps per spatial stream and up to 1.3Gbps speeds for three-antenna (three stream) hardware.   Also sometimes called "5G Wi-Fi," Gigabit Wi-Fi operates only in the 5 GHz frequency range (where there is currently far less potential for interference), as opposed to the 802.11n spec, which operates in both 5 GHz and 2.4 GHz ranges. Gigabit Wi-Fi products will offer backwards compatibility with previous 802.11 specifications, including 802.11n.
+The 802.11ac specification is expected to be officially approved in 2013 by the IEEE, and draft 802.11ac "Gigabit Wi-Fi" products are already available for purchase.  Additionally, newer smartphones like the iPhone 5 and Samsung Galaxy III currently support 5GHz Wi-Fi and are Gigabit Wi-Fi-capable.
+
+gigabyte
+
+2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. Gigabyte is often abbreviated as G or GB.  
+
+gigaPOP
+
+Short for gigabit Point of Presence, a network access point that supports data transfer rates of at least 1 Gbps. Currently, only a few gigaPOPs exist, and they're used primarily for accessing the I2 network. Each university that connects to I2 must do so through a gigaPOP, which connects the university's LANs and WANs to the I2 network. Originally, 12 gigaPOPs were planned, each one serving half a dozen I2 members, but the number of gigaPOPs is likely to grow.  Whereas the POPs maintained by ISPs are designed to allow low-speed modems to connect to the Internet, gigaPOPs are designed for fast access to a high-speed network, such as I2. 
+
+gigapower
+
+An AT&T initiative that is expected to deliver ultra-fast fiber network, with broadband speeds up to 1 Gigabit per second, to 100 candidate cities and municipalities nationwide. The initial GigaPower high-speed Internet service, launched in Austin, Texas, was priced at $70 per month and offered speeds of up to 300Mbps. In 2013, AT&T said it will up speeds to one gigabit per second "when available" in 2014, at no extra cost.
+The GigaPower service has been controversial for AT&T. When the company announced it would expand to 1-Gbps speeds in 100 cities, reports surfaced that claimed AT&T's news announcement indicated a massive new deployment, however, as noted by DSL Reports, the service offered is an upgrade to a few deployments where fiber was already present and service was capped at DSL speeds.
+See related term Google Fiber.
+
+Gigle_Networks
+
+Gigle Networks Inc. is the corporate name of a high-definition content and service provider for home networking. The company's products include intelligent multi-PHY switches for Gigabit Home Networking and 200Mbps Home Networking solutions.
+
+GINA
+
+Short for Graphical Identification and Authentication dynamic-link library (DLL). The GINA is a replaceable DLL component that is loaded by the Winlogon executable. The GINA implements the authentication policy of the interactive logon model and is expected to perform all identification and authentication user interactions. [Source: MSDN Library]
+
+gingerbread
+
+Gingerbread is the dessert-themed Android codename for the version 2.3 update of the open source Android mobile operating system. Gingerbread made its debut in December 2010 for a variety of smartphones, introducing Google Voice over Wi-Fi, enhanced gaming functionality and improved Google Apps.
+Gingerbread followed several earlier updates for Android – Cupcake (v1.5), Donut (v1.6), Eclair (v2.0) and FroYo (v2.2) – and has since been superseded by a more recent Android update, Honeycomb (v3.0), with an upcoming Ice Cream Sandwich (v4.0) update currently in development.
+See also Android platform, Android SDK and Android codenames.
+
+GIS
+
+Short for Geographic Information Systems, tools used to gather, transform, manipulate, analyze, and produce information related to the surface of the Earth. This data may exist as maps, 3D virtual models, tables, and/or lists.
+GISs can be as complex as whole systems that use dedicated databases and workstations hooked up to a network, or as simple as "off-the-shelf" desktop software.
+GISs play an important role in many organizations. For instance, police and fire departments may use GISs to locate landmarks and hazards, plot destinations, and design emergency routes. GISs may also be used by governments, research institutes or any other body that can't possibly handle the task of manually processing large amounts of geographical data.
+
+GISci
+
+Short for geographic information science. The field of study involving GIS technology, with focus on sensing, cartography, surveying, spatial statistics, computer science and other related fields. Synonymous with GI Science.
+
+GKTMP
+
+Acronym for Gatekeeper Transaction Message Protocol. A proprietary  Cisco protocol used for communication between the Cisco IOS Gatekeeper and external applications. The two types of GKTMP messages include:  GKTMP RAS Messages: Used to exchange the contents RAS messages between the Cisco IOS Gatekeeper and the external application. Trigger Registration Messages: Used to by the external application to indicate to the Cisco IOS Gatekeeper which RAS message should be forwarded. 
+
+glass_house
+
+Originally used to refer to the large windowed rooms that contained an enterprise's mainframe computers and other hardware devices necessary for data storage and processing, today the term refers generally to the centrally administered computing environments of enterprises. As computers have gotten smaller and can be fit into smaller spaces, they are no longer housed in centralized rooms surrounded by glass windows as they were as early as the 1950s. However, the terms glass house is still used to describe an enterprise's centrally controlled computing environment.
+
+glitch
+
+A malfunction. Glitch is sometimes used as a synonym for bug, but more often it refers to a hardware problem.  
+
+global_area_network_GAN
+
+Global area network (GAN)refers to any network that is composed of different interconnected computer networks (WANs) and also covers an unlimited geographical area. [Source: Adapted from ATIS]
+
+Global_Assembly_Cache
+
+Abbreviated as GAC, the Global Assembly Cache is a machine-wide store used to hold assemblies that are intended to be shared by several applications on the machine. Each computer where the common language runtime (CLR) is installed has a global assembly cache. The global assembly cache stores the assemblies specifically designated to be shared by several applications on the computer.   The .NET Framework provides two tools for working with the cache. One is a Windows shell extension that allows you to work with the cache using a Graphical User Interface (GUI). The other is a command line tool, called the Global Assembly Cache tool (Gacutil.exe), that is typically used in build and test scripts.
+
+Global_File_System
+
+Abbreviated as GFS, a Global File System is a cluster file system that enables a cluster of computers to simultaneously use a block device that is shared between them. GFS reads and writes to the block device like a local file system, but also allows the computers to coordinate their I/O to maintain file system consistency. With GFS any changes that are made to the file system on one computer will immediately be seen on all other computers in that cluster.   See cluster. See also clustering.
+
+Globalization_Management_System
+
+Globalization Management System (GMS) is enterprise software applications that provide the infrastructure to control the complex process of adapting, translating and maintaining all of a company's content and information (such as corporate documents,  databases, enterprise applications, Web sites, manuals, and more) worldwide. A GMS should meet the challenge of developing, leveraging, and maintaining a multilingual, multinational and multicultural base of enterprise information.
+
+Globally_Executable_Multimedia
+
+See under GEM.
+
+Globally_Unique_Identifier
+
+Short for Globally Unique Identifier, a unique 128-bit number that is produced by the Windows OS or by some Windows applications to identify a particular component, application, file, database entry, and/or user. For instance, a Web site may generate a GUID and assign it to a user's browser to record and track the session. A GUID is also used in a Windows registry to identify COM DLLs. Knowing where to look in the registry and having the correct GUID yields a lot information about a COM object (i.e., information in the type library, its physical location, etc.). Windows also identifies user accounts by a username (computer/domain and username) and assigns it a GUID. Some database administrators even will use GUIDs as primary key values in databases.
+GUIDs can be created in a number of ways, but usually they are a combination of a few unique settings based on specific point in time (e.g., an IP address, network MAC address, clock date/time, etc.).
+
+glog
+
+Short for graphics (or graphical) blog, glog is the name used to describe a publicly accessible graphical blog. A person or organization's glog is actually an interactive multimedia image that looks similar to a poster, but readers of a glog are able to interact with the content.
+
+glossy_paper
+
+Glossy photo quality paper is designed to make printed photos look sharp, vibrant and more like a traditional photograph. Handling of glossy paper is important as the paper can quickly and easily be marred by fingerprints and dirt. Glossy photo paper comes in several varieties including a specialty color protect or color life paper, semi-gloss and premium (professional) grade.
+
+Gmail
+
+Gmail is a free, search-based e-mail (Web mail) service, which is accessible from a Web browser anywhere in the world. Gmail includes more than 2,000MB (two gigabytes) of storage. The backbone of Gmail is a powerful Google search engine that quickly finds any message an account owner has ever sent or received.  When Gmail displays an e-mail, it automatically shows all the replies to that e-mail as well, so users can view a message in the context of a conversation. There are no pop-ups or untargeted banner ads in Gmail, which places relevant text ads and links to related Web pages adjacent to e-mail messages.  As of June 2005, Gmail is presently part of a preview release and limited test accounts are available. 
+
+GML
+
+Short for Geography Markup Language, an XML-based language for encoding geographic information in order to be stored and transported over the Internet. Developed by the OpenGIS Consortium, GML defines both the geometry and properties of objects that comprise geographic information. GML is a practical application for transferring cartographic information over the Web. Instead of transmitting a GIF or JPG map, GML allows the data to be controlled on the browser end by the user who receives geometries and geographic features and customizes how the data is to be displayed. Geographic data in GML can be sent to any device with an XML interface.
+
+GMR
+
+Short for giant magnetoresistive, a hard disk drive storage technology. The term is usually referred to in reference to GMR heads. GMR heads are not named "giant" because of their size. The technology is named for the giant magnetoresistive effect, first discovered by two European researchers -- Peter Gruenberg and Albert Fert -- in the late 1980s. While working with large magnetic fields and thin layers of magnetic materials, Gruenberg and Fert noticed very large resistance changes when these materials were subjected to magnetic fields.  Disk drives that are based on GMR head technology use these properties to help control a sensor that responds to very small rotations on the disk. The magnetic rotation yields a very large change in sensor resistance, which in turn provides a signal that can be picked up by the electric circuits in the drive.  GMR heads are made up of four layers of thin material that combine into a single structure: Free layer - The sensing layer. The free layer is passed over the surface of the data bits to be read. It is free to rotate in response to the magnetic patterns on the disk. Spacer - Typically made from copper, this is a nonmagnetic layer that separates the magnetization of the free and pinned layers. Pinned layer - A layer of cobalt material that is held in a fixed magnetic orientation by its proximity to the exchange layer. Exchange layer - A layer of antiferromagnetic material that fixes the pinned layer's magnetic orientation.  When the head passes over a magnetic field of one polarity, the electrons on the free layer turn to align with those on the pinned layer, creating a lower resistance in the head structure. When the head passes over a field of opposite polarity, the free layer electrons rotate so that they are not aligned with the electrons on the pinned layer. This causes an increase in the structure's resistance. Because the resistance changes are caused by changes to the spin characteristics of electrons in the free layer, GMR heads are also known as spin valves, a term coined by IBM.
+
+GMR_head
+
+See GMR.
+
+GNOME
+
+Acronym for GNU Network Object Model Environment. (Pronounced guh-nome.) GNOME is part of the GNU project and part of the free software, or open source, movement. GNOME is a Windows-like desktop system that works on UNIX and UNIX-like systems and is not dependent on any one window manager. The current version runs on Linux, FreeBSD, IRIX and Solaris. The main objective of GNOME is to provide a user-friendly suite of applications and an easy-to-use desktop. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+gnome_3
+
+A desktop graphics environment for Linux and other Unix-like operating systems. Released in April 2011, GNOME 3 served as a major update for the GNOME project and was the first major release in nine years.
+While GNOME 3 advanced the GNOME project considerably in terms of technology and new features, the overall look and feel of the interface was such a stark change that many long-time users of GNOME 2 were left unhappy with the new 3.0 release and have remained upset despite revisions made in the most recent 3.2 release.
+The large base of users dissatisfied with GNOME 3 has led to the development of numerous GNOME 3 shells and alternatives, including the Unity shell in Ubuntu, the Mac OS X-inspired Macbuntu, the GNOME 2-based MATE and Linux Mint's GNOME 3-based Cinnamon desktop environment.
+
+GNU
+
+Self-referentially, short for GNU's not UNIX, a UNIX-compatible software system developed by the Free Software Foundation (FSF). The philosophy behind GNU is to produce software that is non-proprietary. Anyone can download, modify and redistribute GNU software. The only restriction is that they cannot limit further redistribution. The GNU project was started in 1983 by Richard Stallman at the Massachusetts Institute of Technology.  Linux systems rely heavily on GNU software and in the past, GNU systems used the Linux kernel. This close connection has led some people to mistakenly equate GNU with Linux. They are actually quite separate. In fact, the FSF is developing a new kernel called HURD to replace the Linux kernel in GNU systems. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+GNU_Privacy_Guard
+
+See under GPG.
+
+GnuPG
+
+Short for GNU Privacy Guard. Also abbreviated as GPG.
+
+Gnutella
+
+An application for a peer-to-peer file sharing system, which was originally developed by Nullsoft but quickly disseminated within the hacker community. Like Napster, Gnutella allows users to scan designated folders on other members' hard drives and copy files of any type between machines. Unlike Napster, Gnutella software doesn't have a main central database of users.Also see All About Peer-To-Peer Architecture in Webopedia's "Did You Know...?" section.
+
+Gobi_chipset
+
+A Qualcomm embedded notebook chipset that combines broadband modem technology with GPS functionality. With the Gobi chipset, WAN wireless data connections are globally provided without locking users in with a specific telecommunications  carrier. Gobi can operate in CDMA2000, EV-DO and UMTS HSPA networks worldwide and also supports GPS functionality.
+
+GOES
+
+Short for Geostationary Operational Environmental Satellites GOES is a series of geosynchronous satellites, first launched in the 1970's by the United States and other governing bodies. GOES satellites are used to monitor storm development, such as tornadoes, hail storms or hurricanes and track the storm's movements.
+
+gold_version
+
+In software and application development, a gold version  is the final stage of software development and follows the alpha and beta testing cycles of software development. The gold version is the final version of the software as it will be released to the public. Most or all known bugs prior to release are fixed, and all intended functions for final release are implemented. Media and developers will often use the phrase "gone gold" to announce a software product's impending release.
+
+goodbye_message
+
+When newsletter or e-mail list subscribers have chosen to unsubscribe from a mailing list, the list owner usually sends a last goodbye message that will let the user know their request to unsubscribe was successfully received. Goodbye messages will usually always have a link for users to subscribe again (or to just cancel the request), incase the unsubscribe was done in error.
+
+goodput
+
+In networking terms - for wired and wireless networks - goodput is used to describe the number of packets that are exchanged between the applications that use the network. A more commonly known related term is throughput. It measures the amount of packets exchanged over the network to determine network efficiency. Goodput can also be described as measuring the throughput at the application level.
+
+Google_Analytics
+
+A free service from Google that enables Web masters and site owners to freely access Web analytics data. Google Analytics tracks visitors through your site and also tracks of the performance of your marketing campaigns.  See also "Web Analytics Primer: Five Metrics Demystified" on Ecommerce-Guide.com.
+
+Google_blips
+
+A slang phrase used to describe flawed Google  search engine results. The phrase first started being used in 2002 in reference to a "blip" where Google search results produced the Microsoft site as the top search result for"go to hell."This type of blip had nothing do to with anything on the Microsoft Web site itself, but rather common phrases that other Web sites linking to the Microsoft Web site used, that boosted the site to the number one search result for that phrase.
+
+Google_Chrome
+
+An Internet browser developed by Google Inc. that combines a minimal design with sophisticated technology to make the Web faster, safer and easier. The Google Chrome browser offers features including access to favorite pages instantly with thumbnails, desktop shortcuts to launch Web applications, and independently run tabs within the browser to prevent browser crashing. Chrome browser is available for Windows  Vista and Windows XP SP2.  See Google Chrome: From Browser to Operating System" in the Did You Know...? section of Webopedia.See also "All About Web Browsers" in the Quick Reference section of Webopedia.
+
+google_chromebook_pixel
+
+A high-end, touch-screen Chromebook device from Google that runs the company’s Chrome OS operating system. The Google Chromebook Pixel debuted in early 2013 with a 12.85” Gorilla Glass-display that provides a screen resolution of 2560 by 1700 pixels (239 pixels per inch), and pricing for the Google Pixel starts at $1299.    The Google Chromebook Pixel differs from other Chromebooks in its price (close to $1000 more than entry-level Chromebooks) as well as the fact that Google itself commissioned the production of the Chromebook rather than relying on a more traditional PC manufacturer like Samsung or Acer.    While its specs and pricing would seem to put the Google Pixel Chromebook in competition with laptops like the Retina Display MacBooks from Apple and tablet hybrids like the Microsoft Surface Pro, one key differentiating point is that the Google Pixel, like all Chromebooks, can only run Chrome-compatible, Web-based applications, not traditional desktop software applications such as Microsoft Office and Adobe Photoshop.
+
+google_chromecast
+
+A small WiFi-enabled dongle device that connects to a television via a HDMI port to wirelessly stream video and music content to the TV screen from smartphone (both Android and Apple iOS), tablet, laptop or desktop computer devices. Google Chromecast made its debut in late July, 2013, and retails for $35, which is considerably less expensive than the $99 Apple TV that Chromecast competes against.  Initial reviews of Google Chromecast have been mixed, with many praising the low cost ($35) and the high video and audio quality while at the same time criticizing the limited functionality the initial release of Chromecast provides, particularly in terms of compatible streaming services and mobile apps.  
+
+
+Google_Custom_Search_Engine
+
+A Google Custom Search Engine enables Web site authors to host a Web site (or Web) search box and search results on on their site. Users can customize the search engine that is built using Google's core search technology. In creating your own Google Custom Search Engine you can prioritize or restrict search results based on specific Web sites and pages you specify. Once you've defined your search engine, Google provides code for a search box that users can copy and then paste right in to their own Web site or blog. See also "Google Products and Services" in the  Quick Reference section of Webopedia.
+
+Google_Dance
+
+In search engine optimization (SEO), Google Dance is an out-dated slang term used to describe the period of time in which Google used to rebuild its rankings, and as a result of this rebuilding, rankings of Web sites on Google's SERP may fluctuate in order during a several day period. The "Google Dance" would happen anywhere up to 36 times per year, however in 2003 Google begun updating its index on a weekly basis, which all but eliminated the Google Dance.
+
+Google_Docs_Spreadsheets
+
+Google Docs & Spreadsheets provides an online editor to format documents, and also lets users upload Word documents, OpenOffice, RTF, HTML or text. You can also download documents to your desktop as Word, PDF and other formats. Other features enable you to view your documents' revision history and roll back to any version. See also "Google Products & Services" in the  Quick Reference section of Webopedia.
+
+google-dorking
+
+Google Dorking is a term that refers to the practice of applying advanced search techniques and specialized search engine parameters to discover confidential information from companies and individuals that wouldn't typically show up during a normal web search.
+Hackers can use Google Dorking tactics to reveal information that companies and individuals likely intended not to be discoverable through a Web search. This information can include account usernames and passwords, customer and partner lists and details, sensitive and private documents, account details, website vulnerabilities for potential cyber attacks and more.
+Hackers also have an array of freely available online tools they can use to run automated scans that execute multiple Google Dorking queries, enabling them to more efficiently conduct their dorking efforts.
+
+google_drive
+
+Google Drive is a personal cloud storage service from Google that lets users store and synchronize digital content across computers, laptops and mobile devices, including Android-powered tablet and smartphone devices. Support for Apple devices is provided via GDrive,  the Google Drive client for iPhone and iPad devices.
+Google Drive Search, Sharing and Pricing
+As one might expect, Google Drive additionally provides advanced search capabilities for finding specific information within files, and users can also share and collaborate with others on documents via the service's built-in access to the Google Docs suite of editing tools.
+Like the competing iCloud service from Apple, Google Drive provides users with an initial 5 GB of cloud storage for free, with additional storage capacity available for purchase on a monthly basis -- currently  100-GB for $1.99 per month up to 30-TB at $299.99 per month.
+
+google_fiber
+
+Google Fiber is a new fiber-optic internet and television service from Google offered in select cities that provides up to 1Gbps internet speeds (both upload and download). According to Google, the Gigabit internet speeds are up to 100 times faster than the average broadband speeds in place today.  Google Fiber made its public debut in Kansas City in September 2012, and expansion plans are in place for Austin, Texas and Provo, Utah, as well as additional cities in the future. The Google Fiber service is available for $120 per month for the combined internet and television services, or $70 per month for just the internet service. A free Google Fiber internet service option is also available that offers speeds of up to 5Mbps for a one-time “construction fee” of $300.  Google Fiber subscribers are provided with a Network box with 4 Gigabit Ethernet ports, a DVR Storage box with 2TB of data storage that can record up to eight live television shows simultaneously, TV boxes for each TV or HDTV to be used with the service, and a Google Nexus 7 tablet device that can be used as both a viewing device and a remote control for Google Fiber. In addition to the included 2TB storage box, Google Fiber customers are also provided with 1TB of cloud storage via Google Drive.
+
+Google_Gears
+
+An open source Web browser extension that is used by developers to create a rich platform for Web applications. Gears works with a select group of sites that are specifically designed for compatibility. Gears enables Web applications to interact with your desktop, store data locally in a fully-searchable database, and Run JavaScript in the background to improve performance. Google Gears requires Windows XP or Vista and Firefox 1.5 or Internet Explorer 6.0 or higher.See "A Quick Guide to Google's Services" in the Quick Reference section of Webopedia.
+
+google_glass
+
+
+Google's project program for developing a line of hands-free, head-mounted intelligent devices that can be worn by users as "wearable computing" eyewear. The first product release from Project Glass, Google Glass, was available for beta testers (U.S. residents only) to purchase in 2013, for $1,500 plus tax.
+
+
+google_hangouts
+
+Google+ Hangouts is a free video chat service from Google that enables both one-on-one chats and group chats with up to ten people at a time.
+Face-to-Face Group Interaction
+While somewhat similar to Skype, FaceTime and Facebook Video Chat, Google Hangouts focuses more on "face-to-face-to-face" group interaction as opposed to one-on-one video chats, and utilizes sophisticated technology to seamlessly switch the focus to the person currently chatting.
+Using Google Hangouts on Desktop and Mobile Devices
+Google Hangouts can be accessed via laptop and desktop computers as well as with Android mobile devices (Android "Gingerbread" v2.3 and later) and, in the near future, iOS-powered mobile devices. In addition to video chatting, Google Hangouts users can share documents, scratchpads, images and YouTube videos with other users.  Google+ Hangouts also offers a "Hangouts on Air" feature for broadcasting live video conversations that are accessible to anyone with a web browser.
+
+google-hummingbird
+
+Google Hummingbird is a project that seeks to improve the Google search engine experience for users by going beyond keyword focus and instead taking into account the context and all of the content in the entire search phrase to provide more of a natural-language, or conversational, approach to search queries.
+Unlike two similar projects from Google, Google Panda and Penguin, which both serve as updates for Google's existing search algorithm engine, Google Hummingbird introduces a completely new search algorithm that is estimated to affect more than 90% of all Google searches.
+Google debuted Hummingbird in September 2013 on the eve of the company's 15th anniversary. The Google Hummingbird release serves as the first major change to the algorithm engine since Google launched "Caffeine" in 2010.
+
+google_keep
+
+A digital "scratchpad" note-taking application for the Android mobile operating system that serves as Google's answer to Apple's Notes app for Apple iOS mobile devices. Google Keep debuted in March 2013 via Google Play for devices running Android 4.0.3 ("Ice Cream Sandwich") and later.
+Google Keep enables users to collect photos and notes, write down to-do lists, store voice recordings, organize notes and details, and more.  Google Keep offers a streamlined and simplistic interface that makes it simple for users to access their stored content.
+One benefit that Google Keep offers over competing offerings is that all of its information is synced between Android devices while also being accessible by a PC or another device via Google Drive.
+
+google_nexus
+
+A line of smartphones and tablet devices developed by Google and various hardware partners. The Google Nexus first debuted in early 2010 as the Nexus One, and today the line consists of the Google Nexus 4, Nexus 7 and Nexus 10 devices. Google Nexus devices are powered by Google’s Android open source mobile operating system.  Here is a synopsis of the three Google Nexus devices currently available:
+Google Nexus 4:  A 4.7-inch smartphone from LG and Google that can be purchased directly from Google Play with no carrier commitment or contract. The Nexus 4 offers a 4.7-inch display with 1280x768 resolution protected by Corning Gorilla Glass 2. Pricing for the Nexus 4 starts at $299, and it competes with smartphones like the Apple iPhone, fellow Google-powered devices such as the Samsung Galaxy S III and Microsoft Windows Phone 8-powered smartphones.   Google Nexus 7:  A 7-inch tablet computer developed by Google and Asus that runs v4.2 ("Jelly Bean") of the Android mobile OS. Pricing for the Nexus 7 starts at $199, and it competes with tablets like the Apple iPad Mini, Amazon's Kindle Fire HD and the NOOK Tablet HD.  Google Nexus 10:  A 10-inch tablet computer from Google and Samsung that offers a 2560x1600, 300 pixels-per-inch display and multi-user support. Pricing for the Nexus 10 starts at $399, and it competes with tablets like the Apple iPad 4 and Microsoft’s Surface with Windows 8 Pro.
+
+google_nexus_10
+
+The Google Nexus 10 is a tablet device developed by Google and Samsung that was first released in November 2012. Google Nexus 10 runs version 4.2 (“Jelly Bean”) of the Android mobile operating system and features a 10.055” display with 2560x1600, 300 PPI (pixels-per-inch) resolution, a dual-core processor, 2GB of RAM, 8 or 16GB of internal storage, a 5MP camera with 1080p video camera support, and built-in “Android Beam” near-field communication (NFC), Bluetooth 4.0 and Wi-Fi connectivity.
+The Google Nexus 10 also touts itself as a shareable tablet with support for multiple users and instant switching between user accounts. Pricing for the Nexus 10 starts at $399, and it competes with tablets like the Apple iPad 4 and Microsoft’s Surface with Windows 8 Pro. Apps for the Google Nexus 4 are available via the Google Play app store. 
+
+google_nexus_4
+
+The Google Nexus 4 is a smartphone device developed by Google and LG that was released in November 2012. The Google Nexus 4 can be purchased directly from Google Play with no carrier commitment or contract, although shortages made the smartphone difficult to obtain in the period following its initial release.
+The Google Nexus 4 runs version 4.2 (“Jelly Bean”) of the Android mobile operating system and features a quad-core Qualcomm Snapdragon S4 Pro processor, 2GB of RAM, 8 or 16GB of internal storage, an 8MP camera with 1080p video camera support, wireless charging capabilities and built-in “Android Beam” near-field communication (NFC), 3G and Wi-Fi connectivity, although it does currently lack support for 4G LTE. The Nexus 4 offers a 4.7-inch, 320 pixels-per-inch display with 1280 by 768 resolution protected by Corning Gorilla Glass 2. Pricing for the Nexus 4 starts at $299, and it competes with smartphones like the Apple iPhone as well as fellow Google-powered devices like the Samsung Galaxy S III and Microsoft Windows Phone 8-powered smartphones. Apps for the Google Nexus 4 are available via the Google Play app store. 
+
+google_nexus_7
+
+A 7-inch tablet computer designed by Google and Asus that runs Google’s Android mobile operating system. The Google Nexus 7 debuted in late June 2012 with a starting price of $199 and is designed to compete with similar tablet devices like the Apple iPad, Amazon’s Kindle Fire HD and the NOOK Tablet HD.  The Google Nexus 7 runs version 4.1 (“Jelly Bean”) of the Android OS and features a quad-core processor, 1GB of RAM, 8 or 16GB of internal storage and built-in near-field communication (NFC) and Wi-Fi connectivity.  The Nexus 7 does currently lack the cellular connectivity found in competing tablets, including some versions of Apple’s iPad, but a 3G version is reportedly in the works. Apps for the Google Nexus 7 are available via the Google Play app store.
+
+google_now
+
+Google Now is an intelligent personal assistant feature available for the Google Android and Apple iOS platforms. As with Apple's Siri voice assistant, Google Now can answer queries and perform actions via voice commands using a natural language user interface.
+
+The real power of Google Now is that it additionally relies on a user's preferences and search history to anticipate future needs and deliver personalized information based on those needs before the user asks for it.   Google introduced Google Now in July 2012, and the feature is currently available for free as part of the Google Search app for Android and Apple iOS devices.
+
+Google_Office
+
+A term used to describe the products and services offered in the Google Docs and Spreadsheets services.
+
+google-panda
+
+Google Panda refers to a series of on-going algorithm updates and data refreshes for the Google search engine that the company rolls out to help refine its search algorithm to improve the value of search query results for users.
+The Google Panda updates specifically tweak the algorithm as part of Google's continual efforts to elevate high-quality sites and web pages to the top of the organic search results while lowering, or penalizing, the rank of lower-quality or "thin' web sites and pages, particularly those sites that display a large amount of advertising without much in terms of high-quality content.
+How Does Google Panda Differ from Google Penguin and Google Hummingbird?
+Google Panda is frequently confused with two other algorithm improvements from Google, Google Penguin and Google Hummingbird. Google Panda updates are focused primarily on ensuring that low quality and poor content web sites are pushed farther down the search results so that higher quality sites can receive priority exposure.
+
+google-payday-loan
+
+Google Payday Loan is a set of algorithm updates and data refreshes for the Google search engine initiated to help identify and penalize web sites that utilize search engine spam techniques (also known as spamdexing or Black Hat SEO) to improve their rankings for specific search queries that are considered "spammy" in nature.
+Google launched the Google Payday Loan algorithm to filter out lower quality websites that were using a variety of spam techniques to boost their rankings for heavily trafficked search key word queries like "payday loans," "Viagra," "casinos" and various pornographic terms.
+Google Payday Loan 1.0, 2.0 and 3.0 Updates 
+Google rolled out the first Google Payday Loan algorithm on June 11, 2013, and it impacted approximately 0.3% of all Google search queries in the United States, according to Google. It affected more than 4% of all Turkish queries, where spammed search queries tend to be more prevalent.
+
+google-penguin
+
+Google Penguin refers to a set of algorithm updates and data refreshes for the Google search engine that the company periodically initiates to help enhance the value of its search query results for users.
+The Google Penguin updates primarily seek to prevent various types of search engine spam (also known as spamdexing or Black Hat SEO) from being successfully rewarded in the form of higher-placed search engine results. Search engine spam can include activities such as keyword stuffing, link spamming, the use of invisible text on web pages, duplication of copyrighted content from high-ranking web sites and more.
+How Often Are Google Penguin Updates Rolled Out?
+Google rolled out the first Penguin update in April 2012, and the search company estimated it affected 3% of all English-language web sites. Google doesn't always announce changes for Penguin, but there have been at least five Google Penguin updates, including a major update, Penguin 2.0, in May 2013 and the most recent, Penguin 2.1, later that year in October.
+
+google-pigeon
+
+
+Google Pigeon is a codename that refers to an algorithm update for Google's Local Search search engine, which the company rolled out with the purpose of "providing a more useful and relevant experience for searchers seeking local results," according to Google.  The initial Google Pigeon update debuted on July 24th, 2014 with improvements to distance and location ranking parameters as well as deeper ties into Google's web search capabilities.  Google Pigeon currently only affects U.S. English local search results, and it impacts the organic local listings within both Google's Map Search and Web Search.
+
+
+google_play
+
+Google Play is Google's renamed and rebranded Android Market online store for purchasing and downloading apps, music, books, movies and similar content for use on Android-powered smartphones, tablets, Google TV and similar devices.  Google launched Google Play in March 2012 as a single brand for all of its Android content, with Google Play replacing the Android Market, Google Play Music replacing Google Music, Google Play Books replacing Google eBookstore and Google Play Movies replacing the Android movie storefront.  Google Play also ties heavily with the company's cloud capabilities, as all of the Google Play content is capable of being shared across Android devices as well as computers and laptops.  Google Play content can be accessed from any of these devices when a user logs into his or her Google account.
+
+Google_Profile
+
+Free user profiles available from Google that lets users present themselves on Google products to other Google users. It allows you to control how you appear on Google and tell others more about who you are. With a Google profile, you can easily share your web content on one central location. You can include links to your blog, online photos, and other profiles such as Facebook, LinkedIn, and more. You also have control over what others see and you Google profile will not display any private information unless you explicitly add it.  To edit or create your Google Profile, simply log into your Google account and select "edit profile". See also "Google Products and Services" in the  Quick Reference section of Webopedia.
+
+google_project_butter
+
+Google Project Butter refers to an initiative for the Android mobile operating system to make the OS quicker and more responsive for users.  Google Project Butter was launched to address Android users’ most common complaints related to response lags and poor performance as well as choppy responsiveness. 
+The results of Google Project Butter initially debuted in Android 4.1 (“Jelly Bean”), with subsequent enhancements appearing in Android 4.2, providing Android users with a faster and smoother experience across the OS and Android apps.
+Google Project Butter accomplished its “buttery smooth” responsiveness and “speed infusion” improvements via three main additions: triple buffering, which improves coordination and animation synchronization between the CPU, GPU and display; VSync, which improves graphical performance and increases frame rates to 60fps (frames per second); and touch responsiveness, which predicts a user’s upcoming actions of the screen in order to improve load times for those actions.
+
+google-project-zero
+
+Google Project Zero is a little-known research group whose focus is finding security vulnerabilities in Google's software products like the Google Chrome web browser. Google Project Zero has also gained attention for identifying and sharing security vulnerability information with companies like Apple and Microsoft for their operating system and software offerings.
+Little Known About Google Project Zero
+While Google hasn’t publicly disclosed a great deal of information on Google Project Zero, several members of the group have been credited with identifying security vulnerabilities in Mac OS X, Apple iOS, Microsoft's Anti-Malware software offerings (Windows Defender, Microsoft Security Essentials, and Endpoint), and other products.
+These Google Project Zero members include Ian Beer, who helped identify a variety of Apple Mac OS X and iOS flaws, and Tavis Ormandy, who discovered a security flaw in the JavaScript interpreter used in Microsoft’s Anti-Malware software.
+
+google_search_appliance_gsa
+
+Google Search Appliance (GSA) is an enterprise search hardware solution designed to deliver universal, enterprise-quality search across an entire organization. GSA offers several options for customization and lets individuals within the organization access only the information they have permission to view.
+GSA features People Search, Dynamic Navigation results filtering, Active-Active high availability and Sharepoint 2010 compatibility. Google enterprise search also offers organizations a universal search function that extends search results beyond internal files and databases to include content from social media streams and cloud computing applications.
+
+Google_Sitemaps
+
+Google Sitemaps is an experiment in Web crawling by using Sitemaps to inform and direct Google search crawlers. Webmasters can place a Sitemap-formatted file on their Web server which enables Google crawlers to find out what pages are present and which have recently changed, and to crawl your site accordingly. Google Sitemaps is intended for all web site owners, from those with a single web page to companies with millions of ever-changing pages.  [Source: Adapted from Google Sitemaps FAQ]
+
+Google_Trends
+
+A free Google service that provides charts that show how often words, phrases and topics have been searched for over time. Using Google Trends you can compare up to five topics at one time and also see how often those topics have been mentioned in news stories and find out in which geographic regions the topics have been searched for the most. Google Trends also offers "Hot Trends" which is a snapshot of top 40 fastest-rising search queries in the United States. See also "A Quick Reference to Google's Consumer Products" on Webopedia.com
+
+google_tv
+
+A Smart TV platform from Google and co-development partners Intel, Sony and Logitech that provides an Android-powered interactive television system for users.  While Google TV is integrated into some newer televisions and Blu-ray players, consumers that don't have Google TV built into their systems can purchase a separate set-top box that provides Google TV functionality.
+Google TV brings "the Web to the TV" in the form of the Adobe Flash-capable Google Chrome Web browser, which enables access to video-on-demand from content providers such as Netflix, YouTube, HBO and CNBC.  Google TV users can also use their Android-powered or Apple iOS-powered smartphones as a remote control for the system.  In October 2011 Google launched Google TV 2.0, which features the Android 3.1 OS ("Honeycomb") as well as access to Google Play, which is the renamed and rebranded Android Market.
+
+google_voice
+
+Google Voice is an Internet telephony service from Google that enables free worldwide PC-to-PC voice calls and video-enabled calls as well as free PC-to-phone calls within North America. Google Voice is also designed to enhance the capabilities of an existing phone line by providing features such as online voicemail, the capability to send and receive free text messages, options for delivering transcribed voice messages as text messages or as email messages, and the use of a single phone number that can be forwarded to any other number.
+
+
+google_wallet
+
+A digital payment service from Google designed to make it easier for customers to make online and traditional in-store purchases. Google Wallet functions in two distinct ways: as a mobile payment service and as an online payment service.
+The Google Wallet mobile payment service is available for select Google Android-powered devices.  It stores credit and debit card information and then facilitates transactions at stores using near-field communication (NFC), enabling payment by simply touching the mobile device to a store’s PayPass reader. Google Wallet’s online payment service functions separately from the mobile payment service and is designed to securely store customers’ credit and debit card information in order to simplify online purchases for customers.
+
+google-google-plus
+
+Google+ (Google Plus) is Google's attempt at social networking. The Google+ service that delivers functionality and many features similar to those of Facebook. 
+Features in Google+ include "Posts" for posting status updates, "Circles" for sharing information with different groups of people (like Facebook Groups), "Sparks" for offering videos and articles users might like, and "Hangouts" and "Huddles" for video chatting with a friend or group of friends.
+Google+ follows the company's earlier social networking endeavors, including the short-lived Google Wave, which Google discontinued in early 2010.  Google+ is expected to expand to a larger audience as the project matures.
+
+Googlewhack
+
+A Googlewhack a search term containing a combination of two or more words that will produce only one single search result in the Google search engine. This means finding only one single webpage on the entire World Wide Web that contains your search query. Googlewhacking is the name given to finding such a search result, and is considered to be a "Web sport". The rules to Googlewhacking are simple: 1. You cannot use quotation marks in your search query, 2. The words must be found listed in dictionary.com, 3. The page must be an actual article or webpage with information not just a list of words. One problem facing Googlewhackers, is that when a googlewhack is found and reported on the web, this means your query will no longer count as a googlewhack since the page it was reported on will most likely be indexed by Google, thus creating more than one search result for your Googlewhack. Googlewhacking was created by Gary Stock in January 2002.
+
+GOP
+
+In video terminology, when encoding in MPEG video  GOP is the abbreviation for Group Of Pictures. In a motion sequence, GOPs are individual frames of pictures that are grouped together and played back so that the viewer registers the video's spatial motion. The GOP allows editing and splicing of video material from different sources to allow for rapid forward or reverse searching through sequences. An Open GOP will contain some references from the previous GOP. A GOP is called a Closed GOP when either there are no B_pictures immediately following the first I_picture or such B_pictures haven't any references coming from the previous GOP. Also see I-frame and B-frame.
+
+gopher
+
+A system that pre-dates the World Wide Web for organizing and displaying files on Internet servers. A Gopher server presents its contents as a hierarchically structured list of files. With the ascendance of the Web, many gopher databases were converted to Web sites which can be more easily accessed via Web search engines.
+Gopher was developed at the University of Minnesota and named after the school's mascot. Two systems, Veronica and Jughead, let you search global indices of resources stored in Gopher systems.
+
+
+gorilla_glass
+
+An advanced alkali-aluminosilicate glass technology developed by Corning that is used in a variety of screens for mobile devices like smartphones and tablets as well as displays for PCs and TVs.  The scratch- and impact-resistant qualities in Gorilla Glass, combined with its incredibly thin profile, enable it to protect device displays without adding significant weight or interfering with capacitive touch screens.
+The first generation of Gorilla Glass was used in the screen of the original iPhone from Apple that debuted in 2007.  Gorilla Glass 2 became available in 2012 and offered a 20% thinner profile than the original Gorilla Glass.
+
+
+gorilla_glass_3
+
+The most recent development in Corning's Gorilla Glass technology for protecting mobile and computing device screens. Gorilla Glass 3 with Native Damage Resistance was announced at CES 2013 as offering "enhanced scratch resistance, reduced scratch visibility and better retained strength once a scratch does occur" over previous generations of Gorilla Glass, according to Corning.    Corning touts Gorilla Glass 3 as being up to three times more damage resistant than Gorilla Glass 2 as well as being able to better resist deep scratches that tend to cause glass to break.  Gorilla Glass 3 also offers chemically strengthened protection that makes the glass less brittle and much tougher than previous generations of Gorilla Glass.
+New smartphone devices appearing in 2013 and 2014 are expected to employ Gorilla Glass 3 technology, with the Samsung Galaxy S4 being the first to market with a Gorilla Glass 3 screen.
+
+goto-fail
+
+An Apple iOS and OS x Secure Socket Layer (SSL) software vulnerability that allows a malicious user or hacker to intercept and alter communications including email and login credentials. The vulnerability allows anyone with a certificate signed by a "trusted CA" to do a man-in-the-middle attack and  intercept communication between the user's Apple hardware and the intended recipient or website.
+Apple Security Patches
+Apple released a patch for devices including the iPhone (4 and later), iPod touch (5th generation) and the iPad (2nd generation). The SSL vulnerability has also been patched for OS X Mavericks. Websites, including this goto fail test site will check if your system is vulnerable if you visit the URL using the Safari browser.
+A Simple Programming Error?
+As reported on Wired, the iOS 7 bug is the result of a simple programming error  where two "goto fail" lines appear, one after the other. The second function is a duplicate entry (a typo) that diverts the program’s execution past a critical authentication check.
+
+Governance_Plan
+
+A set of roles, responsibilities and processes that an organization would put in to place to guide development and usage of technologies used within the enterprise. A Governance Plan typically includes your objectives, administration and maintenance, policies, support, stakeholder teams and other elements.
+
+GPF
+
+Short for General Protection Fault, a computer condition that causes a Windows application to crash. The most common cause of a GPF is two applications trying to use the same block of memory, or more specifically, one application trying to use memory assigned to another application.  The following situations can also cause GPFs.  Running an application with insufficient resources Using improper hardware device drivers Corrupted or missing Windows files Applications exchanging data that cannot be read   GPFs are often preceded by an invalid page fault. 
+
+GPG
+
+Short for GNU Privacy Guard and also abbreviated as GnuPG, GPG is the GNU project's free software implementation of the OpenPGP standard as defined by RFC4880. GPG is specifically a command line tool that enables you to encrypt and sign your data and communication and includes a key management system as well as access modules for all kind of public key directories. Learn more about  Open Source in Webopedia's "Did You Know...?" section. 
+
+GPL
+
+Short for General Public License, the license that accompanies some open source software that details how the software and its accompany source code can be freely copied, distributed and modified. The most widespread use of GPL is in reference to the GNU GPL, which is commonly abbreviated simply as GPLwhen it is understood that the term refers to the GNU GPL. One of the basic tenets of the GPL is that anyone who acquires the material must make it available to anyone else under the same licensing agreement.
+The GPL does not cover activities other than the copying, distributing and modifying of the source code.
+A GPL is also referred to as a copyleft, in contrast to a copyright that identifies the proprietary rights of material.
+
+gppm
+
+Short for graphics pages per minute, the speed with which laser printers can print nontext pages. Typically, laser printers are rated in terms of pages per minute  (ppm  ), but this refers only to the speed with which they print text pages. The gppm is always much less and may be the more important figure if you are using the printer to print graphics -intensive documents.  
+
+GPR
+
+Short for ground penetrating radar, a UWB imaging technology used for subsurface earth exploration. GPR uses electromagnetic wave propagation and scattering to image and identify changes in electrical and magnetic properties in the ground. GPR systems have wide applications, such as locating underground utility lines, monitoring airplane runways for structural integrity, detecting unexploded land mines, conducting groundwater studies or forensic research and surveying land for construction purposes.  The FCC has mandated that GPR must operate below 960 MHz or in the frequency band 3.1-10.6 GHz and a GPR system can only operate when in contact with or in close proximity to the ground for the purpose of detecting and imaging subsurface anomalies, such as buried objects, sinkholes or underground caves and fluctuations in the earth's composition. The FCC has limited GPR operation to law enforcement, fire and rescue organizations, scientific research institutions, commercial mining companies and construction companies.
+
+GPRS
+
+Short for General Packet Radio Service, a standard for wireless communications which runs at speeds up to 115 kilobitsper second, compared with current GSM (Global System for Mobile Communications) systems' 9.6 kilobits.
+GPRS, which supports a wide range of bandwidths, is an efficient use of limited bandwidth and is particularly suited for sending and receiving small bursts of data, such as e-mail and Web browsing, as well as large volumes of data.
+
+
+GPS
+
+Short for Global Positioning System, a worldwide MEOsatellite navigational system formed by 24 satellites orbiting the earth and their corresponding receivers on the earth. The satellites orbit the earth at approximately 12,000 miles above the surface and make two complete orbits every 24 hours. The GPS satellites continuously transmit digital radio signals that contain data on the satellites location and the exact time to the earth-bound receivers. The satellites are equipped with atomic clocks that are precise to within a billionth of a second. Based on this information the receivers know how long it takes for the signal to reach the receiver on earth. As each signal travels at the speed of light, the longer it takes the receiver to get the signal, the farther away the satellite is. By knowing how far away a satellite is, the receiver knows that it is located somewhere on the surface of an imaginary sphere centered at the satellite. By using three satellites, GPS can calculate the longitude and latitude of the receiver based on where the three spheres intersect. By using four satellites, GPS can also determine altitude.
+GPS was developed and is operated by the U.S. Department of Defense. It was originally called NAVSTAR (Navigation System with Timing and Ranging). Before its civilian applications, GPS was used to provide all-weather round-the-clock navigation capabilities for military ground, sea, and air forces.
+GPS has applications beyond navigation and location determination. GPS can be used for cartography, forestry, mineral exploration, wildlife habitation management, monitoring the movement of people and things and bringing precise timing to the world.
+
+GPT
+
+Acronym for GUID partition table Computers with an Intel Itanium processor use the Extensible Firmware Interface (EFI) between firmware, hardware, and OS. EFI has a new type of disk partitioning system, called the GUID (globally unique identifier) partition table (GPT). Unlike Master Boot Record (MBR) partitioned disks, data critical to platform operation is located in partitions instead of unpartitioned or hidden sectors. GPT partitioned disks have redundant primary and backup partition tables for improved partition data structure integrity.
+
+GPU
+
+A GPU, or graphics processing unit, is used primarily for 3-D applications. It is a single-chip processor that creates lighting effects and transforms objects every time a 3D scene is redrawn. These are mathematically-intensive tasks, which otherwise, would put quite a strain on the CPU. Lifting this burden from the CPU frees up cycles that can be used for other jobs.
+The First GPU
+The first company to develop the GPU is NVIDIA Inc. The GeForce 256 GPU was capable of billions of calculations per second, can process a minimum of 10 million polygons per second, and has over 22 million transistors, compared to the 9 million found on the Pentium III. Its workstation version called the Quadro, designed for CAD applications, can process over 200 billion operations a second and deliver up to 17 million triangles per second.
+
+GPU_clock
+
+GPU clock is the graphics processor unit's (GPU) clock speed, measured in megahertz (MHz). Also called Engine clock.See also clock speed.
+
+grabber
+
+(1) A device that captures data. The term is used most often to describe devices that can capture full-motion video from a television or video camera and convert it to digital form for storage on a computer's  disk.  (2) In some applications, a special tool or cursor that enables you to grab objects on the screen and move them or manipulate them in some other way. A grabber cursor is often represented by a hand icon.   
+
+Graffiti
+
+)A proprietary handwriting recognition language. Graffiti is a part of the  operating system software that allows you to enter text quickly into most Palm handheld devices via writing with a stylus. Letters, numerals and symbols resemble those in normal handwriting. Graffiti 2 is an updated version of the original Graffiti. * Image courtesy of Palm.com
+
+Grandma_s_LAMP
+
+An easy to use LAMP-based virtual appliance that, according to the creators, "even your Grandma can use". Grandma's LAMP includes the Linux, Apache, MySQL, PHP development environment and also includes extras such as phpmyadmin, Samba, and SSL.  See LAMP. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+granularity
+
+The extent to which a system contains separate components (like granules). The more components in a system -- or the greater the granularity -- the more flexible it is.  
+
+graph_search_optimization_gso
+
+A subset of the more general search engine optimization (SEO) that focuses on ways to optimize the content of a company or individual in an effort to improve their search results on Facebook's Graph Search.
+While Graph Search is still in private beta and Facebook has not yet detailed the algorithms and formulas used for Graph Search, Graph Search Optimization (GSO) has already become popular among marketers and companies looking for the latest edge in boosting their search engine rankings.  See also Five tips for Driving Search Engine Traffic and How Do Web Search Engines Work. 
+
+graphics
+
+(n.) Refers to any computer  device or program that makes a computer capable of displaying and manipulating pictures. The term also refers to the images themselves. For example, laser printers and plotters are graphics devices  because they permit the computer to output pictures. A graphics monitor is a display monitor that can display pictures. A graphics board (or graphics card) is a printed circuit boardthat, when installed in a computer, permits the computer to display pictures.
+Many software applications include graphics components. Such programs are said to support graphics. For example, certain word processors support graphics because they let you draw or import pictures. All CAD/CAM systems support graphics. Some database management systems and spreadsheet programs support graphics because they let you display data in the form of graphs and charts. Such applications are often referred to as business graphics.
+The following are also considered graphics applications  :
+
+graphics_accelerator
+
+A type of video adapter that contains its own processor to boost performance levels. These processors are specialized for computing graphical transformations, so they achieve better results than the general-purpose CPU used by the computer. In addition, they free up the computer's CPU to execute other commands while the graphics accelerator is handling graphics computations.  The popularity of graphical applications, and especially multimedia applications, has made graphics accelerators not only a common enhancement, but a necessity. Most computer manufacturers now bundle a graphics accelerator with their mid-range and high-end systems.  Aside from the graphics processor used, the other characteristics that differentiate graphics accelerators are:  memory : Graphics accelerators have their own memory, which is reserved for storing graphical representations. The amount of memory determines how much resolution and how many colors can be displayed. Some accelerators use conventional DRAM, but others use a special type of video RAM (VRAM), which enables both the video circuitry and the processor to simultaneously access the memory. bus : Each graphics accelerator is designed for a particular type of video bus. As of 1995, most are designed for the PCI bus. register  width: The wider the register, the more data the processor can manipulate with each instruction. 64-bit accelerators are already becoming common, and we can expect 128-bit accelerators in the near future.  Also see  Understanding Video and Graphics Adapters  in Webopedia's "Did You Know...?" section.
+
+graphics_based
+
+)Refers to software and hardware that treat objects on a display screen as bit maps or geometrical shapes rather than as characters. In contrast, character-based systems treat everything as ASCII or extended ASCII characters.  All graphics software is by definition graphics based. Systems that manipulate text can also be graphics based; for example, desktop publishing systems are essentially graphics-based word processors.  Traditionally, most DOS applications -- word processors, spreadsheets, and database management systems -- have been character based. Windows and the Mac OS are graphics-based. 
+
+graphics_character
+
+A character that represents a shape. By combining graphics characters, even character-mode programs can display rudimentary graphics, known as block graphics. Many of the characters in the extended ASCII character set are graphics characters.  
+
+graphics_coprocessor
+
+A microprocessor specially designed for handling graphics computations. Most graphics accelerators include a graphics coprocessor.  
+
+graphics_display_system
+
+The combination of monitor and video adapter that makes a computer capable of displaying graphics.  
+
+graphics_file_format
+
+A file format designed specifically for representing graphical images. Graphics file formats can be broadly categorized into bit-mapped formats and vector formats.  
+
+graphics_mode
+
+Many video adapters support several different modes of resolution, all of which are divided into two general categories: character mode and graphics mode.  Of the two modes, graphics mode is the more sophisticated. Programs that run in graphics mode can display an unlimited variety of shapes and fonts, whereas programs running in character mode are severely limited. Programs that run entirely in graphics mode are called graphics-based programs.  In character mode, the display screen is treated as an array of blocks, each of which can hold one ASCII character. In graphics mode, the display screen is treated as an array of pixels. Characters and other shapes are formed by turning on combinations of pixels. 
+
+graphics_monitor
+
+A monitor capable of displaying graphics. That is, any monitor that supports a graphics mode in addition to text modes. Nearly all modern monitors are graphics monitors.  Also see Northern vs. Southern Hemishpere Monitors in the Did You Know . . . ? section of Webopedia. 
+
+GRASP
+
+Acronym for General Responsibility Assignment Software Patterns.GRASP provides guidance for assigning responsibilities to classes and, to a limited extent, determining the classes that will be in a design in an object-oriented system.
+
+gray_market
+
+Gray market is a slang term used to describe distributors who sell equipment or product without having obtained authorization from the manufacturer to do so. The term is used to describe unauthorized DVD, CD, software or computer hardware sales.
+
+gray_scaling
+
+)The use of many shades of gray to represent an image. Continuous-tone images, such as black-and-white photographs, use an almost unlimited number of shades of gray. Conventional computer  hardware and software, however, can only represent a limited number of shades of gray (typically 16 or 256). Gray-scaling is the process of converting a continuous-tone image to an image that a computer can manipulate.  While gray scaling is an improvement over monochrome, it requires larger amounts of memory because each dot is represented by from 4 to 8 bits. At a resolution of 300 dpi, you would need more than 8 megabytes to represent a single 8½ by 11-inch page using 256 shades of gray. This can be reduced considerably through data compression techniques, but gray scaling still requires a great deal of memory.  Many optical scanners are capable of gray scaling, using from 16 to 256 different shades of gray. However, gray scaling is only useful if you have an output device -- monitor or printer -- that is capable of displaying all the shades. Most color monitors are capable of gray scaling, but the images are generally not as good as on dedicated gray-scaling monitors.  Note that gray scaling is different from dithering. Dithering simulates shades of gray by altering the density and pattern of black and white dots. In gray scaling, each individual dot can have a different shade of gray. 
+
+graymail
+
+Graymail is a word used to describe "unwanted" email from a company or website. At some point a user would have agreed to receive the email via subscription list opt-in, but now considers the messages to be unwanted.
+ The word "gray" is used because the email falls between the "black and white" area of email spam and legitimate welcome email. Some recipients might consider this type of email spam (unwanted email) while others find the email useful (wanted email). 
+Examples of graymail include newsletters that you sign-up for (and often forget about but receive for years), messages you receive when you sign up for an online service or the automatic notifications received from online services, including social networking sites.
+
+grc-governance-risk-compliance
+
+Governance, Risk and Compliance, or GRC for short, refers to a company's coordinated strategy for managing the broad issues of corporate governance, enterprise risk management (ERM) and corporate compliance with regard to regulatory requirements.
+Specifically, the three pillars of GRC are:
+
+Governance – The effective, ethical management of a company by its executives and managerial levels.
+Risk – The ability to effectively and cost-efficiently mitigate risks that can hinder an organization's operations or ability to remain competitive in its market.
+Compliance – A company's conformance with regulatory requirements for business operations, data retention and other business practices
+
+Defining Governance, Risk and Compliance
+While many experts and GRC vendors disagree on a standard definition for Governance, Risk and Compliance, the Open Compliance and Ethics Group (OCEG) has published one of the most comprehensive GRC definitions. In its GRC Capability Model, Red Book, 2.0, the OCEG defines GRC as a "system of people, processes, and technology that enables an organization to:
+
+greeking
+
+)(1) The approximation of text characters on a screen display. Greeking is often used by word processors that support a preview function. In preview mode, the word processor attempts to show what a document will look like when printed. Frequently, however, the graphics display capabilities of the monitor are not sufficient to show text at a small size. To give a general idea of what the text will look like and how page layout will appear, the word processor uses graphics symbols to approximate the text. These symbols suggest greek letters, hence the term greeking.  (2) The term greeking is also used to describe nonsense text inserted in a document to check a layout. This allows a layout artist to concentrate on the overall appearance of a page without worrying about the actual text that will be inserted later.  
+
+Green_Book
+
+The specification covering CD-I. 
+
+Green_IT
+
+Also called green computing it describes the study and the using of computer resources in an efficient way. Green IT starts with manufacturers producing environmentally friendly products and encouraging IT departments to consider more friendly options like virtualization, power management and proper recycling habits. The government has also recently proposed new compliance regulations which would work towards certifying data centers as green. Some criteria includes using low-emission building materials, recycling, using alternative energy technologies, and other green technologies.
+
+green_PC
+
+A PC especially designed to minimize power consumption. Green PCs draw less power than normal PCs and support sleep modes, in which the computer powers down all unnecessary components when it is inactive.  
+
+greenfield
+
+1) The term greenfield was originally used in construction and development to reference land that has never been used (e.g. green or new), where there was no need to demolish or rebuild any existing structures.  Today, the term greenfield project is used in many industries, including software development where it means to start a project without the need to consider any prior work. Contrast with brownfield. 2) In wireless LAN (WLAN) technology, greenfield mode is a feature of major components of the 802.11n specification. The greenfield mode feature is designed to improve efficiency by eliminating support for 802.11a/b/g devices in an all draft-n network. In greenfield mode the network can be set to ignore all earlier standards.
+
+grep
+
+Short for global-regular-expression-print, a UNIX utility that allows the user to search one or more files for a specific string of text and outputs all the lines that contain the string. The user also has the option to replace the string with another.  For example, on a UNIX command line, the user can enter grep webpage webopedia.htm  commanding the system to search for the character string webpage in the webopedia.htm file. The result will display any and all lines in the file that contain that specific string of characters.  Grep originated from a UNIX text editor, which provided the command sequence g/re/p.
+
+greynet
+
+Programs that network users download and install on their computers  usually without permission from or knowledge of the IT department. While some greynet applications are often useful (for example, instant messaging, streaming media and RSS software, peer-to-peer file sharing, peer-to-peer collaboration and proxy applications), they can also include or malicious programs (such as spyware).
+
+greyware
+
+Greyware refers to a malicious software or code that is considered to fall in the "grey area" between normal software and a virus. Greyware is a term for which all other malicious or annoying software such as adware, spyware, trackware, and other malicious code and malicious shareware fall under.
+
+grid
+
+In graphic design and word processing applications, a grid is a series of vertical and horizontal lines that are used to subdivide a page vertically and horizontally into margins, columns, inter-column spaces, lines of type and spaces between blocks of type and images. These subdivisions form the basis of a modular and systematic approach to the layout, particularly for multipage documents, making the design process quicker, and ensuring visual consistency between related pages.  See also "A Brief History of Grids" on Graphics.com.
+
+grid_computing
+
+A form of networking. Unlike conventional networks that focus on communication among devices, grid computing harnesses unused processing cycles of all computers in a network for solving problems too intensive for any stand-alone machine.
+A well-known grid computing project is the SETI (Search for Extraterrestrial Intelligence) @Home project, in which PC users worldwide donate unused processor cycles to help the search for signs of extraterrestrial life by analyzing signals coming from outer space. The project relies on individual users to volunteer to allow the project to harness the unused processing power of the user's computer. This method saves the project both money and resources.
+Grid computing does require special software that is unique to the computing project for which the grid is being used.
+
+gridgrain
+
+An open source Java-based tool for real-time big data processing. GridGain is an alternative to Hadoop's MapReduce that is compatible with the Hadoop Distributed File System. It offers in-memory processing for fast analysis of real-time data. The open source version can be freely downloaded or you can choose to purchase a commercially supported version. GridGrain requires Windows, Linux or the Mac OS X operating system.
+See also 50 Top Open Source Tools for Big Data on Datamation.
+Top 5 Hadoop Related Questions
+1. What is Apache Hadoop?  2. What is Hadoop MapReduce?  3. What is HortonWorks?  4. What is Hadoop Distributed File System?  5. What is unstructured data?
+
+griefer
+
+Slang term for an online gamer who purposefully cause problems for other gamers, in or outside the game itself. Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+grok
+
+(pronounced grawk) A slang term used to describe a total and thorough, or intuitive, understanding of something without really having to think about it. The word grok was first used by author Robert A. Heinlein in the science fiction novel, "Stranger in a Strange Land".
+
+Group_3_protocol
+
+The universal protocol defined by the CCITT for sending faxes.  
+
+Group_4_protocol
+
+A protocol defined by CCITT for sending faxes over ISDN networks.  
+
+groupware
+
+A class of software that helps groups of colleagues (workgroups) attached to a local-area network organize their activities. Typically, groupware supports the following operations:  scheduling meetings and allocating resources   e-mail   password protection for documents   telephone utilities   electronic newsletters file distribution   Groupware is sometimes called workgroup productivity software. 
+
+GSM
+
+Short for Global System for Mobile Communications, one of the leading digital cellular systems. GSM uses narrowband TDMA, which allows eight simultaneous calls on the same radio frequency.
+GSM was first introduced in 1991. As of the end of 1997, GSM service was available in more than 100 countries and has become the de facto standard in Europe and Asia.
+
+
+GTbot
+
+Short for Global Threat bot, a GTbot is a renamed mIRC client (usually temp.exe) running in stealth mode. It uses the HideWindow program to enable it to run stealth, and can contain any number of Mirc bot scripts. This Trojan is usually downloaded by users on IRC networks when they are tricked into thinking it is a cleaner utility program.  Once installed the Trojan launches the stealth mIRC and joins a channel on an IRC network and awaits commands of the bot master. These bots are one of the key instruments in launching DDOS attacks to users on IRC. [Source: Nohack Project]
+
+GTK_plus
+
+GTK+ is a multi-platform toolkit for creating graphical user interfaces (GUIs).  GTK+ is suitable for projects ranging from small one-off projects to complete application suites.  GTK+ is free software and part of the GNU Project. However, the licensing terms for GTK+, the GNU LGPL, allow it to be used by all developers, including those developing proprietary software, without any license fees or royalties. [Source GTK+ Web site]
+
+guard_band
+
+Also called a frequency guard band, a narrow frequency band between adjacent channels in multiplexing that is kept unused to prevent the channels from overlapping and causing crosstalk among modulated signals. Guard bands are commonly used in FDM but are also used in any data transmission method that relies on frequencies.  Also spelled guardband.
+
+guard_time
+
+A time interval left vacant (i.e., during which no data is sent) on a transmission channel that can be used for synchronization and/or compensating for a signal distortion. The guard time provides a safety margin against symbol interference in the time between sequential operations such as transmission, encoding, decoding or switching.
+
+guest_wireless_network
+
+A wireless router (or Wi-Fi router) feature that is designed to allow users to easily grant "visitor" access to your wireless Internet connection. Your visitors will get their own SSID to connect to, and you can isolate it from your main network to make sure that outsiders don’t have access to your local network resources, such as PCs and printers.
+See Common Router IP and Settings. See also "10 Must-Have Features for Your Next Wi-Fi Router" on Practically Networked.com. 
+
+GUI
+
+Pronounced GOO-ee. Acronym for graphical user interface.
+
+Graphical_User_Interface_GUI
+
+Abbreviated GUI (pronounced GOO-ee). A program interface that takes advantage of the computer's  graphics capabilities to make the program easier to use. Well-designed graphical user interfaces can free the user from learning complex command languages. On the other hand, many users find that they work more effectively with a command-driven interface, especially if they already know the command language.
+Basic Components of a GUI
+Graphical user interfaces, such as Microsoft Windows and the one used by the Apple Macintosh, feature the following basic components:
+
+pointer : A symbol that appears on the display screen and that you move to select objects and commands. Usually, the pointer appears as a small angled arrow. Text -processing applications, however, use an I-beam pointer that is shaped like a capital I.
+pointing device : A device, such as a mouse or trackball, that enables you to select objects on the display screen.
+icons : Small pictures that represent commands, files, or windows. By moving the pointer to the icon and pressing a mouse button, you can execute a command or convert the icon into a window. You can also move the icons around the display screen as if they were real objects on your desk.
+desktop : The area on the display screen where icons are grouped is often referred to as the desktop because the icons are intended to represent real objects on a real desktop.
+windows: You can divide the screen into different areas. In each window, you can run a different program or display a different file. You can move windows around the display screen, and change their shape and size at will.
+menus : Most graphical user interfaces let you execute commands by selecting a choice from a menu.
+
+In addition to their visual components, graphical user interfaces also make it easier to move data from one application to another. A true GUI includes standard formats for representing text and graphics. Because the formats are well-defined, different programs that run under a common GUI can share data. This makes it possible, for example, to copy a graph created by a spreadsheet program into a document created by a word processor.
+
+GUI_n00b
+
+A slang term used to describe a person who is inexperienced with the design or development of graphical user interfaces (GUIs). In this term, n00b refers to a newbie, as it would be written using 133t speak.
+
+GUID
+
+Short for Globally Unique Identifier, a unique 128-bit number that is produced by the Windows OS or by some Windows applications to identify a particular component, application, file, database entry, and/or user. For instance, a Web site may generate a GUID and assign it to a user's browser to record and track the session. A GUID is also used in a Windows registry to identify COM DLLs. Knowing where to look in the registry and having the correct GUID yields a lot information about a COM object (i.e., information in the type library, its physical location, etc.). Windows also identifies user accounts by a username (computer/domain and username) and assigns it a GUID. Some database administrators even will use GUIDs as primary key values in databases.
+GUIDs can be created in a number of ways, but usually they are a combination of a few unique settings based on specific point in time (e.g., an IP address, network MAC address, clock date/time, etc.).
+
+GUIX
+
+(pronounced as gwicks). Slang term used to describe a Unix or Linux newbie who is so used to using a GUI (graphical user interface) that he is unable to maneuver through a command line-based interface.
+
+gutter
+
+In desktop publishing, the space between columns in a multiple-column document.  
+
+GW_BASIC
+
+A dialect of the BASIC programming language that comes with many versions of the DOS operating system.  
+
+G_Port
+
+A Generic port (G_Port) within a Fibre Channel switch that can operate as either an E_Port or an F_Port.
+

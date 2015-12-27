@@ -1,0 +1,1391 @@
+b_blog
+Short for business blog, a blog used by a business to promote itself.
+
+B_channel
+Short for Bearer-channel, the main data channel in an ISDN connection. Basic Rate ISDN (BRI) service consists of two 64 Kbps B-channels, and one D-channel for transmitting control information. Primary ISDN service consists of 23 B-channels (in the U.S.) or 30 B-channels (in Europe).  Compare with D-channel.
+
+B_frame
+Short for bi-directional frame, or bi-directional predictive frame, a video compression method used by the MPEG standard. In a motion sequence, individual frames of pictures are grouped together (called a group of pictures, or GOP) and played back so that the viewer registers the video��s spatial motion. As the name suggests, B-frames rely on the frames preceding and following them. B-frames contain only the data that have changed from the preceding frame or are different from the data in the very next frame.  P-frames and B-frames are also referred to as delta frames.  Also see P-frame and I-frame.
+
+B_tree
+Most often used in databases and file systems, B-trees are tree structures (a type of data structure) that are optimized for situations when all or part of the tree must be maintained on a secondary storage device such as an optical disk or tape. A B-tree is designed to minimize the number of disk accesses.  See also tree structure.
+
+B2B
+Short for business-to-business, the exchange of services, information and/or products from one business to another, as opposed to between a business and a consumer (see B2C).
+
+B2C
+Short for business-to-consumer, the exchange of services, information and/or products from a business to a consumer, as opposed to between one business and another (see B2B
+).
+
+B2G
+Short for business-to-government, B2G is the exchange of services, information and/or products from one business to a government agency, as opposed to between a business and a consumer (see B2C) or between two businesses (B2B).
+
+Baby_AT
+The form factor used by most PC motherboards prior to 1998. The original motherboard for the PC-AT measured 12"x13". Baby AT motherboards are a little smaller, 8.5"x13" usually. The Baby AT is being replaced by the new ATX form factor. Also see  From AT to BTX: Motherboard Form Factors  in Webopedia's "Did You Know...?" section.
+
+back_end_system
+Back end systems are corporate systems that are used to run a company such as systems to manage orders, inventory and supply processing. Back end systems support the company's back office. This system collects input from users or other systems for processing.
+
+
+back_office
+The back office is generally considered to be the technology, services and human resources required to manage a company itself. Back office includes such systems as the IT, human resources and accounting departments. The back office is supported by a back end system.
+
+backbone
+Another term for bus, the main wire that connects nodes. The term is often used to describe the main network connections composing the Internet.
+ 
+ 
+
+backbone_provider
+(n.) An organization that supplies access to high-speed transmission lines that connect users to the Internet. These lines comprise the backbone of the Internet. Different from an ISP, which provides users access to the Internet, a backbone provider supplies the ISPs with access to the lines, such as T1 or T3 lines, that connect ISPs to each other, allowing the ISPs to offer their customers Internet access at high speeds.  Some major backbone providers include MCI, Sprint, UUNET, AGIS and BBN.
+
+backchannel
+Backchannel is the term used to describe the correspondence between two members of a newsgroup, when the correspondence is conducted in private (off the newsgroup). While members often use this as a way to comment to each other in private, newsgroup moderators may also backchannel members to tell the poster their comments or post is inappropriate. By using backchanneling, the number of unrelated messages posted to the newsgroup is limited.
+
+backdoor
+Also called a trapdoor. An undocumented way of gaining access to a program, online service or an entire computer system. The backdoor is written by the programmer who creates the code for the program. It is often only known by the programmer. A backdoor is a potential security risk.
+
+backfile_conversion
+Backfile conversion is the act of replacing large volumes of documents with digital images. Generally backfile conversion consists of digitizing volumes of documents by using high speed scanning methods to convert these legacy documents into digital images which will be stored as document libraries. Today many agencies have millions of records stored on media such as card-stock, maps, microfiche, or microfilm, to name a few. When a particular file is needed, locating these records could take hours or days; especially if these physical documents are stored off-site in a warehouse facility. Backfile conversion provides rapid access to these legacy documents in electronic formats.
+
+background
+(n.) (1) Multitasking computers are capable of executing several tasks, or programs, at the same time. In some multitasking systems, one of the processes is called the foreground  process , and the others are called background processes.  The foreground process is the one that accepts input from the keyboard, mouse, or other input device. Background processes cannot accept interactive input from a user, but they can access data stored on a disk and write data to the video display. For example, some word processors print files in the background, enabling you to continue editing while files are being printed. This is called print spooling . In addition, many communications programs are designed to run in the background. Background processes generally have a lower priority than foreground processes so that they do not interfere with interactive applications.  Even though DOS is not a multitasking operating system, it can perform some specialized tasks, such as printing, in the background. Operating environments, such as Microsoft Windows and the Macintosh operating system, provide a more general multitasking environment.  (2) The area of a display screen not covered by characters and graphics. The background is like a canvas on top of which characters and graphics are placed. Some monitors allow you to control the color or shading of the background. 
+
+background_printing
+The print process is run in the background allowing the user to continue with other tasks.  See also background.
+
+backhaul
+(1) In wireless network technology, to transmit voice and data traffic from a cell site to a switch, i.e., from a remote site to a central site.  (2) In satellite technology, to transmit data to a point from which it can be uplinked to a satellite.  (3) To transmit data to a network backbone.
+
+backlighting
+A technique used to make flat-panel displays easier to read. A backlit display is illuminated so that the foreground appears sharper in contrast with the background.  
+
+backlink
+In search engine optimization (SEO) terminology a backlink is a hyperlink that links from a Web page, back to your own Web page or Web site. Also called an Inbound  Link (IBL) these links are important in determining the popularity (or importance) of your Web site. Some search engines, including Google will consider Web sites with more backlinks more relevant in search results pages. May also be written as two separate words, back link.
+
+backplane
+(bak´plān) (n.) A circuit board containing sockets into which other circuit boards can be plugged in. In the context of PCs, the term backplane refers to the large circuit board that contains sockets for expansion cards.  Backplanes are often described as being either active or passive. Active backplanes contain, in addition to the sockets, logical circuitry that performs computing functions. In contrast, passive backplanes contain almost no computing circuitry.  Traditionally, most PCs have used active backplanes. Indeed, the terms motherboard and backplane have been synonymous. Recently, though, there has been a move toward passive backplanes, with the active components such as the CPU inserted on an additional card. Passive backplanes make it easier to repair faulty components and to upgrade to new components. 
+
+backport
+The process of applying a software patch or update to an older version of software than the update was initially intended for.  Backporting most frequently refers to a fix for a security flaw applied to an older version of the software that's still supported by the developer, but one that isn't the most recent release of the software.  Backported packages running on older Linux distributions are another popular form of backporting.
+Depending on the evolution of the software, backporting an update or patch to an earlier version of the software may involve something as simple as changing a few lines of code all the way to undergoing a massive modification process that involves an extensive overhaul of the entire software code.  Software developers may take on the responsibility of officially backporting their software themselves, or a backport may be created and released by authorized or unauthorized third parties and users.
+
+backpressure
+(bak´presh-&r) (n.) Also referred to as backpressure flow control, a condition wherein a switch causes a transmitting device to hold off on sending data packets until the switch��s bottleneck has been eliminated (i.e., when its buffers holding data have been emptied). In order to create backpressure, the switch either broadcasts false collision detection signals or sends packets back to the originating device if the buffer is full.
+
+backronym
+A type of acronym that is made by deciding on the letters to create a word, and then creating a name or title to fit the acronym. Similar to acronyms, a backronym can be pronounced as a word (those which are pronounced as separate letters and not a word are called abbreviations). In computers, Internet and technology there are a number of famous backronyms:
+ 
+
+The Apple Lisa was named after Steve Jobs' daughter but was later said to be an acronym for "Local Integrated Software Architecture."
+The BASIC programming language is also believed to be a backronym. The language was called BASIC, and then the acronym of "Beginner's All-purpose Symbolic Instruction Code" was created.
+
+See also acronym.
+
+backside_bus
+A microprocessor bus that connects the CPU to a Level 2 cache. Typically, a backside bus runs at a faster clock speed than the frontside bus that connects the CPU to main memory. For example, the Pentium Pro microprocessor actually consists of two chips -- one contains the CPU and the primary cache, and the second contains the secondary cache. A backside bus connects the two chips at the same clock rate as the CPU itself (at least 200 MHz). In contrast, the frontside bus runs at only a fraction of the CPU clock speed. 
+
+backslash
+The backslash character is \; a simple slash or forward slash is /. In DOS and Windows systems, the backslash represents the root directory and is also used to separate directory names and filenames in a pathname.   
+
+backsourcing
+The process of bringing IT operations back in-house after they have been outsourced as the outsourcing contracts expire or are terminated.
+
+backspace
+A character that causes the cursor to move backward one character space, possibly deleting the preceding character. The backspace character has an ASCII value of 8. Most keyboards have a Backspace key that invokes this character. When inserted in a file, the character causes a printer or other device to move backward one space.  
+
+Backspace_key
+A key that moves the cursor or insertion point backward one character space. In addition to moving the cursor backward, the Backspace key usually deletes the character to the left of the cursor or insertion point. It is particularly useful, therefore, for correcting typos. Note that PCs also have a Delete key, which deletes the character under the cursor (or to the right of the insertion point). To move the cursor or insertion point backward without deleting characters, use the arrow keys.  
+
+backup
+(v.) In computing the phrase backup means to copy files to a second medium (a disk or tape) as a precaution in case the first medium fails. One of the cardinal rules in using computers is  back up your files regularly. 
+Even the most reliable computer is apt to break down eventually. Many professionals recommend that you make two, or even three, backups of all your files. To be especially safe, you should keep one backup in a different location from the others. You can back up files using operating system commands, or you can buy a special-purpose backup utility. Backup programs often compress the dataso that backups require fewer disks.
+Most businesses employ complete backup solutions that provides storage on removable media, data compression, automatic backups to offsite storage and automated scheduling to increase the reliability of the backups.
+
+backup_server
+A  server responsible for backing up and restoring files, folders, databases and hard drives on a network in order to prevent the loss of data in the event of a hard drive failure, user error, disaster or accident.
+In addition to numerous backup server products and services available from third-party   vendors, Microsoft Windows Server operating systems also include a built-in   Windows   Server Backup   feature that can be used to perform basic backup and recovery operations on   backup servers.
+An alternative to standard backup server software tools are online backup and recovery services that save your network's data to a remote location in the cloud.
+
+backup_software
+Software designed to duplicate important data in the event of a hard drive failure, user error, disaster or accident.  Software applications that handle the process of backing up and restoring  files, folders,  databases,  hard drives, or entire network servers are also sometimes referred to as  disaster recovery tools.
+Popular backup software tools include Norton Ghost, Symantec Backup Exec, Acronis True Image and TotalRecovery Pro.
+An alternative to standard backup software tools are online backup and recovery services that save your important data to a remote location in the cloud.  Examples of cloud backup services include Carbonite, Mozy and IDrive.
+
+backup_window
+In data restoration, the backup window is a predetermined amount of time in which specific data must be restored to avoid any negative or damaging effects on the systems or applications that use the data.
+
+backward_chaining
+In  artificial intelligence (AI) systems, backward chaining refers to a scenario where the AI has been provided with a specific goal and must "work backwards" to figure out how to achieve the set goal. To do this, the AI would look back through the rule-based system to find actions in the "then" rules.  See also rule-based system. Contrast with forward chaining.
+
+backward_compatible
+Compatible with earlier models or versions of the same product. A new version of a program is said to be backward compatible if it can use files and data created with an older version of the same program. A computer is said to be backward compatible if it can run the same software as the previous model of the computer.  Backward compatibility is important because it eliminates the need to start over when you upgrade to a newer product. A backward-compatible word processor, for instance, allows you to edit documents created with a previous version of the program. In general, manufacturers try to keep all their products backward compatible. Sometimes, however, it is necessary to sacrifice backward compatibility to take advantage of a new technology.  The flip side of backward compatibility is upward compatibility. Upward compatible is the same as backward compatible, except that it is from the point of view of the older model.  Another term for backward compatible is downward compatible.   
+
+Bad_Frame_Interpolation
+Interpolates lost and/or corrupted packets by using the previously received voice frames. It increases voice quality by making the voice transmission more robust in bursty error environments.
+
+bad_sector
+A portion of a disk that cannot be used because it is flawed. When you format a disk, the operating system identifies any bad sectors on the disk and marks them so they will not be used. If a sector that already contains data becomes damaged, you will need special software to recover the data.  It��s not unusual for a hard disk to leave the manufacturing process with a damaged sector; however, this does not affect the overall performance of the disk as the damaged space is considered unusable.
+
+bad_strobing
+In video broadcasting, bad strobing refers to a  frame rate which is too slow for a person's eyes to deal with. Slow frame rates result in viewing somewhat of a stuttered motion on the screen. Bad strobing is commonly associated with interlaced scanning.
+
+badge
+An image that displayed on a blog or personal profile on social media Web sites that identifies you. Most encourage readers and followers to download display their badge on your own site or blog and link back. Badges are considered a Web 2.0 trend and are also frequently used to display a "beta" message on your site or blog.
+
+bagbiter
+A derogatory slang term, used mostly by hackers, to describe a program that doesn't work or doesn't work well. The term is also used to refer to the programmer who created the software.
+
+bait_advertising
+A merchant or online vendor will offer a sale or clearance price on an item in a newsletter or online advertisement to encourage potential customers to click through to their Web site. The low-priced item is often not available so the consumer is offered a similar, but more expensive item for purchase. Also called bait and switch advertising.
+
+BAK_file
+In DOS systems, a file with a.BAK extension, indicating that the file is a backup. Many applications produce BAK files as part of their autosave procedure. Periodically, you may want to search for BAK files and delete old ones. 
+
+bake_off
+(1) In technology it is a research comparison process where competing technologies are compared and the product or service is then chosen. Also called technology bake-off.(2) A gathering where software programmers test their creations against network protocols.
+
+BAMP
+Short for BSD, Apache, MySQL, Perl/Python/PHP BAMP is an open source Web development platform that is a variation to the LAMP stack. BAMP uses BSD as the operating system, Apache as the Web server, MySQL as the RDBMS, and PHP as the object-oriented scripting language. Perl or Python may be substituted for PHP.  See LAMP. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+banana_code
+ Slang term used to describe an endless loop of code. This term is derived from the repetitive "an" characters in banana, meaning the code loops as it does not know where the "an" should stop.
+
+banding
+The presence of extraneous lines in a printed page. Banding generally occurs when a color printer needs to pass the print head over a page multiple times to print each color. If the page isn't exactly lined up for each pass, lines may appear. Such printers are called multi-pass printers. Because of the banding problem, single-pass printers -- those that print all the colors in one pass -- are generally better.   
+
+bandit_mobile
+Slang term used to describe any mobile subscriber with an invalid ESN or other incorrect information which would cause the carrier to deny mobile service to that subscriber.
+
+bandwidth
+(1) Bandwidth is defined as a range within a band of frequencies or wavelengths.
+(2) Bandwidth is also defined as the amount of data that can be transmitted in a fixed amount of time. For digital devices, the bandwidth is usually expressed in bits per second(bps) or bytes per second. For analog devices, the bandwidth is expressed in cycles per second, or Hertz (Hz).
+The bandwidth is particularly important for I/O devices. For example, a fast disk drive can be hampered by a bus with a low bandwidth. This is the main reason that new buses, such as AGP, have been developed for the PC.
+
+bandwidth_hog
+
+HTML clipboard
+&lt;!--
+.style1 {
+	color: #FF0000;
+}
+--&gt;
+A  slang term used to describe files that take a very long time to download.  For example, if you were downloading an image or file that required a lot of  bandwidth for a long period of time you would say it was a "bandwidth hog." The  phrase is also used to describe users on shared Internet connections who task  the available bandwidth. For example a person logging in to check e-mail is not  a bandwidth hog -- but a person who tags 500 MP3s for downloading would be  considered one.
+
+bandwidth_shaping
+The process of manipulating, managing or controlling (shaping) portions of a network connection to the outside world and determining an allowed bandwidth consumption based on types of activities. The term is commonly used in conjunction with Internet Service Providers (ISP), where it refers to a tool that is used to limit or direct bandwidth consumption by users. An ISP may use bandwidth shaping to limit a users ability to take too much control over the internet gateway. Bandwidth shaping is also called bandwidth allocation or referred to as a bandwidth management tool.
+
+bank
+(n.) The area of a motherboard that contains slots for memory modules. Memory banks are typically double sided (allowing for single- or double-sided memory modules), and the banks in the slots are numbered. Memory banks are organized into units representing the minimum number of memory chips that must work in tandem.
+
+Banker_Trojan
+In computer and network security terminology, a Banker Trojan-horse (commonly called Banker Trojan) is a malicious program used in an attempt to obtain confidential information about customers and clients using online banking and payment systems. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+banner
+Also referred to as a banner ad, a banner is a typically rectangular advertisement placed on a Web site either above, below or on the sides of the Web site's main content and is linked to the advertiser's own Web site. In the early days of the Internet, banners were ads with text and graphic images. Today, with technologies such as Flash, banners have gotten much more complex and can be ads with text, animated graphics and sound. Most commerce-related Web sites use banner ads.
+See interstitial, hyperstitial and SUPERSTITIAL.
+Also see "How Affiliate Marketing Works" in the "Did You Know..." section of Webopedia. Also see Refer-It.com, a directory of referral & affiliate programs for e-commerce, featuring information on over 6,500 affiliate programs.
+
+banner_rotator
+A program that randomly rotates the banner ads that are seen by users on a Web site so that each time the site is visited or refreshed a different banner ad will appear on the screen. Banner ad rotation is used frequently in the Web advertising industry because it is often cheaper than paying to place a static ad on a Web site.  Also called a banner ad rotator.
+
+bar_chart
+)In presentation graphics, a type of graph in which different values are represented by rectangular bars.  
+
+bar_code
+The machine-readable representation of the UPC. Bar codes are read by a scanner that passes over the code and registers the UPC. The width of each black line and the subsequent white space between each line coincides with the numbers of the UPC.
+
+BarDIMM
+A bar code printing system for Windows, Unix, AS400, mainframes and ERPs. BarDIMM boards add barcode printing, fonts, macros and logo storage capabilities to Hewlett-Packard (HP) corporate laser and business inkjet printers. The BarDIMM Pro offers support for two-dimensional barcodes, that is barcodes which are read both horizontally and vertically. BarDIMM is registered trademark of Jetmobile SAS.
+
+bare_metal
+A new computer system that does not contain an operating system or any software. For example, when you purchase a new hard drive it is completely empty, or "nothing but bare metal".See related term barebones.
+
+bare_metal_restore
+In data recovery, a bare metal restore is one where a computer system is backed up from bare metal state. This type of  data recovery will include using a backup to restore the operating system, application data, user data, and software. The hardware system the restore is being done on must be the exact same configuration as the system the restore was created for.
+
+bare_metal_programming
+Also called bare-metal, it is considered to be a low-level method of programming that is specific to the hardware used in the  computer system  and is often used for optimizing software and applications for an individual computer or small group of systems, or the creation of basic tools which would be used on a new system to do things like such as bypassing the BIOS or operating system interface. Bare-metal programming is a term derived from the phrase programming on the bare metal. See also machine language.
+
+barebones
+A term used to describe a partially built PC. A barebones system package will differ depending on the manufacturer, but you can generally expect them to contain at least a case, power supply, and motherboard. Barebone systems typically are bought when the end-user needs only the basic system to get started with because they want to make on their own choices for additional devices such as the CPU, video card, hard drive and other components. Barebones are also called base systems.
+
+barn_doors
+In television production, barn doors is a slang term used to describe an effect that occurs when a 4:3 image is viewed on a 16:9 (widescreen aspect ratio) screen. This causes the viewer to see black bars on the sides of the screen, giving the viewer the illusion of barn doors on the screen.
+
+base_address
+)An address that serves as a reference point for other addresses. For example, a base address could indicate the beginning of a program. The address of every instruction in the program could then be specified by adding an offset to the base address. For example, the address of the fifth instruction would be the base address plus 5.  
+
+base_class
+The parent class of a derived class. Classes may be used to create other classes. A class that is used to create (or derive) another class is called the base class.  Also called a super class.
+
+base_station
+Mobile phone base stations are low-power multi-channel two-way radios. When you talk on a mobile phone, you (and perhaps dozens of other people around you) are talking to a nearby base station. From that base station your phone call goes into the regular land-line phone system.[Adapted from Mobile Phone Base Stations and Human Health]
+
+base_station_controller
+
+
+base_URL
+When designing a Web page, most design programs will allow you to specify a base URL that is it will convert all relative URLs on that page to absolute URLs. Also called base location.
+
+baseband
+(1) The original band of frequencies of a signal before it is modulated for transmission at a higher frequency.  (2) A type of data transmission in which digital or analog data is sent over a single unmultiplexed channel, such as an Ethernet LAN. Baseband transmission use TDM to send simultaneous bits of data along the full bandwidth of the transmission channel.  Compare with broadband.
+
+baseband_transmission
+See baseband.
+
+baseline
+In typography, the imaginary line on which characters sit. The x-height of a font is measured from the baseline to the top of a lowercase x. The descender, for those characters that have one, is defined as the portion of the character that falls below the baseline.   
+
+Bash
+Bash is the shell, or command language interpreter, that will appear in the GNU operating system. Bash is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification. * [Source: BASH GNU project]
+
+BASIC
+Acronym for Beginner's All-purpose Symbolic Instruction Code. Developed by John Kemeney and Thomas Kurtz in the mid 1960s at Dartmouth College, BASIC is one of the earliest and simplest high-level programming languages. During the 1970s, it was the principal programming language taught to students, and continues to be a popular choice among educators.
+Despite its simplicity, BASIC is used for a wide variety of business applications. There is an ANSI standard for the BASIC language, but most versions of BASIC include many proprietary extensions. Microsoft's popular Visual Basic, for example, adds many object-oriented featuresto the standard BASIC.
+Recently, many variations of BASIC have appeared as programming, or macro, languages within applications. For example, Microsoft Word and Excel both come with a version of BASIC with which userscan write programs to customize and automate these applications.
+
+basic_disk
+A physical disk that contains primary partitions, extended partitions, or logical drives. Basic disks can be accessed by all versions of Windows, MS-DOS, and Windows NT.  Basic disks can contain up to four primary partitions, or three primary partitions and an extended partition with multiple logical drives. Upgrading a basic disk to dynamic disk will render the entire disk unreadable to operating systems other than Windows 2000. Contrast with dynamic disk.
+
+basic_metrics
+In Web analytics, the study of the impact of a Web site on its users, basic metrics is the term used to refer to the most basic information needed to understand a site's consumption. Basic metrics consists of the following data:  Visits: represents the number of sessions on your Web site, the number of times someone interacted with your site.  Bounce: is the number of those who left instantly. Pageviews: the number is how many pages were requested in those visits and how many in each visit, Pages / Visit. Average Time on Site: how long did people stay on your site. Percent New Visits: shows how many sessions, interactions, were from people who visited your site for the first time.  See also "Web Analytics Primer: Five Metrics Demystified" on Ecommerce-Guide.com.
+
+Basic_Service_Set
+Abbreviated as BSS, Basic Service Set is a component of the IEEE 802.11 WLAN architecture. This network architecture is built around a Basic Service Set (BSS), which is actually a set of STAs (the component that connects to the wireless medium such as a network adapter or NIC) that communicate with each other. When one access points (AP) is connected to wired network and a set of wireless stations it is referred to as a Basic Service Set (BSS).  Contrast with Extended Service Set (ESS). See also infrastructure mode.
+
+bastion_host
+A bastion host is a gateway between an inside network and an outside network. Used as a security measure, the bastion host is designed to defend against attacks aimed at the inside network.   Depending on a network's complexity and configuration, a single bastion host may stand guard by itself, or be part of a larger security system with different layers of protection. 
+
+BAT_file
+In DOS systems, batch files are often called BAT files because their filenames end with a.BAT extension.  
+
+batch_capture
+A feature in editing programs that allows the system to capture lists or batches of clips from source videotapes.
+
+batch_file
+A file that contains a sequence, or batch, of commands. Batch files are useful for storing sets of commands that are always executed together because you can simply enter the name of the batch file instead of entering each command individually.  In DOS systems, batch files end with a.BAT extension. For example, the following DOS batch file prints the date and time and sets the prompt to GO>:datetimeprompt [GO>]  Whenever you boot a DOS -based computer, the system automatically executes the batch file named AUTOEXEC.BAT, if it exists.  Many operating systems use the terms command file or shell  script  in place of batch file.    
+
+batch_processing
+Executing a series of non-interactive jobs all at one time. The term originated in the days when users entered programs on punch cards. They would give a batch of these programmed cards to the system operator, who would feed them into the computer.
+Batch jobs can be stored up during working hours and then executed during the evening or whenever the computer is idle. Batch processing is particularly useful for operations that require the computer or a peripheral device for an extended period of time. Once a batch job begins, it continues until it is done or until an error occurs. Note that batch processing implies that there is no interaction with the user while the program is being executed.
+An example of batch processing is the way that credit card companies process billing. The customer does not receive a bill for each separate credit card purchase but one monthly bill for all of that month��s purchases. The bill is created through batch processing, where all of the data are collected and held until the bill is processed as a batch at the end of the billing cycle.
+
+Bates_Number
+In automated litigation, Bates Number is a unique serial number attached every page of a document collected. Bates numbers are usually affixed electronically to a document image. See also e-discovery.
+
+battery_pack
+(n.) A rechargeable battery used in portable computer  devices, such as notebook computers. The most common substances used in computer battery packs are nickel cadmium (Nicad), nickel metal hydride (NiMH), and Lithium Ion.  A new type of battery, called a smart battery, provides the computer with information about its power status so that the computer can conserve power intelligently. With a normal battery, the computer makes estimates about the battery's condition that are not always correct. 
+
+baud
+Pronounced bawd, the number of signaling elements that occur each second. The term is named after J.M.E. Baudot, the inventor of the Baudot telegraph code.  At slow speeds, only one bit of information (signaling element) is encoded in each electrical change. The baud, therefore, indicates the number of bits per second that are transmitted. For example, 300 baud means that 300 bits are transmitted each second (abbreviated 300 bps ). Assuming asynchronous communication, which requires 10 bits per character, this translates to 30 characters per second (cps). For slow rates (below 1,200 baud), you can divide the baud by 10 to see how many characters per second are sent.  At higher speeds, it is possible to encode more than one bit in each electrical change. 4,800 baud may allow 9,600 bits to be sent each second. At high data transfer speeds, therefore, data transmission rates are usually expressed in bits per second (bps) rather than baud. For example, a 9,600 bps modem may operate at only 2,400 baud. 
+
+bay
+Short for drive bay, this refers to a site in a personal computer where a hard or floppy disk drive, CD-ROM drive or tape drive can be installed. Thus, the number of drive bays in a computer determines how many mass storage devices can be internally installed.  For PCs, bays come in two basic sizes: 3.5-inch and 5.25-inch, which represents the bay's height. In addition, bays are described as either internal or exposed. An internal bay cannot be used for removable media, such as floppy drives. Some manufacturers use the terms hidden and accessible in place of internal and exposed.  Do not confuse bays with slots, which are openings in the computer where expansion boards can be installed. 
+
+Bayesian_filter
+(bā´ zē-en fil´tër) (n.) A technique for identifying incoming e-mail spam. Unlike other filtering techniques that look for spam-identifying words in subject lines and headers, a Bayesian filter uses the entire context of an e-mail when it looks for words or character strings that will identify the e-mail as spam. Another difference between a Bayesian filter and other content filters is that a Bayesian filter learns to identify new spam the more it analyzes incoming e-mails.  Bayesian filtering is named for English mathematician Thomas Bayes, who developed a theory of probability inference. Bayesian filtering is predicated on the idea that spam can be filtered out based on the probability that certain words will correctly identify a piece of e-mail as spam while other words will correctly identify a piece of e-mail as legitimate and wanted. At its most basic level, a Bayesian filter examines a set of e-mails that are known to be spam and a set of e-mails that are known to be legitimate and compares the content in both e-mails in order to build a database of words that will, according to probability, identify, or predict, future e-mails as spam or not. Bayesian filters examine the words in a body of an e-mail, its header information and metadata, word pairs and phrases and even HTML code that can identify, for example, certain colors that can indicate a spam e-mail.  Bayesian filters are adaptable in that the filter can train itself to identify new patterns of spam and can be adapted by the human user to adjust to the user��s specific parameters for identifying spam. Bayesian filters also are advantageous because they take the whole context of a message into consideration. For example, not every e-mail with the word "cash" in it is spam, so the filter identifies the probability of an e-mail with the word "cash" being spam based on what other content is in the e-mail.  Proponents of Bayesian filters assert that the filters return less than one percent of false positives.  Other forms: Bayesian filtering (v.)
+
+BBBOnLine
+A subsidiary of the Council of Better Business Bureaus. The mission of the BBBonline is to promote trust and confidence in business transactions conducted over the Internet. The BBBOnLine issues two seals that certify that a Web site has met certain standards: BBBOnLine Reliability Seal: indicates that the company behind the Web presence is a member of a local Better Business Bureau and has met truth in advertisement and reliability guidelines.  BBBOnLine Privacy Seal: indicates that the company behind the Web presence conforms to baseline information privacy standards. 
+
+BBIAB
+Acronym for "Be back in a bit". BBIAB is commonly used in newsgroups, chat rooms, instant messaging,  text messaging, SMS, e-mail and other real time text-based communications. See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations.
+
+BBIAF
+Acronym for be back in a few. BBIAF is commonly used in newsgroups, chat rooms, instant messaging, text messaging, SMS, e-mail and other real time text-based communications.  See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations.
+
+BBIAS
+In chat abbreviations BBIAS is short for be back in a sec, an indication that the user is leaving the computer, but will return very shortly. Chat abbreviations are commonly used in Internet and online communications mediums such as e-mail, IRC, instant messaging, or through SMS. See also Text Messaging Abbreviations in the Quick Reference section of Webopedia for definitions of hundreds of instant messaging, SMS and chat abbreviations, plus a guide to smiley faces and emoticons."
+
+BCA
+Short for Burst Cutting Area, BCA is a circular section located near near the center of a DVD disc where manufacturing information can be inscribed in a barcode.
+
+BCC
+Short for blind carbon copy, a copy of an e-mail message sent to a recipient without the recipient's address appearing in the message. Most e-mail clients include two fields labeled cc and bcc. When you enter addresses in the cc field, the message is copied to those addresses and the cc addresses appear at the top of the e-mail message. When you enter addresses in the bccfield, however, the addresses do not appear in the message. This is useful if you want to copy a message to many people without each of them seeing who the other recipients are.
+Also see Why E-Mails Bounce in the Did You Know section of Webopedia.
+
+BCD
+Abbreviated as BCD, binary-coded decimal is a format for representing decimal numbers (integers) in which each digit is represented by four bits (a nibble ). For example, the number 375 would be represented as:   0011 0111 0101  One advantage of BCD over binary representations is that there is no limit to the size of a number. To add another digit, you just need to add a new 4-bit sequence. In contrast, numbers represented in binary format are generally limited to the largest number that can be represented by 8, 16, 32 or 64 bits. 
+
+Business_Continuity_Planning_BCP
+Short for Business Continuity Planning, BCP a term that covers both disaster recovery planning (DRP) and business resumption planning. BCP is the preparation and testing of measures that protect business operations and also provide the means for the recovery of technologies in the event of any loss, damage or failure of facilities.  See also DRP.
+
+BDC
+Short for Backup Domain Controller. BDCs maintain a read-only backup of the PDC's master directory. Although BDCs cannot be changed, they can be upgraded to PDCs and regularly synchronized with PDCs.  Windows 2000 (W2K) approaches the domain controller concept a little differently. Unlike Windows NT, where a PDC must be accessible to make changes to the directory, W2K relies on Active Directory's multimaster replication model to update all domain controllers when only one is updated. There is no PDC or BDC. All domain controllers are equal.
+
+beacon
+Beacons are small, often inexpensive devices that enable more accurate location within a narrow range than GPS, cell tower triangulation and Wi-Fi proximity. Beacons transmit small amounts of data via Bluetooth Low Energy (BLE) up to 50 meters, and as a result are often used for indoor location technology, although beacons can be used outside as well.
+Beacons are typically powered by small batteries, but they can be plugged into an outlet or USB port instead to maintain consistent power. In addition to standalone beacon devices, mobile phones, tablets and PCs with BLE support can all function as beacons, with the ability to both emit and receive beacon signals.
+Privacy Concerns and Examples of Beacon Use
+In terms of privacy concerns, beacons can only be used as a form of voluntary communication between whoever owns the beacon and the owner of a receiving smartphone or similar mobile device. The beacon communication frequently relies on an app, especially in the case of retail marketing via beacons.
+
+beam
+To transmit information to another device wirelessly using the infrared port built into Palm and other devices.
+
+beamforming
+In aeroacoustics, beamforming is a signal processing technology that is used to direct the reception or transmission (the signal energy) on a transducer array in a chosen angular direction. Beamforming concentrates the array to sounds coming from only one particular direction to listen to sounds in one direction and ignore sounds in other directions. Beamforming is one of several technologies, as well as smart antennas and MIMO, that is used boost the range and capacity of WiMAX by providing a better signal-to-noise (SNR) ratio.
+
+BeanShell
+A free embeddable Java source interpreter with object scripting language features that is written in Java. BeanShell can dynamically execute standard Java syntax and extends Java syntax with common scripting conveniences such as loose types, commands and method closures like those in Perl and JavaScript. Since BeanShell is small and embeddable developers can call BeanShell from Java applications to execute Java code dynamically at run-time or to provide extensibility in applications. The BeanShell distribution requires Java version 1.3+, however it is backwards compatible with Java version 1.1.
+
+BECN
+Short for backward explicit congestion notification. A Frame Relay message that notifies the sending device that there is congestion in the network. A BECN bit is sent in the opposite direction in which the frame is traveling, toward its transmission source.  Compare with FECN.
+
+BEDO_DRAM
+Short for Burst EDO DRAM, a new type of EDO DRAM that can process four memory addresses in one burst. Unlike SDRAM, however, BEDO DRAM can only stay synchronized with the CPU clock for short periods (bursts). Also, it can't keep up with processors whose buses run faster than 66 MHz.   
+
+behavioral_biometric
+A biometric that is based on a behavioral trait of an individual. Examples of behavioral biometrics includes speech patterns, signatures and keystrokes. Contrast with  physical biometric. See "Defend Yourself Against Identity Theft" in the "Did You Know..." section of Webopedia. See also "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. Also see "How Fingerprint Scanners Work" in the "Did You Know..." section of Webopedia.
+
+behavioral_email_marketing
+In email and online marketing, behavioral email marketing refers to the techniques, strategies and often the automated email systems used by marketers and online merchants to  collect data about an email subscriber so they can target specific campaigns to that person based on their behavior.
+Data about the user is collected in a database, which also integrates Web analytics and email data. When the marketer directs an email to the user, it is very relevant to that specific subscriber, based on the data collected and their most recent tracked behavior.
+
+Bell_103
+The de facto standard protocol in the United States for transmitting data over telephone lines at transmission rates of 300 baud. The Bell 103A standard defines asynchronous, full-duplex communication. Europe and Japan use the CCITT V.21 protocol.  
+
+Bell_212A
+The de facto standard protocol in the United States for transmitting data over telephone lines at transmission rates of 1,200 bps. The Bell 212A standard defines asynchronous, full-duplex communications. Europe and Japan use the CCITT V.22 protocol.  
+
+bells_and_whistles
+Fancy features provided by an application. Typically, the term refers to small features that are needed only in special cases or to features that make the program more visibly attractive (i.e., like real bells and whistles that are aimed at attracting your attention). Depending on the author, the term can be used either favorably or negatively. Many users and critics, for example, lament the increasing addition of bells and whistles that, they feel, make an application harder to learn and use without providing commensurate new functionality. 
+
+benchmark
+A test used to compare performance of hardware and/or software. Many trade magazines have developed their own benchmark tests, which they use when reviewing a class of products. When comparing benchmark results, it is important to know exactly what the benchmarks are designed to test. A benchmark that tests graphics speed, for example, may be irrelevant to you if the type of graphical applications you use are different from those used in the test.   
+
+BenQ
+Named one of the Top 100 IT companies in BusinessWeek three years in a row, BenQ has manufacturing plants in China, Taiwan, Malaysia and Mexico. Formerly Acer Communications & Multimedia, the name BenQ was adopted in December 2001. BenQ's product lines are managed by four business groups: Imaging Network (scanners, optical drives, digital cameras, color laser printers), Digital Media (Digital Hub, projectors, LCD TV's, MP3 players/USB flash drives, plasma displays, multi-functional DVD), Network Display (LCD monitors, CRT monitors, smart displays) and Networking & Communications (GSM/GPRS/CDMA/CDMA2000 mobile phones, wireless LAN, home networking, SOHO routers, smart phones, wireless PDAs, wireless modules).
+
+BeOS
+An operating system developed by Be, Inc. that runs on the PowerPC platform and Intel x86 processors. Despite being smaller than other modern operating systems, such as the Mac OS and Windows, BeOS nevertheless sports a modern graphical user interface (GUI), preemptive multitasking, multithreading, and built-in support for symmetric multiprocessing (SMP).
+
+
+Beowulf
+Also called Beowulf computing or Beowulf cluster computing, it is a High Performance Computing Cluster (HPCC) that consists of clustering computer systems on a high speed network running open source operating systems, like Linux or FreeBSD and also using Beowulf software to function as a single massive parallel computer. Beowulf clusters are most commonly used for computational intensive tasks including digital media rendering, seismic analysis, or computational chemistry.
+
+BER
+Short for bit error rate. In a digital transmission, BER is the percentage of bits with errors divided by the total number of bits that have been transmitted, received or processed over a given time period. The rate is typically expressed as 10 to the negative power. For example, four erroneous bits out of 100,000 bits transmitted would be expressed as 4 x 10-5, or the expression 3 x 10-6 would indicate that three bits were in error out of 1,000,000 transmitted. BER is the digital equivalent to signal-to-noise ratio in an analog system.  See also BERT.
+
+Berkeley_Internet_Name_Domain
+Abbreviated as BIND, Berkeley Internet Name Domain is the most common implementation of the DNS protocol on the Internet. It's freely available under the BSD License. BIND DNS servers are believed to be providing about 80 percent of all DNS services. BIND was developed by the University of California at Berkeley. The most current release is BIND 9.4.2, and from Version 9 onwards it supports DNS SEC, TSIG, IPv6 and other DNS protocol enhancements.
+
+Berkeley_Packet_Filter
+The Berkeley Packet Filter (BPF) is a new architecture for user-level packet capture. BPF provides a raw interface to data link layers in a protocol-independent fashion. All packets on the network, even those destined for other hosts, are accessible through this mechanism.   * The packet filter appears as a character special  device, /dev/bpf0, /dev/bpf1 and so on. After opening the device, the file descriptor must be bound to a specific network interface. A given interface can be shared by multiple listeners, and the filter underlying each descriptor will see an identical packet stream. A separate device file is required for each minor device. * [Adapted from FreeBSD Man Pages]
+
+Bernoulli_disk_drive
+Named after a Swiss scientist who discovered the principle of aerodynamic lift, the Bernoulli disk drive was a special type of floppy disk drive from Iomega Corporation that was faster and had greater storage capacity than traditional floppy drives. It is no longer being produced. 
+
+BERT
+BERT is short for bit error rate test (or tester). It is a procedure or device that measures the bit error rate of a transmission to determine if errors are introduced into the system when data is transmitted.
+May also be called BER testing.
+
+best_practices
+A business buzzword that describes a set of defined methods, processes, systems or practices used by a company or organization to meet performance and efficiency standards within their industry or organization. Best practices are guidelines which are used to obtain the most efficient and effective way of completing a task using repeatable and proven procedures.
+
+beta_test
+A test for a computer product prior to commercial release. Beta testing is the last stage of testing, and normally can involve sending the product to beta test sites outside the company for real-world exposure or offering the product for a free trial download over the Internet. Beta testing is often preceded by a round of testing called alpha testing.
+
+
+Betamax_Standard
+(1) Also referred to as simply Beta, the first VCR format, developed by Sony in 1975. Except for old systems that are still around since the 1980s, Betamax eventually disappeared from the home user marketplace as consumers favored the VHS format. The Betamax format is still in use today by professional videographers, television broadcasters and film makers.  (2) The landmark U.S. legal precedent set in 1984 for allowing consumers to space-shift content they own to other formats and devices for the purpose of personal use. The precedent was a result of the Supreme Court decision in  Sony v. Universal.
+
+beyond_the_banner
+A slang term used to describe any non-standard type of Web advertisement. This type of ad is not a banner ad, streaming video or text ad, which are common online, but rather it goes beyond that. An example of this type of ad would be a rich-media ad where users can interact with the ad as it is displayed through navigation options to find out more information without clicking through to the advertiser's Web site.
+
+bezel
+The outside frame around a computer tower or monitor. On a computer case the bezel is the front area of the case where devices protrude through the case. On a CRT computer monitor, the bezel is the outside frame area around the monitor glass.
+
+B_zier_curves
+
+
+Pronounced bez-ee-ay, Bézier curves are curved lines (splines) defined by mathematical formulas. Nearly all draw programs support Bézier curves.
+
+BFF
+Acronym for best friends forever. BFF is commonly used in newsgroups, chat rooms, instant messaging, text messaging, SMS, e-mail and other real time text-based communications.  See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations. 
+
+BGA
+Short for ball grid array, a surface-mount integrated circuit package in which the die is attached to the printed circuit board with either plastic or ceramic solder balls instead of metal leads that are used in other packaging. BGA is similar to PGA packaging, but the pins are replaced with balls of solder to allow more contact points between the die and the circuit board. BGAs have better electrical and thermal performance and occupy less space than leaded packages. A disadvantage of BGAs is that they do not have the flexibility that a leaded package has under extreme temperatures and mechanical stress, which means that the solder joints can crack under certain conditions such as applications in the aerospace industry.
+
+BGAN
+BGAN, or Broadband Global Area Network is a satellite based uplink that provides broadband speeds. BGAN provides seamless network coverage across about 85 percent of the world's land mass, so users can get broadband wherever they roam, not just in major metropolitan areas. With a single BGAN device, you can access broadband data applications at speeds up to half a megabit per second and make a phone call at the same time. BGAN terminals are compact, lightweight and can be carried as easily as a laptop. A fully functional broadband mobile office can be set up and shut down in minutes. The smallest BGAN terminal weighs less than one kilo. BGAN supports the latest IP services and traditional circuit-switched voice and data. Integrating seamlessly with corporate networks, it also supports legacy applications and provides an easy upgrade path to IP.  One of the most talked-about BGAN systems is the The Inmarsat Broadband Global Area Network which was launched over the I4 (Inmarsat-4) satellite  system. Inmarsat BGAN systems has been specified to support point to point telecommunication services on portable and semi fixed land mobile platforms with low to medium gain non-tracking antennas providing bit rates in the range 216 Kbps to 432 Kbps in  downlink, and 72 Kbps to 432 Kbps in uplink, depending on type of terminal.
+
+BGP
+Short for Border Gateway Protocol, an exterior gateway routing protocol that enables groups of routers (called autonomous systems) to share routing information so that efficient, loop-free routes can be established. BGP is commonly used within and between Internet Service Providers (ISPs). The protocol is defined in RFC 1771.  
+
+BHO
+Acronym for Browser Helper Object.A Browser Helper Object is a DLL that allows developers to customize and control Internet Explorer. When Internet Explorer starts it reads the registry to locate any installed BHOs and then creates them. Created BHO's have access to all the events and properties of that browsing session. Every time a new browser window is opened, it creates a copy of the BHO and when that window is closed, it destroys its copy of the BHO.
+
+Business_Intelligence
+The term business intelligence (BI) represents the tools and systems that play a key role in the strategic planning process of the corporation. These systems allow a company to gather, store, access and analyze corporate data to aid in decision-making.
+Generally these systems will illustrate business intelligence in the areas of customer profiling, customer support, market research, market segmentation, product profitability, statistical analysis, and inventory and distribution analysis to name a few.
+Most companies collect a large amount of data from their business operations. To keep track of that information, a business and would need to use a wide range of software programs, such as Excel, Access and different database applications for various departments throughout their organization. Using multiple software programs makes it difficult to retrieve information in a timely manner and to perform analysis of the data.
+Business Intelligence Software
+Business intelligence software is designed with the primary goal of extracting important data from an organization's raw data to reveal insights to help a business make faster and more accurate decisions. The software typically integrates data from across the enterprise and provides end-users with self-service reporting and analysis. BI software uses a number of analytics features including statistics, data and text mining and predictive analytics to reveal patterns and turn information into insights.
+Big Data and Business Intelligence
+Big Data is used most extensively today with business intelligence and analytics applications and a number of BI vendors have moved to launch new tools that support Hadoop. For example, SAP offers connectors to Hadoop for SAP BI and Business Objects. According to EnterpriseAppsToday, BI vendor support for big data is typically in at least one of two ways:
+- Integration connectors that make it easier to move data from Hadoop into their tools. - Data visualization tools that make it easier to analyze data from Hadoop.
+
+Webopedia Big Data Resources What is business analytics? What is business process? Business Intelligence software Predictive analyticsIn-depth: Business Intelligence Software Explained Open Source Business Intelligence Software What is big data analytics?
+
+
+
+biaxial_cable
+Abbreviated as biax, a biaxial cable is a type of coaxial cable that uses two 50 ohm coaxial cables in a figure-eight configuration. Contrast with twinaxial cable. See also coaxial cable.
+
+bidirectional_prediction
+Bidirectional prediction is a form of compression in which the codec uses information from frames that have already been decompressed as well as from frames yet to come. The codec looks in two directions  forward and as back, making it bidirectional. 
+
+bifurcation
+)Also called ridge bifurcation. In biometrics and fingerprint scanning, bifurcation refers to the point in a fingerprint where a ridge divides to form two ridges.   See  "How Fingerprint Scanners Work" in the ""Did You Know..." section of Webopedia. See also  "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. * Image Source: "See How Fingerprint Scanners Work"
+
+Big_Blue
+A slang name for International Business Machines Corporation (IBM). Blue is IBM's corporate color.  
+
+big_data
+Big data is a buzzword, or catch-phrase, used to describe a massive volume of both structured and unstructured data that is so large it is difficult to process using traditional database and software techniques. In most enterprise scenarios the volume of data is too big or it moves too fast or it exceeds current processing capacity. Despite these problems, big data has the potential to help companies improve operations and make faster, more intelligent decisions.
+Big Data: Volume or a Technology?
+While the term may seem to reference the volume of data, that isn't always the case. The term big data, especially when used by vendors, may refer to the technology (which includes tools and processes) that an organization requires to handle the large amounts of data and storage facilities. The term big data is believed to have originated with Web search companies who needed to query very large distributed aggregations of loosely-structured data.
+An Example of Big Data
+An example of big data might be petabytes (1,024 terabytes) or exabytes (1,024 petabytes) of data consisting of billions to trillions of records of millions of people—all from different sources (e.g. Web, sales, customer contact center, social media, mobile data and so on). The data is typically loosely structured data that is often incomplete and inaccessible.
+
+big_data_analytics
+Big data analytics refers to the process of collecting, organizing and analyzing large sets of data (called big data) to discover patterns and other useful information. Big data analytics can help organizations to better understand the information contained within the data and will also help identify the data that is most important to the business and future business decisions. Analysts working with big data basically want the knowledge that comes from analyzing the data.
+
+The Challenges of Big Data Analytics
+For most organizations, big data analysis is a challenge. Consider the sheer volume of data and the different formats of the data (both structured and unstructured data) that is collected across the entire organization and the many different ways different types of data can be combined, contrasted and analyzed to find patterns and other useful business information. 
+The first challenge is in breaking down data silos to access all data an organization stores in different places and often in different systems. A second big data challenge is in creating platforms that can pull in unstructured data as easily as structured data. This massive volume of data is typically so large that it's difficult to process using traditional database and software methods.
+Big Data Requires High-Performance Analytics
+To analyze such a large volume of data, big data analytics is typically performed using specialized software tools and applications for predictive analytics, data mining, text mining, forecasting and data optimization. Collectively these processes are separate but highly integrated functions of high-performance analytics. Using big data tools and software enables an organization to process extremely large volumes of data that a business has collected to determine which data is relevant and can be analyzed to drive better business decisions in the future.
+
+
+Big_Iron
+(1) Slang term used to mean a  mainframe, a very large and expensive computer capable of supporting hundreds, or even thousands, of users simultaneously. It is widely believed that the term Big Iron was derived from early mainframes, which were enclosed in room-size metal frames.
+(2) Slang term used by hackers to describe large, expensive and ultra-fast computers, usually meaning  supercomputers.
+ 
+
+Big_Red_Switch
+BRS or Big Red Switch is a phrase used to describe an immediate shut down of a system using the main or emergency power switch (e.g., "Hit the BRS"). The term originated from the emergency pull switch on an older IBM mainframe or the power switch on an older IBM PC, which is a large red button. Today, it is considered to be hacker slang for any computer power button or switch.
+
+big_endian
+The adjectives big-endian and little-endian refer to which bytes are most significant in multi-byte data types and describe the order in which a sequence of bytes is stored in a computer��s memory.
+In a big-endian system, the most significant value in the sequence is stored at the lowest storage address (i.e., first). In a little-endian system, the least significant value in the sequence is stored first. For example, consider the number 1025 (2 to the tenth power plus one) stored in a 4-byte integer:
+00000000 00000000 00000100 00000001
+
+BiggerTwitter
+An app (or add-on) that can be used to post Tweets longer than 140 characters on Twitter. BiggerTwitter works by placing a link in the tweet. See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+bigwig
+Formally written as < bigwig > it is a high-level programming language for developing interactive Web services. The bigwig language is a collection of domain-specific languages focusing on different aspects of interactive Web services. These contributing languages (C code, HTTP, HTML, JavaScript, and SSL) are held together by a C-like skeleton language. Bigwig is no longer actively developed. in its place is JWIG, a Java-based successor to bigwig. Bigwig and its successor, JWIG was developed at the BRICS research center at the Department of Computer Science, Aarhus University, Denmark.
+
+bilevel_printer
+A type of printer that can print only two levels of intensity for each dot - on or off. For monochrome printers, lightness and darkness (shading) is simulated through dithering. Bilevel color printers use dithering to produce a wide variety of colors. Most ink-jet and laser printers are bilevel. In contrast, expensive color printers, such as thermal dye printers, can apply ink at various levels of intensity. Such printers are called continuous-tone printers. A third type of printer, called a contone or multilevel printer can print at a few intensity levels (usually 8), but not as many as a true continuous-tone printer (usually 256). These printers use a combination of dithering and multi-level printing to produce different colors. 
+
+Bilinear_Filtering
+In 3D graphics,  Bilinear Filtering is a basic filtering technology used to blend adjoining textures in order to reduce pixelization. Bilinear Filtering is usually the default filtering method on most modern 3D  graphics accelerators. Compare with Anisotropic Filtering. Also see "Understanding Video and Graphics Adapters" in Webopedia's "Did You Know...?" section. 
+
+billing_increment
+A call duration measurement unit expressed in seconds. Depending on your service provider, some services are measured and billed in sixty second increments (one minute) or the billing increment may be in durations of six or even ten seconds.
+
+billing_software
+Software designed to handle time and billing tracking as well as invoicing customers for services and products. Billing software can track the hours worked by employees as well as expenses associated with projects or clients.
+Most time and billing software applications also create billing cycle reports to display information such as hours worked, expenses incurred, how much to bill clients, and which clients owe money for specific projects.
+Popular time and billing software tools include Sage Timeslips, Intuit QuickBooks Time and Billing Manager, Billing Tracker and kBilling.
+
+Bimodal_virus
+Also called a Boot Sector Infector, a bimodal virus is one that infects both boot records and files on the computer system.  See multipartite virus.
+
+bin
+From BINary -- A name for directories that contain files stored in binary format -- computer-readable but not human-readable files.   
+
+BIN_CUE
+An image format commonly found on the Internet. BIN/CUE images are CD-Images that come in both a .bin and .cue file. The .cue file contains the track layout information and the .bin file holds the actual data. Also called .bin/.cue. BIN/CUE files can be burned to a CD-R or a CD-RW.
+
+binary
+Pertaining to a number system that has just two unique digits. For most purposes, we use the decimal number system, which has ten unique digits, 0 through 9. All other numbers are then formed by combining these ten digits. Computers are based on the binary numbering system, which consists of just two unique numbers, 0 and 1. All operations that are possible in the decimal system (addition, subtraction, multiplication, division) are equally possible in the binary system.
+We use the decimal system in everyday life because it seems more natural (we have ten fingers and ten toes). For the computer, the binary system is more natural because of its electrical nature (charged versus uncharged).
+In the decimal system, each digit position represents a value of 10 to the position's power. For example, the number 345 means:
+
+binary_compatible
+Having the exact same data format, down to the binary level. That is, two files that are binary compatible will have the same pattern of zeroes and ones in the data portion of the file. The file header, however, may be different.  The term is used most commonly to state that data files produced by one application are exactly the same as data files produced by another application. For example, many software companies now produce applications for Windows and the Macintosh that are binary compatible, which means that a file produced in a Windows environment is interchangeable with a file produced on a Macintosh. This avoids many of the conversion problems caused by importing and exporting data.  
+
+binary_file
+A file stored in binary format. A binary file is computer -readable but not human-readable. All executable programs are stored in binary files, as are most numeric data files. In contrast, text files are stored in a form (usually ASCII) that is human-readable.  
+
+Binary_File_Transfer_BFT
+A standard for transmitting data files using fax modems. There are actually two standards, both of which are referred to as BFT: CCITT  T.434 and Microsoft At Work (MAW).   
+
+binary_format
+A format for representing data used by some applications. The other main formats for storing data are text  formats  (such as ASCII and EBCDIC), in which each character of data is assigned a specific code number.  Binary formats are used for executable programs and numeric data, whereas text formats are used for textual data. Many files contain a combination of binary and text formats. Such files are usually considered to be binary files even though they contain some data in a text format.   
+
+binary_tree
+A special type of tree structure in which each node has at most two leaves. Binary tree are often used for sorting data, as in a heap sort. 
+
+binary_coded_decimal
+Abbreviated as BCD, binary-coded decimal is a format for representing decimal numbers (integers) in which each digit is represented by four bits (a nibble ). For example, the number 375 would be represented as:   0011 0111 0101  One advantage of BCD over binary representations is that there is no limit to the size of a number. To add another digit, you just need to add a new 4-bit sequence. In contrast, numbers represented in binary format are generally limited to the largest number that can be represented by 8, 16, 32 or 64 bits. 
+
+bind
+(1) To assign a value to a symbolic placeholder. During compilation, for example, the compiler assigns symbolic addresses to some variables and instructions. When the program is bound, or linked, the binder replaces the symbolic addresses with real machine addresses. The moment at which binding occurs is called bind time or link time.    (2) When capitalized BIND is short for  Berkeley Internet Name Domain.
+
+binder
+(1) A tool that combines two or more  files into a single file, usually for the purpose of hiding one of them. Commonly associated with Trojan horses, where the Trojan is bound to a real file, such as a text file that opens with Notepad or other program. The users believe they are opening a safe file, and that is what appears on the screen, but at the same time the file is running, the Trojan is also running, usually undetected by the user. (2) Same as linker.
+
+Bing
+Bing is a search engine from Microsoft that was launched on May 28, 2009. Microsoft calls it a "Decision Engine," because it's designed to return search results in a format that organizes answers to address your needs. When you search on Bing, in addition to providing relevant search results, the search engine also shows a list of related searches on the left-hand side of the search engine results page (SERP). You can also access a quick link to see recent search history. Bing uses technology from a company called Powerset, which Microsoft acquired.   Bing launched with several features that are unique in the search market. For example, when you mouse-over a Bing result a small pop-up provides additional information for that result, including a contact e-mail address if available. The main search box features suggestions as you type, and Bing's travel search is touted as being the best on the net. Bing is expected to replace Microsoft Live Search. See also "Web Search Engines & Directories" in the Quick Reference section of Webopedia.
+
+BinHex
+An encoding scheme that converts binary data into ASCII characters. Any file, whether it be a graphics file, a text file, or a binary executable file, can be converted to BinHex. This format is particularly valuable for transferring files from one platform to another because nearly all computers can handle ASCII files. In fact, many e-mail programs include a BinHex encoder and decoder for sending and receiving attachments. BinHex is an especially common format for Macintosh files. Encoded files usually have a .HQX extension.  An alternative algorithm for converting binary files to ASCII is Uuencode.  
+
+binning
+In biometrics it is the term used to describe the examination or classification of biometric data to improve a biometric engine'sidentification matching rate.
+
+Binutils
+Short for GNU Binary Utilities, Binutils is a collection of binary programming tools used to assemble, link and manipulate binary and object files. Binutils have been ported to most major Unix variants as well as Wintel systems, and are often used with a compiler and libraries to design programs for Linux.
+
+bioidentification
+Slang term used to mean identification based on biometrics. May also be called bio-identification.See also biometrics.
+
+bioinformatics
+The application of computer technology to the management of biological information. Specifically, it is the science of developing computer databases and algorithms to facilitate and expedite biological research. Bioinformatics is being used largely in the field of human genome research by the Human Genome Project that has been determining the sequence of the entire human genome (about 3 billion base pairs) and is essential in using genomic information to understand diseases. It is also used largely for the identification of new molecular targets for drug discovery.   Many universities have recognized the importance of this endeavor and have instituted academic and training programs in bioinformatics that combine backgrounds in molecular biology with a strong foundation in computer science. Specialists in the field are referred to as computational biologists or bioinformatics computer scientists. 
+
+biometric_accuracy
+A general term used to describe how accurate a  biometric system performs. Biometric accuracy is based on several verifying criteria including the identification rate, error rate, false acceptance rate, false alarm rate, and additional biometric system standards.
+
+biometric_characteristic
+Any distinguishing characteristics of an individual that can be measured and extracted from a biometric sample for the purpose of biometric identification. Biometric characteristics may include a fingerprint, signature, voice pattern, ear form, DNA or other distinguishing characteristic.See "Defend Yourself Against Identity Theft" in the "Did You Know..." section of Webopedia. See also "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. Also see "How Fingerprint Scanners Work" in the "Did You Know..." section of Webopedia.
+
+biometric_data
+A general term used to refer to any computer data that is created during a biometric process. This includes samples, models, fingerprints, similarity scores and all verification or identification data excluding the individual's name and demographics. See  "How Fingerprint Scanners Work" in the ""Did You Know..." section of Webopedia. See also  "How Biometrics Security Works" in the "Did You Know..." section of Webopedia.
+
+biometric_engine
+(n.) The aspect of a biometric security system that administers the biometric data during the enrollment, capture, extraction, comparison and matching stages of the process. The biometric engine is a software program that works in conjunction with the hardware devices that a biometric system uses.
+
+biometric_sample
+The data obtained by a biometric system's capture device-such as a facial image, voice recording or a fingerprint.
+See "Defend Yourself Against Identity Theft" in the "Did You Know..." section of Webopedia. See also "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. Also see "How Fingerprint Scanners Work" in the "Did You Know..." section of Webopedia.
+
+biometric_template
+A biometric template (also called template) is a digital reference of distinct characteristics that have been extracted from a biometric sample. Templates are used during the biometric authentication process. See "Defend Yourself Against Identity Theft" in the "Did You Know..." section of Webopedia. See also "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. Also see "How Fingerprint Scanners Work" in the "Did You Know..." section of Webopedia.
+
+biometrics
+(n.) Biometrics generally refers to the study of measurable biological characteristics. In computer security, biometrics refers to authentication techniques that rely on measurable physical characteristics that can be automatically checked.
+There are several types of biometric identification schemes:
+
+
+face: the analysis of facial characteristics
+fingerprint: the analysis of an individual's unique fingerprints
+hand geometry: the analysis of the shape of the hand and the length of the fingers
+retina: the analysis of the capillary vessels located at the back of the eye
+iris: the analysis of the colored ring that surrounds the eye's pupil
+signature: the analysis of the way a person signs his name.
+vein: the analysis of pattern of veins in the back if the hand and the wrist
+voice: the analysis of the tone, pitch, cadence and frequency of a person's voice.
+
+Though the field is still in its infancy, many people believe that biometrics will play a critical role in future computers, and especially in electronic commerce. Personal computers of the future might include a fingerprint scanner where you could place your index finger. The computer would analyze your fingerprint to determine who you are and, based on your identity, authorize you different levels of access. Access levels could include the ability to use credit card information to make electronic purchases.
+
+BIOS
+(bī´ōs) Acronym for basic input/output system, the built-in software that determines what a computer can do without accessing programs from a disk. On personal computers (PCs), the BIOS contains all the code required to control the keyboard, display screen, disk drives, serial communications, and a number of miscellaneous functions.
+The ROM BIOS Explained
+The BIOS is typically placed in a ROM chip that comes with the computer (it is often called a ROM BIOS). This ensures that the BIOS will always be available and will not be damaged by disk failures. It also makes it possible for a computer to boot itself. Because RAM is faster than ROM, though, many computer manufacturers design systems so that the BIOS is copied from ROM to RAM each time the computer is booted. This is known as shadowing.
+
+
+BIOS_flash_utility
+A utility that can be used to save, manage and update a motherboard BIOS, with some allowing you to update the BIOS in Windows a environment, if the motherboard supports this. The BIOS flash utility commonly will save your current BIOS file, download the latest version from the manufacturer using your Internet connection, update the BIOS and then view the BIOS information.
+
+bird
+Slang term used to describe a  communications satellite that is in  geosynchronous orbit.  See geosynchronous satellite.
+
+BIST
+Built-In Self-Test is a function of an integrated circuit that can verify all or some of its internal functionality.
+
+bisync
+Short for binary synchronous, a type of synchronous communications used primarily in mainframe networks. The de facto bisync standard is Binary Synchronous Communications (BSC) developed by IBM. The binary part of the name signifies that the data is binary-coded. The synchronous part means that both the sender and receiver must be synchronized before the data transfer can begin. 
+
+bit
+Short for binary digit, the smallest unit of information on a machine. The term was first used in 1946 by John Tukey, a leading statistician and adviser to five presidents. A single bit can hold only one of two values: 0 or 1. More meaningful information is obtained by combining consecutive bits into larger units. For example, a byteis composed of 8 consecutive bits.
+Computers are sometimes classified by the number of bits they can process at one time or by the number of bits they use to represent addresses. These two values are not always the same, which leads to confusion. For example, classifying a computer as a 32-bit machine might mean that its data registers are 32 bits wide or that it uses 32 bits to identify each address in memory. Whereas larger registers make a computer faster, using more bits for addresses enables a machine to support larger programs.
+Graphics are also often described by the number of bits used to represent each dot. A 1-bit image is monochrome; an 8-bit image supports 256 colors or grayscales; and a 24- or 32-bit graphic supports true color.
+
+bit_block_transfer
+A transformation of a rectangular block of pixels. Typical transformations include changing the color or shade of all pixels or rotating the entire rectangle. Many modern video adapters include hardwired bit block transformations, which execute much faster than they do when executed by software routines.   
+
+bit_bucket
+(bit buk´it) (n.) jargon. A computer��s trash can or recycle bin. In networking scenarios, the term is used to refer to the place where a firewall, router or proxy has discarded a packet.
+
+bit_density
+See areal density.
+
+bit_error_rate_test
+BERT is short for bit error rate test (or tester). It is a procedure or device that measures the bit error rate of a transmission to determine if errors are introduced into the system when data is transmitted.
+May also be called BER testing.
+
+bit_flip
+(1) Switching a bit from 0 to 1 or 1 to 0. (2) Same as bit manipulation which is processing individual bits within a byte. This is considered to be very low-level programming and is often used in graphics and systems programming. (3) Similar to computer geek, bit flipper is the slang term used to describe an individual with a passion for computers and electronic devices to the exclusion of other normal human interests.  Usually has a large cache of electronic toys or gadgets. Depending on the context, it can be used in either a derogatory or affectionate manner. Synonymous with geek or nerd.
+
+bit_map
+)A representation, consisting of rows and columns of dots, of a graphics image in computer memory. The value of each dot (whether it is filled in or not) is stored in one or more bits of data. For simple monochrome images, one bit is sufficient to represent each dot, but for colors and shades of gray, each dot requires more than one bit of data. The more bits used to represent a dot, the more colors and shades of gray that can be represented.
+The density of the dots, known as the resolution, determines how sharply the image is represented. This is often expressed in dots per inch (dpi  )or simply by the number of rows and columns, such as 640 by 480.
+To display a bit-mapped image on a monitor or to print it on a printer, the computer translates the bit map into pixels (for display screens) or ink dots (for printers). Optical scanners and fax machines work by transforming textor pictures on paper into bit maps.
+
+bit_rate
+The ratio of the number of bits that are transferred between devices in a specified amount of time, typically one second.  Bit rate is the same as data rate, data transfer rate and bit time.
+
+bit_stuffing
+The practice of adding bits to a stream of data. Bit stuffing is required by many network and communications protocols for the following reasons:  To prevent data being interpreted as control information. For example, many frame-based protocols, such as X.25, signal the beginning and end of a frame with six consecutive 1 bits. Therefore, if the actual data being transmitted has six 1 bits in a row, a zero is inserted after the first 5 so that the dat is not interpreted as a frame delimiter. Of course, on the receiving end, the stuffed bits must be discarded. For protocols that require a fixed-size frame, bits are sometimes inserted to make the frame size equal to this set size. For protocols that required a continuous stream of data, zero bits are sometimes inserted to ensure that the stream is not broken.   
+
+bit_mapped_graphics
+)Refers to hardware and software that represent graphics images as bit maps. The other method for representing images is known as vector graphics.
+ 
+ 
+
+bit_slice
+Refers to a type of microprocessor in which the MPU is split apart into CU  (control unit) and ALU (arithmetic logic unit) chips.
+
+bitblt
+A transformation of a rectangular block of pixels. Typical transformations include changing the color or shade of all pixels or rotating the entire rectangle. Many modern video adapters include hardwired bit block transformations, which execute much faster than they do when executed by software routines.   
+
+bitcoin
+Bitcoin is a digital payment currency that utilizes cryptocurrency (a digital medium of exchange) and peer-to-peer (P2P) technology to create and manage monetary transactions as opposed to a central authority. The open source Bitcoin P2P network creates the bitcoins and manages all the bitcoin transactions.
+Often referred to as "cash for the Internet," Bitcoin is one of several popular digital payment currencies along with Litecoin, Peercoin and Namecoin.  When the word Bitcoin is capitalized, it usually refers to the software and systems used for bitcoin (in lowercase it means the actual currency).
+
+Bitcoin In the News
+The Face Behind Bitcoin; Newsweek  Gartner: Bitcoin is 'Massively Overhyped Noise'; eWeek Why Marc Andreessen Is Bullish on Bitcoin; eWeek Another bitcoin bank bites the dust, Flexcoin blames losses on hackers; EuroNews Bitcoin firm CEO found dead in suspected suicide; FOX News
+
+
+BitLocker_Hard_Drive_Encryption
+A hard drive encryption tool in Windows Vista Enterprise and Ultimate. BitLocker addresses threats of data theft or disclosure from lost, stolen or inappropriately decommissioned PC hardware. BitLocker works by preventing a thief who boots another operating system or runs a software hacking tool from breaking Windows Vista file and system protections or performing offline viewing of the files stored on the protected drive. The feature uses a Trusted Platform Module to protect user data and to ensure that a PC running Windows Vista has not been tampered with while the system was offline. BitLocker combines drive encryption and integrity checking of early boot components. [Adapted from Microsoft Windows Vista]Also see Windows Vista.
+
+BITNET
+Short for Because It's Time Network, BITNET is one of the oldest and largest wide-area networks, used extensively by universities. A new version of BITNET, called BITNET-II, relies on the Internet network to transfer messages and files.  
+
+BitTorrent
+)[Image Source: BitTorrent Official Website]BitTorrent is a file distribution system used for transferring files across a  network of people. As you download a file, BitTorrent places what you download on upload for other users; when multiple people are downloading the same file at the same time they upload pieces of the file to each other. BitTorrent pieces together the file you are downloading, to where the first part of a file you get may be the last part someone else gets. As you continue to retrieve the file, BitTorrent also uploads data to other users. For example, a person with 98 percent of the file done is directed to the people with the 2 percent of the file they still need. The files downloaded via BitTorrent are called torrents.
+
+bitwise_operator
+An operator that manipulates individual bits. The operators that most people are familiar with, such as the addition operator (+), work with bytes or groups of bytes. Occasionally, however, programmers need to manipulate the bits within a byte. The C programming language supports the following bitwise operators:  >> Shifts bits right << Shifts bits left & Does an AND compare on two groups of bits | Does an OR compare on two groups of bits ^ Does an XOR compare on two groups of bits ~ Complements a group of bits   Not all programming languages support bitwise operators. 
+
+BizTalk_Server
+BizTalk Server is Microsoft's central platform for Enterprise Application Integration (EAI) and Business Process Management (BPM) and embodies the integration and automation capabilities of XML and Web Services technologies. BizTalk Server functions as a process execution engine and as a multi-transport hub for messaging and  document transformations. It is a Windows Server System product that helps customers efficiently and effectively integrate systems, employees and trading partners.
+BizTalk is a registered trademark of Microsoft.
+
+Black_Box_Testing
+Also known as functional testing. A software testing technique whereby the internal workings of the item being tested are not known by the tester. For example, in a black box test on a software design the tester only knows the inputs and what the expected outcomes should be and not how the program arrives at those outputs. The tester does not ever examine the programming codeand does not need any further knowledge of the program other than its specifications.
+The advantages of this type of testing include:
+
+The test is unbiased because the designer and the tester are independent of each other.
+The tester does not need knowledge of any specific programming languages.
+The test is done from the point of view of the user, not the designer.
+Test cases can be designed as soon as the specifications are complete.
+
+The disadvantages of this type of testing include:
+
+Black_Friday
+In retail and online shopping the first day after Thanksgiving in the United States is referred to as Black Friday. Black Friday is generally perceived to be one of the largest major U.S. holiday shopping days for the retail industry, and is the day that most retailers become profitable for the year (i.e., go into the black). Black Friday is more associated with brick-and-mortar retail stores than online stores.See also Cyber Monday.
+
+Black_Hat_SEO
+In search engine optimization (SEO) terminology, black hat SEO refers to the use of aggressive SEO strategies, techniques and tactics that focus only on search engines and not a human audience, and usually does not obey search engines guidelines.
+Some examples of black hat SEO techniques include keyword stuffing, invisible text, doorway pages, adding unrelated keywords to the page content or page swapping (changing the webpage entirely after it has been ranked by search engines).
+Black Hat SEO Usage
+Black hat SEO is more frequently used by those who are looking for a quick financial return on their Web site, rather than a long-term investment on their Web site. Black hat SEO can possibly result in your Web site being banned from a search engine, however since the focus is usually on quick high return business models, most experts who use Black Hat SEO tactics consider being banned from search engines a somewhat irrelevant risk.
+
+black_hole
+Slang term for a router that goes down (offline) and whose absence goes undetected by other routers on the network. Packets that are forwarded to that router simply get dropped and never arrive at their destination. Black holes are unable to generate destination unreachable messages, so users are left unaware that data is being lost.
+
+BlackBerry
+BlackBerry is a line of mobile e-mail devices and services from Research In Motion (RIM). BlackBerry is a complete package that includes airtime, software and choice of BlackBerry mobile device. BlackBerry is currently available in the United States, Canada and the United Kingdom.In the United States and Canada, BlackBerry depends on either narrowband PCS 800 MHz DataTAC networks or narrowband PCS 900 MHz Mobitex networks. In the UK, BlackBerry works over GPRS networks.BlackBerry's popularity may be attributed to its easy-to-use interface and keyboard.
+
+blackberry_playbook
+A tablet device developed by Research in Motion, the same company that manufactures BlackBerry personal digital assistant (PDA) devices. Nicknamed the "BlackPad" for its similarity to Apple's iPad, the BlackBerry PlayBook debuted in April, 2011.  BlackBerry's tablet operates on the BlackBerry Tablet OS, with apps developed using Adobe AIR (Adobe Integrated Runtime).  RIM released version 2.0 of the BlackBerry PlayBook OS in February 2012, adding (among other features) the ability to run Android apps right out of the box and enhanced communication capabilities via built-in calendar, contacts and messages apps.
+
+blackberry_secure_work_space
+Secure Work Space is a BlackBerry service for government and corporate agencies to secure and manage devices powered by Google Android and Apple iOS mobile operating systems. Secure Work Space is managed through BlackBerry Enterprise Service (BES) 10, allowing customers to control mobile devices on internal networks.
+Features include an integrated management console to easily see all devices on the network and to manage those devices and connect to them securely. Secure Work Space enables IT managers to secure corporate email, calendars, contacts, tasks, Web browsing and document editing from personal apps.
+
+Blackbird
+The name of a Twitter client for BlackBerry smartphones.  See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+blackhole_exploit_kit
+A type of crimeware Web application developed in Russia to help hackers take advantage of unpatched exploits in order to hack computers via malicious scripts planted on compromised websites. Unsuspecting users visiting these compromised sites would be redirected to a browser vulnerability-exploiting malware portal website in order to distribute banking Trojans or similar malware through the visiting computer.
+Blackhole exploit kits are based on PHP and a MySQL backend and incorporate support for exploiting the most widely used and vulnerable security flaws in order to provide hackers with the highest probability of successful exploitation. The kits typically target versions of the Windows operating system and applications installed on Windows platforms.
+The first Blackhole exploit kit appeared on the black market in August 2010 as a Web application available for sale on a subscription basis ($1,500 for an annual license). Newer releases and a free version of the Blackhole exploit kit have since appeared on warez download sites. The most well-known Blackhole exploit kit attack targeted the U.S. Postal Service's Rapid Information Bulletin Board System (RIBBS) website in April 2011.
+
+blacklist
+(blak´list) (n.) In Internet terminology, a generic name for a list of e-mail addresses or IP addresses that are originating with known spammers. Individuals and enterprises can use blacklists to filter out unwanted e-mails, as most e-mail applications today have filtering capabilities.  Also referred to as a blackhole list, the blacklist also can include ISPs that allow known spammers to use their services. Compare with RBL, a blackhole list maintained by MAPS LLC.  (v.) To place an email address or an IP address on a list of known spammers.
+
+blank
+In printing terminology, it means an empty or unassembled printer ink cartridge or toner.
+
+blank_character
+Also called a space character. A blank character is produced when you press the space bar.  
+
+blank_off_plate
+Small metal plates found on the back of a computer system on the actual case that cover the openings for expansion slots unoccupied by a sound card, video card, network card and so on. When adding a card or device to your system, you'll need to remove the blank-off plate. Some blank-off plates are removed by unscrewing it from the case, while others you simply snap off by pushing on them. The acrylic plates that cover the openings that are unoccupied by a device, such as a hard drive, DVD-ROM or USB ports, on the front of the computer case are also called a blank-off plates but are more commonly called a face-plate or  filler plate.
+
+blast
+In  online advertising it is a slang term used to describe advertisements sent via bulk e-mail.
+
+blaudience
+Term used to mean blog audience. A blog audience is the audience (or readers) of a blog. See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blawg
+Slang term used to describe an online blog that is written by lawyers, or one that is focused on providing legal-oriented content.
+
+bleed
+(blēd) (n.) Text or graphics that extends all the way to the edge of the paper it is printed on. Bleeds are used in publishing for graphical effect and for printed tabs. Most printers cannot print all the way to the edge of the paper, so the only way to produce a bleed is to print on paper larger than the final page size and then trim the paper.  (v.) To run to the edge of the paper, thereby producing a bleed.   
+
+blended_threat
+Blended threats combine the characteristics of viruses, worms, Trojan Horses, and malicious code with server and Internet vulnerabilities to initiate, transmit, and spread an attack. By using multiple methods and techniques, blended threats can rapidly spread and cause widespread damage. Characteristics of blended threats include: causes harm, propagates by multiple methods, attacks from multiple points, and exploits vulnerabilities. [Source: Symantec Security Response Web site
+]
+
+bliki
+Short for blog and wiki, bliki is a type of blog that can be edited by readers or an agreed upon group of collaborators, contributors and editors.  See blog and wiki for a better understanding of the term bliki. See also "The History of Blogging" in the  Quick Reference section of Webopedia. 
+
+blind_drop
+In malware and virus terminology, a blind drop is a message board, forum, BBS or other Internet site where attackers and botnet nodes can anonymously post or check for messages and new instructions.
+
+bloatware
+(blōt´wãr) (n.) jargon
+Bloatware is the slang phrase used to describe software that has lots of features and requires considerable disk space and RAM to install and run. As the cost of RAM and disk storage has decreased, there has been a growing trend among software developers to disregard the size of applications and the end result is bloated software.
+Some people refer to this trend as creeping featuritis (see "creeping featurism"), however, if creeping featuritis is the symptom, bloatware is the disease.
+
+BLOB
+Short for binary large object, a collection of binary data stored as a single entity in a database management systems (DBMS). BLOBs are used primarily to hold multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code. Not all DBMSs support BLOBs.
+ 
+
+block
+(n.) (1) In word processing, a block is a group of characters that you have marked to perform some action on them. For example, to move a section of text, you must first block it. This is sometimes called a block move.  To specify a block of text, you press special function keys (or click with a mouse) at the beginning and end of the block. The function keys differ from one word processor to another. Word processors usually display blocks by highlighting them on the screen.  (2) In data management, a block is a group of records on a storage device. Blocks are manipulated as units. For example, disk drives often read and write data in 512-byte blocks.  (3) In network communications, a block is a fixed-size unit of data that is transferred together. For example, the Xmodem protocol transfers blocks of 128 bytes. In general, the larger the block size, the faster the data transfer rate.  (v.) In word processing, to specify a section of text. See definition (1) above. Some applications call this selecting. 
+
+block_down_converter
+In satellite communications, a block down converter is the name of a device used to convert a 3.7 to 4.2 KHz signal down to 1-GHz and lower frequencies (UHF).
+
+block_graphics
+Graphical images created in character mode.  
+
+block-level-storage
+Block-level storage is a type of storage commonly deployed by larger businesses and enterprises in storage area networks (SANs) and similar large-scale storage systems. Each block in a block-level storage system can be controlled as an individual hard drive, and the blocks are managed by a server operating system.
+Block-level storage protocols like iSCSI, Fibre Channel and FCoE (Fibre Channel over Ethernet) are utilized to make the storage blocks visible and accessible by the server-based operating system. This is in contrast with file-level storage, in which the storage drives are configured with a storage protocol like NFS or SMB/CIFS.
+Block-Level Storage vs. File-Level Storage
+Another key difference between block-level storage and file-level storage is that while individual files and folders can be accessed and managed by the storage system in file-level storage, these storage systems are unable to directly control the smaller storage blocks that make up the files and folders.
+
+blog
+(n.) Short for Web log, a blog is a Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.
+(v.)To author a Web log.
+Other forms: Blogger (a person who blogs).
+
+Blog_and_Ping
+An online marketing term applied to a system that utilizes  blogs and pings (short for pingback) to deliver content and /or sites for indexing in search engines with the ultimate aim of profit. Also called blog ping.  [Source: The Blog Herald]
+
+blog_search_engine
+A search engine for the blogosphere. Blog search engines only index and provide search results from blogs (Web logs). Examples of blog search engines include Google Blog Search and Technorati. See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blog_storm
+A  slang term that describes the use of blogging to push an event or subject to mainstream news. A blog storm is when the blogosphere collectively writes thousands or more posts about a particular subject, topic or event, and as a result, the story is picked up by mainstream media and carried over to newspapers, television and radio. See "The History of Blogging" in the  Quick Reference section of Webopedia. 
+
+blogger
+See blog.
+
+blogola
+A slang term used in online marketing circles to describe the act of bribing or paying influential bloggers to create a buzz in the blogosphere about a specific product or technology in their blog.See  The History of Blogging in the  Quick Reference section of Webopedia.
+
+blogosphere
+Meaning all blogs, it is an expression used to describe the 'world of blogs'. See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blogroach
+Slang term used to describe a member of your  blaudience who posts comments that disagree with the  blog content in a rude way. See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blogroll
+Found on blogs it is a list of  links to other blogs and Web sites that the blog author commonly references or is affiliated with. Blogrolls help blog authors to establish and build upon a their blogger community. In Web 1.0 terminology, a blogroll would be the equivalent of a list of hyperlinks on a personal Web page.See "The History of Blogging" in the  Quick Reference section of Webopedia. 
+
+Blogsite
+A Web site that offers blog content. Usually the site will be a portal to blog news and offer feeds from a number of different blog sources. See  The History of Blogging in the  Quick Reference section of Webopedia.
+
+blogsnob
+(1) A slang term used to describe a blogger who doesn't respond to blog comments left by people outside his or her own circle of blogger friends. (2) Written as BlogSnob, a free advertising exchange for blogs and personal sites.
+
+BlogThis
+Used on Blogger.com, it is a function that lets you make a blog post without going to the Blogger.com Web site. BlogThis can be added to your browser toolbars. When you click BlogThis, it launches a mini-interface to Blogger that is pre-populated with a link to the Web page you are currently visiting, as well as any text you have highlighted on that page. Bloggers can also choose to add additional text and then publish from within BlogThis! See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blook
+A slang term used to describe a book that was derived from blog content. See also "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+blooming
+In digital photography blooming is the term used to describe a signal charge from extremely bright pixels that results in over-saturated pixels. Blooming compares with over-exposure in film photography, and can occur in the entire image or only in parts of an image. See "A Quick Guide to Digital Cameras" in the Quick Reference section of Webopedia. See also Megapixel.net for news, reviews and a active community for digital camera and photography enthusiasts.
+
+Blowfish
+A symmetric encryption algorithm designed by Bruce Schneier in 1993 as an alternative to existing encryption algorithms, such as DES. Blowfish is a 64-bit block cipher (i.e., a cryptographic key and algorithm are applied to a block of data rather than single bits) that uses a key length that can vary between 32 and 448 bits. Blowfish is available for free use by any, and the technology is unpatented and free of license.
+
+BLS
+Short for Basic Link Service, and also called Link Service, it is a Fibre Channel request and response protocol used by all  devices. 
+
+blu_acceleration
+BLU Acceleration is an IBM technology designed to help enterprises tackle big data, enabling users to have faster access to key information. The BLU Acceleration software extends the capabilities of traditional in-memory systems by providing in-memory performance even when data sets exceed the size of the memory.  According to IBM, during testing, some queries in a typical analytics workload were more than 1,000 times faster when using the combined innovations of BLU Acceleration.
+Learn more about IBM BLU Acceleration on eWeek.
+
+Blu_ray
+An HD-DVD format that uses a 405nm-wavelength blue-violet laser technology, in contrast to the 650nm-wavelength red laser technology used in traditional DVD formats. The rewritable Blu-ray disc, with a data transfer rate of 36Mbps, can hold up to 27GB of data on a single-sided single layer disc (compared to the traditional DVD��s 4.7GB capacity), which amounts to about 12 hours of standard video or more than 2 hours of high-definition video.  The Blu-ray format was developed jointly by Sony, Samsung, Sharp, Thomson, Hitachi, Matsushita, Pioneer and Philips, Mistubishi and LG Electronics.
+
+blue_screen
+A process used to blend together two or more images. Best known for weather broadcasts, blue screening works by placing an actor or image in front of a blue screen, applying a mask to identify the picture's blue elements, and replacing them with another image, known as background. Blue was originally chosen because it best contrasts with skin color, but green and red are used also. The process is now used for creating composite computer images using software such as Ultimatte (www.ultimatte.com) by Ultimatte Corporation of Chatsworth, California. 
+
+blue_screen_of_death
+Abbreviated BSOD, an error that can appear on computers running in a Windows environment. This includes even the earliest versions of Windows, such as Windows 3.0 and 3.1, and still occurs in later versions such as Microsoft Windows 95, Windows 98, Windows NT, and Windows 2000. Jokingly called the blue screen of death because when the error occurs, the screen turns blue, and the computer almost always freezes and requires rebooting. 
+
+bluebugging
+Bluebugging allows skilled individuals to access the mobile phone commands using Bluetooth wireless technology without notifying or alerting the phone's user. This vulnerability allows the hacker to initiate phone calls, send and read SMS, read and write phonebook contacts, eavesdrop on phone conversations, and connect to the Internet. As with all the attacks, the hacker must be within a 10 meter range of the phone. This is a separate vulnerability from bluesnarfing and does not affect all of the same phones as bluesnarfing. [Source: Bluetooth wireless technology Hacking Information]
+
+bluejacking
+Bluejacking allows phone users to send business cards anonymously using Bluetooth wireless technology. Bluejacking does not involve the removal or alteration of any data from the device. These business cards often have a clever or flirtatious message rather than the typical name and phone number. Bluejackers often look for the receiving phone to ping or the user to react. They then send another, more personal message to that device. Once again, in order to carry out a bluejacking, the sending and receiving devices must be within 10 meters of one another. Phone owners who receive bluejack messages should refuse to add the contacts to their address book. Devices that are set in non-discoverable mode are not susceptible to bluejacking. [Source: Bluetooth wireless technology Hacking Information]
+
+bluesnarfing
+Bluesnarfing allows hackers to gain access to data stored on a Bluetooth enabled phone using Bluetooth wireless technology without alerting the phone's user of the connection made to the device. The information that can be accessed in this manner includes the phonebook and associated images, calendar, and IMEI (International Mobile Equipment Identity). By setting the device in non-discoverable, it becomes significantly more difficult to find and attack the device. Without specialized equipment the hacker must be within a 10 meter range of the device while running a device with specialized software. Only specific older Bluetooth enabled phones are susceptible to bluesnarfing. [Source: Bluetooth wireless technology Hacking Information]
+
+bluetool
+A slang term used to describe a person who wears a Bluetooth wireless earpiece.
+
+bluetooth
+Bluetooth is defined as being a short-range radio technology (or wireless technology) aimed at simplifying communications among Internet devices and between devices and the Internet. It also aims to simplify data synchronization between Internet devices and other computers.
+Bluetooth products -- that is products using Bluetooth technology -- must be qualified and pass interoperability testing by the Bluetooth Special Interest Group prior to release. Bluetooth's founding members include Ericsson, IBM, Intel, Nokia and Toshiba.
+Also see the Wireless LAN Standards chart in the Quick Reference section of Webopedia.
+
+bluetooth_4
+A new version of the Bluetooth wireless device-to-device technology that offers significantly lower power consumption than previous versions. Also referred to as Bluetooth Low Energy, Bluetooth 4.0 achieves its reduced power consumption by enabling devices to remain paired, or connected to each other, without requiring a continual stream of data to be transferred between the devices.  Bluetooth 4.0 was announced in late 2011 and first appeared in Apple's 2012 releases of the MacBook Air and MacBook Mini. The first smartphone to utilize the new Bluetooth 4 technology was Apple’s iPhone 4S. Bluetooth 4.0 is also expected to play a key role in the development of advanced, long-lasting wearable computing devices like smartwatches and fitness monitoring devices.
+
+BlueTrack
+A proprietary tracking technology from Microsoft that lets you use a mouse on virtually any surface, excluding clear glass and mirrored surfaces.  According to Microsoft, in a BlueTrack technology mouse, the sensor, the light and the component configuration are optimized for the best possible surface image for a variety of conditions. BlueTrack Technology provides the mouse ASIC and the computer with exceptionally accurate and detailed information for advanced tracking on almost any surface.  A BlueTrack technology mouse uses a Microsoft-designed complementary metal-oxide-semiconductor (CMOS) chip with advanced algorithms and pixel architecture for more precise tracking. It is Microsoft's fourth-generation application-specific integrated circuit (ASIC) using CMOS technology.  
+
+BMP
+The standard bit-mapped graphics format used in the Windows environment. By convention, graphics  files in the BMP format end with a.BMP extension.  BMP files store graphics in a format called device-independent bitmap (DIB).  
+
+BNC_connector
+Short for Bayonet Neill Concelman connector, (sometimes erroneously called a British Naval Connector or Bayonet Nut Connector,a type of connector used with coaxial cables such as the RG-58 A/U cable used with the 10Base-2 Ethernet system. The basic BNC connector is a male type mounted at each end of a cable. This connector has a center pin connected to the center cable conductor and a metal tube connected to the outer cable shield. A rotating ring outside the tube locks the cable to any female connector.
+BNC T-connectors (used with the 10Base-2 system) are female devices for connecting two cables to a network interface card (NIC). A BNC barrel connector allows connecting two cables together.
+BNC connectors can also be used to connect some monitors, which increases the accuracy of the signals sent from the video adapter.
+
+board
+Short for printed circuit board or expansion board.  
+
+BOC
+Short for Bell Operating Company, any of the 22 original operating companies and their successors that were divested from AT&T by court order in 1983 and given the right to provide local telephone service for a specific geographic area, also called ILECs. AT&T was forced to splinter in order to create competition in both the local and long distance service arenas.
+
+BogoMips
+Derived from the words "Bogus" and "Mips", BogoMips, when used in the context of the Linux operating system, is a unit of measurement that indicates how fast the computer processor runs. BogoMips is not a scientific unit of measure, but rather an indication. The program that provides the BogoMips measurement was written by Linus Torvalds and is built into some versions of Linux. BogoMips may also be seen written as bogoMIPS.See also Linux.
+
+bogon
+Derived from the slang term of bogus (non-existent or fake), in Internet terminology the the term bogon is often used to describe a bogus IP address; or more specifically, the use of an address or a route object that is not properly authorized by the entity to which the address, or resource, was originally assigned.
+
+bohrbug
+In computer programming, bohrbug is a classification of an unusual software bug that always produces a failure on retying the operation which caused the failure. The bohrbug was named after the Bohr atom because the bohrbug represents a solid and easily detectable bug that can be isolated by standard debugging techniques.  Contrast with heisenbug.
+
+boilerplate
+Text or graphics elements designed to be used over and over. For example, you could create a boilerplate for a fax message that contains all the standard fax information that doesn't change, such as your name, address, and phone number. Then whenever you want to create a new fax, you need only insert the boilerplate rather than retyping the information.  A boilerplate is similar to a template, but whereas a template holds layout and style information, a boilerplate contains actual text or graphics. Many applications, however, combine the two concepts.    
+
+boldface
+A font that is darker than the regular face. For example: normal font, boldface font.  Most word processors allow you to mark text as boldface.  
+
+BOM
+Short for byte order mark, BOM is the character code (such as U+FEFF) at the beginning of a data stream that is used to define the byte order and encoding form. BOM is most commonly associated with plaintext files where it is not known if the file is in big or little endian format. BOM is optional for Unicode text files. However it cannot be used in files containing both Unicode and binarydata.
+See also big-endian.
+
+bomb
+To fail. The term bomb usually refers to a program hanging or ending prematurely. Note that bombing is usually less serious than crashing, because bombing refers to a single program, whereas crashing refers to the entire system. The two terms, however, are not always used consistently.  The Apple Macintosh computer actually has a bomb message that sometimes appears just before the system crashes.  
+
+Bonanzle
+The name of an online eBay alternative marketplace that aims to make selling online easy for its users, and to offer unique items to buyers. The site offers sellers an easy-to-use listing process, eBay and other marketplace item importers, real-time chat options for conducting sales, and an online image tool for uploading and manipulating product shots. Bonanzle is also designed to let its sellers display items in a booth, which is their own version of an online store. In a way, it is like the storefronts you find on eBay and other eBay alternatives. Bonanzle was founded by Seattle-based Bill Harding, and the site first launched in beta in June of 2008 and launched out of beta at the end of August 2008.
+
+bonded_T1
+A bonded T1 (also called DS1) is two or more T1s that have been joined (bonded) together to increase  bandwidth. A full T1 provides approximately 1.5Mbps or 24 individual channels each of which supports 64Kbit per second, where two bonded T1s provide 3Mbps or 46 channels. Two bonded T1s allow you to use the full bandwidth of 3Mbps where two individual T1s can still only use a maximum of 1.5Mbps at one time. To be bonded the T1 must run into the same router at the end, meaning they must run to the same ISP. Bonded T1s can use MPPP.
+
+bones
+In skeletal animation, bones is the part of a skeletal system used to help control realistic movement of the model. The bones provides the basis upon which other elements, shapes and movement are dependant upon.
+
+bookmark
+(v) To mark a document or a specific place in a document for later retrieval. Nearly all Web browsers support a bookmarking feature that lets you save the address (URL) of a Web page so that you can easily re-visit the page at a later time.
+(n) A marker or address that identifies a document or a specific place in a document.
+
+
+bookmarklet
+A direct link to a specific function or feature within a Web page. While a browser bookmark takes you to a specific page, the bookmarklet will take you to a function, such as a specific search (including the search phrase) on a Web page, a tagged location on Google maps and others. Bookmarklets are possible due to browser support of the  protocol "javascript:" that lets you execute bits of JavaScript code directly.  See also "Roll Your Own Custom Bookmarklets In Firefox, part 2" on LinuxPlanet.
+
+Boolean_expression
+An expression that results in a value of either TRUE or FALSE. For example, the expression  2 < 5 (2 is less than 5)  is a Boolean expression because the result is TRUE. All expressions that contain relational operators , such as the less than sign (<), are Boolean. The operators -- AND, OR, XOR, NOR, and NOT -- are Boolean operators.  Boolean expressions are also called comparison expressions, conditional expressions, and relational expressions.    
+
+Boolean_logic
+(bool´ē-&n loj´ik) (n.) Named after the nineteenth-century mathematician George Boole, Boolean logic is a form of algebra in which all values are reduced to either TRUE or FALSE. Boolean logic is especially important for computer science because it fits nicely with the binary numbering system, in which each bit has a value of either 1 or 0. Another way of looking at it is that each bit has a value of either TRUE or FALSE.
+
+
+Boolean_operator
+There are five Boolean operators that can be used to manipulate TRUE/FALSE values. These operators have the following meanings, where x and y represent values of TRUE or FALSE.
+The OR operator is often called an inclusive OR, whereas XOR is an exclusive OR.
+Boolean operators are used widely in programming and also in forming database queries. For example, the query
+
+Boolean_search
+A type of search allowing users to combine keywords with operators such as AND, NOT and OR to further produce more relevant results. For example, a Boolean search could be "hotel" AND "New York". This would limit the search results to only those documents containing the two keywords.
+See also Boolean expression.
+
+
+BOOM
+Short for Binocular Omni-Orientation Monitor. A head-coupled stereoscopic display device. Screens and optical system are housed in a box that is attached to a multi-link arm. The user looks into the box through two holes, sees the virtual world, and can guide the box to any position within the operational volume of the device. Head tracking is accomplished via sensors in the links of the arm that holds the box. BOOM was created by Fakespace Systems Inc,.
+
+boot
+(v.) To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
+Boot is short for bootstrap, which in olden days was a strap attached to the top of your boot that you could pull to help get your boot on. Hence, the expression "pull oneself up by the bootstraps." Similarly, bootstrap utilities help the computer get started.
+(n.) Short for bootstrap, the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot is when you turn the computer on from an off position. A warm boot is when you reset a computer that is already on.
+
+Boot_Configuration_Data
+Abbreviated as BCD, Boot Configuration Data is used in Windows Vista in place of the boot.ini system file that is found in earlier versions of the Windows operating system.
+
+boot_loader
+A small program that loads the operating system into the computer��s memory when the system is booted and also starts the operating system.
+
+boot_sector
+See under MBR.
+
+boot_sequence
+The order of drives that a system��s BIOS follows when looking for the operating system (OS) to boot after the computer has performed POST. For example, the BIOS may be instructed to first look to drive C (i.e., the hard disk) for the OS and then drive A (i.e., the floppy disk). If the OS is stored in drive C then the BIOS need look no further; however, if the BIOS does not find the OS in drive C then it will next look to drive A, and so on depending on the configuration of the boot sequence.  Users can change the order of the boot sequence through the CMOS setup.
+
+boot_to_gecko
+Boot to Gecko, or B2G, is an ambitious Mozilla project initiated to build a complete, standalone operating system for the open Web.  Boot to Gecko's primary focus is for use on mobile and tablet devices as an open source mobile operating system that provides the infrastructure to build apps with Web APIs. 
+Boot to Gecko ultimately seeks to provide Web developers with the same capabilities as those building for operating system-specific stacks. As a result, B2G has a goal of providing mobile users all the power of HTML5 to go along with device capabilities such as SMS and Bluetooth support and a more extensive capability model for interaction with the OS filesystem, as well as a way to tie the "native HTML5 apps" together.
+In June 2012 Mozilla rebranded the Boot 2 Gecko project as Firefox OS, capitalizing on the brand equity built up with the Firefox name while also following in the footsteps of Google with its Google Chrome OS.
+
+bootable_diskette
+A diskette from which you can boot your computer. Normally, your computer boots from a hard disk, but if the hard disk is damaged (for example, by a virus), you can boot the computer from a bootable diskette. For this reason, it's a good idea to make sure you always have a bootable diskette on hand. In Windows 95, you can create a bootable diskette by following these steps:  1.Insert a blank, formatted diskette in the floppy drive  2. Select Start->Settings->Control Panel  3. Open Add/Remove Programs  4. Select the Startup Disk tab and press the Create Disk button.  A bootable diskette is also called a bootable floppy, boot disk, and startup disk. 
+
+bootcfg
+An MS DOS recovery console command. Bootcfg lets a user view and make changes to the boot.ini file.
+
+booter_services
+A service offered by cyber criminals that provides paying customers with distributed denial of service (DDoS) attack capabilities on demand. According to this article on eWeek, Booter services, or Booters, are "Web-based services that do DDoS for hire at very low prices and are very hard to take down."
+
+
+bootkit
+Bootkits are an advanced form of rootkits that take the basic functionality of a rootkit and extend it with the ability to infect the master boot record (MBR) or volume boot record (VBR) so that the bootkit remains active even after a system reboot.
+Bootkits are designed to not only load from the master boot record but also remain active in the system memory from protected mode through the launch of the operating system and during the computer’s active state.
+Anti-Malware Tools vs. Bootkits
+A key feature of a bootkit is that it is unable to be detected by the typical means of an operating system or anti-malware tool because its components reside completely outside of the standard file systems. And while most anti-malware tools will simply delete or quarantine files that have been infected, because a bootkit infects the master boot record, these tools aren’t able to delete or move the MBR without damaging the computer. As a result, bootkits can be an extremely problematic type of malware. According to Kaspersky Lab, there is good news in that in many cases, systems infected by a bootkit can be cleaned with the TDSSKiller utility.
+
+bootleg
+Bootleg, as a general term, refers to the illegal distribution or sale of any goods. In software, music and video terminology it refers to any materials -- such as a a program, song or movie -- that is illegally distributed or sold without permission from the copyright or trademark owner. Bootleg can also refer to "copies" of software that are knowingly installed on more than one computer when the license prohibits more than one installation.
+
+BOOTP
+Short for Bootstrap Protocol, an Internet protocol that enables a diskless workstation to discover its own IP address, the IP address of a BOOTP server on the network, and a file to be loaded into memory to boot the machine. This enables the workstation to boot without requiring a hard or floppy disk drive. The protocol is defined by RFC951.
+
+
+border
+The handoff point of any IP-enabled infrastructure. This is where a session passes from one network to another and can be defined as the edge of a carrier's network or the point between an enterprise and its carrier.
+
+borderless_printing
+A print option found on many inkjet printers, especially those which offer photo-quality printing. Selecting this print option will produce photo prints that have no white space around the edges. Borderless printing produces photos similar to those you would obtain through a photo lab.
+
+Borland_International
+A company providing programming and database tools. Borland was founded in 1983 and has its headquarters in Scotts Valley, California.  Products include:  Delphi - Windows development tool Borland C++ - language IntraBuilder - visual JavaScript toolset CodeWright - programming editing Kylix - e-business development for Linux Janeva - platform interoperability   
+
+bot
+Short for robot, a computer program that runs automatically.  
+
+botnet
+A botnet refers to a type of bot running on an IRC network that has been created with a trojan. When an infected computer is on the Internet the bot can then start up an IRC client and connect to an IRC  server. The Trojan will also have been coded to make the bot join a certain chat room once it has connected. Multiple bots can then join in one channels and the person who has made them can now spam IRC chat rooms, launch huge numbers of Denial of Service attacks against the IRC servers causing them to go down.
+
+bottleneck
+(bot´&l nek´´) (n.) The delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.  Bottlenecks affect microprocessor performance by slowing down the flow of information back and forth from the CPU and the memory. If all of the components of a system are not able to feed the same amount of data at the same speed, a delay is created. For example, a 2GB processor will be severely bottlenecked by an 800MB memory bandwidth.  Bottlenecks affect network performance by slowing down the flow of information transmitted across networks. TCP/IP connections were originally designed to transmit only text files, and the proliferation of bandwidth-intensive transmissions such as high-resolution graphics has caused bottlenecks in the process; therefore, the data moves more slowly across networks.  (v.) To delay the tranmission of data through a data path.
+
+bounce_rate
+1) Web Analytics Bounce Rate
+In Web analytics, including Google Analytics, bounce rate is the measurement in percentage of how many Web site visitors view only one page within your Web site – this is the one page they entered the site on (called the entrance page or landing page). These visitors view only that single page and exit the site on that same page. A high bounce rate typically indicates that the landing page isn't relevant to your visitor or you are not offering any incentive for the visitor to explore other areas and pages of your website.
+Google recommends that Web site publishers lower bounce rates by tailoring landing pages to each keyword and ad that you run so landing pages consistently provide the information and services that were "promised" in the ad copy.
+See also Web analytics and basic metrics.
+
+box
+(1) In graphical user interfaces, a box is an enclosed area, resembling a window, on the screen. Unlike windows, however, you generally cannot move or resize boxes.  There are many different types of boxes. For example, dialog boxes are boxes that request some type of information from you. Alert boxes are boxes that suddenly appear on the screen to give you information. Boxes can also be small rectangular icons that control windows. Zoom boxes, for example, enable you to make a window larger or smaller.  (2) Slang for personal computer or workstation.   
+
+bozo_filter
+A feature supported by many e-mail clients and news readers that enables you to block out messages from specific individuals. The list of addresses that you want to block is called a bozo list or kill file. Bozo filters are one way to reduce flames and spam. 
+
+BPDU
+Acronym for bridge protocol data unit. BPDUs are data messages that are exchanged across the switches within an extended LAN that uses a spanning tree protocol topology. BPDU packets contain information on ports, addresses, priorities and costs and ensure that the data ends up where it was intended to go. BPDU messages are exchanged across bridges to detect loops in a networktopology. The loops are then removed by shutting down selected bridge interfaces and placing redundant switch ports in a backup, or blocked, state.
+
+
+BPEL
+(pronounced as separate letters) Short for Business Process Execution Language for Web Services, an XML-based language for standardizing business processes in a distributed or grid computing environment that enables separate businesses to interconnect their applications and share data. Designed as a combination of IBM's WebServices Flow Language and Microsoft's XLANG spec, platform-independent BPEL allows enterprises to keep internal business protocols separate from cross-enterprise protocols so that internal processes can be changed without affecting the exchange of data from enterprise to enterprise. A BPEL document, for example, keeps track of all the business processes that are connected to a transaction and ensures that the processes are executed in the correct order through the automation of messages.  BPEL also is known as BPEL4WS.
+
+BPL
+Abbreviated as BPL, broadband over power line is a technology that allows Internet data to be transmitted over utility power lines. To use BPL the subscriber needs to use a special broadband modem (phone, cable or satellite) that plugs into an electrical outlet. Internet services are received via radio waves over electrical lines, using many of the same frequencies that are traditionally used for ham radio. There are two types of BPL: in-building BPL technology, which uses the electrical wiring within a building and access BPL, which uses the electrical power distribution grid to provide broadband Internet access.    See also power line communications (PLC), and power line networking.
+
+BPL_repeater
+In Access broadband over power line (BPL) systems, a BPL repeater is a device used to boost the distance the signal can travel.  broadband over power line (BPL). A typical BPL signal travels only for 1,000 to 3,000 feet down line, and a BPL repeater can be used to increase the distance the signal can travel. There is often a decrease in system performance when a repeater is used. Also called a BPL regenerator.
+
+BPM
+BPM is the abbreviation for business performance management. It is a business management approach that entails aspects of reviewing the overall business performance and determining how the business can better reach its goals. These activities are aided by software tools, called BPM tools.
+BPM is often thought of as a business strategy that enables businesses to efficiently collect, aggregate and analyze data from various sources in order to take the most appropriate business action. It enables businesses to:
+
+
+Improve productivity
+Monitor and analyze business processes
+Automate tasks
+Increase efficiency
+Identify cost savings opportunities
+Generate new business
+Measure key performance objectives
+Analyze risks
+Predict business outcomes
+
+Business performance management requires the alignment of strategic and operational objectives to the business activities in order to manage performance. By collecting and analyzing data, business managers are more informed about the company's position and can make better decisions as a result.
+
+bps
+Abbreviation of bits per second, the standard measure of data transmission speeds. 
+
+bracketing
+In digital photography, bracketing is the technique of shooting a number of pictures of the same subject and viewpoint at different levels of exposure. Half or one f-stop (+/-) differences are usually selected depending on subject. See "A Quick Guide to Digital Cameras" in the Quick Reference section of Webopedia. See also Megapixel.net for news, reviews and a active community for digital camera and photography enthusiasts.
+
+branch
+In tree structures, a branch is a single line of the tree that ends with a leaf. The Windows File Manager, for example, has an Expand Branch command that shows all sub-directories of a specified directory.   
+
+brand
+A selection of products or services that are identified by the product name or the name of the company who manufacturers the products and services. A brand is something that a consumer marketplace can associate back to the company.
+
+brand_advocate
+In electronic commerce and  online advertising, a brand advocate is a person, or customer who talks favorably about a brand or product, and then passes on positive word-of-mouth (WOM) messages about the brand to other people.  See also the Small Business Marketing Guide in the Quick Reference section of Webopedia.
+
+BRAS
+Short for Broadband Remote Access Server, it is the aggregation point for the subscriber traffic. It provides aggregation capabilities (e.g. IP, PPP, ATM) between the Regional/Access Network and the NSP or ASP. Beyond aggregation it is also the injection point for policy management and IP QoS in the Regional/Access Networks. See also broadband.
+
+bread_crumbs
+A Web site navigation technique. Bread crumbs typically appear horizontally near the top of a Web page, providing links back to each previous page that the user navigates through in order to get to the current page. Basically, they provide a trail for the user to follow back to the starting/entry point of a Web site and may look something like this: home page --> section page --> sub section page  This technique also is referred to as a bread crumb trail.
+
+breadcrumb_navigation
+A type of text-based Web site navigation that breaks the site into links of categories and sub-categories allowing major categories of information to be linked in a range of sequential order. Breadcrumb navigation is displayed to the user, so they can easily see exactly where that Web page is located within the Web site. While many types of Web sites use a breadcrumb navigation, it is becoming increasingly common for electronic commerce Web sites to display categories of products in this way. An example of a Webopedia breadcrumb might look like this: Webopedia > World Wide Web > Web Development > breadcrumb navigation
+
+Break_key
+A special key on computer keyboards that temporarily interrupts the computer's  communications line. This usually terminates an established modem connection. Not all keyboards have a Break key, and not all programs respond to it. 
+
+breakeven_point
+In the development of a new computer language, it is the point at which a compiler for the language can be written in the language itself and the original implementation language can be discarded in favor of using the working language to develop newer versions of itself.
+
+break_out_box
+(1) A box that contains both  connectors and ports that are used for attaching video and audio peripherals. A break-out box is part of a video  digitizing systems. (2) A self-powered device used to test and rewire serial communications. It enables users to switch, cross and tie interface leads.  One common type of break-out box is used for the monitoring and diagnosis of RS-232.
+
+breakpoint
+The location in programming code that, when reached, triggers a temporary halt in the program. Programmers use breakpoints to test and debug programs by causing the program to stop at scheduled intervals so that the status of the program can be examined in stages.
+
+BREW
+Short for Binary Runtime Environment for Wireless, an application development platform for wireless devices from Qualcomm. BREW is designed to allow developers to write in whatever language they choose. Native BREW applications are written in C or C++. Using BREW, developers can create portable applications such as include SMS, e-mail, location positioning, games and Internet radio, that will work on any CDMA device.
+
+BRI
+Short for Basic-Rate Interface, the basic ISDN configuration, which consists of two B-channels that can carry voice or data at rate of 64Kbps, and one D-channel, which carries call-control information. Another type of ISDN configuration is called Primary-Rate Interface (PRI), which consists of 23 B-channels (30 in Europe) and one D-channel.  
+
+bricking
+Bricking is slang term used to mean rendering an iPhone or iPod touch inoperable.  See also "iPhone and iPhone 3G b . What's The Difference?" in Webopedia's Did You Know...? section.
+
+bridge
+A device that connects two local-area networks (LANs), or two segments of the same LAN that use the same protocol, such as Ethernet or Token-Ring.
+
+brightspot
+A pre-paid mobile service offering from Target launched by the company to compete with other lower-cost mobile services like WalMart's Straight Talk as well as traditional mobile contract plans from cellular providers like AT&T and Verizon.
+
+Target launched Brightspot on October 6th, 2013, with two service plans: a $35 unlimited talk and text tier and a $50 tier that adds unlimited data with 1GB of high-speed use. Brightspot operates as a Mobile Virtual Network Operator (MVNO), utilizing T-Mobile's network for its cellular service.
+
+broadband
+The term broadband is used to describe a type of data transmission in which a single medium (wire) can carry several channels at once. Cable TV, for example, uses broadband transmission. In contrast, baseband transmission allows only one signal at a time.
+Most communications between computers, including the majority of local-area networks, use baseband communications. An exception is B-ISDN networks, which employ broadband transmission.
+Also see  Cable vs. DSL in Webopedia's "Did You Know...?" section.
+
+broadband_ISDN_B_ISDN
+A standard for transmitting voice, video and data at the same time over fiber optic telephone lines. Broadband ISDN can support data rates of 1.5 million bits per second (bps), but it has not been widely implemented. Also see  Cable vs. DSL in Webopedia's "Did You Know...?" section.
+
+broadcast
+To simultaneously send the same message to multiple recipients. Broadcasting is a useful feature in e-mail systems. It is also supported by some fax systems.
+In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients.
+
+
+broadcast_address
+A special type of networking address that is reserved for sending messages to all machines on a given network segment. Generally, a broadcast address is a MAC destination address of all F's.
+
+broadcast_colors
+Your computer monitor can display many more colors than can NTSC video. Broadcast colors are those colors that are safe  that is, they will display properly for use in broadcast video. Many programs include special filters that will convert the colors in an image to their nearest broadcast safe equivalent.
+
+broadcast_flag
+(brâd´kast flag) (n.) A bit-sized file that is sent along with a digital television transmission that prohibits high-definition digital video from being recorded in its high-resolution format. The intent of the broadcast flag is to prevent the files from being shared over P2P networks, violating the digital content��s copyright. According to FCC regulations, the broadcast flag only will affect traditional through-the-air television programming and not cable or satellite television. The FCC, in November 2003, mandated that all digital television devices sold after July 2005 must incorporate the broadcast flag technology.
+
+broadcast_quality
+A vague term referring to the minimum quality considered acceptable for broadcast television. Until the 1980's, 3/4" Umatic tape was considered broadcast quality.  Today, Hi8 and MiniDV is considered broadcast quality. [Adapted from dvspot]
+
+
+broadcast_storm
+A state in which a message that has been broadcast across a network results in even more responses, and each response results in still more responses in a snowball effect. A severe broadcast storm can block all other network traffic, resulting in a network meltdown. Broadcast storms can usually be prevented by carefully configuring a network to block illegal broadcast messages.
+
+
+broken_hyperlink
+A hyperlink on a Web page that will point users to an incorrect URL, a missing page, or a missing file. Broken hyperlinks often lead users to a 404 File Not Found error.
+
+Brother_International_Corp
+Brother International Corporation is a provider of products for the home, home office and office. These products include a line of  multifunction centers and printers. along with the number one line of facsimile machines in the U.S. With its corporate headquarters located in Bridgewater, New Jersey, Brother was established in the US on April 21, 1954 and markets many industrial products, home appliances, and business products manufactured by its parent company, Brother Industries, Ltd., of Nagoya, Japan.
+
+brouter
+(n.) Short for bridge router and pronounced BROW-ter, a device that functions as both a router and a bridge. A brouter understands how to route specific types of packets, such as TCP/IP packets. Any other packets it receives are simply forwarded to other network(s) connected to the device (this is the bridge function). 
+
+brownfield
+The term brownfield was originally used in construction and development to reference land that at some point was occupied by a permanent structure. In a brownfield project the structure would need to be demolished or renovated. Today, the term brownfield project is used in many industries, including software development, to mean to start a project based on prior work or to rebuild (engineer) a product from an existing one.
+Contrast with greenfield.
+
+browse
+(1) In database systems, browse means to view data. Many database systems support a special browse mode , in which you can flip through fields and records quickly. Usually, you cannot modify data while you are in browse mode.  (2) In object-oriented programming languages, browse means to examine data structures.  (3) To view formatted documents. For example, you look at Web pages with a Web browser. Browse is often used to mean the same as surf.   
+
+browser_hijacker
+A specific type of spyware that will allow a hacker or malicious perpetrator to spy on the infected computer's Internet browsing activity. Using a browser hijacker the person responsible for the spyware can deliver pop-up ads, reset the browser homepage, or direct the browser to Web sites the victim would not normally visit. See The Difference Between Adware & Spyware in the Did You Know?  section of Webopedia.  Also see All About Web Browsers in the  Quick Reference section of Webopedia.
+
+browser_modifier
+A program that is used to change your Web browser settings without the consent of the user. A browser hijacker is a type of browser modifier.
+
+BRS
+BRS or Big Red Switch is a phrase used to describe an immediate shut down of a system using the main or emergency power switch (e.g., "Hit the BRS"). The term originated from the emergency pull switch on an older IBM mainframe or the power switch on an older IBM PC, which is a large red button. Today, it is considered to be hacker slang for any computer power button or switch.
+
+brush_tool
+In graphics and image-editing programs, the brush tool is an element of the painting tool that allows you to select a brush shape (square, circle, oval and so on) and also the the thickness in pixels you want to paint on your image with. As you move your cursor over the image it leaves a stroke of color. See also  painting tool. See also "Graphics Software Terminology" in the  Quick Reference section of Webopedia.
+
+brute_force
+Refers to a programming style that does not include any shortcuts to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found. A classic example is the traveling salesman problem (TSP). Suppose a salesman needs to visit 10 cities across the country. How does one determine the order in which cities should be visited such that the total distance traveled is minimized? The brute force solution is simply to calculate the total distance for every possible route and then select the shortest one. This is not particularly efficient because it is possible to eliminate many possible routes through clever algorithms.  Although brute force programming is not particularly elegant, it does have a legitimate place in software engineering. Since brute force methods always return the correct result -- albeit slowly -- they are useful for testing the accuracy of faster algorithms. In addition, sometimes a particular problem can be solved so quickly with a brute force method that it doesn't make sense to waste time devising a more elegant solution. 
+
+BS
+Short for base transceiver station. In mobile communications, a BTS holds the radio transceivers that define a cell and coordinates the radio-link protocols with the mobile device. The BTS is the networking component of a mobile communications system from which all signals are sent and received. A BTS is controlled by a base station controller.
+A BTS is also called a base station (BS) and is commonly referred to as a "cell phone tower."
+
+BSDI
+Short for Berkeley Software Design, Inc., a commercial supplier of Internet and networking software based on the BSD (Berkeley) version of UNIX. In addition to providing a commercial version of the BSD operating system, BSDI also develops Internet server and gateway products.  
+
+BSI
+BSI is the National Standards Body of the UK. The organization was founded in 1901 as the Engineering Standards Committee. The BSI Group manages more than 27,000 standards for a number of subjects including biometrics, business continuity, Green IT, nanotechnology, and others.
+
+BSM
+Business service management (BSM) is an IT management buzzword that has been adopted by many vendors that are using the term to market their products and services. BSM, as a technology term, refers to managing IT based on end-to-end services. It also conveys an understanding of the marketing place for enterprise products considering the work employees carry out in support of those enterprise products and managing IT resources in ways that best support that work. The term business service management is derived from ITIL (IT Infrastructure Library) version 3, which defines BSM as "an approach to the management of IT Services that considers the business processes supported and the business value provided." See also "BSM Defined: What It Is and Should Never Be" on CIO Update.
+
+BSOD
+Abbreviated BSOD, an error that can appear on computers running in a Windows environment. This includes even the earliest versions of Windows, such as Windows 3.0 and 3.1, and still occurs in later versions such as Microsoft Windows 95, Windows 98, Windows NT, and Windows 2000. Jokingly called the blue screen of death because when the error occurs, the screen turns blue, and the computer almost always freezes and requires rebooting. 
+
+BSP
+A Business Services Provider (BSP) is an application service provider that focuses on providing and hosting applications related exclusively to business functions.
+
+BT_USB
+Short for BlueTooth Universal Serial Bus. It is a wireless USB adapter designed specifically to plug into any available Universal Serial Bus (USB) port connecting to a desktop or laptop PC. It allows you to make short-range wireless connections between Bluetooth devices such as cellular phones, personal digital assistants, desktop and notebook computers.
+
+BTS
+Short for base transceiver station. In mobile communications, a BTS holds the radio transceivers that define a cell and coordinates the radio-link protocols with the mobile device. The BTS is the networking component of a mobile communications system from which all signals are sent and received. A BTS is controlled by a base station controller.
+A BTS is also called a base station (BS) and is commonly referred to as a "cell phone tower."
+
+Btu
+Short for British thermal unit, an British standard unit of energy. One Btu is equal to the amount of heat required to raise the temperature of one pound of liquid water by 1 degree Fahrenheit at its maximum density, which occurs at a temperature of 39.1 degrees Fahrenheit. One Btu is equal to approximately 251.9 calories or 1055 joules.  The heat output of computer devices is often expressed in Btus.
+
+BTX
+BTX, acronym for Balanced Technology Extended is an interface specification that provides a common, flexible foundation, based on standards that can be used to build innovative desktop systems. The BTX specification provides new tools and design space for developers to lay out desktop systems, whether designing small, compact systems or very large, expandable systems. BTX is also optimized for the newest desktop technologies, including PCI Express and Serial ATA. It is also designed to allow for better heat dissipation by incorporating a new thermal module design for better air flow. Intel has developed two reference designs to demonstrate design techniques that result in a successful implementation of a system based on the Balanced Technology Extended (BTX) form-factor specification. *  Intel 12.9-Liter Reference Design (Slim Tower Desktop System) Intel has designed and validated a 12.9-liter BTX specification-based system that meets next-generation Intel processor and high-performance PCI Express graphics requirements at 4.0 bels, a measurement of sound power. Intel 6.9-Liter Reference Design (Ultra-small Form-factor Desktop System) Intel has designed and is in the process of validating a 6.9-liter picoBTX-based system that meets next generation Intel processor requirements at 4.0 bels.  * [Source: Intel]Also see  From AT to BTX: Motherboard Form Factors  in Webopedia's "Did You Know...?" section.
+
+BTXML
+Short for Basic Telephony Extended Markup Language, a scripting language and system that allows for enhanced control of IP phones. It provides an application infrastructure for IP telephony, independent of protocol and terminal. BTXML is based on the eXtensible Markup Language (XML) standard but is tailored to the needs of telephone handsets.
+
+bubble_memory
+A type of non-volatile memory composed of a thin layer of material that can be easily magnetized in only one direction. When a magnetic field is applied to circular area of this substance that is not magnetized in the same direction, the area is reduced to a smaller circle, or bubble.  It was once widely believed that bubble memory would become one of the leading memory technologies, but these promises have not been fulfilled. Other non-volatile memory types, such as EEPROM, are both faster and less expensive than bubble memory.  
+
+bubble_sort
+A simple but popular sorting algorithm. Bubble sorting is used frequently as a programming exercise because it is relatively easy to understand. It is not, however, particularly efficient. Other sorting algorithms, such as heap sorts, merge sorts and quicksorts, are used more often in real applications.  
+
+bubble_jet_printer
+A type of ink-jet printer developed by Canon. The principal difference between bubble-jet printers and other ink-jet printers is that bubble-jet printers use special heating elements to prepare the ink whereas ink-jet printers uses piezoelectric crystals. 
+
+buddy_list
+Often used in conjunction with AOL programs, a buddy list is a window that shows all your buddies (friends, family, coworkers, and others) who are signed on to AOL, CompuServe, or AIM. Whenever they sign on, their screen names appear in your "Buddy List" and you can communicate with them instantly. The buddy list represents the users who you have added as a contact in your client.
+
+buffer
+(n.) A temporary storage area, usually in RAM. The purpose of most buffers is to act as a holding area, enabling the CPU to manipulate data before transferring it to a device.
+Because the processes of reading and writing data to a disk are relatively slow, many programs keep track of data changes in a buffer and then copy the buffer to a disk. For example, word processors employ a buffer to keep track of changes to files. Then when you save  the file, the word processor updates the disk file with the contents of the buffer. This is much more efficient than accessing the file on the disk each time you make a change to the file.
+Note that because your changes are initially stored in a buffer, not on the disk, all of them will be lost if the computerfails during an editing session. For this reason, it is a good idea to save your file periodically. Most word processors automatically save files at regular intervals.
+
+buffer_credits
+Formally called buffer-to-buffer credit (BBC) spoofing, and also called buffer-to-buffer credits, this is a technology that effectively removes limitations on data throughput for long-distance transmissions in a Fibre Channel storage area network (SAN). Usually Fibre Channel protocols limit the distance between the source and the destination network to within a few kilometers. Using buffer-to-buffer credits makes it possible to use off-site storage hundreds of kilometers away.
+
+buffer_overflow
+The condition wherein the data transferred to a buffer exceeds the storage capacity of the buffer and some of the data "overflows" into another buffer, one that the data was not intended to go into. Since buffers can only hold a specific amount of data, when that capacity has been reached the data has to flow somewhere else, typically into another buffer, which can corrupt data that is already contained in that buffer.  Malicious hackers can launch buffer overflow attacks wherein data with instructions to corrupt a system are purposely written into a file in full knowledge that the data will overflow a buffer and release the instructions into the computer��s instructions.
+
+buffer_underrun
+A common problem that occurs when burning data into a CD. It happens when the computer is not supplying data quickly enough to the CD writer for it to record the data properly. Recording data to a CD-R is a real-time process that must run nonstop without interruption of the signal. A computer will typically transfer the data to the CD-R faster than it is needed. The CD-R drive stores the incoming data in a buffer as a reserve of data waiting to be written so that minor interruptions or slowdowns in the data flow will not interrupt the writing process. The larger the buffer, the greater the chances of a successful transfer. A buffer underrun error occurs when the flow of data from the original source, such as a hard drive or a CD-ROM drive, was interrupted long enough for the recorder's buffer to empty. The writing action is stopped when this happens, and the recordable disc may be ruined during a write operation.   The most common causes of buffer underrun are out-of-date drivers or a system that does not meet the minimum requirements for CD burning. Before attempting to record onto a CD, check that your CPU and hard drive are fast enough to support CD recording and that your computer has enough RAM and available hard disk space. It is also important to have the latest drivers for the CD-R drive, IDE or SCSI controller.   There are a number of ways to combat buffer underrun errors:  Defragment your hard drive before writing a CD. Copy the data to a local hard drive before writing, but be sure to clear space on the hard drive as the workspace may need to be as large as 650 MB available. It is better to create an image of your source data on the hard drive before writing to a CD. Don't burn a CD over a network. The flow of data can be interrupted by corrupted files and bad sectors on the hard drive. Run the appropriate scanning software to check for these problems. Allow the system to warm up for about an hour before attempting to write a CD. Make sure the CD is clean before trying to write it. Inferior grade CDs may cause a problem. If the CDs from one particular manufacturer keep failing, try a different brand of disc. Try recording at a slower speed, such as 2x.
+
+bug
+An error or defect in software or hardware that causes a program to malfunction. Often a bug is caused by conflicts in software when applications try to run in tandem. According to folklore, the first computer bug was an actual bug. Discovered in 1945 at Harvard, a moth trapped between two electrical relays of the Mark II Aiken Relay Calculator caused the whole machine to shut down.
+
+
+build
+(n.) A version of a software program. The term is usually used in reference to a program that is still in development.  (v.) To program, or write lines of code.
+
+build_to_order
+Abbreviated at BTO, in computer systems and electronic circuit board terminology it refers to a service offered by a manufacturer where a product is manufacture red and configured to an individual's specific requirements.
+
+built_in_function
+A function that is built into an application and can be accessed by end-users. For example, most spreadsheet applications support a built-in SUM function that adds up all cells in a row or column.  
+
+Built_In_Self_Test
+Built-In Self-Test is a function of an integrated circuit that can verify all or some of its internal functionality.
+
+bullet
+A small graphical element used to highlight or itemize a list.  {bmc RND_BUL.MRB} A round bullet.  {bmc SQ-BUL.MRB} A square bullet.  {bmc DIA-BUL.MRB} A diamond bullet.  {bmc HAND-BUL.MRB} A pointing-finger bullet.   
+
+bullet_camera
+A type of video camera often used in surveillance systems, named because of its shape and size. Bullet cameras are small (2 to 2.5 inches long) and are limited to a fixed focal length lens. While bullet cameras are good for small spaces, the images may have slightly cut-off corners because the camera shape and design can interfere with the actions of the of the camera lens and filter. Bullet cameras are also called lipstick cameras.
+
+bulletin_board_system_BBS
+An electronic message center. Most bulletin boards serve specific interest groups. They allow you to dial in with a modem, review messages left by others, and leave your own message if you want. Bulletin boards are a particularly good place to find free or inexpensive software products. In the United States alone, there are tens of thousands of BBSs.  
+
+bump_mapping
+Bump mapping is used to add detail to an image without increasing the number of polygons. Bump mapping relies on light-reflection calculations to create small bumps on the surface of the object in order to give it texture; the surface of the object is not changed.   Bumps are applied by matching up a series of grayscale pixels with colored pixels on the rendered, colored object. Lighter grayscale pixels create a sense of maximum relief or maximum indentation; darker pixels have less effect.   A computer must contain a supporting 3D graphics card when it runs an application that has been coded to include bump maps. If the graphics card does not support bump mapping, then the bumps won't be seen. In the case of computer games, the programmer usually will code an alternate version that doesn't use bump maps. This version will look flatter and less real. 
+
+Bundle_Protocol
+See under Disruption Tolerant Networking.
+
+bundled_software
+Software that is sold with a computer or other hardware component as part of a package. As competition between computer manufacturers has intensified, bundling software has become a key strategy for attracting consumers. In some cases, the bundled software is even more valuable than the hardware.
+Bundled software can also be part of a software package. For example, Microsoft Windows comes with many bundled software tools.
+ 
+
+bunny_suit
+Bunny suit is the slang phrase used to describe protective clothing that someone working in a clean room must wear to prevent dust and human skin and hair particles from entering the room's atmosphere. A bunny suit worn by production line workers or technicians is typically white and is separate pieces of clothing, including boots and hood.
+
+burn
+Slang term meaning to write data to a CD-ROM. A CD burner is another name for a CD-R drive.
+
+burn_in
+To run a system or device for a period of time to ensure that all components are working properly. Most computer equipment undergoes a burn-in test at the factory before being released for sale. 
+
+burp
+ Slang term used to describe the resetting of any  computer equipment to restore network functionality, such as the router. The term burp is also used to describe a router losing a packet (may also be called a network burp or hiccup).
+
+burst
+(n) A set of bits, bytes or characters grouped together for transmission.  (v) An intermittent asynchronous transmission of a specific amount of data. Contrast with streaming.
+
+burst_images
+A series of rapid succession images used to capture objects and people in motion. Burst images are captured at a high speed and the series can contain any number of images. The number is usually determined by the shutter speed and mount of available storage space on the device.See also "The Digital Camera Picture" in Webopedia's Quick Reference section.
+
+burst_mode
+A data transmission mode in which data is sent faster than normal. There are a number of techniques for implementing burst modes. In a data bus, for example, a burst mode is usually implemented by allowing a device to seize control of the bus and not permitting other devices to interrupt. In RAM, burst modes are implemented by automatically fetching the next memory contents before they are requested. This is essentially the same technique used by disk caches.  The one characteristic that all burst modes have in common is that they are temporary and unsustainable. They allow faster data transfer rates than normal, but only for a limited period of time and only under special conditions.  
+
+bus
+(1) A collection of wires through which data is transmitted from one part of a computer to another. You can think of a bus as a highway on which data travels within a computer. When used in reference to personal computers, the term bus usually refers to internal bus. This is a bus that connects all the internal computer components to the CPU and main memory. There's also an expansion bus that enables expansion boardsto access the CPU and memory.
+All buses consist of two parts -- an address busand a data bus. The data bus transfers actual data whereas the address bus transfers information about where the data should go.
+The size of a bus, known as its width, is important because it determines how much data can be transmitted at one time. For example, a 16-bit bus can transmit 16 bits of data, whereas a 32-bitbus can transmit 32 bits of data.
+
+bus_mastering
+Refers to a feature supported by some bus architectures that enables a controller connected to the bus to communicate directly with other devices on the bus without going through the CPU. Most modern bus architectures, including PCI, support bus mastering because it improves performance. 
+
+bus_mouse
+A mouse that connects to a computer via an expansion board. Another type of mouse is a serial mouse, which connects to a serial port. Serial mice are easier to install, but the advantage of bus mice is that they do not use up the serial port, so you can use the port for a different device (a modem, for example). A PS/2 mouse solves this problem by plugging into a special PS/2 port dedicated to the mouse. Bus mice are now obsolete. 
+
+bus_network
+)A network in which all nodes are connected to a single wire (the bus) that has two endpoints. Ethernet 10Base-2 and 10Base-5 networks, for example, are bus networks. Other common network types include star networks and ring networks. For network diagrams, see Network Topology Diagrams in the Quick Reference section of Webopedia.
+
+business_analysis_manager
+A business analysis manager uses technical and organizational skills to identify possibilities for improvement within the business structure and implements systematic solutions. Through observation of company practices a business analysis manager must determine what both individuals and departments can do to be more effective. A business analysis manager has knowledge that encompasses accounting, information technology and software, as well as detailed knowledge of labor positions and managerial positions. Business analysis managers are also responsible for translating the user's needs into technicalities that can be implemented into improving the company while also acting as a filter in determining what is truly needed on both ends (consumer and producer).
+
+business_analytics
+Abbreviated as BA, business analytics is the combination of skills, technologies, applications and processes used by organizations to gain insight in to their business based on data and statistics to drive business planning. Business analytics is used to evaluate organization-wide operations, and can be implemented in any department from sales to product development to customer service.
+Business analytics solutions typically use use  data, statistical and quantitative analysis and fact-based data to measure past performance to guide an organization's business planning.
+See  business intelligence. Learn more about business analytics, business intelligence and CRM on eCRM Guide.
+
+Business_Intelligence_software
+Business Intelligence software, also called BI software, is software that is designed to analyze business data to better understand an organization's strengths and weaknesses. Business intelligence software allows an organization's management to better see the relationship between different data for better decision-making and optimal deployment of resources. Business Intelligence software plays a key role in the strategic planning process of the corporation.  See also Business Intelligence (BI). Learn more about   Business Intelligence software on  Datamation.
+
+business_process
+(biz´n&s pros´ses) (n.) 
+(1) A business transaction that requests information from or changes the data in a database.
+(2) A specific event in a chain of structured business activities. The event typically changes the state of data and/or a product and generates some type of output. Examples of business processes include receiving orders, invoicing, shipping products, updating employee information, or setting a marketing budget. Business processes occur at all levels of an organization's activities and include events that the customer sees and events that are invisible to the customer. The term also refers to the amalgam of all the separate steps toward the final business goal.
+
+business_recovery_team
+A group of individuals responsible for maintaining the business recovery procedures and coordinating the recovery of business functions and processes. Also called a disaster recovery team. [Source:  Disaster Recovery Journal] 
+
+business_recovery_timeline
+The chronological sequence of recovery activities, or critical path, that must be followed to resume an acceptable level of operations following a business interruption or outage. This timeline may range from minutes to weeks, depending upon the recovery requirements and methodology. [Source: Disaster Recovery Journal] 
+
+business_rule_engine
+Abbreviated as BRE, business rule engine is the term used to describe software used to track, manage and revise enterprise business processes. This software system typically executes business rules that might be derived from legal regulations or in-house corporate policies. BREs can be used alone or in conjunction with other technologies, like Business Process Management (BPM).
+
+business_service_management
+Business service management (BSM) is an IT management buzzword that has been adopted by many vendors that are using the term to market their products and services. BSM, as a technology term, refers to managing IT based on end-to-end services. It also conveys an understanding of the marketing place for enterprise products considering the work employees carry out in support of those enterprise products and managing IT resources in ways that best support that work. The term business service management is derived from ITIL (IT Infrastructure Library) version 3, which defines BSM as "an approach to the management of IT Services that considers the business processes supported and the business value provided." See also "BSM Defined: What It Is and Should Never Be" on CIO Update.
+
+Business_Services_Provider
+A Business Services Provider (BSP) is an application service provider that focuses on providing and hosting applications related exclusively to business functions.
+
+business_telephone
+A system where multiple telephones are used by businesses in an interconnected fashion that allows for features such as call handling and transferring, conference calling, call metering and accounting, private and shared voice message boxes, etc. A business telephone system can range from just a few phones in a small business up to a complex private branch exchange (PBX) system utilized by large businesses.
+Business phone systems can function over the Public Switched Telephone Network (PSTN) and/or over the Internet (Internet telephony or VoIP).  Business telephone systems can also be delivered as a hosted service (typically referred to as a centrex), which can free companies from having to invest in costly equipment.
+See "The Difference Between VoIP and PSTN Systems" in the Did You Know... section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+business_telephone_service
+A business phone system that's delivered as a hosted service, typically by one of the major telephone companies. Frequently referred to as a centrex, a business telephone service can free companies from having to invest in the costly equipment of a complex private branch exchange (PBX).
+With a business phone service multiple telephones are utilized in an interconnected fashion that allows for features like call handling and transferring, conference calling, call metering and accounting, private and shared voice message boxes, etc. Business telephone services can function over the Public Switched Telephone Network (PSTN) and/or over the Internet (Internet telephony or VoIP).
+See "The Difference Between VoIP and PSTN Systems" in the Did You Know... section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+business_telephone_system
+A system where multiple telephones are used by businesses in an interconnected fashion that allows for features like call handling and transferring, conference calling, call metering and accounting, private and shared voice message boxes, etc.  A business phone system can range from just a few telephones in a small business up to a complex private branch exchange (PBX) system utilized by large businesses.
+Business telephone systems can function over the Public Switched Telephone Network (PSTN) and/or over the Internet (Internet telephony or VoIP).  Business phone systems can also be delivered as a hosted service (typically referred to as a centrex), which can free companies from having to invest in costly equipment.
+See "The Difference Between VoIP and PSTN Systems" in the Did You Know... section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+business_voip
+Business VoIP services are commercial-class versions of residential VoIP services that provide small and medium-sized businesses with advanced features and functionality such as private branch exchange (PBX) capabilities, conference calling, desk-to-desk calling, music on hold and automated attendants.
+While residential VoIP plans typically feature a flat-rate pricing structure and allow for only one call at a time, most business VoIP and enterprise VoIP providers offer tiered usage plans and support multiple simultaneous calls.
+As with all VoIP (or Internet telephony) services, business VoIP uses packet-switched telephony to transmit calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN).
+
+button
+)(1) In graphical user interfaces, a button is a small outlined area in a dialog box that you can click to select an option or command.  (2) A mouse  button is a button on a mouse that you click to perform various functions, such as selecting an object.   
+
+buzzword
+Popular in Internet and  Online Advertising, buzzword is used to describe any trendy or newly made-up word or phrase that is used more to impress consumers than explain the product or technology
+.
+
+BWI
+On eBay, eBay alternatives, and classified ad Web sites, BWI is an abbreviation for boxed with instructions. This abbreviation is used by the seller to indicate that the item for sale comes with the original manufacturer's packaging and papers. See also "Online Auction Abbreviations" in the  Quick Reference section of Webopedia.
+
+BWTP
+Short for business Web transaction processing. Compared to OLTP, which describes an individual's business activities on the Internet, BWTP defines how businesses interact and coordinate their services over the Web.
+
+BXXP
+Pronounced beep. Short for Blocks Extensible Exchange Protocol an application protocol framework for connection-oriented, asynchronous request/response interactions. It was designed as a tool kit specifically to handle XML documents on the Internet. BXXP-enabled applications set up and maintain a peer-to-peer network connection between two users that can alternate between functioning as clients and servers. The two users can push data back and forth over a network connection as well as respond to requests for data.  BXXP is layered directly on top of TCP and acts as an alternative to HTTP or other data exchange protocols. Since HTTP does not work well for the transfer of XML data, BXXP helps developers create special-purpose protocols to support multiple simultaneous exchanges in XML between users. For example, users can chat and transfer files at the same time from one application that employs a network connection.
+
+byoa-bring-your-own-apps
+Short for Bring Your Own Applications as well as Build Your Own Apps, BYOA is an evolution of the term BYOD (Bring Your Own Device) in the consumerization of IT that refers to the growing use of personal apps by employees for increased productivity in their work environments.
+Examples of Bring Your Own Apps span the gamut of third-party cloud storage and sync applications such as Dropbox, collaboration apps like Skype and GoToMeeting, work productivity apps like Google Docs and Evernote and social networking apps like LinkedIn.
+Potential Security Issues with BYOA
+With employees increasingly using their own smartphones, tablets and other computing devices at work, the use of employee-introduced applications has proliferated as well, with many organizations concerned about the security of the critical data used within these apps as well as the potential lack of control and management over BYOA apps.
+
+byoc-bring-your-own-cloud
+A term similar to BYOD (Bring Your Own Device) in which corporate employees utilize their own personal clouds or a combination of public or private cloud services from third-party cloud providers instead of the company's own cloud services.
+Bring Your Own Cloud (BYOC), or Build Your Own Cloud, provides employees with the flexibility to store and access data such as documents, images, videos and other files via a wide variety of cloud options, but it can do so at the expense of corporate control, and it can present potential security risks to the enterprise when security policies and best practices aren’t implemented or followed.
+Embracing the BYOC Concept
+On the other hand, some companies embrace the Bring Your Own Cloud concept for its potential cost savings and increased productivity from employees that are able to more efficiently collaborate and access work information from anywhere at any time.
+
+BYOC
+Short for bring your own computer. BYOC is a common phrase used by gamers when attending a multiplayer gaming event (often called LAN parties). BYOC is where gamers are asked to bring their own computer and hook it up to the networkto take part in the multiplayer PC gaming event.
+Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+BYOC also refers to Bring Your Own Cloud or Build Your Own Cloud, a term applying to corporate employees that utilize their own personal clouds or third-party cloud services as opposed to their company's own cloud services.
+
+BYOD
+BYOD is short for bring your own device.
+In the consumerization of IT, BYOD, or bring your own device, is a phrase that has become widely adopted to refer to employees who bring their own computing devices – such as smartphones, laptops and tablets – to the workplace for use and connectivity on the secure corporate network.
+
+
+byon-bring-your-own-network
+BYON, or Bring Your Own Network, is an evolution of the term BYOD (Bring Your Own Device) in the consumerization of IT that refers to the growing use of personal networks by employees for increased productivity in their work environments.
+Also referred to as Build Your Own Network, Bring Your Own Network can apply to a variety of non-corporate network and cloud services that employees might access while at the office or working remotely. Examples of BYON include accessing mobile hot spots, setting up a hot spot with a mobile device or creating a personal network.
+Security Concerns with BYON
+Bring Your Own Network brings with it a variety of security concerns, as the data consumed and transmitted over BYON is no longer on the securely protected corporate network. As a result, it's become important for enterprises to create and enforce Bring Your Own Network policies to help ensure data remains secure even when employees use their own networks or other non-corporate networks.
+
+bypass_airflow
+An unintentional conditioned air leak that prevents a data center air cooling system from reaching some computer equipment. The cooled air may escape thorough cabling holes, escape under cabinets, or through holes in the walls or ceiling.
+
+byte
+Abbreviation for binary term, a unit of storage capable of holding a single character. On almost all modern computers, a byte is equal to 8 bits. Large amounts of memory are indicated in terms of kilobytes (1,024 bytes), megabytes (1,048,576 bytes), and gigabytes (1,073,741,824 bytes).
+
+byte_code_verifier
+A security measure in the Java development environment. The sandbox is a set of rules that are used when creating an applet that prevents certain functions when the applet is sent as part of a Web page. When a browser requests a Web page with applets, the applets are sent automatically and can be executed as soon as the page arrives in the browser. If the applet is allowed unlimited access to memory and operating system resources, it can do harm in the hands of someone with malicious intent. The sandbox creates an environment in which there are strict limitations on what system resources the applet can request or access. Sandboxes are used when executable code comes from unknown or untrusted sources and allow the user to run untrusted code safely.  The Java sandbox relies on a three-tiered defense. If any one of these three elements fails, the security model is completely compromised and vulnerable to attack: byte code verifier -- This is one way that Java automatically checks untrusted outside code before it is allowed to run. When a Java source program is compiled, it compiles down to platform-independent Java byte code, which is verified before it can run. This helps to establish a base set of security guarantees. applet class loader -- All Java objects belong to classes, and the applet class loader determines when and how an applet can add classes to a running Java environment. The applet class loader ensures that important elements of the Java run-time environment are not replaced by code that an applet tries to install.  security manager  -- The security manager is consulted by code in the Java library whenever a dangerous operation is about to be carried out. The security manager has the option to veto the operation by generating a security exception.
+
+bytecode
+Programming code that, once compiled, is run through a virtual machine instead of the computer��s processor. By using this approach, source code can be run on any platform once it has been compiled and run through the virtual machine.  Bytecode is the compiled format for Java programs. Once a Java program has been converted to bytecode, it can be transferred across a network and executed by Java Virtual Machine (JVM). Bytecode files generally have a .class extension.  
+
+browser
+Short for Web browser, a browser is a software application used to locate, retrieve and display content on the World Wide Web, including Web pages, images, video and other files. As a  client/server model, the browser is the client run on a computer that contacts the Web server and requests information. The Web server sends the information back to the Web browser which displays the results on the computer or other Internet-enabled device that supports a browser.
+Browser Software Today
+Today's browsers are fully-functional software suites that can interpret and display HTML Web pages, applications, JavaScript, AJAX and other content hosted on Web servers. Many browsers offer plug-ins which extend the capabilities of the software so it can display multimedia information (including sound and video), or the browser can be used to perform tasks such as videoconferencing, to design web pages or add anti-phishing filters and other security features to the browser.
+The two most popular browsers are Microsoft Internet Explorer and Firefox. Other major browsers include Google Chrome, Apple Safari and Opera. While most commonly use to access information on the web, a browser can also be used to access information hosted on Web servers in private networks.   
+

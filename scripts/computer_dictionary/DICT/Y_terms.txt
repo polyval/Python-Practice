@@ -1,0 +1,53 @@
+Y_Cable
+
+A "Y" shaped power cable (one IDE to two IDE) splits an existing power cable into two connections, allowing for additional connections of  internal devices such as a CD-ROM, DVD-ROM, hard drive, or other IDE devices. A Y-Cable can also be used as an extension of the existing power cable. A Y-Cable is also called a Power Y cable.
+
+yacy
+
+YaCy (pronounced as "ya see") is a free and open source (GPL-licensed) distributed search engine. Using principles of peer-to-peer (P2P) networks, it is fully decentralized. That means all users of the search engine network are equal, and the network does not store user search requests, which makes it impossible for anyone to censor the content of the shared index.
+YaCy also helps to prevent spam in search results by performing link verification as part of the search process.
+
+yagi_antenna
+
+An antenna that radiates in only one direction. Yagi antennas are most commonly used in point-to-point communications. Also called panel or patch antennas.
+
+Yahoo_Messenger
+
+In 1998 Yahoo launched its own IM service under the name of Pager, later top be called Yahoo Messenger. With its 22 million users Yahoo Messenger is an advertisement-supported IM service. Users are required to have a Yahoo ID, which also enables you to use other Yahoo services. Features of Yahoo Messenger include PC-to-Phone calling, PC-to-PC calling, plug-ins, voicemail, file sharing, webcams, and chat rooms, client customization, and avatars. It recently incorporated Yahoo Mail into its IM service. The current version is 9.0 and supports interoperability with Windows Live Messenger. See "A Quick Reference to Consumer Instant Messaging" in the Quick Reference section of Webopedia. See also "Internet-based Communications" in the Did You Know... section of Webopedia.
+
+Yahoo
+
+Short for Yet Another Hierarchical Officious Oracle, Yahoo! is a World Wide Web directory started by David Filo and Jerry Yang at Stanford University. The two began compiling and categorizing Web pages in 1994. By 1996, they had one of the most popular Web sites and a very valuable commodity. 
+
+Year_2000_problem
+
+The pervasive problem that many applications are designed to handle only 20th-century dates -- dates that begin with "19". For example, most programs represent dates in the form MM-DD-YY, so the date 10-5-96 is October 5, 1996. But what about the date 10-5-05. Is that 1905 or 2005? There is no way to distinguish between these two dates.  This problem affects a vast amount of software, particularly accounting and database systems. The U.S. Social Security Administration, for example, has estimated that it will need to review about 50 million lines of code to correct this problem in its own system.  The Year 2000 problem is sometimes referred to as the Millennium bug or Y2K problem. 
+
+Yellow_Book
+
+The specification for CD-ROMs and CD-ROM/XA. 
+
+Ymodem
+
+An asynchronous communications protocol designed by Chuck Forsberg that extends Xmodem by increasing the transfer block size and by supporting batch file transfers. This enables you to specify a list of files and send them all at one time. With Xmodem, you can send only one file at a time. 
+
+Yorick
+
+An interpreted programming language used for scientific applications such as simulations, calculations, post-processing, interactive scientific graphics, or translating large files of numbers. Yorick is written in ANSI C and runs on most operating systems. It has a compact syntax, similar to C, but with array  operators. It's easily expandable through dynamic linking of C libraries.
+
+yottabyte
+
+2 to the 80th power bytes, which is approximately 10 to the 24th power (1,000,000,000,000,000,000,000,000) bytes. A yottabyte is equal to 1,024 zettabytes.  The name yotta was chosen because it's the second-to-last last letter of the Latin alphabet and also sounds like the Greek letter iota.  
+
+YouTube
+
+A popular free video-sharing Web site that lets registered users upload and share video clips online at the YouTube.com Web site. To view the videos you are not required to register. Launched in 2005 by former PayPal employees, the video-sharing site was acquired by Google Inc. in October 2006 for US $1.65 billion in Google stock. YouTube is currently based in San Bruno, CA and is a subsidiary of Google, Inc.
+
+YUV
+
+A color encoding system used for analog television, such as  NTSC and PAL. The YUV color model represents the human perception of color more closely than the standard RGB model used in computer graphics hardware. In YUV, Y is the luminance (brightness) component while U and V are the chrominance (color) components. 
+
+YUV_color_space
+
+The YUV color space refers to the complete range of colors that can be displayed and recorded on digital video. The YUV color encoding system is used for analog television, such as NTSC and PAL. See also YUV.
+

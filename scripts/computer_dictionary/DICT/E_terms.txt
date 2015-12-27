@@ -1,0 +1,1475 @@
+e-book_reader
+
+A shortened form of electronic book reader, e-book readers are handheld computer devices like Amazon's Kindle, Barnes and Noble's NOOK and Apple's iPad that make it possible for books in digital form to be viewed and read by users. The technology for e-books and e-book readers has been available in more rudimentary form for more than twenty years, but the popularity of these devices didn’t really take off until the Kindle's introduction in 2009 and the iPad's introduction in 2010.
+While most E-Book Reader (also referred to as Ebook Reader) devices utilize monochrome matte displays to more closely replicate the visual look of reading a physical book, newer (and more expensive) e-book readers like the Kindle Fire and the NOOK Tablet utilize the more typical LCD screens found in notebook computers and tablets in order to provide additional functionality beyond just reading e-books such as Web browsing a viewing multimedia content.
+
+e_commerce_trustmark
+
+A badge, image or logo found on an electronic commerce Web site that indicates the Web site is a member of a professional organization or that the Web site has passed security tests. The trustmark shows approval branding of a well-known third company. Some common e-commerce trustmarks include those for SSL security, Better Business Bureau, Chamber of Commerce, hacker-free, and others. May also be written as trust mark.
+
+e_cycle
+
+A term used to describe the practice of recycling computers, computer components and other electronics through reusing or donating them until the end of their lifecycle. E-cycling encourages people to reduce, reuse and recycle rather than dispose of these items prematurely when upgrading to newer products. At the end of the electronics' life, people are then encouraged to dispose of the item at an electronics recycler to keep the electronics out of landfills and reduce the amount of electronic waste. May also be written as eCycle or ecycle. See also e-cycle center.
+
+e_discovery
+
+Short for electronic discovery, e-discovery is a term used to describe the compiling, storing and securing of digital information, such as e-mail, files and other data. Growth in this market is fueled by the need for corporations to comply with amendments to the Federal Rules of Civil Procedure (FRCP) covering the discovery of digital information. The term e-discovery may also be written as eDiscovery
+.
+ 
+
+e_government
+
+(ē-guv´&rn-ment) (n.) A generic term that refers to any government functions or processes that are carried out in digital form over the Internet. Local, state and federal governments essentially set up central Web sites from which the public (both private citizens and businesses) can find public information, download government forms and contact government representatives. For example, there are many states within the U.S. that offer on-line filing of state income taxes every year, which reduces the amount of paperwork, streamlines the process and speeds the amount of time that taxes are filed.  E-government also refers to the standard processes that different government agencies use in order to communicate with each other and streamline processes.
+
+e_learning
+
+Education via the Internet, network, or standalone computer. e-learning is essentially the network-enabled transfer of skills and knowledge. e-learning refers to using electronic applications and processes to learn. e-learning applications and processes include Web-based learning, computer-based learning, virtual classrooms and digital collaboration. Content is delivered via the Internet, intranet/extranet, audio or video tape, satellite TV, and CD-ROM. [Source: Learnframe: e-Learning Management System]
+E-learning was first called "Internet-Based training" then "Web-Based Training" Today you will still find these terms being used, along with variations of e-learning such as elearning, Elearning, and eLearning.
+
+e_mail_address
+
+A name that identifies an electronic post office box on a network where e-mail can be sent. Different types of networks have different formats for e-mail addresses. On the Internet, all e-mail addresses have the form:
+
+@<domain name > 
+
+For example,
+
+webmaster@sandybay.com
+
+Every user on the Internet has a unique e-mail address. The term e-addressis commonly used as an abbreviation for e-mail address.
+
+e_mail_aliasing
+
+The practice of having multiple e-mail addresses all resolve to a single e-mail address. For example: a small business has an employee with the e-mail address jones@smallbiz.com. This person is responsible for the sales and customer service of the company which have the separate e-mail addresses sales@smallbiz.com and service@smallbiz.com to handle the business of those divisions. Mail coming in to those two e-mail addresses will be forwarded by a mail relay to the e-mail address jones@smallbiz.com so that the employee does not need to check three separate e-mail accounts to read the messages that are sent to the three different addresses.
+
+e_mail_bomb
+
+A malicious act where huge numbers of e-mails are directed to a specific system or a targeted user of that system. Mail bombs will usually fill the allotted space on an e-mail server for the users e-mail and can result in crashing the e-mail server, or at the very least, possibly rendering the user's computer useless as their e-mail client attempts to download the huge amounts of e-mail. Also called a  mail bomb. E-mail bomb is different from bomb which usually refers to a program hanging or ending prematurely. 
+
+e_mail_client
+
+An application that runs on a personal computer or workstation and enables you to send, receive and organize e-mail. It's called a client because e-mail systems are based on a client-server architecture. Mail is sent from many clients to a central server, which re-routes the mail to its intended destination.
+Also see Why E-Mails Bounce in the Did You Know section of Webopedia.
+
+
+e_mail_footer
+
+The bottom section of an e-mail message that contains information that does not change from one e-mail marketing campaign to another. The footer will usually contain the company's mailing address, phone number, e-mail contact address, Web site link, and often unsubscribe links or directions.
+
+e_mail_harvesting
+
+An automated process where a bot is used to search Web pages for e-mail addresses. The e-mail addressees are collected into a database that can be used by spammers to send unsolicited e-mail.
+
+e_mail_prefix
+
+The part of the e-mail address that appears to the left of the @ symbol. In 'address @ webopedia.com' for example, address is the e-mail prefix.
+
+e_mail_signature
+
+An e-mail signature is a block of text that is appended to the end of an e-mail message you send. Generally, a signature is used to provide the recipient with your name, e-mail address, business contact information, or Web site URL. Some people, however, will use a signature to sign off their e-mail message with a closing statement, funny quote or other message. A signature file, or sig as it is often called, can easily be created in most e-mail clients. You will have the option to always attach the signature to all outgoing e-mails, or add the signature in specific outgoing e-mails.
+
+e_mail_spoofing
+
+Forging an e-mail header to make it appear as if it came from somewhere or someone other than the actual source. The main protocol that is used when sending e-mail -- SMTP -- does not include a way to authenticate. There is an SMTP service extension (RFC 2554) that allows an SMTP client to negotiate a security level with a mail server. But if this precaution is not taken anyone with the know-how can connect to the server and use it to send spoofed messages by altering the header information.  In some jurisdictions, e-mail spoofing anyone other than yourself is illegal.
+
+e_nag
+
+A slang term used to describe a person who nags (annoys or torments persistently) through electronic means such as e-mail, instant messaging, forums or online chat rooms. An e-nagger typically is a person who sends a successive stream of messages without allowing adequate time for a response from the recipient. See "All About Online Forums" in the "Did You Know..." section of Webopedia.
+
+e_zine
+
+Short for electronic magazine, the name for a web site that is modeled after a print magazine. Some e-zines are simply electronic versions of existing print magazines, whereas others exist only in their digital format. Most e-zines are advertiser-supported but a few charge a subscription. 
+
+E_164
+
+The international public telecommunication numbering plan. An E.164 number uniquely identifies a public network termination point and typically consists of three fields, CC (country code), NDC (national destination code), and SN (subscriber number), up to 15 digits in total.
+
+E1
+
+Similar to the North American T-1, E1 is the European format for digital transmission.  E1 carries signals at 2 Mbps (32 channels at 64Kbps, with 2 channels reserved for signaling and controlling), versus the T1, which carries signals at 1.544 Mbps (24 channels at 64Kbps). E1 and T1 lines may be interconnected for international use. 
+
+E911
+
+Short for Enhanced 911, a location technology advanced by the FCC that will enable mobile, or cellular, phones to process 911 emergency calls and enable emergency services to locate the geographic position of the caller. When a person makes a 911 call using a traditional phone with ground wires, the call is routed to the nearest public safety answering point (PSAP) that then distributes the emergency call to the proper services. The PSAP receives the caller's phone number and the exact location of the phone from which the call was made. Prior to 1996, 911 callers using a mobile phone would have to access their service providers in order to get verification of subscription service before the call was routed to a PSAP. In 1996 the FCC ruled that a 911 call must go directly to the PSAP without receiving verification of service from a specific cellular service provider. The call must be handled by any available service carrier even if it is not the cellular phone customer's specific carrier. Under the FCC's rules, all mobile phones manufactured for sale in the United States after February 13, 2000, that are capable of operating in an analog mode must include this special method for processing 911 calls.  The FCC has rolled out E911 in two phases. In 1998, Phase I required that mobile phone carriers identify the originating call's phone number and the location of the signal tower, or cell, accurate to within a mile. In 2001, Phase II required that each mobile phone company doing business in the United States must offer either handset- or network-based location detection capability so that the caller's location is determined by the geographic location of the cellular phone within 100 meter accuracy and not the location of the tower that is transmitting its signal. The FCC refers to this as Automatic Location Identification (ALI).
+
+EAI
+
+Acronym for enterprise application integration. EAI is the unrestricted sharing of data and business processes throughout the networked applications or data sources in an organization. Early software programs in areas such as inventory control, human resources, sales automation and database management were designed to run independently, with no interaction between the systems. They were custom built in the technology of the day for a specific need being addressed and were often proprietary systems. As enterprises grow and recognize the need for their information and applications to have the ability to be transferred across and shared between systems, companies are investing in EAI in order to streamline processes and keep all the elements of the enterprise interconnected.   There are four major categories of EAI:  Database linking: databases share information and duplicate information as needed. Application linking: the enterprise shares business processes and data between two or more applications. Data warehousing: data is extracted from a variety of data sources and channeled into a specific database for analysis. Common virtual system: the pinnacle of EAI; all aspects of enterprise computing are tied together so that they appear as a unified application. 
+
+EAP
+
+Short for Extensible Authentication Protocol, an extension to PPP. EAP is a general protocol for authentication that also supports multiple authentication methods, such as token cards, Kerberos, one-time passwords, certificates, public key authentication and smart cards. IEEE 802.1x specifies how EAP should be encapsulated in LANframes.
+In wireless communications using EAP, a user requests connection to a WLAN through an AP, which then requests the identity of the user and transmits that identity to an authentication server such as RADIUS. The server asks the AP for proof of identity, which the AP gets from the user and then sends back to the server to complete the authentication.
+EAP is defined by RFC 2284.
+
+Ear_and_Mouth
+
+Also known as E&M, Ear and Mouth is the interface on a VoIP device that allows it to be connected to analog PBX trunk ports (tie lines).
+
+early_adopter
+
+The name give to individual consumers or organizations who tend to buy and use new products and technologies as soon as they become available from manufacturers. This group of consumers may also be referred to as innovators, and are frequently a target audience for research early on in a product's development cycle.
+
+EAROM
+
+Pronounced double-ee-prom or e-e-prom, short for electrically erasable programmable read-only memory. EEPROM is a special type of PROM that can be erased by exposing it to an electrical charge. Like other types of PROM, EEPROM retains its contents even when the power is turned off. Also like other types of ROM, EEPROM is not as fast as RAM.
+EEPROM is similar to flash memory (sometimes called flash EEPROM). The principal difference is that EEPROM requires data to be written or erased one byte at a time whereas flash memory allows data to be written or erased in blocks. This makes flash memory faster.
+
+
+earth_station
+
+The earth-based communications station providing the communication link to a communications satellite. The earth station itself is usually an antenna that includes a low-noise amplifier, a down-converter, as well as an electronics receiver. The antenna itself can vary in size from at little at 3 to 30 meters, depending on its usage. May also be called a satellite earth station.
+
+easter_egg
+
+A secret message or screen buried in an application. Typically, easter eggs are used to display the credits for the development team or to display a humorous message. To see an easter egg, you need to know a special procedure or sequence of keystrokes.
+Microsoft Easter Eggs
+For example, follow these instructions to see a list of people who worked on the User Assistance feature of Microsoft Word 2000:
+1. Open Microsoft Word2000 2. Press F1 or click the "Office Assistant" button 3. Under the "What would you like to do?", type "Cast" (No quotes) 4. Click SEARCH 5. Click the MICROSOFT OFFICE 2000 USER ASSISTANCE STAFF topic 6. Click the graphic in the Microsoft Word Help screen
+
+easy_peasy
+
+EasyPeasy is a lightweight open source operating system designed for use on netbooks. It was built to support social networking and cloud computing, and it offers very low power consumption for longer battery life on mobile devices. Additionally, EasyPeasy is optimized for Web surfing and provides easy access to Internet applications including Skype and Firefox.
+See "Linux Downloads: Top Linux Distributions" in Webopedia's Did You Know section.
+
+eBay
+
+eBay is an online marketplace built to enable trade on a local, national and international basis. eBay offers an online platform where millions of items are traded each day through Online Auction Formats, also called auction-style listings,  or through immediate "Buy It Now" Fixed Price and eBay Store listings. See  Online Auction Abbreviations in the Quick Reference section of Webopedia.
+
+eBay_Ad_Format
+
+On the eBay auction Web site the Ad Format is type of classified ad listing a seller can use to list items, services or properties for sale in order to generate multiple leads, which is not an online auction selling format. Buyers interested in the ad can fill out a contact form to send their information to the seller. eBay's Ad Format was previously called  Classifieds Ads.
+
+eBay_alternative
+
+The slang phrase used to describe the growing number of online marketplaces that provide selling channels that does not include eBay, the top number one ranked marketplace in terms of traffic.
+In a general sense of the phrase, because eBay has long been ranked as the top selling channel, all others can be called an alternative to it, much in the same way that people tend to refer to any operating system that is not Microsoft Windows, an alternative operating system.
+The term eBay alternative is used when describing a non-eBay Web site that offers services similar to eBay, such as auction and fixed price listings and hosted storefronts, but it is also used when describing a marketplace that offers classified ads and other types of selling services.
+
+eBay_block_bidder_list
+
+On the eBay auction Web site, the block bidder list is a list of bidder or buyer usernames that an eBay seller can create. Those eBay members included on your block bidder list are not able to bid on any item you have for sale. Sellers often use block bidder lists to prevent buyers with whom thay have had a negative experience with from purchasing from them again. Also called a block buyer list.
+
+eBay_Buy_It_Now
+
+On the eBay auction Web site, Buy It  Now, abbreviated as BIN, is an option that sellers can include on their Online Auction, Fixed Price and eBay Store inventory listings. This features enables buyers to purchase the item immediately at a fixed price, as opposed to using the bidding process.
+
+eBay_Client_Alerts_API
+
+API enables developers to retrieve updated data on eBay. Client Alerts can be used to monitor a seller's listed items or to get alerts about items people are bidding on.
+
+eBay_Compatible_Application
+
+When choosing a third-party eBay applications or  hosted services, you can verify that the application works with the eBay platform by checking for eBay certified logos. The eBay Compatible Application logo is used for third-party applications that were developed by a member of the eBay Developers Program. These applications passed eBay's Compatible Application Check process and will work directly with the eBay Platform. See also Certified eBay Solutions Provider.
+
+eBay_Dutch_auction
+
+On the eBay auction Web site, a Dutch auction is a type of online auction selling format a seller might use if he or she is listing multiple identical items for sale. In a Dutch auction, buyers specify the quantity of the items they would like to purchase and the amount they are willing to pay for each one. Winning bids are determined by multiplying the bid price by the number of items bid on. Also called multiple item auction.
+
+eBay_feedback
+
+On the eBay auction Web site, feedback is the system buyers and sellers use to rate their experience with other eBay members. Once a transaction has been completed both the buyer and seller can choose to leave a rating for the other party with whom they conducted business. This rating consists of selecting an overall preset experience rating of positive, neutral or negative. The e-mail member can also leave a sentence comment about the member or transaction. A user's feedback can be publicly viewed by other members. When you view a member's name on eBay a number will appear in parenthesis beside the username. By clicking the number you are able to see this user's feedback.
+
+eBay_Final_Value_Fee
+
+On the eBay auction Web site, the Final Value Fee, abbreviated as FVF, is the amount of money eBay charges the seller when an item sells. The Final Value Fee is based on the final selling price of an item at the close of the listing. Final Value Fees are not charged when an item does not sell. See also Insertion Fee.
+
+eBay_Fixed_Price
+
+On the eBay auction Web site, Fixed Price is a type of online auction selling format a seller would use if he or she wants to sell items at a set price on the auction Web site. There are no bids placed on a Fixed Price style listing, as the price remains constant. Buyers will frequently use the Buy It Now feature when purchasing Fixed Price items. Sellers are required to meet a set feedback score to use the Fixed Price selling format.
+
+eBay_Fixed_Shipping_Limits
+
+On the eBay auction Web site, the Fixed Shipping Limits is a policy announced by eBay in August 2008. Fixed Shipping Limits is a set dollar amount that limits shipping and handling charges for the first flat-rate shipping service within or into the U.S. on items in the Media category, including books, DVDs & movies, music and video games. Sellers listing these types of items will be required to offer at least one shipping option within eBay's specified Fixed Shipping Limit, however sellers may also provide other options that are above the maximums for expedited or international shipping, and for non-standard items in the category. See also "eBay Policy Watch: Fixed Shipping Limits for Media" on Ecommerce-Guide.com.
+
+eBay_Gallery_picture
+
+On the eBay auction Web site, the Gallery picture is a small thumbnail picture (at a standard size of 96 pixels) of the listed item that appears next to the item in eBay search results. Gallery is included automatically for listings that provide a picture.   Gallery Plus is also an optional eBay listing feature that shows a small picture of your item in search results, however when a user mouse-overs the thumbnail it is enlarged to 400 x 400 pixels. Upgrading to Gallery Plus will incur a fee of 35 cents to $1, depending on the type of listing.
+
+eBay_Insertion_Fee
+
+On the eBay auction Web site, an Insertion Fee is the amount of money eBay charges to the seller for listing an item for sale. Insertion Fees vary depending on the starting price of the item and the category the seller chooses to list in. Insertion Fees are nonrefundable.See also Final Value Fee.
+
+eBay_Merchandising_API
+
+The eBay Merchandising API is used by developers to show items and products on eBay that are popular with eBay buyers or a good value for the consumer. Using the eBay Merchandising API enables developers to do things such as create shopping portals and widgets that engage users with contextually relevant products and items.
+
+eBay_Online_Auction_Format
+
+On the eBay auction Web site, the Online Auction Format is a type of selling format where a seller lists an item for a set amount of time and buyers must place a bid to purchase. Buyers must place a bid higher than the last bid placed. At the end of the auction the buyer with the highest bid wins that item. Online Auction Format is also called  Auction-Style Listing.
+
+eBay_Partner_Network
+
+The name of eBay's affiliate program that pays affiliate when they send referrals from their  affiliate links to eBay to bid, purchase, or register on the eBay Web site. The eBay Partner Network provides affiliates with four options for promotion and referral linking including Paid Search, Paid Placement, Ad-Network/Sub-Affiliate, and Natural Web site referrals. EBay's affiliate program was previously run through Commission Junction. See "How Affiliate Marketing Works" in the Did You Know... section of Webopedia. Also see Refer-It.com, a directory of referral & affiliate programs for e-commerce, featuring information on over 6,500 affiliate programs. 
+
+eBay_Reserve_Price_Auction
+
+On the eBay auction Web site, a Reserve Price Auction is a type of online auction selling format where a seller sets the opening, or start, bid at the minimum price they are willing to accept for the item. Buyers are not shown the reserve price until that reserve price has been met. To win the buyer must meet or exceed the reserve price set by the seller. See also eBay Online Auction Format.
+
+eBay_Shopping_API
+
+Also called eBay Shopping Web Services, the eBay Shopping API offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications.
+
+EBCDIC
+
+Abbreviation of Extended Binary-Coded Decimal Interchange Code. Pronounced eb-sih-dik, EBCDIC is an IBM code for representing characters as numbers. Although it is widely used on large IBM computers, most other computers, including PCs and Macintoshes, use ASCIIcodes.
+
+
+eBGP
+
+Short for External Border Gateway Protocol (BGP), eBGP is the protocol used to transport information to other BGP enabled systems in different autonomous systems (AS). EBGP works opposite to iBGP. See also BGP. Contrast with iBGP.
+
+EBPP
+
+Short for electronic bill presentment and payment, the process by which companies bill customers and receive payments electronically over the Internet.  There are two types of presentment models:  direct model: a biller delivers the bill to customers via its own Web site, or via a third-party's site. consolidator model: bills from multiple billers are delivered to a single Web site, to be presented in aggregate to the consumer for viewing and payment.
+
+eBusiness
+
+eBusiness (e-Business), or Electronic Business, is the administration of conducting business via the Internet. This would include the buying and selling of goods and services, along with providing technical or customer support through the Internet. e-Business is a term often used in conjunction with e-commerce, but includes services in addition to the sale of goods.
+
+EBX
+
+Short for Electronic Book Exchange, a DRM standard for protecting copyright in electronic books and for distributing electronic books among publishers, distributors, retailers, libraries, and consumers. The standard was proposed by the Open EBook Forum, adopted by Glassbook (and thence Adobe), and subsequently abandoned.
+
+ebXML
+
+Short for electronic business Extensible Markup Language, a modular suite of specifications for standardizing XML globally in order to facilitate trade between organizations regardless of size. The specification gives businesses a standard method to exchange XML-based business messages, conduct trading relationships, communicate data in common terms and define and register business processes.
+
+enterprise-collaboration
+
+Often abbreviated as EC, enterprise collaboration is a communications system used by employees (see "Enterprise Collaboration Systems") to collaborate and complete work tasks across departments within the enterprise. Enterprise collaboration combines a number of tools, Internet, extranets and other networks as needed to support enterprise-wide communications, such as sharing documents, enterprise email systems, videoconferencing, project management tools and others.
+Learn more about enterprise collaboration and the different communication tools used in Webopedia's ECS definition.
+
+ECC_Constraint_Length
+
+The number of sectors that are interleaved to combat burst-like error characteristics of discs. Sixteen sectors are interleaved in DVD. Interleaving takes advantage of typical disc defects such as scratch marks by spreading the error over a larger data area, thereby increasing the chance that the ECCs can conceal the error. [Source: Roxio] 
+
+ECC_memory
+
+Short for Error-Correcting Code memory, a type of memory that includes special circuitry for testing the accuracy of data as it passes in and out of memory. 
+
+ECCMA
+
+Short for the Electronic Commerce Code Management Association, ECCMA is an international association of industry and government master data managers. ECCMA's goal is to increase the quality and lower the cost of descriptions of individuals, organizations, goods and services through developing and promoting International Standards for Master Data Quality.
+
+ECCST
+
+In data storage technology, ECCST is short for Enhanced Capacity Cartridge System Tape. It is a double length tape cartridge with a nominal uncompressed capacity of approximately 800 Mbytes.
+
+ECD
+
+Short for the European Copyright Directive of 2001, the implementation of the WIPO Treaties for the European Union; similar to the DMCA in the U.S. Also referred to as the EUCD (European Union Copyright Directive).
+
+echo
+
+In satellite communications, an echo refers to an unwanted refection of a signal to its originator.
+
+echo_canceller
+
+A device designed to eliminate the echo in a channel.
+
+eclair
+
+Éclair is the dessert-themed Android codename for the version 2.0 update of the open source Android mobile operating system. Eclair made its debut in October 2009 for a variety of smartphones, adding support for multi-touch devices, a new browser interface, Microsoft Exchange support, a single interface for managing multiple online accounts, soft keys support and an enhanced camera app (with digital zoom and flash support).
+Eclair followed two earlier updates for Android – Cupcake (v1.5) and Donut (v1.6) – and has since been superseded by more recent Android updates FroYo (v2.2), Gingerbread (v2.3), Honeycomb (v3.0) and the upcoming Ice Cream Sandwich (v4.0) update.
+See also Android platform, Android SDK and Android codenames.
+
+Eclipse
+
+Eclipse is an open source community whose projects are focused on providing an extensible development platform and application frameworks for building software. Eclipse provides extensible tools and frameworks that span the software development lifecycle, including support for modeling, language development environments for Java, C/C++ and others, testing and performance, business intelligence, rich client applications and embedded development.  [Source:  Eclipse.org]
+
+ECM
+
+Abbreviated as ECM, Enterprise Content Management is the document management term which describes the technologies used by organizations to capture, manage, store, and control enterprise-wide content, including documents, images, e-mail messages, instant messages, video, and more. ECM software is used to assist in content control associated with business process, and can be used to assure compliance (Sarbanes-Oxley , HIPPA, etc.). ECM has emerged from the convergence of many related technologies such as document management, Web content management, and collaboration.
+
+ECMA
+
+Short for European Computer Manufacturers Association, a non-profit international industry association founded in 1961 dedicated to the worldwide standardization of information and communication systems.  The ECMA��s key areas of activity are: high-speed communication, including protocols, interfaces, networks and network management computer telephony integration storage media, including optical disks, CD-ROM, DVD, magnetic tape and magnetic disks VOIP product safety IT security programming and dynamic scripting languages. 
+
+ECML
+
+Short for Electronic Commerce Modeling Language. ECML is a universal format for online commerce Web sites that contains customer information that is used for purchases made online, formatted through the use of XML tags. It is a standard way of transferring billing, shipping and payment information to merchant sites regardless of what site the customer is purchasing from. If order forms are standardized, the customer's information can be imported directly into the form from a digital wallet with the click of one button. This saves the customer from repeatedly filling out the same information on multiple order forms on multiple sites. ECML can be used in conjunction with SSL and SET.  The founding members of the ECML Alliance are America Online, American Express, Brodia, Compaq, CyberCash, Discover, FSTC, IBM, MasterCard, Microsoft, Novell, SETCo, Sun Microsystems, Trintech and Visa U.S.A.
+
+ecommerce_hosting
+
+A phrase used to describe a type of website hosting platform that is used to serve an electronic commerce website. Ecommerce hosting differs from standard Web hosting in that a number of features and functionalities are required to manage and run a commercial website. This includes SSL, database support, shopping cart software, payment processing services, and additional ecommerce software and security initiatives. Ecommerce hosting is designed to basically provide entrepreneurs and businesses with all the tools and services required for them to set-up, manage and conduct an ecommerce business.  Ecommerce hosting is an option offered by many Web hosting service providers. In addition to supplying ecommerce functionality, they will also provide Web space (a Web server) to host your website, an email server or email support, technical support and other standard Web hosting features for businesses.
+Learn how to   How to Find an Ecommerce Hosting Provider in this EcommerceGuide.com Buyer's Guide.
+
+ecommerce_remarketing
+
+In email and online marketing, remarketing or ecommerce remarketing refers to the techniques, strategies  and often the automated email systems used by marketers and online merchants to follow up with website visitors who do not make a desired action on the Web site­—usually it is when they abandon their shopping cart.
+Think of it like this: you use marketing to bring a visitor to your website, and if he or she doesn't make a purchase, you then use remarketing tactics to bring the visitor back to your website and convert him or her in to a paying customer.
+People often refer to ecommerce remarketing services as "conversion marketing" or "cart abandonment email marketing."
+
+eCos
+
+Short for Embedded Configurable Operating System, eCos is an open source, configurable, portable and royalty-free embedded real-time operating system, designed for embedded systems development. eCos is targeted at high-volume applications in consumer electronics, telecommunications, automotive, and other applications.
+
+ECP
+
+Short for Extended Capabilities Port, a parallel-port standard for PCs that supports bi-directional communication between the PC and attached devices (such as a printer). ECP is about 10 times faster than the older Centronics standard.  Another modern parallel port for PCs that offers similar performance is the EPP (Enhanced Parallel Port).  
+
+EDA
+
+(pronounced as separate letters) Short for event-driven architecture, an enterprise software infrastructure model in which events trigger the real-time exchange of messages between independent software applications. EDA relies on an event-processing agent that detects events across an enterprise and, using a push approach, notifies all of the other software applications that need to be notified of the change in data, all at the same time. For example: the e-commerce Web site of an enterprise receives an order for a product, completing a business event. An event agent detects this transaction and simultaneously notifies all other applications in the enterprise that need to know about the order, which can include such aspects as an inventory database, accounts receivable software, customer service applications, marketing and advertising monitors, and shipping software.  This method is different than more traditional methods of enterprise communication in which events are compiled in batches and then communicated across the enterprise at periodic intervals.
+
+EDC
+
+Short for electronic dispersion compensation, EDC technology is supported by the Optical Internetworking Forum (OIF) - a group currently defining a 10 Gbps interoperability specification targeting optical links. The transmission distance of this specification supports up to 120 km (2400 ps/nm), however, the maximum distance currently supported is specified at up to 80 km. To achieve this reach extension and lower the cost of optics on existing fiber links, EDC technology, as offered in the new BCM8105 optical networking chip, provides customers a seamless upgrade on existing OC-48 trunks beyond 80 km to OC-192, while enabling the use of low-cost optics without the need to re-engineer the link.
+
+EDD
+
+Short for electronic discovery, e-discovery is a term used to describe the compiling, storing and securing of digital information, such as e-mail, files and other data. Growth in this market is fueled by the need for corporations to comply with amendments to the Federal Rules of Civil Procedure (FRCP) covering the discovery of digital information. The term e-discovery may also be written as eDiscovery
+.
+ 
+
+EDFA
+
+Short for erbium-doped fiber amplifier. EDFA is an optical repeater device that is used to boost the intensity of optical signals being carried through a fiber optic communications system. An optical fiber is doped with the rare earth element erbium so that the glass fiber can absorb light at one frequency and emit light at another frequency. An external semiconductor laser couples light into the fiber at infrared wavelengths of either 980 or 1480 nanometers. This action excites the erbium atoms. Additional optical signals at wavelengths between 1530 and 1620 nanometers enter the fiber and stimulate the excited erbium atoms to emit photons at the same wavelength as the incoming signal. This action amplifies a weak optical signal to a higher power, effecting a boost in the signal strength.  Fiber optic use in the 1980s required the light signals to be converted back into electronic signals at the data's final destination. EDFA removes this step from the process: all the steps of its operation are the actions of photons, so there is no conversion of optical signals to electronic signals.  Erbium had little commercial uses before the age of fiber-optic telecommunications. Now it is an important constituent of signal repeaters in long-distance telephone cables. 
+
+EDGAR
+
+Electronic Data Gathering, Analysis, and Retrieval system was implemented by the Securities and Exchange Commission (SEC) to do two things: 1) quickly process time-sensitive information of publicly-held companies and 2) provide investors with easier access to company information.   EDGAR became available to filers on July 15, 1992, and as of May 6, 1996, all domestic publicly-held companies are required to submit financial information via EDGAR.   On July 1, 1998, EDGAR began a three-year modernization process that currently allows filers to submit official copies of information using more attractive and readable formats such as non-table HTML files (3.2 standard) and unofficial copies using PDF files.   EDGAR is also going through a restructuring process that will improve the ability to update information and access information on the EDGAR Web site.   Currently, every publicly-held company is listed in the EDGAR database. 
+
+EDGE
+
+Acronym for Enhanced Data GSM Environment. EDGE is a faster version of GSM wireless service. EDGE enables data to be delivered at rates up to 384 Kbps on a broadband. The standard is based on the GSM standard and uses TDMA multiplexing technology.
+
+edge_connector
+
+)The part of a printed circuit board that plugs into a computer or device. The edge connector generally has a row of broad metallic tracks that provide the electrical connection.  
+
+edge_enhancement
+
+In video editing edge enhancement is a technique used to clean up a picture in preparation for DVD encoding. This may include edge sharpening, noise reduction, or the removal of defects from the original film. While edge enhancement may make video look cleaner and sharper to the observer, it does remove some fine detail from the original film in the processing.
+
+edge_router
+
+A device in an Asynchronous Transfer Mode (ATM) network that routes data between an ATM backbone network and local area networks (LANs).
+
+edge_switch
+
+A switch that is located at the meeting point between two networks. The edge switch typically connects an end user's LAN to an ISP's network or backbone.
+An edge switch also is called an access node or a service node.
+
+EDI
+
+Short for Electronic Data Interchange, the transfer of data between different companies using networks, such as VANs or the Internet. As more and more companies get connected to the Internet, EDI is becoming increasingly important as an easy mechanism for companies to buy, sell, and trade information. ANSI has approved a set of EDI standards known as the X12 standards.
+
+
+EDID
+
+Extended Display Identification Data is a VESA standard data format that contains basic information about a monitor and its capabilities, including vendor information, maximum image size, color characteristics, factory pre-set timings, frequency range limits, and character strings for the monitor name and serial number.   The information is stored in the display and is used to communicate with the system through a Display Data Channel (DDC ), which sites between the monitor and the PC graphics adapter. The system uses this information for configuration purposes, so the monitor and system can work together.   The latest version of EDID (version 1.3) can be used in CRT displays, LCD displays, and future display types because EDID offers general descriptions of almost all display parameters. 
+
+editor
+
+Sometimes called text editor, a program that enables you to create and edit text files. There are many different types of editors, but they all fall into two general categories:  line editors: A primitive form of editor that requires you to specify a specific line of text before you can make changes to it. screen -oriented editors: Also called full-screen editors, these editors enable you to modify any text that appears on the display screen by moving the cursor to the desired location.   The distinction between editors and word processors is not clear-cut, but in general, word processors provide many more formatting features. Nowadays, the term editor usually refers to source code editors that include many special features for writing and editing source code. 
+
+EDM
+
+Short for Enterprise Decision Management, EDM entails all aspects of managing automated decision design and deployment that an organization uses to manage its interactions with customers, employees and suppliers. Computerization has changed the way organizations are approaching their decision-making because it has enabled information-based decisions: decisions based on analysis of historical behavioral data, decisions and their outcomes. Organizations seek to improve their Decision Yield (the value created through each decision) by deploying business processes and software solutions that better manage the tradeoffs between precision, consistency, agility, speed, and cost of decision-making within organizations.
+
+EDO_DRAM
+
+Short for Extended Data Out Dynamic Random Access Memory, a type of DRAM that is faster than conventional DRAM. Unlike conventional DRAM which can only access one block of data at a time, EDO RAM can start fetching the next block of memory at the same time that it sends the previous block to the CPU. 
+
+edress
+
+A name that identifies an electronic post office box on a network where e-mail can be sent. Different types of networks have different formats for e-mail addresses. On the Internet, all e-mail addresses have the form:
+
+@<domain name > 
+
+For example,
+
+webmaster@sandybay.com
+
+Every user on the Internet has a unique e-mail address. The term e-addressis commonly used as an abbreviation for e-mail address.
+
+EDRM
+
+Short for Electronic Discovery Reference Model, EDRM is an e-discovery standard that was designed to improve systems interoperability and the transfer of electronically stored information (ESI) between applications involved anywhere within the discovery process. The EDRM project was first launched in May 2005 with the completed model being placed in the public domain in the following year, in May 2006. Two subset standards were launched from the original EDRM project including the following:  EDRM Metrics: Intended to provide a standard approach and a generally accepted language for measuring the full range of electronic discovery activities.  EDRM XML: An XML schema to facilitate movement of electronic information from one step of the electronic discovery process to the next, one software program to the next, and one organization to the next.  
+
+EDRM_Metrics
+
+See under EDRM.
+
+EDRM_XML
+
+Short for Electronic Discovery Reference Model, EDRM is an e-discovery standard that was designed to improve systems interoperability and the transfer of electronically stored information (ESI) between applications involved anywhere within the discovery process. The EDRM project was first launched in May 2005 with the completed model being placed in the public domain in the following year, in May 2006. Two subset standards were launched from the original EDRM project including the following:  EDRM Metrics: Intended to provide a standard approach and a generally accepted language for measuring the full range of electronic discovery activities.  EDRM XML: An XML schema to facilitate movement of electronic information from one step of the electronic discovery process to the next, one software program to the next, and one organization to the next.  
+
+EDS
+
+In video terminology, EDS is short for Enhanced Data Services. It's the older name for the American standard that specifies the delivery of metadata sent with any NTSC video signal, such as a time signal or station identification. EDS is now called  Extended Data Services and abbreviated as XDS.
+
+EDSAC
+
+Short for Electronic Delay Storage Automatic Calculator, EDSAC was an early computer dated around 1949. EDSAC performed its first calculation at the Cambridge University in England. EDSAC used mercury delay lines for memory and 3,000 vacuum tubes for logic. Programs were input using 5-hole punched tape and output was via a teleprinter. See also "The Five Generations of Computers" in the Did You Know...? section of Webopedia.
+
+EDTV
+
+Short for Enhanced Definition Television, EDTV is a common name for a particular subset of the DTV (Digital Television) standards, but is considered to be specifically a part of the HDTV format. EDTV offers advancements over SDTV, but not near the quality and performance of HDTV. On a large display screen, EDTV only simulates HDTV viewing quality. EDTV operates as 480p (where 480 represents the vertical resolution and p  represents progressive scan). To take advantage of the 480p standard, you must use a video source that outputs that signal (i.e. a DVD player) and the display must be able to read the 480p input signal. EDTV also offers the benefits of Dolby digital surround sound.  * EDTV Minimum Performance Attributes:  Receiver: Receives ATSC terrestrial digital transmissions and decodes all ATSC Table 3 video formats  Display Scanning Format: Has active vertical scanning lines of 480 progressive (480p) or higher  Aspect Ratio: None Specified  Audio: Receives and reproduces, and/or outputs Dolby Digital audio   (* Adapted from Digital Connection)
+
+EEMS
+
+Abbreviation of Enhanced Expanded Memory Specification, an enhanced version of the original EMS, which enables DOS applications to use more than 1MB (megabyte) of memory. EEMS was developed by AST, Quadram, and Ashton-Tate to improve the performance of the original version of EMS. Subsequently, Lotus, Intel, and Microsoft developed the LIM 4.0 version of EMS, which supports both the original EMS and EEMS.   
+
+EEPROM
+
+Pronounced double-ee-prom or e-e-prom, short for electrically erasable programmable read-only memory. EEPROM is a special type of PROM that can be erased by exposing it to an electrical charge. Like other types of PROM, EEPROM retains its contents even when the power is turned off. Also like other types of ROM, EEPROM is not as fast as RAM.
+EEPROM is similar to flash memory (sometimes called flash EEPROM). The principal difference is that EEPROM requires data to be written or erased one byte at a time whereas flash memory allows data to be written or erased in blocks. This makes flash memory faster.
+
+
+EER
+
+(ē´kw&l er´&r rāt) (n.) Abbreviated as EER. A biometric security system predetermines the threshold values for its false acceptance rate and its false rejection rate, and when the rates are equal, the common value is referred to as the equal error rate. The value indicates that the proportion of false acceptances is equal to the proportion of false rejections. The lower the equal error rate value, the higher the accuracy of the biometric system.  Also referred to as crossover rate or crossover error rate (CER).
+
+effects_animation
+
+In computer animation, effects animation is the animation of any non-character elements, such as fire or rain.
+
+EFI
+
+Acronym for Extensible Firmware Interface The EFI specification is primarily intended for the IA-32 and Itanium architecture-based computers. The EFI specification defines a model for the interface between operating systems and platform firmware. The interface consists of data tables that contain platform-related information, plus boot and runtime service calls that are available to the operating system and its loader. Together, these provide a standard environment for booting an operating system and running pre-boot applications. EFI is an outgrowth of the "Intel Boot Initiative" (IBI) program that began in 1998.**[Source:  Intel Technologies Initiatives: EFI]
+
+EFM
+
+Eight-to-Fourteen Modulation, or EFM as it is abbreviated, is an encoding technique used by CDs and provides a way of countering errors by encoding a byte into 2 bytes. Using EFM the data is broken into 8-bit blocks (bytes). Each 8-bit block is translated into a corresponding 14-bit codeword using a predefined lookup table. The 14-bit codeword are chosen so that binary ones are always separated by a minimum of two and a maximum of ten binary zeroes. EFM maximizes the number of transitions possible with an arbitrary pit and land length which is determined by the wavelength of the laser light used to read the data. Eight-to-Fourteen Modulation uses an RLL encoding scheme.
+
+EFS
+
+Short for Encrypting File System, part of the Microsoft NTFS file system. EFS is a transparent public key encryption technology that works in conjunction with NTFS permissions to grant and deny users access to files and folders in Windows NT (excluding NT4), 2000 and XP (excluding XP Home Edition) operating systems.  EFS uses a public key and a private key for encryption. If the user does not have one, the EFS generates the key pair automatically. Files can be encrypted individually, or a folder can be designated as encrypted, so that any file written to that folder is automatically encrypted. Because EFS's encryption technology integrates into the file system, users can't access the hard disk without going through the file system.  EFS is not available in Windows versions 95, 98 or Me as these operating systems use the FAT16 and FAT32 file systems.
+
+EFTPOS
+
+Short for Electronic Funds Transfer Point of Sale, it means customers pay funds (transfer) from their account to the merchants account electronically while still in the shop (the point of sale). To use EFTPOS you must have a special plastic card that is the "key" to your account and will let you access your money from merchants shops.
+
+EGA
+
+Abbreviation of enhanced graphics adapter, a graphics display system for PCs introduced by IBM in 1984. EGA supports 16 colors from a palette of 64 and provides a resolution of 640 by 350. This is better than CGA but not as good as VGA. EGA is now obsolete. 
+
+ego_surfing
+
+Ego-surfing refers to the act of using search engines to seek references to one's own website, or to view webpages that mention your own name (or company name). It is believed the term ego surfing was derived from the egosurf.com Web site that accommodated ego surfing. However, the website no longer exists as its original composition. The phrase ego surf is also written as ego-surf.
+
+EGP
+
+Short for exterior gateway protocol, a generic term for a routing protocol that is used to exchange routing information between two hosts in a network of autonomous systems. An EGP is typically used between hosts on the Internet to share routing table information.  BGP is an example of an EGP.  Compare with IGP.
+
+egress_traffic
+
+(ē´gres traf´ik) (n.) Network traffic that begins inside of a network and proceeds through its routers to a destination somewhere outside of the network. For example, an e-mail message that is considered egress traffic will travel from a user��s workstation and pass through the enterprise��s LANrouters before it is delivered to the Internet to travel to its final destination.
+Compare with ingress traffic.
+
+EHCI
+
+Short for Enhanced Host Controller Interface. The Enhanced Host Controller Interface (EHCI) specification describes the register-level interface for a Host Controller for the Universal Serial Bus (USB). The EHCI specification describes a host controller that correctly supports all compliant USB 2.0 low-, full-, and high-speed devices.  It includes a description of the hardware/software interface between system software and the host controller hardware. This specification is intended for hardware component designers, system builders and device driver developers.
+
+EIA
+
+Abbreviated EIA, a trade association representing the U.S. high technology community. It began in 1924 as the Radio Manufacturers Association. The EIA sponsors a number of activities on behalf of its members, including conferences and trade shows. In addition, it has been responsible for developing some important standards, such as the RS-232, RS-422 and RS-423 standards for connecting serial devices.
+
+EIDE
+
+Short for Enhanced IDE, a newer version of the IDE mass storage device interface standard developed by Western Digital Corporation. It supports data rates of between 4 and 16.6 MBps, about three to four times faster than the old IDE standard. In addition, it can support mass storage devices of up to 8.4 gigabytes, whereas the old standard was limited to 528 MB. Because of its lower cost, enhanced EIDE has replaced SCSIin many areas.
+EIDE is sometimes referred to as Fast ATA or Fast IDE, which is essentially the same standard, developed and promoted by Seagate Technologies. It is also sometimes called ATA-2.
+There are four EIDE modes defined. The most common is Mode 4, which supports transfer rates of 16.6 MBps. There is also a new mode, called ATA-3 or Ultra ATA, that supports transfer rates of 33 MBps.
+
+Eiffel
+
+An advanced programming language created by Bertrand Meyer and developed by his company, Interactive Software Engineering (ISE). The language was introduced in 1986 and a basic Windows compiler is available at no charge.  Eiffel encourages object-oriented program development and supports a systematic approach to software development. The Eiffel compiler generates C code, which you can then modify and re-compile with a C compiler. 
+
+Eight_to_Fourteen_Modulation
+
+Eight-to-Fourteen Modulation, or EFM as it is abbreviated, is an encoding technique used by CDs and provides a way of countering errors by encoding a byte into 2 bytes. Using EFM the data is broken into 8-bit blocks (bytes). Each 8-bit block is translated into a corresponding 14-bit codeword using a predefined lookup table. The 14-bit codeword are chosen so that binary ones are always separated by a minimum of two and a maximum of ten binary zeroes. EFM maximizes the number of transitions possible with an arbitrary pit and land length which is determined by the wavelength of the laser light used to read the data. Eight-to-Fourteen Modulation uses an RLL encoding scheme.
+
+EII
+
+Short for Enterprise Information Integration, EII is software that combines various data sources at an enterprise level in order to support applications that present or analyze the data in new ways. EII provides a service that allows administrators, developers, and end-users to treat a broad array of data sources as if they were one large database or data service.  EII is software infrastructure not an application. However, it does support the creation of applications.
+
+EIPP
+
+Short for Electronic Invoice Presentment and Payment, a B2B system of issuing invoices to customers via the Internet and receiving payment on the invoices electronically.
+
+EIS
+
+Abbreviated as EIS, Executive Information System is a reporting application targeted for use by executives. Same as decision support system.
+
+EISA
+
+Acronym for Extended Industry Standard Architecture, a bus architecture designed for PCs using an Intel 80386, 80486, or Pentium microprocessor. EISA buses are 32 bits wide and support multiprocessing.  The EISA bus was designed by nine IBM competitors (sometimes called the Gang of Nine): AST Research, Compaq Computer, Epson, Hewlett-Packard, NEC, Olivetti, Tandy, WYSE, and Zenith Data Systems. They designed the architecture to compete with IBM's own high-speed bus architecture called the Micro Channel architecture (MCA).  The principal difference between EISA and MCA is that EISA is backward compatible with the ISA bus (also called the AT bus), while MCA is not. This means that computers with an EISA bus can use new EISA expansion cards as well as old AT expansion cards. Computers with an MCA bus can use only MCA expansion cards.  EISA and MCA are not compatible with each other. This means that the type of bus in your computer determines which expansion cards you can install.  Neither EISA nor MCA has been very successful. Instead, a new technology called local bus (PCI) is being used in combination with the old ISA bus. 
+
+El_Torito
+
+A bootable CD-ROM format specification that allows a computer to boot from a CD-ROM. El Torito was proposed by  IBM and Phoenix Technologies. It is an extension to the ISO 9660 CD-ROM specification.
+
+electroluminescent_display_ELD
+
+A technology used to produce a very thin display screen, called a flat-panel display, used in some portable computers. An ELD works by sandwiching a thin film of phosphorescent substance between two plates. One plate is coated with vertical wires and the other with horizontal wires, forming a grid. When an electrical current is passed through a horizontal and vertical wire, the phosphorescent film at the intersection glows, creating a point of light, or pixel.  Other types of flat-panel displays include LCD  displays and gas-plasma displays, both of which are more common than ELDs.   
+
+electromagnetic_spectrum
+
+Abbreviated as EM, and also called just  spectrum or electromagnetic radiation spectrum, electromagnetic spectrum refers to the complete range of wavelengths of electromagnetic radiation. The electromagnetic spectrum includes the following different types of of radiation (from lowest energy to highest): radio, microwaves, infrared, visible, ultraviolet, X-rays and gamma-rays.  See RF for a list of radio frequencies within the electromagnetic spectrum.
+
+electron_trapping_optical_memory
+
+See ETOM.
+
+electronic_book
+
+An electronic version of a book. Types of e-book products available include the Rocket eBook, from Nuvomedia (www.nuvomedia.com) and the SoftBook from SoftBook Press (www.softbook.com). Both are small computers -- the size of a paperback and a legal notepad -- with backlighted screens that allow a user to read, save, highlight, bookmark, and annotate text. Both can download books from a Web site, such as barnesandnoble.com (although the Rocket eBook requires another PC).  
+
+electronic_commerce
+
+Often referred to as simply ecommerce (or e-commerce) the phrase is used to describe business that is conducted over the Internet using any of the applications that rely on the Internet, such as e-mail, instant messaging, shopping carts, Web services, UDDI, FTP, and EDI, among others. Electronic commerce can be between two businesses transmitting funds, goods, services and/or data or between a business and a customer.
+See Understanding "Web Services" in the "Did You Know...?" section of Webopedia.Also See "How Affiliate Marketing Works" in the "Did You Know..." section of Webopedia.Also see ECommerce-Guide to News, Reviews and Technology Solutions.
+
+electronic_discovery
+
+Electronic discovery, or e-discovery, is a type of  cyber forensics (also referred to as computer or digital forensics) and describes the process by where law enforcement can obtain, secure, search and process any electronic data for use as evidence in a legal proceeding or investigation. Electronic discovery may be limited to a single computer or a network-wide search.
+
+Electronic_Frontier_Foundation
+
+A non-profit organization dedicated to protecting civil liberties in the modern communications age. Its emphasis is on ensuring that the general public has equal access to new communications channels such as the Internet. It sponsors court cases and acts as an information clearinghouse. It has taken the lead in fighting efforts, such as the Clipper chip, to restrict Internet access.  
+
+Electronic_Funds_Transfer
+
+Often abbreviated as EFT, Electronic Funds Transfer is the paperless act of transmitting money through a computer network.
+
+electronic_goods
+
+Same as digital goods.
+
+electronic_image_stabilization
+
+Abbreviated as EIS, electronic image stabilization uses electronic processing to control image stability. If the device sensors detect camera shake, EIS responds by slightly moving the image so that it remains in the same place on the CCD. Electronic image stabilization may result in a decrease in picture resolution. Contrast with optical image stabilization (OIS).
+
+Electronic_Industries_Alliance
+
+Abbreviated EIA, a trade association representing the U.S. high technology community. It began in 1924 as the Radio Manufacturers Association. The EIA sponsors a number of activities on behalf of its members, including conferences and trade shows. In addition, it has been responsible for developing some important standards, such as the RS-232, RS-422 and RS-423 standards for connecting serial devices.
+
+electronic_paper
+
+Invented by Xerox at Xerox PARC, electronic paper (also known as epaper) is made from a display technology called gyricon.   A gyricon sheet is a thin piece of transparent plastic that contains millions of small beads. Each bead--half white half black--is contained in an oil-filled cavity and is free to rotate within its cavity.   Epaper is electrically writable and erasable and can be re-used 1000s of times. When voltage is applied to the surface of the sheet, the beads rotate to display either their black sides or white sides. Images of pictures and text are created when a pattern of voltages are sent to the paper. The image will remain until the voltage pattern changes. 
+
+electronic_publishing
+
+Publishing information in an electronic form. This includes publishing CD-ROMs as well as making information available through online services.  
+
+electronic_retouching
+
+The term used to describe the process of enhancing or changing a digital image through the use of graphics and other editing software. See also "The Digital Camera Picture" in Webopedia's Quick Reference section. 
+
+electronic_scabbing
+
+Adapted from the slang term scab (a strike-breaker or one who crosses a strike line to work in place of striking employees), electronic scabbing refers to the practice used by managers and other executives when computer networks are used to transfer electronic documents (e.g., accounting, clerical, word processing,  databases, records) to a non-striking workforce.
+
+electronic_shopping_cart
+
+An electronic commerce tool (software or service) that is the user-interface for the customer to shop at online stores. It allows users to place items in a "shopping basket", and the cart remembers these items for a predetermined length of time. Extra features such as different color or size options, quantity of order, and matching item links can be found linked from the shopping cart. Once a shopper inputs his shipping address, taxes and shipping costs can also be tallied from within the shopping cart. For the merchant, the shopping cart also provides important information, which is often transparent to the shopper including a cart number to track the order, and a cookie to provide you with some limited tracking details about your customer.
+
+e_waste
+
+Short for electronic waste. The term e-waste is applied to all waste caused by discarding electronic devices, especially consumer electronics. E-waste is a major concern in areas of personal computing and wireless devices that are quickly discarded by consumers. The lifespan of these electronics are short-lived due to rapid technological advances and lower costs to purchase each year. Consumers generally buy new instead of reusing because their electronic device quickly becomes obsolete or it may be cheaper to purchase new. Inkjet printers are one example of a common e-waste problem as consumers believe they can save money to purchase a new printer with ink than to buy ink refill for their old one.
+
+electronic_zoom
+
+Found on digital cameras and camcorders electronic zoom indicates the availability of electronic controls that can be used to zoom the lens in and out. Some camcorders only have electronic zoom.
+
+elementary_stream
+
+Video or audio streams that are not multiplexed together as a single file. The format of the elementary stream depends upon the codec or data carried in the stream.
+
+ELF_emission
+
+ELF stands for extremely low frequency, and ELF emissions are magnetic fields generated by common electrical appliances. There is considerable debate about whether ELF emissions from computer monitors pose a threat. Some European countries have adopted regulations controlling the amount of allowable emission. The most well-know regulation is Sweden's MPR II standard. You can play it safe by buying MPR II-compliant monitors.  
+
+Elina
+
+Elina is the corporate name of a networking and IT management solution provider. The company offers enterprise-class solutions for business continuity and visibility, through robust network security, reliable connectivity, and effective remote IT management. The company's flagship product family is the ENPAQ suite of products that are designed to connect, secure, integrate, and manage connectivity, data & applications using a distributed management framework and virtualization architecture. The solutions include ENPAQ Unified Gateway, ENPAQ VPN Concentrator, and ENPAQ Enterprise Manager. Elina Networks was founded in 2005 in Bangalore, India.
+
+EM64T
+
+Intel Extended Memory 64 Technology (EM64T) enables 64-bit computing on the server, workstation and desktop platforms when combined with supporting software. Intel EM64T improves performance by allowing the system to address more than 4 GB of both virtual and physical memory. Intel EM64T provides support for:  64-bit flat virtual address space 64-bit pointers 64-bit wide general purpose registers 64-bit integer support Up to 1 terabyte (TB) of platform address space  Also see  All About Dual-Core Processors in Webopedia's "Did You Know...?" section.
+
+eMac
+
+The eMac is Apple's affordable and durable all-in-one computer designed specifically for education. eMac comes complete with a 17-inch display, a powerful PowerPC G4 processor, a SuperDrive option, and a space-saving design that fits easily on a school desk.
+
+e_mail
+
+Short for electronic mail, email (or e-mail) is defined as the transmission of messages over communications networks. Typically the messages are notes entered from the keyboard or electronic files stored on disk. Most mainframes, minicomputers, and computer networks have an email system.
+Some electronic mail systems are confined to a single computer system or network, but others have gateways to other computer systems, enabling users to send electronic mail anywhere in the world. Companies that are fully computerized make extensive use of e-mail because it is fast, flexible, and reliable.
+Typical Components of an Email System
+Most e-mail systems include a rudimentary text editor for composing messages, but many allow you to edit your messages using any editor you want. Some systems will also provide basic formatting, including bold, italics, font color and HTML. You can use the program to send the message to a recipient by specifying the recipient's address. You can also send the same message to several users at once. This is called broadcasting.
+
+e_mail_appending
+
+(ē´māl &-pend´ing) (n.) The process of merging a database of customer information that lacks email addresses for the customers with a third-party's database of email addresses in an attempt to match the e-mail addresses with the information in the initial database. A typical email appending scenario involves a business that has name, address and telephone data on its customers to do business through mail or over the telephone, but the company wants to expand into e-mail communication and pays a third party that has a database of e-mail addresses in order to merge the data together.
+
+email_fax
+
+Email fax services enable users to send faxes through their email accounts (fax from email) and receive faxes as PDF attachments (fax to email) in their email inboxes.  Email fax companies generally charge a monthly fee for their services and have tiered plans based on the number of email fax users as well as incoming and outgoing email faxes per month.
+For more information see the Internet fax, IP faxing and fax over Internet Protocol terms in Webopedia. 
+
+email_marketing
+
+A type of  direct  digital marketing that uses electronic mail (also  called email or e-mail) as the marketing communication delivery method.  Email marketing is used in a number of ways by organizations and marketers for  brand and customer loyalty building, acquiring or converting customers, company  advertisements, or for communicating promotional offers and more.
+See  direct  digital marketing. See also the "Small  Business Marketing Guide" on Webopedia.com for more information on email  marketing.
+
+e_mail_server
+
+Often referred to as simply "mail server", an e-mail server is a computer within your network that works as your virtual post office. A mail server usually consists of a storage area where where e-mail is stored for local users, a set of user definable rules which determine how the mail server should react to the destination of a specific message, a database of user accounts that the mail server recognizes and will deal with locally, and communications modules which are the components that actually handle the transfer of messages to and from other mail servers and email clients.
+Generally the person(s) responsible for the maintenance of the e-mail server (editing users, monitoring system activity) are referred to as the postmaster. Most mail servers are designed to operate without any manual intervention during normal operation.
+
+email_services
+
+Also known as webmail, online email service providers enable users to send, receive and review e-mail from their Web browsers.  Email services offer easy access and storage of e-mail messages for users who are not connected to the Internet from their usual location.
+When logging into an email service, users simply enter the Webmail Web site URL in their browser's address or location field, and use their Webmail account by typing in a username and password.  Instead of the e-mail being downloaded to the computer used for checking the e-mail account from, the messages will stay on the provider's server, allowing the user to access all their e-mail messages regardless of what system or ISP is being used.
+Email services offer many of the same features and functionality for managing e-mail as desktop email software counterparts like Microsoft Outlook and Mozilla Thunderbird.  Some of the more popular online email services are Yahoo! Mail, Gmail, Hotmail and AOL Mail.
+
+email_software
+
+Software for creating, sending, receiving and organizing electronic mail, or email. Modern desktop email clients like Microsoft Outlook, Windows Live Mail and Mozilla Thunderbird offer advanced features for managing email, including WYSIWYG editors for composing email messages, anti-spam and anti-phishing security protection, advanced search capabilities, and rules and filters for more efficiently handling and organizing messages and email folders.
+A large number of online email services, called webmail, exist with features and functionality for managing e-mail similar to their desktop email software counterparts. Some of the more popular online email services are Yahoo! Mail, Gmail, Hotmail (Windows Live Mail) and AOL Mail.
+Top 5 Business Software Questions
+1. What is software? 2. What is tax software? 3. What is accounting software? 4. What is billing software?  5. What is software licensing?
+
+embedded_command
+
+In word processing, an embedded command is a sequence of special characters inserted into a document that affects the formatting of the document when it is printed. For example, when you change fonts in a word processor (by specifying bold type), the word processor inserts an embedded command that causes the printer to change fonts. Embedded commands can also control the display screen, causing it to display blinking characters or produce other special effects.  Embedded commands are usually invisible when you edit a file, but many word processors support a special mode that lets you see these commands.  
+
+embedded_file
+
+When designing a Web page, an embedded file refers to any type of multimedia file that you might insert, or embed into the Web page. This includes files like graphics and sound files.
+
+embedded_object
+
+An object created with one application and embedded into a document created by another application. Embedding the object, rather than simply inserting or pasting it, ensures that the object retains its original format. In fact, you can modify the embedded object with the original program. In Windows environments, embedding objects is made possible by a technology called OLE.  
+
+embedded_system
+
+A specialized computer system that is part of a larger system or machine. Typically, an embedded system is housed on a single microprocessor board with the programs stored in ROM. Virtually all appliances that have a digital interface -- watches, microwaves, VCRs, cars -- utilize embedded systems. Some embedded systems include an operating system, but many are so specialized that the entire logic can be implemented as a single program.
+
+
+EMC
+
+Short for Electromagnetic Compatibility, EMC is the term used to describe how well a device or system is able to function in an electromagnetic environment without introducing electromagnetic disturbances that interfere with the operation of other electrical products in the environment. Electronic devices that can function and meet the criteria are called electro-magnetically compatible devices. See also EMI.
+
+EMEA
+
+Short for Europe, Middle East and Africa, a term used in traditional and electronic commerce to signify activities in those regions of the world or to refer specifically to those regions.
+
+EMI
+
+Short for electromagnetic interference, a naturally occurring phenomena when the electromagnetic field of onedevicedisrupts, impedes or degrades the electromagnetic field of another device by coming into proximity with it.
+In computer technology, computer devices are susceptible to EMI because electromagnetic fields are a byproduct of passing electricity through a wire. Data lines that have not been properly shielded are susceptible to data corruption by EMI.
+
+emr-electronic-medical-record
+
+EMR is short for electronic medical record.
+An electronic medical record is a digital version of the paper file used in a physician's office or clinic. The EMR contains the medical history of all patients who use the practice and is part of the internal patient record-keeping process.
+An EMR provides immediate access to each individual patient's history, allowing the practice to track patient history and identify patients who are due for visits, tests or screenings. It may also be used to assist with diagnosis and treatment.
+
+EMS
+
+(1) Short for  Expanded Memory Specification. (2) Short for  Enhanced Messaging Service. (3)  Short for  Enterprise Messaging System.
+
+emulation
+
+Refers to the ability of a program or device to imitate another program or device. Many printers, for example, are designed to emulate Hewlett-Packard LaserJet printers because so much software is written for HP printers. By emulating an HP printer, a printer can work with any software written for a real HP printer. Emulation tricks the software into believing that a device is really some other device.  Communications software packages often include terminal emulation  drivers . This enables your PC to emulate a particular type of terminal so that you can log on to a mainframe.  It is also possible for a computer to emulate another type of computer. For example, there are programs that enable an Apple Macintosh to emulate a PC. 
+
+emulator
+
+See emulation.
+
+Enairo
+
+An Enairo is a Web site, or Web based community deemed suitable for a family and general audience. Enairos are free from any content which may be regarded as unsuitable to children and families.
+
+encapsulation
+
+(1) In programming, the process of combining elements to create a new entity. For example, a procedure is a type of encapsulation because it combines a series of computer instructions. Likewise, a complex data type, such as a record or class, relies on encapsulation. Object-oriented programming languages rely heavily on encapsulation to create high-level objects. Encapsulation is closely related to abstraction and information hiding.
+(2) In networking, same as tunneling.
+
+
+encode
+
+The phrase used to describe the method of preparing data for storage or transmission. Encoding data usually means redundancies are eliminated and complexity in the data is reduced. Compression algorithms are also based on one or more encoding methods. See also encoding.Contrast with decode.
+
+encoder
+
+(1) A device or program that uses predefined algorithms to encode, or compress audio or video data for storage or transmission use. See also decoder. (2) A circuit that is used to convert between digital video and analog video.
+
+encoding
+
+(1) In computer technology, encoding is the process of putting a sequence of characters into a special format for transmission or storage purposes.  (2) The term used to reference to the processes of analog-to-digital conversion, and can be used in the context of any type of data such as text, images, audio, video or multimedia.
+
+encryption
+
+The translation of data into a secret code. Encryption is the most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. Unencrypted data is called plain text ; encrypted data is referred to as cipher text.
+There are two main types of encryption: asymmetric encryption (also called public-key encryption) and symmetric encryption.
+ 
+
+encryption_algorithm
+
+A mathematical procedure for performing encryption on data. Through the use of an algorithm, information is made into meaningless cipher text and requires the use of a key to transform the data back into its original form. Blowfish, AES RC4, RC5, and RC6 are examples of encryption algorithms.
+
+End_key
+
+A special cursor control key on PC keyboards and Macintosh extended keyboards. The End key has different meanings depending on which program is running. For example, it might move the cursor to the end of the line, the end of the page, or the end of the file.  
+
+end_user
+
+The final or ultimate user of a computer system. The end user is the individual who uses the product after it has been fully developed and marketed. The term is useful because it distinguishes two classes of users, users who require a bug -free and finished product (end users), and users who may use the same product for development purposes. The term end user usually implies an individual with a relatively low level of computer expertise. Unless you are a programmer or engineer, you are almost certainly an end user.
+
+
+end_user_computing
+
+Using a computer at the application level. The term end-user is used to distinguish the person for whom the product was designed from the person who programs, services, or installs the product. Developers working on a personal computer   in a professional capacity, for example, are not considered end-users. 
+
+endpoint
+
+SIP or H.323 terminal or gateway. An endpoint can call and be called. It generates and terminates the information stream.
+
+endpoint_identifiers
+
+Abbreviated as EID, an endpoint identifier is used to specify and uniquely identify endpoints connected to the network. Information about the topological location of an endpoint in an internetwork is given by a locator. The Nimrod Routing Architecture uses endpoint identifiers.
+
+endpoint_security
+
+
+HTML clipboard
+<!--
+.style1 {
+	color: #FF0000;
+}
+-->
+In network security, endpoint security refers to a  methodology of protecting the corporate network when accessed  via remote devices such as laptops or other wireless and mobile devices. Each  device with a remote connecting to the network creates a potential entry point  for security threats.  Endpoint security is designed to secure each endpoint on the network created  by these devices.
+Usually, endpoint security is a security system that consists of security software, located on  a centrally managed and accessible server or gateway within the  network, in addition to  client software being installed on each of the endpoints (or devices).   The server authenticates logins from the endpoints and also updates the device  software when needed. While endpoint security software differs by vendor, you  can expect most software offerings to provide antivirus, antispyware, firewall  and also a host intrusion prevention system (HIPS).
+
+Energy_Star
+
+A voluntary labeling program of the U.S. Environmental Protection Agency (EPA) and the U.S. Department of Energy that identifies energy efficient products. Qualified products exceed minimum federal standards for energy consumption by a certain amount, or where no federal standards exist, have certain energy saving features. Such products may display the Energy Star label. 
+
+engine
+
+The code or software used as the basis for building a game. The game engine literally powers the entire game. Some developers license a game engine to other developers who build a new game based on the technology of the game engine.
+
+Enhanced_Intel_SpeedStep_Technology
+
+Abbreviated as EIST, an Intel thermal and power management technology that allows the the processor performance and power consumption levels to be modified while a system is running. Enhanced Intel SpeedStep Technology works via application software, which changes the bus-to-core frequency ratio and the processor core voltage. The operating state is determined by things such as the system power source, the processor thermal state, and even the operating system policy. Enhanced Intel SpeedStep Technology is supported on current and future generations of Intel Pentium M Processors.
+
+Enhanced_Interior_Gateway_Routing_Protocol
+
+Abbreviated as EIGRP, an evolved version of IGRP that addresses the demands of large-scale internetworks and the changes in network technology that have been developed since the implementation of IGRP. Routers that already use IGRP can use EIGRP because the metrics for both protocols are directly translatable, i.e., they are as easily comparable as if they were routes that originated in their own autonomous systems.  A router running EIGRP stores copies of all its neighbors' routing tables so that it can quickly adapt to alternate routes. If no appropriate route exists, EIGRP queries its neighbors to discover an alternate route. These queries propagate until an alternate route is found. Unlike some earlier routing protocols that would send an entire table to neighboring routers when one routing table entry changed, EIGRP notifies the neighbors of only the specific change in the table.  Unlike IGRP, EIGRP uses the Diffusing-Update Algorithm (DUAL) developed at SRI International.
+
+Enhanced_Keyboard
+
+(1) A 101- or 102-key keyboard from IBM that supersedes the keyboard for the PC /AT computer. The most significant difference between the enhanced keyboard and previous models is that the enhanced keyboard has a row of 12 function keys at the top instead of 10 function keys grouped on the left side of the keyboard. Nearly all PCs made today come with an Enhanced Keyboard.  (2) For Macintoshes, see under extended keyboard.  
+
+Enhanced_Message_Service
+
+Abbreviated as EMS, an application-level extension to SMS for cellular phones available on GSM, TDMA and CDMA networks. An EMS-enabled mobile phone can send and receive messages that have special text formatting (such as bold or italic), animations, pictures, icons, sound effects and special ring tones.  EMS messages that are sent to devices that do not support it will be displayed as SMS transmissions.  EMS, also referred to as Enhanced Messaging Service, is a cross-industry collaboration between Ericsson, Motorola, Siemens and Alcatel, among others.  Also see SMS and MMS.
+
+ENIAC
+
+Acronym for Electronic Numerical Integrator And Computer, the first operational electronic digital computer in the U.S., developed by Army Ordnance to compute World War II ballistic firing tables. The ENIAC, weighing 30 tons, using 200 kilowatts of electric power and consisting of 18,000 vacuum tubes, 1,500 relays, and hundreds of thousands of resistors, capacitors, and inductors, was completed in 1945. In addition to ballistics, the ENIAC's field of application included weather prediction, atomic-energy calculations, cosmic-ray studies, thermal ignition, random-number studies, wind-tunnel design, and other scientific uses. The ENIAC soon became obsolete as the need arose for faster computing speeds.
+
+ENIW
+
+A Web-enabled Ethernet Networking Interface. This module presents additional remote Web capabilities by providing read/write access via the Internet.  See also Ethernet Networking Interface.
+
+enlightenment
+
+Enlightenment is a window manager and desktop environment for Linux and UNIX-based operating systems. It is also a suite of libraries known as EFL (the Enlightenment Foundation Libraries) to create user interfaces with much less work than using traditional toolkits. Enlightenment libraries power millions of systems, from mobile phones to set top boxes, desktops, laptops, game systems and more.
+
+enrollee
+
+(n.) In a biometric security system, a person who has a reference template in the system��s database.  Compare with impostor.
+
+enrollment
+
+(n.) In a biometric security system, the initial process of collecting biometric data samples from a person and subsequently storing the data in a reference template representing a user��s identity to be used for later comparison.
+
+Enter_key
+
+A key that moves the cursor (or insertion point) to the beginning of the next line, or returns control to whatever program is currently running. After a program requests information from you (by displaying a prompt), it will usually not respond to your input until you have pressed the Enter or Return key. This allows you to correct typing mistakes or to reconsider your entry before it is too late. In many applications, pressing the Enter key moves the cursor to the next field. In graphical user interfaces, pressing Enter activates the currently selected button or option.  
+
+enterprise
+
+(n.) A business organization. In the computer industry, the term is often used to describe any large organization that utilizes computers. An intranet, for example, is a good example of an enterprise computing system.
+
+
+enterprise_application
+
+An enterprise application is the phrase used to describe applications (or software) that a business would use to assist the organization in solving enterprise problems. When the word "enterprise" is combined with "application," it usually refers to a software platform that is too large and too complex for individual or small business use.
+Integration and Deployment
+Enterprise applications are typically designed to interface or integrate with other enterprise applications used within the organization, and to be deployed across a variety of networks (Internet, Intranet and corporate networks) while meeting strict requirements for security and administration management.
+Proprietary Enterprise Apps
+Proprietary enterprise applications are usually designed and deployed in-house by a specialized IT development team within the organization. However, an enterprise may  outsource some or all of the development of the application, and bring it back in-house for deployment.
+
+enterprise-cloud-backup
+
+Enterprise-grade cloud backup solutions typically add essential features such as archiving and disaster recovery to cloud backup solutions. Archiving features help to satisfy an enterprise's legal requirements for data retention, and as part of a company's disaster recovery plan, the remote, off-site storage provided by cloud backup helps ensure the data remains safe should the enterprise's local data be jeopardized by a disaster such as a fire, flood, hacker attack or employee theft.
+See cloud backup for a better understanding of this term.
+Recommended Reading: Cloud Backup Resources and Best Practice Advice.
+
+enterprise-collaboration-platform
+
+In enterprise collaboration the platform generally refers to the system that combines tools and processes to ensure employees can connect and collaborate with the people, information and the resources they require at any given time.
+Collaboration Tools
+Collaboration platforms typically include an email client, Web conferencing, social media sharing, video capabilities, document sharing capabilities, instant messaging and more. Enterprise collaboration platforms are designed to be installed on-premises or deployed via the Web as cloud-based services.
+Recommended Reading: See also enterprise collaboration and enterprise collaboration systems for a better understanding of this term.
+
+Enterprise_Collaboration_Systems_ECS
+
+Abbreviated as ECS, Enterprise Collaboration Systems is a type of information system (IS). ECS is a combination of groupware, tools, Internet, extranets and other networks needed to support enterprise-wide communications, such as the sharing of documents and knowledge to specific teams and individuals within the enterprise. Some examples of enterprise communication tools include e-mail, videoconferencing, collaborative document sharing, project management tools and others. The objective of an ECS is to provide each user with the tools for managing communications, documents and other information that individuals need to manage their own tasks efficiently in their departments.
+
+
+Enterprise_Content_Management
+
+Abbreviated as ECM, Enterprise Content Management is the document management term which describes the technologies used by organizations to capture, manage, store, and control enterprise-wide content, including documents, images, e-mail messages, instant messages, video, and more. ECM software is used to assist in content control associated with business process, and can be used to assure compliance (Sarbanes-Oxley , HIPPA, etc.). ECM has emerged from the convergence of many related technologies such as document management, Web content management, and collaboration.
+
+Enterprise_Feedback_Management
+
+EFM or Enterprise Feedback Management is the term used to describe enterprise-wide online survey software. EFM software supports advanced survey design with CRM integration and advanced reporting with statistical analysis, a centralized panel management and workflow process to ensure consistent survey quality and enforce respondent privacy and IT security policies. Additionally, multiple departments within an organization can collaborate on survey initiatives, share results and gain insights that impact bottom-line results. [Adapted from Qualtrics.com]
+
+Enterprise_JavaBeans
+
+Enterprise JavaBeans (EJB) is a Java API developed by Sun Microsystems that defines a component architecture for multi-tier client/server systems.   EJB systems allow developers to focus on the actual business architecture of the model, rather than worry about endless amounts of programming and coding needed to connect all the working parts. This task is left to EJB server vendors. Developers just design (or purchase) the needed EJB components and arrange them on the server.   Because EJB systems are written in Java, they are platform independent. Being object oriented, they can be implemented into existed systems with little or no recompiling and configuring. 
+
+Enterprise_Linux
+
+Enterprise Linux is the term used to reference any distribution (distro) of the open source Linux operating system that is targeted to the commercial market — not to consumers—for use on corporate or small business servers, desktops, workstations and mobile deployments. Some of the different Enterprise Linux distributions include Red Hat Enterprise Linux (RHEL), CentOS, Oracle Enterprise Linux, and SUSE Linux Enterprise Desktop (SLED).
+
+enterprise_messaging_system
+
+Abbreviated as EMS, an enterprise messaging system is an enterprise-grade system that enables "program-to-program" messaging between applications and systems throughout an enterprise.  Enterprise messaging is widely used today for integrating various disparate enterprise applications. It is a software interface that enables loosely coupled asynchronous data (messages) to be sent by one program and stored in a message queue until the receiving program is able to process it. Its important to note that while the term messaging can be used to describe e-mail, fax,  instant messages and other services where humans read and send the messages, in EMS terminology the word messaging is used to describe asynchronous messages that consists of requests, reports or events that are consumed by enterprise applications and not humans. These messages contain information that is needed to coordinate systems and track progress of the enterprise.  Enterprise messaging systems, which are language and platform-independent solutions, are also called messaging services, or more formally, messaging-oriented middleware (MOM).
+
+Enterprise_Relationship_Management
+
+Enterprise Relationship Management (ERM) relates to solutions allowing an enterprise to share customer, product, competitor and market information to accomplish goals of meeting long-term customer satisfaction and increased revenues.
+
+enterprise_search
+
+Enterprise search is an extensive search system that provides the means to search both structured and unstructured data sources with a single query. It addresses the needs of businesses that need to store, retrieve and track digital information of all kinds. Data sources in enterprise search systems includes information stored in many different containers such as e-mail servers, application databases, content management systems, file systems, intranet sites and external Web sites. Enterprise search systems provide users with fast query times and search results that are usually ranked in such a way that the information you need is easily accessible.
+Enterprise search systems typically do not search the public Internet, but rather everything that is contained within the organization's own private corporate network, on the inside of the firewall.
+
+
+enterprise_storage
+
+Enterprise storage is a broad category that includes products and services designed to assist large organizations with saving and retrieving digital information. Unlike consumer or small business storage devices, enterprise storage can handle large volumes of data and large numbers of users. It usually involves centralized storage repositories, such as storage area networks (SANs) or network-attached storage (NAS) devices.
+Enterprise storage can be broken down into several categories. Primary storage houses the data that end users are actively accessing. Backup storage contains copies of the information in primary storage for use in disaster recovery situations or in other circumstances where a secondary copy is necessary. Backup storage is closely related to archive storage, which is where enterprises keep outdated information that needs to be saved for compliance or other purposes.
+Benefits of Enterprise Storage: On-Premises or Cloud Deployment
+Organizations can choose to purchase and deploy on-premises enterprise storage systems, or they can choose to store their data with an external cloud computing service. The advantage of on-premises enterprise storage is that the organization retains complete control of the hardware and data, satisfying some security and compliance concerns. On the other hand, cloud-bases enterprise storage simplifies storage management and may lower costs in some cases. Some companies take a hybrid approach and use a combination of both on-premise and cloud-based storage.
+
+enterprise_voip
+
+Enterprise VoIP services are enterprise-grade versions of residential VoIP and business VoIP solutions that provide large organizations with advanced features and functionality such as private branch exchange (PBX) capabilities, conference calling, desk-to-desk calling, music on hold and automated attendants.
+Enterprise VoIP offerings may also offer an additional level of security such as IPSec encryption, Voice over Secure IP (VoSIP), Secure Voice over IP (SVoIP) or Secure Voice over Secure IP (SVoSIP) to help protect confidential VoIP communications.
+As with all VoIP (or Internet telephony) solutions, enterprise VoIP utilizes packet-switched telephony to transmit calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN).
+
+enterprise_whuffie
+
+A slang term coined by Steve Gillmor to mean "the reputation of importance that employees would be able to acquire by becoming known as experts in different areas". The reference originally appeared in Steve Gillmor's eWeek column on Messaging and Collaboration that discusses Socialtext and the nature of relationships in enterprise social software.
+
+entity_relationship_diagram
+
+An entity relationship model, also called an entity-relationship (ER) diagram, is a graphical representation of entities and their relationships to each other, typically used in computing in regard to the organization of data within databases or information systems. An entity is a piece of data-an object or concept about which data is stored.
+Relationships Between Entities
+A relationship is how the data is shared between entities. There are three types of relationships between entities:
+1. One-to-One
+One instance of an entity (A) is associated with one other instance of another entity (B). For example, in a database of employees, each employee name (A) is associated with only one social security number (B).
+
+2. One-to-Many
+One instance of an entity (A) is associated with zero, one or many instances of another entity (B), but for one instance of entity B there is only one instance of entity A. For example, for a company with all employees working in one building, the building name (A) is associated with many different employees (B), but those employees all share the same singular association with entity A.
+
+
+
+entropy_coding
+
+Entropy coding is a type of lossless coding to compress digital data by representing frequently occurring patterns with few bits and rarely occurring patterns with many bits. Huffman coding is a type of entropy coding.
+
+Entune
+
+An information and entertainment "in-vehicle infotainment" system that’s offered with select Toyota vehicles such as the 2012 Camry and 2012 Prius v.  Drivers of Toyotas equipped with an Entune-enabled system have access via Bluetooth technology or a USB cable to mobile applications and data services that are provided via the driver’s data-enabled smartphone.
+Current Entune apps include Microsoft Bing, Pandora, OpenTable, MovieTickets.com and iHeartRadio, and services provided by Entune include a fuel guide that displays local gas prices, sports news and scores, traffic condition updates, and weather reports.  Toyota has also utilized technology from Nuance Communications and VoiceBox for sophisticated voice input capabilities in Entune.
+Entune competes in the nascent in-vehicle infotainment category with the likes of Ford's SYNC, Kia Motors' UVO, Cadillac’s CUE and Fiat's Blue&Me offerings.  Entune, like many of the in-vehicle infotainment systems currently available, is powered by Intel's Atom processor and Microsoft's Windows Embedded Automotive 7 platform, while some competing solutions such as Cadillac's CUE system are based on Linux.
+
+ENUM
+
+ENUM (RFC 2916) is the Internet Engineering Task Force (IETF) protocol that will assist in the convergence of the Public Switched Telephone Network (PSTN) and the IP network; it is the mapping of a telephone number from the PSTN to Internet services  telephone number in, URL out. ENUM was developed as a solution to the question of how to find services on the Internet using only a telephone number, and how telephones, which have an input mechanism limited to twelve keys on a keypad, can be used to access Internet services.
+
+environment
+
+(1) The state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a UNIX environment, it means running a program on a computer that has the UNIX operating system.  One ingredient of an environment, therefore, is the operating system. But operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together constitute the environment.  Another term for environment in this sense is platform.  (2) In DOS systems, the environment is an area in memory that the operating system and other programs use to store various types of miscellaneous information. For example, your word processor may use the environment area to store the location of backup files. You can view or modify the environment with the SET command.   
+
+EOF_mark
+
+Short for end-of-file mark, a special character or sequence of characters that marks the end of a file. Operating systems need to keep track of where every file ends. There are two techniques for doing this: One is to put a special end-of-file mark at the end of each file. The other is to keep track of how many characters are in the file.  In many operating systems, including DOS and OS/2, the end-of-file mark is CTRL -Z.
+
+EOL_mark
+
+Short for end-of-line mark, a special character or sequence of characters that marks the end of a line. For many programs, the EOL character is CTRL -M (carriage return) or CTRL -J (new line). End-of-line can also be abbreviated EOLN.  
+
+EoPOF
+
+Short for Ethernet over Plastic Optical Fibre, EoPOF is used in home and office network cabling. Ethernet over Plastic Optical Fibre uses optical wave guiding to transmit data between devices. Because EoPOF cables are made of plastic, they can be easily cut with scissors, and there is no need to terminate copper cables or polish glass optical fiber. In addition to ease of use and installation, EoPOF cables are also immune to electromagnetic interference and are cheaper than optical fiber.  See also plastic optical fiber.
+
+EPEAT
+
+Short for Electronic Product Environmental Assessment Tool, EPEAT is a procurement tool designed to help large volume purchasers in the public and private sectors evaluate, compare, and select desktop computers, notebooks and monitors based on their environmental attributes. Manufacturers use an online registration process to identify which criteria each of their products meets. Products are then listed on the EPEAT database.
+
+EPG
+
+Short for electronic programming guide, EPG is a program used by viewers to select a channel on  digital television systems. An EPR can be found on tuner boxers for satallite or cable TV, DVRs, and now even on TVs and DVD recorders. The EPG is an on-screen menu that allows the viewer navigate the channels available and also choose to view a set of channels by genre.
+
+EPLD
+
+Short for electrically programmable logic device, an integrated circuit that is comprised of an array of programmable logic devices that do not come pre-connected; the connections are programmed electrically by the user.
+
+EPO
+
+Short for emergency power off; also referred to as an EPO switch. A button or switch that shuts down the power in a room or network of electrical circuits. Typically used in data centers, where there are large amounts of computers using large amounts of electricity, the EPO is meant to be activated by a human only in emergency situations when it is necessary to cut the power if human life is in jeopardy or if there is the potential for major damage to the building or equipment (e.g., in the case of a fire or electrocution). The sudden loss of power will inevitably lead to the loss of some data, and the EPO is not meant to be used under normal circumstances.
+
+EPOC
+
+An operating system from Psion Software, designed specifically for mobile, ROM -based computing devices. EPOC16 is a 16-bit version of the operating system that has been available for several years and is embedded in many handheld devices. EPOC32 is a newer, 32-bit operating system that supports preemptive multitasking. EPOC is competing head-to-head with Windows CE in the grow PDA market. 
+
+EPP
+
+Short for Enhanced Parallel Port, a parallel port standard for PCs that supports bi-directional communication between the PC and attached non-printer devices. EPP is about 10 times faster than the older Centronics standard.  Another modern parallel port for PCs that offers similar performance is the ECP (Extended Capabilities Port).  
+
+EPROM
+
+Acronym for erasable programmable read-only memory, and pronounced ee-prom, EPROM is a special type of memory that retains its contents until it is exposed to ultraviolet light. The ultraviolet light clears its contents, making it possible to reprogram the memory. To write to and erase an EPROM, you need a special device called a PROM  programmer  or PROM burner.
+An EPROM differs from a PROM in that a PROM can be written to only once and cannot be erased. EPROMs are used widely in personal computers because they enable the manufacturer to change the contents of the PROM before the computer is actually shipped. This means that bugscan be removed and new versions installed shortly before delivery.
+
+
+EPS
+
+Abbreviation of Encapsulated PostScript. Pronounced as separate letters, EPS is the graphics file format used by the PostScript language.  EPS files can be either binary or ASCII. The term EPS usually implies that the file contains a bit-mapped representation of the graphics for display purposes. In contrast, PostScript  files  include only the PostScript commands for printing the graphic.   
+
+Enterprise_Portal_Software
+
+Abbreviated as EPS, Enterprise Portal Software is a prepackaged software kit used by the enterprise to integrate its information and processes. Organizations use portals primarily to aggregate information from a number of different sources, including disparate systems, and provide this information to authorized users in a neatly managed single screen or system.
+Typical EPS Interface
+EPS usually offer a Web-based interface to provide a secure unified access point through which information is aggregated to application-specific portlets.  Enterprise Portal Software lets authorized users access Web services, and portals can be combined to form portal networkswhich can cover an organization's entire enterprise system.
+
+EPUB
+
+Short for electronic publication, EPUB is the most widely supported open, free e-book format, with popular e-book readers like Barnes and Noble's Nook, Apple iOS-powered devices such as the iPad and iPhone, the Sony Reader and more supporting the standard.  Of the major e-book readers on the market today, only Amazon's Kindle lacks built-in support for the EPUB format.
+Currently in version 3.0, the EPUB standard was originally created by the International Digital Publishing Forum (IDPF) in 2007. In addition to EPUB being supported by most popular e-book readers, the format can also be read on Android devices via apps like Moon+ Reader and WordPlayer, Windows Phone 7 via apps like Freda, and Mozilla Firefox via browser add-ons like EPUBReader and Okular. EPUB files use the .epub file extension.
+
+equal_error_rate
+
+(ē´kw&l er´&r rāt) (n.) Abbreviated as EER. A biometric security system predetermines the threshold values for its false acceptance rate and its false rejection rate, and when the rates are equal, the common value is referred to as the equal error rate. The value indicates that the proportion of false acceptances is equal to the proportion of false rejections. The lower the equal error rate value, the higher the accuracy of the biometric system.  Also referred to as crossover rate or crossover error rate (CER).
+
+equalization
+
+Abbreviated as EQ, in audio processing, equalization is the process of modifying the frequency of a sound. Equalization is most commonly used to correct signals that sound unnatural. For example, if a sound was recorded in a room that accentuates high frequencies, an equalizer can reduce those frequencies to a more normal level.
+
+equipment_footprint
+
+In data center terminology, the equipment footprint refers to the physical area that is occupied only by data center equipment. It would not include areas such as aisles between racks and any space left at end of equipment rows.
+
+erasable_optical_disk
+
+A type of optical disk that can be erased and loaded with new data. In contrast, most optical disks, called CD-ROMs, are read-only. Also see Understanding CD Burner Speeds in the Did You Know . . . ? section of Webopedia.
+
+ERCIM
+
+Short for European Research Consortium for Informatics and Mathematics, it is the European host of the  W3C, an international consortium of companies involved with the Internet and the Web. ERCIM was founded in 1989 by INRIA, GMD (now merged with Fraunhofer-Gesellschaft, Germany), and CWI (Centrum voor Wiskunde en Informatica, The Netherlands), to build a European not-for-profit consortium dedicated to the advancement of information technology and applied mathematics.
+
+ERD
+
+Short for Emergency Repair Disk, a Windows backup disk created by using the Backup utility. The ERD contains information about the current Windows system settings and can be used to rebuild the system if the file system becomes corrupt or the operating system will not start up. Whenever the Registry is altered - such as adding new software or hardware, installing a service pack or  hot fix, making system modifications or adding new users to an account database - a new ERD should ideally be created to return the user to the most recent setup in case the ERD is needed to repair the damaged system. The disk can also be used to restore an old account that has been deleted if there is a copy of the system on an ERD from before the time the account was deleted.  It is important to note that the ERD is not a bootable disk.  This feature of Windows does not back up files or programs and should not be used as a replacement for regularly backing up your system.  Users can follow the Start/Programs/Accessories/System Tools/Backup/Emergency Repair Disk path in Windows in order to create an ERD.
+
+ergonomic_mouse
+
+A type of mouse that has been designed to reduce muscle strain and decrease discomfort (while using the mouse) associated with a injuries such as carpal tunnel syndrome, arthritis, and tendonitis. Compared to other mice, an ergonomic mouse is designed to fit a more natural hand position when being used.See also ergonomics.
+
+ergonomics
+
+The science concerned with designing safe and comfortable machines for humans. For example, one branch of ergonomics deals with designing furniture that avoids causing backaches and muscle cramps. In the computer field, ergonomics plays an important role in the design of monitors and keyboards.
+Another term for ergonomics is human engineering.
+
+
+erlang
+
+A unit of measurement of traffic density in a telecommunications system. The erlang describes the total traffic volume of one hour, or 3600 seconds.  For example, 60 calls in one hour, each lasting 5 minutes, results in the following number of erlangs: minutes of traffic in the hour = number of calls x duration minutes of traffic in the hour = 60 x 5 minutes if traffic in the hour = 300 hours of traffic in the hour = 300/60 hours of traffic in the hour = 5 traffic figure = 5 erlangs  Network designers use the erlang to understand traffic patterns within a voice network and use the figures to determine how many lines are required between a telephone system and a central office or between network locations.  Erlang calculations are further broken down as follows: Erlang B -- the most commonly used traffic model. Erlang B is used to work out how many lines are required if the traffic figure during the busiest hour is known. This model assumes that all blocked calls are cleared immediately. Extended Erlang B -- similar to Erlang B, this model can be used to factor in the number of calls that are blocked and immediately tried again. Erlang C -- this model assumes that all blocked calls are queued in the system until they can be handled. Call centers can use this calculation to determine how many call agents to staff, based on the number of calls per hour, the average duration of class and the amount of time calls are left in the queue.  The erlang is named after the Danish telephone engineer A. K. Erlang.
+
+ERM
+
+Short for Enterprise Relationship Management. ERM relates to solutions allowing an enterprise to share customer, product, competitor and market information to accomplish goals of meeting long-term customer satisfaction and increased revenues.
+
+ERP
+
+ERP is short for enterprise resource planning.
+Enterprise resource planning (ERP) is business process management software that allows an organization to use a system of integrated applications to manage the business and automate many back office functions related to technology, services and human resources. ERP software integrates all facets of an operation, including product planning, development, manufacturing, sales and marketing.
+ERP software is considered an enterprise application as it is designed to be used by larger businesses and often requires dedicated teams to customize and analyze the data and to handle upgrades and deployment. In contrast, Small business ERP applications are lightweight business management software solutions, customized for the business industry you work in.
+
+erp_module
+
+In software a module is a part of a program, and programs are composed of one or more independently developed modules that are not combined until the program is linked.
+ERP (Enterprise Resource Planning) software typically consists of multiple enterprise software modules that are individually purchased, based on what best meets the specific needs and technical capabilities of the organization.
+Each ERP module is focused on one area of business processes, such as product development or marketing. Some of the more common ERP modules include those for product planning, material purchasing, inventory control, distribution, accounting, marketing, finance and HR.
+
+error_correction
+
+The process of correcting errors in data that may have been corrupted during transmission or in storage. Data transmissions are always subject to corruption due to errors, but in video transmissions, error correction needs to deal with the errors but not retransmit the corrupted data. Video errors are corrected using a process of forward error correction in the encoder or through error concealment techniques in the decoder.
+
+error_detection
+
+In communications, error detection refers to a class of techniques for detecting garbled messages. Two of the simplest and most common techniques are called checksum and CRC. More sophisticated strategies include MNP and CCITT  V.42 .   
+
+ESA
+
+Short for the Electronic Signatures Act, a U.S. legal document that designates that digital signatures carry the legal force of handwritten signatures (i.e., they are legally binding for contracts and transactions). The act defines an electronic signature as any electronic symbol, sound or process that is attached to or logically associated with a contract or record, and that is adopted by a person with the intent to effectuate a signature with the contract or record.  The full name of the act is the Electronic Signatures in Global and National Commerce Act, which was signed into effect by President Clinton on October 1, 2000.
+
+eSATA
+
+Short for External Serial Advanced Technology Attachment eSATA is an extension to the Serial ATA standard that enables SATA drives to be attached externally. Prior to eSATA, external hard drives were connected via USB 2.0 or FireWire. While eSATA can provide faster transfer ratesthan USB or FireWire, it requires its own power connector.
+See also "Understanding SCSI, ATA, SAS and SATA" in Webopedia's "Did You Know?" section.
+
+
+ESB
+
+Short for Enterprise Service Bus, also referred to as a message broker. ESB is an open standards-based distributed synchronous or asynchronous messaging middleware that provides secure interoperability between enterprise applications via XML, Web services interfaces and standardized rules-based routing of documents.
+In practice, this means that data files are passed to and from their destinations based on established guidelines that are common to all parties sharing the information to ensure that the data maintains its integrity as it is routed. The multi-language and multi-platform design of an ESB allows enterprises to process data between applications from various sources. Two common distributed computing architectures used by ESBs are J2EE and .NET.
+ESB is an extension of EAI, an earlier form of middleware, but ESB adds several key functions:
+
+ESC
+
+A key on computer keyboards, usually labeled Esc. In DOS and Windows environments, pressing the Escape key usually cancels or aborts the current operation.  
+
+escape_character
+
+A special character that can have many different functions. It is often used to abort the current  command and return to a previous place in the program. It is also used to send special instructions to printers and other devices. An escape character is generated with the Escape key, a special key that exists on most computer keyboards.  When the escape character is combined with other characters, it is called an escape sequence.   
+
+Escape_key
+
+A key on computer keyboards, usually labeled Esc. In DOS and Windows environments, pressing the Escape key usually cancels or aborts the current operation.  
+
+escape_sequence
+
+A sequence of special characters that sends a command to a device or program. Typically, an escape sequence begins with an escape character, but this is not universally true.  
+
+ESCD
+
+Short for Extended System Configuration Data, a format for storing information about Plug-and-Play (PnP) devices in the BIOS. Windows and the BIOS access the ESCD area each time you re-boot your computer. 
+
+ESCON
+
+Short for Enterprise Systems Connection, or Enterprise Systems Connectivity, an IBM fiber optic connection technology that interconnects S/390 mainframe computers, workstations and network-attached storage devices across a single channel and supports half duplex data transfers. One of the key elements of ESCON is the ESCON Director, an I/O switch capable of providing dynamic, nonblocking, any-to-any connectivity for up to 60 fiber optic links operating at 200 Mb/s. The links can be up to 36 miles (60 kilometers) apart. ESCON is useful in CANs and MANs.  Compare with FICON.
+
+ESD
+
+(1) Short for Electronic Software Distribution, a system for selling software over a network. ESD systems provide secure communications that customers use to download and pay for software. These systems can operate over the Internet or on a direct modem -to-modem connection. ESD systems can also allow users to use software for a trial period before purchasing.  (1) Short for electrostatic discharge, the rapid discharge of static electricity from one conductor to another of a different potential. An electrostatic discharge can damage integrated circuits found in computer and communications equipment. Also see Static Electricity and Computers in the Did You Know . . . ? section of Webopedia.
+
+ESD_wrist_strap
+
+A safety device used to channel static electricity to a proper ground while handling sensitive computer equipment. Electrostatic discharge (ESD) damage occurs when a release of stored static electricity travels from something such as a person's body into a conductor of a different potential, such as a computer being repaired. The ESD wrist strap safely channels the static electricity to a proper ground, typically the computer's chassis. Also see Static Electricity and Computers in the Did You Know . . . ? section of Webopedia.
+
+ESDI
+
+Abbreviation of Enhanced Small Device Interface, an interface standard developed by a consortium of the leading personal computer manufacturers for connecting disk drives to PCs. ESDI is two to three times faster than the older ST-506 standard. To use an ESDI drive, your computer must have an ESDI controller.  Introduced in the early 80s, ESDI is already obsolete. Instead, modern computers use a SCSI, IDE, or EIDE interface.  
+
+ESI
+
+In e-discovery terminology, ESI or electronically stored information, refers to all information stored in computers and storage devices. This includes any data including ESI found in e-mail, voicemail, instant and text messages, databases, metadata, digital images and any other type of file.
+
+enterprise_storage_management_esm
+
+ESM is short for enterprise storage management.
+Enterprise storage management, or ESM for short, is the phrase used to describe the tools, processes, and policies used to manage enterprise storage networks.
+Benefits of Enterprise Storage Management
+ESM is used to help organizations meet regulations concerning data retention, privacy and record keeping and assists in managing storage networks and storage services, such as virtualization, replication, mirroring, security, compression, traffic analysis, process automation, storage provisioning and related techniques.
+The phrase also encompasses other storage technologies, such as process automation, storage management and real-time infrastructure products, and storage provisioning. With the volume of data being produced and stored within organizations growing at a rapid rate, managing that data and the hardware that stores it can be a major headache.
+
+
+ESN
+
+(pronounced as separate letters) Short for electronic serial number, a unique identification number that every cellular phone has and is assigned by the specific manufacturer. When a cellular call is placed on a mobile telephone, the ESN is transmitted to a base station, and the number is used to authenticate the validity of the phone in respect to the cellular service the phone is attempting to use. The ESN is embedded within the signal and transmitted each time a cellular call is placed.  In addition to being programmed into the circuitry of the phone's microchip, the ESN typically is found on a label under the cellular phone's battery.
+
+ESP
+
+(1) Short for estimated street price, ESP is a manufacturer or developer's estimated price for a product in a specific region or market sector. The estimated street price is not necessarily the same as the end -user's purchase price. (2) Short for Encapsulating Security Payload, the ESP header is designed to provide a mix of security services in  IPv4 and IPv6. ESP may be applied alone, in combination with the IP Authentication Header (AH), or in a nested fashion. The ESP header is inserted after the IP header and before the upper layer protocol header (transport mode) or before an encapsulated IP header (tunnel mode). ESP is used to provide confidentiality, data origin authentication, connectionless integrity, an anti-replay service, and limited traffic flow confidentiality. [Adapted from (RFC2406)]
+
+ESRB
+
+Abbreviation for Entertainment Software Rating Board. The Entertainment Software Rating Board (ESRB) is a self-regulatory body for the interactive entertainment software industry established in 1994 by the Entertainment Software Association (ESA). ESRB independently applies and enforces ratings, advertising guidelines, and online privacy principles adopted by the computer and video game industry. Since 1994 the ESRB has rated more than 10,000 games and 400 online games.  ESRB Rating Guide:
+
+ESS
+
+* Also referred to as EIS - Executive Information System
+Executive Support System (ESS) is a reporting tool (software) that allows you to turn your organization's data into useful summarized reports. These reports are generally used by executive level managers for quick access to reports coming from all company levels and departments such as billing, cost accounting , staffing, scheduling, and more.
+In addition to providing quick access to organized data from departments, some Executive Support System tools also provide analysis tools that predicts a series of performance outcomes over time using the input data. This type of ESS is useful to executives as it provides possible outcomes and quick reference to statistics and numbers needed for decision-making.
+
+etckeeper
+
+Etckeeper is a set of Linux server tools that lets you keep your /etc directory (and all the configuration files under it) in a revision control system. It hooks into apt (and other software package managers including yum and pacman-g2) to automatically commit changes made to /etc during package upgrades. The advantage of etckeeper is that it's designed specifically for tracking /etc, including the file permissions and metadata that the revision control systems do not track.
+Learn more about etckeeper in this ServerWatch.com article.
+
+EtherLoop
+
+ Created by Nortel spin-off Elastic Networks, EtherLoop (a.k.a next generation DSL) is Ethernet over standard twisted pair (POTS ) technology that allows for simultaneous voice and high-speed data communications. Speeds range from 125 Kbps to 6 Mbps over distances of up to 21,000 feet.   Similar to Ethernet, Etherloop transmits data packets in bursts. Between bursts, EtherLoop looks for problems and interference in the lines and knows to steer clear and find an alternate path. Also, EtherLoop is Ethernet compliant, so it is easily adaptable to existing Ethernet systems.   EtherLoop also borrows from the best of DSL to offer point-to-point security and a non-shared medium (more users don't slow down connection speed), But unlike DSL, EtherLoop avoids impacting other services such as ISDN, T-1, ADSL, HDSL and SDSL, which are in the same cable binder group.   EtherLoop is not proprietary. Elastic Networks plans on licensing the technology to manufacturers who can design and create their own EtherLoop solutions. 
+
+Ethernet
+
+A local-area network (LAN) architecture developed by Xerox Corporation in cooperation with DEC and Intel in 1976. Ethernet uses a bus or star topology and supports data transfer rates of 10 Mbps. The Ethernet specification served as the basis for the IEEE 802.3 standard, which specifies the physical and lower software layers. Ethernet uses the CSMA/CD access method to handle simultaneous demands. It is one of the most widely implemented LAN standards.
+A newer version of Ethernet, called 100Base-T (or Fast Ethernet), supports data transfer rates of 100 Mbps. And the newest version, Gigabit Ethernet supports data rates of 1 gigabit (1,000 megabits) per second.
+Also see the Ethernet Designations chart in the Quick Reference section of Webopedia.
+
+ethernet_audio_video_bridging
+
+An emerging standard that extends Ethernet to support multimedia streaming. The Ethernet Audio/Video Bridging standard adds QoS (Quality of Service) features like time-synchronized low latency streaming services and bandwidth reservation to make it possible to carry audio and video signals on a standard Ethernet line.  Development of the Ethernet Audio/Video Bridging standard is being conducted by the IEEE under a number of working specifications, including 802.1AVB, 802.1AS, 802.1Q, 802.1Qat and 1722.  Once deployed, audio and video hardware components will be capable of being linked via Ethernet Audio/Video Bridging connections, enabling the concurrent transmission of network, audio and video signals.
+
+Ethernet_Networking_Interface
+
+Ethernet Networking Interface, or ENI, allows any computer on Ethernet network to access controllers allowing users to send production data, alarm messages, or status information to computers, cellular phones, or pagers capable of receiving e-mail. The ENI module allows companies to leverage existing cable, hubs, switches, and  routers already installed in facilities.
+
+Ethical_SEO
+
+In search engine optimization (SEO) terminology, white hat SEO refers to the usage of optimization strategies, techniques and tactics that focus on a human audience opposed to search engines and completely follows search engine rules and policies.
+For example, a website that is optimized for search engines, yet focuses on relevancy and organic ranking is considered to be optimized using White Hat SEO practices. Some examples of White Hat SEO techniques include using keywords and keyword analysis, backlinking, link building to improve link popularity, and writing content for human readers.
+White Hat SEO is more frequently used by those who intend to make a long-term investment on their website. Also called Ethical SEO.
+
+ETL
+
+ETL is short for extract, transform, load, three database functions that are combined into one tool to pull data out of one database and place it into another database.
+
+
+Extract is the process of reading data from a database.
+Transform is the process of converting the extracted data from its previous form into the form it needs to be in so that it can be placed into another database. Transformation occurs by using rules or lookup tables or by combining the data with other data.
+Load is the process of writing the data into the target database.
+
+ETL is used to migrate data from one database to another, to form data marts and data warehouses and also to convert databases from one format or type to another.
+
+ETNO
+
+Acronym for The European Telecommunications Network Operators' Association. The European Telecommunications Network Operators' Association was established in May 1992 and has become the principal policy group for European electronic communications network operators. ETNO's primary purpose is to establish a constructive dialogue between its member companies and decision-makers and other actors involved in the development of the European Information Society to the benefit of users.
+
+ETOM
+
+Short for electron-trapping optical memory. Developed by Optex, ETOM is a method of erasable optical storage. Information is written, or stored, by a low-power laser tuned to a specific frequency. The laser elevates the energy level of electrons to a trapped state. The data is read by a second laser that returns the elevated electrons to their ground state.
+
+ETRN
+
+Short for Extended Turn, an extension to the SMTP mail delivery protocol that allows an SMTP server to request from another SMTP server any e-mail messages it has for a specific domain. ETRN typically is used to retrieve e-mail messages from a mail server that does not have a dedicated connection to the Internet.  ETRN can only be used in conjunction with an ISP that supports ETRN.
+
+ETSI
+
+The European Telecommunications Standards Institute (ETSI) is an independent, non-profit organization, whose mission is to produce telecommunications standards for today and for the future.  Based in Sophia Antipolis (France), the European Telecommunications Standards Institute (ETSI) is officially responsible for standardization of Information and Communication Technologies (ICT) within Europe. These technologies include telecommunications, broadcasting and related areas such as intelligent transportation and medical electronics.  [Source: ETSI Web site]
+
+eucalyptus
+
+An open source cloud computing and Infrastructure-as-a-Service (IaaS) platform for enabling private clouds. Eucalyptus takes a company’s existing IT infrastructure and adds a virtualization software layer with scalable, secure Web services that work together to create elastic pools with the ability to dynamically scale depending on the company’s needs.    Eucalyptus also offers an Infrastructure-as-a-Service product in partnership with Amazon that delivers full compatibility with Amazon’s Web Services APIs, enabling support for Amazon’s AWS EC2, S3, EBS, AMI and IAM services. This makes it possible to efficiently extend a Eucalyptus private cloud to a hybrid cloud environment.
+
+Eudora
+
+A popular e-mail client developed by QUALCOMM, Inc.  
+
+EULA
+
+Short for End-User License Agreement, the type of license used for most software. An EULA is a legal contract between the manufacturer and/or the author and the end user of an application. The EULA details how the software can and cannot be used and any restrictions that the manufacturer imposes (e.g., most EULA��s of proprietary software prohibit the user from sharing the software with anyone else).
+Not every EULA is the same. Some contracts stipulate acceptance of the agreement simply by opening the shrink-wrapped package; some require the user to mail back to the manufacturer a signed agreement or acceptance card; some require the user to accept the agreement after the application is installed by clicking on an acceptance form that appears on the user��s monitor. This last method is typical of applications that can be downloaded from the Internet. In all instances, the user has the option of not accepting the EULA, subsequently surrendering the rights and ability to use the software.
+As in typical legal contracts, the EULA protects both parties from liability if the software is used in a way not intended by the manufacturer or author.
+
+evssl
+
+Extended Validation SSL (EV SSL or EVSSL) certificates are widely considered to be the most trusted option currently available for Secure Sockets Layer (SSL) certificates. While EV SSL certificates utilize the same levels of security as conventional SSL certificates, they do require more extensive verification of the certificate requestor by the certificate authority (CA) issuing the certificate.
+Websites using EV SSL certificates have a unique visual indication in a Web browser’s URL bar to help users identify the use of increased security verification measures. Internet Explorer, for example, displays a green address bar in the URL as well as the certificate’s security vendor and the name of the organization associated with the certificate.
+Browsers that currently support visual identification for EVSSL certificates include Google Chrome (all versions), Microsoft Internet Explorer (versions 7 and later), Mozilla Firefox (v3.5 and later), Apple Safari (v3.2 and later) and Opera (v9.5 and later). The Extended Validation Standard for EV SSL certificates was approved in 2006 by a group of leading SSL Certificate Authorities and browser vendors.
+
+even_header
+
+In word processing, a header that appears only on even-numbered pages.  
+
+even_parity
+
+Refers to the parity-checking mode in which each set of transmitted bits must have an even number of set bits. The parity checking system on the sending side ensures even parity by setting the extra parity bit  if necessary. 
+
+event
+
+(1) An action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory. Most modern applications, particularly those that run in Macintosh and Windows environments, are said to be event-driven, because they are designed to respond to events.   (2) ITIL defines an event as "any detectable or discernable occurrence that has significance for the management of the IT infrastructure or the delivery of IT service and evaluation of the impact a deviation might cause to the services." (ITIL Service Operation book, Page 35).  See Getting Started with Event Management on  ITSMWatch.com. See also Tips for Implementing ITIL in the  Quick Reference section of Webopedia.  
+
+event_handler
+
+(i-vent´ han´dler) (n.) A function or method containing program statements that are executed in response to an event. An event handler typically is a software routine that processes actions such as keystrokes and mouse movements. With Web sites, event handlers make Web content dynamic. JavaScript is a common method of scripting event handlers for Web content.
+
+event_management
+
+In ITIL v3, event management is an additional feature used to define a process that helps leverage automation to manage events to become more effective and efficient. ITIL defines an event as "any detectable or discernable occurrence that has significance for the management of the IT infrastructure or the delivery of IT service and evaluation of the impact a deviation might cause to the services.. (ITIL Service Operation book, Page 35).  In event management there are three paths that can be taken:   Informational: These are events that should be logged for potential future analysis including confirming if the service is operating as expected. Warning: During service design, thresholds are identified that help gauge the status of a system. When the threshold is reached, predefined parties, or notification groups, are alerted that the threshold has been reached.  Exception: This branch is reserved for configuration items (hardware, software or service) that are operating abnormally or have failed. Abnormal behavior criteria should be defined during service design to better understand what types of scenarios trigger what types of exception handling.   See Getting Started with Event Management on  ITSMWatch.com. See also Tips for Implementing ITIL in the  Quick Reference section of Webopedia.  
+
+Event_Queue
+
+In enterprise messaging systems (EMS), the Event Queue (or Queues if running in more than one instance) is a queue of events (or asynchronous messages ) that is waiting to be processed by the receiving program. 
+
+Event_Router
+
+In enterprise messaging systems (EMS), the Event Router (or routers if running in more than one instance) is what sends messages and events between applications and systems throughout an enterprise. 
+
+event_triggered_e_mail
+
+In e-mail marketing, an event triggered e-mail is a message that is sent to a list subscriber based on an event. For example, a special message or discount coupon can be sent to a subscriber on their birthday or anniversary date. The events are determined based on the information the subscriber provided when joining the list or registering for membership on the list owner's Web site.
+
+everything-as-a-service_xaas
+
+A cloud computing term for the extensive variety of services and applications emerging for users to access on demand over the Internet as opposed to being utilized via on-premises means.
+Examples of XaaS
+Everything-as-a-Service, or XaaS, originated as software-as-a-service (SaaS) and has since expanded to include services such as infrastructure-as-a-service, platform-as-a-service, storage-as-a-service, desktop-as-a-service, disaster recovery-as-a-service, and even nascent operations like marketing-as-a-service and healthcare-as-a-service.
+XaaS and Anything-as-a-Service
+Also known as anything-as-a-service, everything-as-a-service facilities the flexibility for users and companies to customize their computing environments to craft the experiences they desire, all on demand. XaaS is dependent on a strong cloud services platform and reliable Internet connectivity to successfully gain traction and acceptance among both individuals and enterprises.
+
+evil_twin
+
+Evil twin is a type of Wi-Fi attack, similar in nature to Web site spoofing and e-mail phishing attacks. Here's how an evil twin attack works:  A hacker sets its service identifier (SSID) to be the same as an access point at the local hotspot or corporate wireless network. The hacker disrupts or disables the legitimate AP by disconnecting it, directing a denial of service against it, or creating RF interference around it. Users lose their connections to the legitimate AP and re-connect to the "evil twin," allowing the hacker to intercept all the traffic to that device.  [Source: Wi-Fi Planet] 
+
+evo-rail
+
+EVO:RAIL is an x86 server-based appliance developed by VMware for combining compute, networking and storage resources into a hyper-converged infrastructure system. VMware designed EVO:RAIL to make it easier for small and mid-sized enterprises to quickly deploy an all-in-one virtualization solution.
+VMware revealed EVO:RAIL during its VMworld conference in August 2014, and announced that EVO:RAIL can be purchased through a list of qualified EVO:RAIL channel partners that includes Dell, EMC, HP, Fujitsu and SuperMicro, among others.
+EVO:RAIL and EVO:RACK Hyper-Converged Solutions
+VMware also announced it would be delivering a second hyper-converged system following EVO:RAIL called EVO:RACK, which includes VMware vCloud Suite, VSAN, NSX and EVO:RACK management software, serving as a full-scale software-defined data center (SDDC) in a box. The EVO:RACK system is expected to be available in 2015.
+
+Evolution_Data_Only
+
+Evolution Data Only (EVDO) is now called  Evolution-Data Optimized (EV-DO).
+
+Evolution_Data_Optimized
+
+Evolution-Data Optimized (EV-DO) is a fast wireless broadband access (3G), where you are the hotspot (meaning you don't need a Wi-Fi hotspot to have the Internet access). Your PC or laptop requires a EVDO PC card for connection. EV-DO supports an "always-on" connection, similar to DSL. EV-DO is the wireless broadband standard that has been adopted by many CDMA mobile phone service providers. Evolution-Data Optimized (EV-DO), was formerly called Evolution Data Only (EVDO)
+
+exabyte
+
+(1) 2 to the 60th power (1,152,921,504,606,846,976) bytes. An exabyte is equal to 1,024 petabytes.  (2) When capitalized, the name of a manufacturer of mass storage devices. 
+
+Excel_borders
+
+In the Microsoft Excel program, "borders" is a built-in tool that lets users access predefined border styles to add a border around two or more cells on a spreadsheet. You can also use the borders tool to create your own custom border.
+
+exception
+
+A condition, often an error, that causes the program or microprocessor to branch to a different routine. The terms interrupt and exception are very close in meaning. Both can be used to refer to either hardware or software. The only real difference is that an exception usually indicates an error condition. 
+
+excerpt
+
+In blogging terms an excerpt is a shortened description of your blog post. The excerpt is used to describe your blog post in RSS feeds and also in search results. See  The History of Blogging in the  Quick Reference section of Webopedia.
+
+Exchange_email
+
+A line of messaging and  collaborative software from Microsoft that is comprised of an email server,  email client, and several  groupware applications.  The Microsoft Exchange line is prevalent in large corporations and is frequently used in conjunction with Microsoft Outlook.
+Exchange Server enables a company's users to securely access communications like e-mail messages, voice mail,  instant messaging and  SMS text messages from their desktops, Web browsers or mobile devices.
+The latest release of Exchange Server, Microsoft Exchange Server 2010, made its debut on November 9, 2009.  Exchange Server 2010 features Microsoft's Software-plus-Services strategy at its core, which gives companies the opportunity to choose from a combination of on-premises,  hosted, cloud-based, and hybrid solutions for deployment.
+
+Excite
+
+A World Wide Web search engine developed by Excite, Inc. In addition to providing a full-text index of approximately 50 million Web pages, Excite also enables you to search from its list of over 60,000 reviewed sites. Sites are rated with a 5-star rating system. 
+
+exclusive_OR
+
+A Boolean operator that returns a value of TRUE only if both its operands have different values. Contrast with the inclusive OR operator, which returns a value of TRUE if either of its operands is TRUE. Whereas an inclusive OR can be translated "this, that, or both," an exclusive OR means "this or that, but not both."  An exclusive OR is often called an XOR or EOR.  
+
+EXE_file
+
+Pronounced ee-ex-ee file. In DOS and Windows systems, an EXE file is an executable file with an .EXE extension.  
+
+executable_file
+
+A file in a format that the computer can directly execute. Unlike source files, executable files cannot be read by humans. To transform a source file into an executable file, you need to pass it through a compiler or assembler.
+In DOS systems, executable files have either a.COM or.EXE extension and are called COM files and EXE files, respectively.
+
+
+execute
+
+(v.) Same as run, to perform an action, as in executing a program or a command.   
+
+execute_cycle
+
+See under instruction cycle.
+
+Execute_Disable_Bit
+
+Execute Disable Bit (EDB) is an Intel hardware-based security feature that can help reduce system exposure to viruses and malicious code. EDB allows the processor to classify areas in memory where application code can or cannot execute. When a malicious worm attempts to insert code in the buffer, the processor disables code execution, preventing damage and worm propagation. To use Execute Disable Bit you must have a PC or server with a processor with Execute Disable Bit capability and a supporting operating system. EDB-enabled processors by Intel are indicated by a "J" after the CPU model number. Execute Disable Bit is abbreviated as EDB (by Intel) or XDB.
+
+
+execution_environment
+
+In Unified Modeling Language (UML) an execution environment (EE) is a type of node (or part of a node) that represents a particular execution platform, such as an operating system or a database management system. Execution environments are used to describe the context in which the execution of a model takes place. Execution environments are typically part of another node that models the computing hardware of a system. 
+
+Executive_Information_System_EIS
+
+Abbreviated as EIS, Executive Information System is a reporting application targeted for use by executives. Same as decision support system.
+
+Executive_Support_System
+
+* Also referred to as EIS - Executive Information System
+Executive Support System (ESS) is a reporting tool (software) that allows you to turn your organization's data into useful summarized reports. These reports are generally used by executive level managers for quick access to reports coming from all company levels and departments such as billing, cost accounting , staffing, scheduling, and more.
+In addition to providing quick access to organized data from departments, some Executive Support System tools also provide analysis tools that predicts a series of performance outcomes over time using the input data. This type of ESS is useful to executives as it provides possible outcomes and quick reference to statistics and numbers needed for decision-making.
+
+EXIF
+
+Short for Exchangeable Image File, a format that is a standard for storing interchange information in digital photography image files using JPEG compression. Almost all new digital cameras use the EXIF annotation, storing information on the image such as shutter speed, exposure compensation, F number, what metering system was used, if a flash was used, ISO number, date and time the image was taken, whitebalance, auxiliary lenses that were used and resolution.  EXIF files use the JPEG DCT format, so the image data can be read by any application supporting JPEG, including essentially all Web browsers and image editing, desktop presentation and document creation applications.
+
+expanded_memory
+
+Also known as EMS (Expanded Memory Specification), expanded memory is a technique for utilizing more than 1MB of main memory in DOS -based computers. The limit of 1MB is built into the DOS operating system. The upper 384K is reserved for special purposes, leaving just 640K of conventional memory for programs.  There are several versions of EMS. The original versions, called EMS  3.0 and 3.2, enable programs to use an additional 8MB of memory, but for data only. An improved version developed by AST, Quadram and Ashton-Tate is known as EEMS (Extended EMS). EEMS enables programs to use extra memory for code as well as for data. The most recent version of EMS (created in 1987) is known as EMS 4.0 or LIM 4.0, LIM being the initials of the three companies that developed the specification: Lotus, Intel, and Microsoft. EMS 4.0 raises the available amount of memory to 32MB.  Until the release of Microsoft Windows 3.0 in 1990, expanded memory was the preferred way to add memory to a PC. The alternative method, called extended memory, was less flexible and could be used only by special programs such as RAM disks. Windows 3.0 and all later versions of Windows, however, contain an extended memory manager that enables programs to use extended memory without interfering with one another. In addition, Windows can simulate expanded memory for those programs that need it (by using the EMM386.EXE driver). 
+
+expansion_board
+
+A printed circuit board that you can insert into a computer to give it added capabilities. For example, all of the following are expansion boards:
+
+video adapters 
+
+
+graphics accelerators 
+
+
+sound cards 
+
+
+accelerator boards 
+
+
+internal modems 
+
+Expansion boards for PCs can be half-size (also half-length) or full-size (also full-length). Most PCs have slots for each type of board. A half-size board is sometimes called an 8-bit   board because it can transmit only 8 bits at a time. A full-size board is called a 16-bit board. In addition, some expansion boards are designed to operate with a local bus, such as PCI.
+Expansion boards are also called adapters, cards  , add-ins , and add-ons.
+
+expansion_bus
+
+A collection of wires and protocols that allows the expansion of a computer by inserting printed circuit boards (expansion boards). Traditionally, PCs have utilized an expansion bus called the ISA bus. In recent years, however, the ISA bus has become a bottleneck, so nearly all new PCs have a PCI  bus for performance as well as an ISA bus for backward compatibility.   
+
+expansion_slot
+
+An opening in a computer where a circuit board can be inserted to add new capabilities to the computer. Nearly all personal computers except portables contain expansion slots for adding more memory, graphics capabilities, and support for special devices. The boards inserted into the expansion slots are called expansion boards, expansion cards , cards  , add-ins , and add-ons.
+Expansion slots for PCs come in two basic sizes: half- and full-size. Half-size slots are also called 8-bit slots because they can transfer 8 bits at a time. Full-size slots are sometimes called 16-bit slots. In addition, modern PCs include PCI slots for expansion boards that connect directly to the PCI bus.
+
+
+expert_system
+
+A computer application that performs a task that would otherwise be performed by a human expert. For example, there are expert systems that can diagnose human illnesses, make financial forecasts, and schedule routes for delivery vehicles. Some expert systems are designed to take the place of human experts, while others are designed to aid them.
+Expert systems are part of a general category of computer applications known as artificial intelligence . To design an expert system, one needs a knowledge engineer, an individual who studies how human experts make decisions and translates the rules into terms that a computer can understand.
+
+
+exploded_view
+
+A picture or diagram that shows the components of an object slightly separated, as if there had been a neat explosion in the middle of the object. Many spreadsheet applications can automatically create exploded diagrams such as exploded pie charts.  
+
+exploit
+
+A tool developed by hackers that is used to perform malicious attacks on computer systems. They are usually scripts that are designed to exploit weaknessness in software over a network, most commonly the Internet. Zero-Day is a common type of exploit.
+
+export
+
+To format data in such a way that it can be used by another application. An application that can export data can create a file in a format that another application understands, enabling the two programs to share the same data. The two programs might be different types of word processors, or one could be a word processor while the other could be a database management system.  The flip side of exporting is importing. Importing refers to the ability of an application to read and use data produced by a different application. Exporting implies that the sending application reformats the data for the receiving application, whereas importing implies that the receiving application does the reformatting.   
+
+exposure
+
+In digital photography, exposure is the unit of measurement for the total amount of light permitted to reach the electronic sensor during the process of taking a photograph. The two main controls your digital camera uses to control exposure are the shutter speed and aperture.
+
+exposure_meter
+
+In digital photography exposure meter is an instrument for measuring the amount of light falling on or being reflected by a subject, and usually equipped to convert this measurement into usable information, such as the shutter speed and aperture size required to take a reasonable photograph. See "A Quick Guide to Digital Cameras" in the Quick Reference section of Webopedia. See also Megapixel.net for news, reviews and a active community for digital camera and photography enthusiasts.
+
+ExpressCard
+
+A hardware technology designed to replace CardBus (also known as PCMCIA) standards for hot-pluggable internal I/O expansion for notebook and desktop computers. ExpressCard enables you to add memory, wired and wireless communications, multimedia and security features by inserting ExpressCard modules into compliant systems. There are two standard formats of ExpressCard modules, the ExpressCard/34 module (34mm x 75mm) and the ExpressCard/54 module (54mm x 75mm). Both formats are 5mm thick and use the same connector interface.
+
+expression
+
+In programming, an expression is any legal combination of symbols that represents a value. Each programming language and application has its own rules for what is legal and illegal. For example, in the C language x+5 is an expression, as is the character string "MONKEYS."  Every expression consists of at least one operand and can have one or more operators. Operands are values, whereas operators are symbols that represent particular actions. In the expression  x + 5  x and 5 are operands, and + is an operator.  Expressions are used in programming languages, database systems, and spreadsheet applications. For example, in database systems, you use expressions to specify which information you want to see. These types of expressions are called queries.  Expressions are often classified by the type of value that they represent. For example:  Boolean expressions : Evaluate to either TRUE or FALSE integer  expressions: Evaluate to whole numbers, like 3 or 100 Floating-point  expressions: Evaluate to real numbers, like 3.141 or -0.005 String expressions: Evaluate to character strings     
+
+Expression_Builders
+
+In Web site development with  ASP.NET (version 2.0), Expression Builders represent a new syntax for referencing code to substitute values into the page. Expression Builders may be used for referencing values such as  localization, application settings, or connection strings. Web developers may also write their own Expression Builders for creating custom syntax to substitute values into the page. See ASP.NET
+
+extended_ASCII
+
+)A set of codes that extends the basic ASCII set. The basic ASCII set uses 7 bits for each character, giving it a total of 128 unique symbols. The extended ASCII character set uses 8 bits, which gives it an additional 128 characters. The extra characters represent characters from foreign languages and special symbols for drawing pictures.  
+
+extended_keyboard
+
+A keyboard for Macintosh computers that contains up to 15 function keys above the alphanumeric keys, and a numeric keypad. It is sometimes called an enhanced keyboard  because of its similarity to the PC enhanced keyboard.   
+
+extended_memory
+
+Memory above and beyond the standard 1MB (megabyte) of main memory that DOS supports. Extended memory is only available in PCs with an Intel 80286 or later microprocessor.  Two types of memory can be added to a PC to increase memory beyond 1MB: expanded memory and extended memory. Expanded memory conforms to a published standard called EMS that enables DOS programs to take advantage of it. Extended memory, on the other hand, is not configured in any special manner and is therefore unavailable to most DOS programs. However, MS-Windows and OS/2 can use extended memory.   
+
+Extended_Service_Set
+
+Abbreviated as ESS, Extended Service Set is a component of the IEEE 802.11 WLAN architecture that extends the range of mobility to a single Basic Service Set (BSS). An Extended Service Set (ESS) is a set of two or more BSSs that form a single sub network.  Contrast with Basic Service Set (BSS). See also infrastructure mode.
+
+eXtensible_Server_Page
+
+(1) When spelled xSP, a generic term for a service provider on the Internet, such as an application service provider (ASP), network service provider (NSP) or an Internet service provider (ISP).  (2) When spelled XSP, short for eXtensible Server Pages. The XSP language is a core technology of Cocoon, XML-based Web publishing in Java and one of the seven parts of the Apache XML Project. XSP is used to build dynamic XML content. It was originally created to allow Web authors to generate dynamic content without forcing them to learn a programming language. Because a Web document's content, style and logic are often created by different working groups or individuals, Cocoon aims for a complete separation of the three layers. Using XSP, content, style and logic are separated into different XML files using an XML DTD and are merged using XSL transformation capabilities.
+
+extensible_threat_management
+
+Extensible Threat Management (XTM) is the next generation of Unified Threat Management (UTM). Where UTM describes a category of network security appliances that integrates a range of security features such as firewall, gateway anti-virus, and intrusion detection (IDS) and prevention (IPS) capabilities; XTM expands on these security features to include better networking capabilities and management. 
+XTM typically includes additional security and control features for network bandwidth, traffic shaping, dynamic routing, load balancing, VPN, VoIP security and more.
+See also Unified Threat Management (UTM).
+
+extension
+
+(1) An extra feature added to a standard programming language or system.  (2) In DOS and some other operating systems, one or several letters at the end of a filename. Filename extensions usually follow a period (dot) and indicate the type of information stored in the file. For example, in the filename EDIT.COM, the extension is COM, which indicates that the file is a command file. (Depending on the operating system, the punctuation separating the extension from the rest of the filename may or may not be considered part of the extension itself.) Also see Data Formats and Their File Extensions in the Quick Reference section of Webopedia. (3) In Macintosh environments, a program that extends the system's capabilities. When they reside in the Extensions folder, extensions are loaded into memory when the system starts. On older Macs (System 6 and earlier), extensions were called inits.  (4) Same as plug-in.  
+
+external_bus
+
+Another name for an external data bus.
+
+external_command
+
+In DOS systems, any command that does not reside in the COMMAND.COM file. This includes all other COM files, as well as EXE and BAT files. Commands in the COMMAND.COM file are called internal commands.  
+
+external_data_bus
+
+A bus that connects a computer to peripheral devices. Two examples are the Universal Serial Bus (USB) and IEEE 1394.  Contrast with internal data bus. The bit width of internal and external data buses are not always equal.
+
+external_hard_drive
+
+A hard drive that is outside of the computer case in its own enclosure. Most external hard drives support the IDE interface and are slightly bigger than a hard drive itself. When purchasing an external hard drive you can buy a full external hard drive system that consists of both the hard drive and the enclosure, or you can purchase just the enclosure to hold your own hard drive.
+External hard drives may contain a fan for cooling and are popular because they are portable devices and can be stored securely under lock and key since they are not inside the computer case. An external hard drive is connected to the computer system with a single high-speed interface cable, usually with  plug-and-play interfaces such as USB or FireWire.   Hard drive enclosures, also called hard drive cages are made to support up to a certain physical size of hard disk, so you need to check the manufacturer's specification when buying just the enclosure.
+See hard disk drive.
+
+external_modem
+
+)A modem that resides in a self-contained box outside the computer system. Contrast with an internal modem, which resides on a printed circuit board inserted into the computer.  External modems tend to be slightly more expensive than internal modems. Many experts consider them superior because they contain lights that indicate how the modem is functioning. In addition, they can easily be moved from one computer to another. However, they do use up one COM port. 
+
+extraction
+
+(n.) In a biometric security system, the process of converting a captured biometric sample into data that can be compared to a reference template.
+
+extranet
+
+A buzzword that refers to an intranet that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid username and password, and your identity determines which parts of the extranet you can view.  Extranets are becoming a very popular means for business partners to exchange information.  
+
+Extreme_Programming
+
+A discipline of software development that follows a specific structure that is designed to simplify and expedite the process of developing new software. Kent Beck developed Extreme Programming to be used with small teams of developers who need to develop software quickly in an environment of rapidly-changing requirements.  XP teams design software for specific functionalities without adding any functionalities that are not specifically requested that may slow down the process, keeping the development course simple through systematic and regular testing and design improvements.  Extreme Programming is based on 12 principles: The Planning Process -- The desired features of the software, which are communicated by the customer, are combined with cost estimates provided by the programmers to determine what the most important factors of the software are. This stage is sometimes called the Planning Game. Small Releases -- The software is developed in small stages that are updated frequently, typically every two weeks. Metaphor -- All members on an XP team use common names and descriptions to guide development and communicate on common terms. Simple Design -- The software should include only the code that is necessary to achieve the desired results communicated by the customer at each stage in the process. The emphasis is not on building for future versions of the product. Testing -- Testing is done consistently throughout the process. Programmers design the tests first and then write the software to fulfill the requirements of the test. The customer also provides acceptance tests at each stage to ensure the desired results are achieved. Refactoring -- XP programmers improve the design of the software through every stage of development instead of waiting until the end of the development and going back to correct flaws. Pair Programming -- All code is written by a pair of programmers working at the same machine. Collective Ownership -- Every line of code belongs to every programmer working on the project, so there are no issues of proprietary authorship to slow the project down. Code is changed when it needs to be changed without delay. Continuous Integration -- The XP team integrates and builds the software system multiple times per day to keep all the programmers at the same stage of the development process at once. 40-Hour Week -- The XP team does not work excessive overtime to ensure that the team remains well-rested, alert and effective. On-Site Customer -- The XP project is directed by the customer who is available all the time to answer questions, set priorities and determine requirements of the project. Coding Standard -- The programmers all write code in the same way. This allows them to work in pairs and to share ownership of the code.  Often abbreviated as XP, Extreme Programming should not be confused with Windows XP.
+
+extrinsic_attenuation
+
+In fiber optic transmissions, extrinsic attenuation is one of two main categorized factors that cause  attenuation (the reduction of signal strength during transmission). Extrinsic attenuation is caused by external factors, such as a bend in the optical fiber, called microbending or macrobending, which causes a reduction of optical power.  See also intrinsic attenuation.
+
+extro
+
+In video editing, an extro is a short video clip used at the end of a disc. Usually the extro is used to display credits. The VCD specification for an extro is four seconds.  Contrast with firstplay, the first track on a disc.
+
+eye_track
+
+Eye track, or eye tracking technology uses a combination of an eye-tracker device to capture a person's eye motion or point of gaze and software, which is used to record and analyze the digital images from the device.  Tracker devices are small digital video cameras that are mounted on a computer monitor and angled to capture at eye level or cameras that are mounted on glasses and headgear worm by the user.Eye tracking technology may be used as a replacement for a computer mouse, or in marketing, it is used for measuring and analyzing how people interact with products.
+
+Eye_Fi
+
+)[Image Courtesy of Eye-Fi] A wireless memory card that can be used in a  digital camera, allowing you to automatically upload your digital pictures to their wireless network. An Eye-Fi card works just like a regular SD Card (Secure Digital Card) in that it stores your pictures on the card, but the Eye-Fi card can be configured to upload the images automatically to a wireless network when it is within range and the camera is turned on.  The Eye-Fi card comes with Eye-Fi Manager software for setting up the Wi-Fi network connection. It works with 802.11g, 802.11b and backwards-compatible 802.11n  wireless networks.
+
+E_Port
+
+A Fibre Channel Expansion port (E_Port) used as an interswitch expansion port to connect to another Fibre Channel switch or bridge device through an interswitch link. E_Ports can attach only to other E_Ports.
+
+Eiffel_Parallel_Execution_Environment
+
+The Eiffel Parallel Execution Environment (EPEE) is an object-oriented framework for programming distributed memory parallel computers. It contains a set of classes providing the communication and location facilities used to build parallel classes. Common data distribution patterns and computation schemes are factored out and encapsulated in abstract parallel classes, which are to be reused by means of multiple inheritance.
+

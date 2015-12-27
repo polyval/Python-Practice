@@ -1,0 +1,782 @@
+virus
+A computer virus is a program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes. Viruses can also replicate themselves. All computer viruses are man-made. A simple virus that can make a copy of itself over and over again is relatively easy to produce. Even such a simple virus is dangerous because it will quickly use all available memory and bring the system to a halt. An even more dangerous type of virus is one capable of transmitting itself across networks and bypassing security systems.
+Since 1987, when a virus infected ARPANET, a large network used by the Defense Department and many universities, many antivirus programs have become available. These programs periodically check your computer system for the best-known types of viruses.
+Some people distinguish between general viruses and worms. A worm is a special type of virus that can replicate itself and use memory, but cannot attach itself to other programs.
+
+V_22
+Pronounced V-dot  -twenty-two, V.22 is short for the CCITT  V.22 communications standard. See under CCITT.   
+
+V_22bis
+Pronounced V-dot  -twenty-two-biss, V.22bis is short for the CCITT  V.22bis communications standard. See under CCITT.
+
+V_32
+Pronounced V-dot  -thirty-two, V.32 is short for the CCITT  V.32 communications standard. See under CCITT.
+
+V_34
+Pronounced V-dot  -thirty-four, V.34 is short for the CCITT V.34 communications standard. See under CCITT.
+
+V_35
+An ITU standard for high-speed synchronous data exchange. In the U.S., V.35 is the interface standard used by most routers and DSUs that connect to T-1 carriers. 
+
+V_42
+Pronounced V-dot  -forty-two, V.42 is short for the CCITT  V.42 communications 
+
+V_90
+A standard for 56-Kbps modems approved by the International Telecommunication Union (ITU) in February, 1998. The V.90 standard resolves the battle between the two competing 56 Kbps technologies -- X2 from 3COM and K56flex from Rockwell Semiconductor. Both manufacturers have announced that their future modems will conform to V.90. In addition, most users who already purchased 56 Kbps modems will be able to apply a software upgrade to make their modems support V.90. Also see Dial-Up Modem Standards in the Quick Reference section of Webopedia.
+
+V_92
+V.92 is a dial-up modem specification from the International Telecommunications Union (ITU) that introduces new features providing convenience and performance for the modem user, when compared to V.90.  The V.92 specification provides many enhancements over V.92 including faster connect times, increased upload speeds, and features Quick Connect, which shortens the time it takes to make a connection. V.92 also includes Modem-On-Hold (MOH) and it uses V.44 data compression.
+
+validation
+(n.) Verification that something is correct or conforms to a certain standard. In data collection or data entry, it is the process of ensuring that the data that are entered fall within the accepted boundaries of the application collecting the data. For example, if a program is collecting last names to be entered in a database, the program validates that only letters are entered and not numbers; or in a survey collecting data in the form of "yes" or "no" questions, the program validates that only those responses are used and not some other word.
+Validation procedures typically are written into the program code and are therefore invisible to the user.
+Other forms: validate (v.)
+
+vampire_tap
+A cable connection used to connect transceivers to a Thicknet coaxial cable in an Ethernet network in a bus topology. Instead of cutting the cable and attaching connectors to both ends of the severed coaxial cable, a vampire tap pierces through (hence the name vampire) the insulating layer of the cable and makes direct contact with the cable��s conducting core.  Also called a piercing tap.
+
+VAN
+Acronym for Value Added Network A VAN, or Value Added Network refers to a private network provider that leases communication lines to its subscribers. VANs provides specialized services such as assisting with EDI (electronic data interchange), extra security, message delivery, or access to a particular database.
+
+VAN_access_point
+A VAN (Value Added Network) access point is the subscriber's connection to the VAN and represents the networking endpoint of a VAN. See also VAN.
+
+VAN_mailbox
+Users of a VAN (Value Added Network) can send messages to and retrieve messages from a mailbox. This is a specialized subscriber service that will hold messages until the subscriber requests them.See also VAN.
+
+vanilla
+(adj.) Without added features. A "vanilla PC," for example, would be a PC with all standard components. 
+
+VAPI
+Virus Application Programming Interface, or Virus API (VAPI) is also referred to as Antivirus API (AVAPI), or Virus Scanning API (VSAPI). Virus Scanning API 1.0 was introduced in Microsoft Exchange Server 5.5 Service Pack 3 (SP3) and was standard until the release of Exchange 2000. Many improvements have been made to Virus Scanning API 1.0 to improve performance with Exchange Server. When you use a VAPI scanner and a client tries to open a message, a comparison is made to make sure that the message body and attachment have been scanned by the current virus signature file. If the current vendor or signature file has not scanned the content, the corresponding message component is submitted to the antivirus software vendor for scanning before that message component is released to the client. [Source: Microsoft help & Support] See also API.
+
+vaporware
+A sarcastic term used to designate software and hardware products that have been announced and advertised but are not yet available. 
+
+VAR
+(pronounced as one word) Short for value-added reseller, VARs typically load applications or proprietary software onto computers and may also incorporate third-party options to design a complete solution for a client. This "value-added" system is often customized for a specific application, but is sold to the VAR's customer base under the original design manufacturer brand; with that manufacturer's warranty, support, and license agreements. VARs may also resell customized OEM equipment. See also OEM.
+
+variable
+A symbol or name that stands for a value. For example, in the expression
+x+y
+x and y are variables. Variables can represent numeric values, characters, character strings, or memory addresses.
+
+variable_length
+Refers to anything whose length can vary. For example, in databases, a variable-length field  is a field that does not have a fixed length. Instead, the field length varies depending on what data is stored in it.  Variable-length fields are useful because they save space. Suppose, for example, that you want to define a NAME field. The length of each NAME field will vary according to the data placed in it. For example, John Smith is 10 characters long, but Thomas Horatio Jefferson is 24 characters long. With fixed-length fields, you would need to define each field to be long enough to hold the longest name. This would be a waste of space for records that had short names. With variable-length fields, the NAME field in each record would be just long enough to hold its data.  The opposite of variable length is fixed length.   
+
+variable_length_subnet_mask
+Variable Length Subnet Mask, abbreviated as VLSM, is a means to specify a different subnet mask for the same network number on different subnets. With VLSM, a network administrator can use a long mask on networks with few hosts and a short mask on subnets with many hosts. To use VLSM, the routing protocol must support it. See also subnet mask.
+
+variable_length_record
+A record that has at least one variable-length field. The length of the entire record, therefore, varies according to what data is placed in the variable-length field. 
+
+variant
+In virus and malware terms, a variant refers to new strains and slightly modified version of malware. Malware is often modified with new variants released to get as much mileage as possible from the original code.
+
+VAX
+Short for Virtual Address eXtension, Digital Equipment Corporation's successor to its PDP-11 line of minicomputers. As its name implies, VAX systems feature an operating system -- VMS -- that supports virtual memory.  The VAX was introduced in 1977 and reached its pinnacle of success in the mid-1980s. It has been eclipsed by RISC -based workstations, including DEC's own line of Alpha stations.
+
+VBI
+Short for vertical blanking interval, the part of a television transmission signal that is blanked, or left clear, of viewable content, to allow time for the television's electron gun to move from the bottom to the top of the screen as it scans images. This blank area is now being used to broadcast closed caption and HTML -formatted information.   
+
+vBNS
+Short for very high-speed Backbone Network Service, an experimental wide-area network backbone sponsored by the National Science Foundation (NSF) and implemented by MCI. vNBS has replaced NSFnet and is designed to serve as a platform for testing new, high-speed Internet technologies and protocols. It currently links several Supercomputer Centers (SCCs) and Network Access Points (NAPs) at OC-12 speeds (622 Mbps). By 1998, it will support data, voice and video traffic at 2.5 Gbps.  
+
+VBR
+Short for variable bit rate, or Class B quality of service, an ATM bandwidth-allocation service that allows users to specify a throughput capacity (i.e., a peak rate) and a sustained rate but data is not sent evenly. VBR is often used when transmitting compressed packetized voice and video data, such as videoconferencing.  Compare with ABR, CBR and UBR.
+
+VBScript
+Short for Visual Basic Scripting Edition, a scripting language developed by Microsoft and supported by Microsoft's Internet Explorer Web browser. VBScript is based on the Visual Basic programming language, but is much simpler. In many ways, it is similar to JavaScript. It enables Web authors to include interactive controls, such as buttons and scrollbars, on their Web pages. 
+
+VBX
+Short for Visual Basic Extension, a reusable software component designed for use in many different applications. While VBXs can be used in other environments, they were initially created for developing Windows applications with Visual Basic. An application developer can use a number of selected VBXs to quickly develop an application. While similar to objects, VBXs do not have two of the properties (inheritance and polymorphism) required by true object-oriented systems.  Many different companies offer specialized VBXs for tasks such as controlling instruments or image handling. However, VBXs are being superseded by ActiveX controls, which are more flexible.     
+
+VC
+(1) Short for Visual Cryptography, a type of image encryption that works without needing complex calculations to decrypt. Visual cryptography uses the characteristics of human vision to decrypt encrypted images.   (2) Short for videoconferencing.
+
+VC_1
+A video codec that was implemented by Microsoft as Windows Media Video (WMV) 9. VC-1 is standardized by by Society of Motion Picture and Television Engineers (SMPTE), which specifies the complete bit stream syntax as well as transport and conformance for the delivery of high definition (HD) content. VC-1 content is transport-independent and container-independent allowing delivery over MPEG-2 and real-time transfer protocol (RTP) systems. Although VC-1 is considered a Microsoft product, VC-1 is open to implementation by anyone. Also called Windows Media Video 9 codec.
+
+VCACHE
+The disk cache system in Windows 95. VCACHE replaces the Smartdrive system used in older versions of Windows. Whereas SmartDrive is a 16-bit driver, VCACHE is a 32-bit driver. VCACHE can dynamically change the size of the disk cache depending on available disk space and application requirements. 
+
+vCard
+Short for virtual Card (also called electronic card), vCard is a specification that defines the format of an "Electronic Business Card." vCards are often attached in e-mail messages, but can also be exchanged through other ways on the World Wide Web. Usually a vCard will contain a business name, address, phone number, URL, logo and other business information. In 1996, the Internet Mail Consortium took on responsibility for the development and promotion of vCard.
+
+VCD
+Short for Video Compact Disc VCD is a CD (CD-R or CD-RW) that contains moving pictures and sound. A VCD can hold up to 80 minutes of motion video and stereo sound on a 700MB CD. VCDs use the MPEG-1 encoding standard. On a VCD you can have chapters, video, digital images, album slideshows, audio, or a combination of media files. A VCD can be played on most DVD players and on computer DVD-ROMs and computer CD-ROMs with the aid of software.See also SVCD.
+
+VCDEasy
+A software tool used to author Video CDs (VCD and SVCD) by using your  camcorder, video,  digital images, music and audio files. The resulting video CDs can be played on most home DVD Players.
+
+VCDimager
+An open source program that allows you to author VCD or SVCD BIN/CUE CD images from MPEG files.
+
+VCI
+Short for virtual channel identifier, a 16-bit field in an ATM cell��s header that identifies the cell��s next destination as it travels through an ATM network (similar to Frame Relay��s DLCI). A virtual channel is a logical connection between two end devices on an ATM network.  Also see VPI. An ATM switch uses either the VPI, the VCI or a combination of both to route the cell.
+
+vcloud-hybrid-service
+VMware's vCloud Hybrid Service (vCHS) is an Infrastructure-as-a-Service (IaaS) solution that enables customers to use virtual networking to securely extend their existing Layer 2 / Layer 3 networks from the data center to the cloud-based vCloud Hybrid Service.
+vCloud Hybrid Service is an extension of the company's private cloud-based vCloud Suite that was developed to help customers bridge their existing private cloud infrastructure to the public cloud. The vCHS and its virtual machines can be accessed, managed and migrated by VMware vSphere administrators from the vSphere client using the vCloud Connector plug-in.
+The vCHS service is currently offered by VMware in two formats: a vCloud Hybrid Service Dedicated Cloud that provides physically isolated and reserved compute resources, and the less expensive vCloud Hybrid Service Virtual Private Cloud, which offers a multi-tenant compute resource model but with dedicated allocations for customers.
+
+vcloud-hybrid-service-disaster-recovery
+vCloud Hybrid Service (vCHS) Disaster Recovery is a Disaster Recovery-as-a-Service (DRaaS) solution for VMware vSphere that utilizes the cloud to provide disaster recovery (DR) services to enterprises' physical and virtualized data centers.
+With vCloud Hybrid Service Disaster Recovery, anything running on a VMware vSphere host is protected by continuously replicating the data to the cloud. The vCHS DR service has a targeted recovery point objective (RPO) of fifteen minutes.
+
+vcloud-suite
+VMware's vCloud Suite is a set of cloud infrastructure capabilities that includes virtualization, software-defined data center (SDDC) services, policy-based provisioning, disaster recovery (DR), application management and operations management.
+vCloud Suite provides software services running across pools of industry-standard hardware that are capable of handling every layer of physical data center infrastructure. Specific components in the vCloud Suite include VMware vSphere, vCloud Director, vCloud Networking and Security and vCenter Site Recovery Manager.
+vCloud Suite debuted in September 2012, and the latest version of vCloud Suite, 5.5, was released in September 2013.
+
+VCPI
+Short for Virtual Control Program Interface, a specification for managing memory beyond the first megabyte on PCs with 80386 or later processors. VCPI can allocate memory to an application as either expanded or extended memory, as required by the application design. The VCPI standard is supported by some memory managers and DOS extenders. 
+
+VDR
+Short for Virtual Data Room, also called a Virtual Deal Room.
+
+VDSL
+Very High Speed Digital Subscriber Linetransmits data in the 13 Mbps - 55 Mbps range over short distances, usually between 1000 and 4500 feet (300 - 1500 meters), of twisted pair copper wire. The shorter the distance, the faster the connection rate.
+As the final length of cable into the home or office, VDSL connects to neighborhood Optical Network Units (ONUs), which connect to the central office's main fiber network backbone. This architecture will allow VDSL users to access the maximum bandwidthavailable through normal phone lines.
+VDSL is currently going through a standards issue, so it isn't widely deployed yet. The VDSL alliance favors a line coding scheme based on Discrete Multitone (DMT), a multi-carrier system that is more compatible with existing ADSLtechnology. The VDSL coalition favors a line coding scheme based on Quadature Amplitude Modulation (QAM), a single-carrier system that is less expensive and consumes less power.
+
+VDT_radiation
+The radiation emitted by video display terminals. Like televisions, computer monitors emit various types of radiation. Since the late 1980s, there has been a public debate about whether this radiation poses a health problem. To date, however, there is no conclusive evidence to settle the question once and for all. 
+
+VDU
+Short for visual display unit, the old term for display monitors. The older VDUs included a CRT, a serial port to connect to a main computer, and a keyboard.  
+
+Vdub
+In video editing a VirtualDub is an open source video capture and processing utility, designed for fast linear operations. It's available for 32-bit Windows platforms. VirtualDub has batch-processing capabilities for processing large numbers of files and can be extended with third-party video filters. VirtualDub is licensed under the GNU General Public License (GPL).
+
+vector
+(1) In computer  programming, a one-dimensional array. A vector can also mean a pointer.  (2) In computer graphics, a line that is defined by its start and end point.  
+
+vector_graphics
+Same as object-oriented graphics, refers to software and hardware that use geometrical formulas to represent images. The other method for representing graphical images is through bit maps, in which the image is composed of a pattern of dots. This is sometimes called raster graphics. Programs that enable you to create and manipulate vector graphics are called draw programs, whereas programs that manipulated bit-mapped images are called paint programs.
+Vector-oriented images are more flexible than bit maps because they can be resized and stretched. In addition, images stored as vectors look better on devices (monitors and printers) with higher resolution, whereas bit-mapped images always appear the same regardless of a device's resolution. Another advantage of vector graphics is that representations of images often require less memorythan bit-mapped images do.
+Almost all sophisticated graphics  systems, including CADD systems and animation software, use vector graphics. In addition, many printers (PostScript printers, for example) use vector graphics. Fonts represented as vectors are called vector fonts, scalable fonts, object-oriented  fonts, and outline fonts.
+
+Vein_ID_System
+A type of biometrics identification system that uses veins in a person's body to establish identity. Vein ID Systems use infrared light to scan the user's hand and look for a pattern of veins in order to make an identification match. Both Hitachi and Fujitsu have developed commercial Vein ID Systems.
+
+vendor
+Another name for a seller, merchant or supplier.
+
+vendor_neutral
+A product (hardware or software), technology or specification that is not proprietary (e.g. not privately owned and controlled) by one vendor. Vendor neutrality can be of concern, especially in the enterprise where there is a need for systems to integrate with new hardware and software as technology evolves. The presumed advantage of choosing a vendor-neutral model is that the best technology can be used at any time.
+
+venom-vulnerability
+VENOM refers to a security vulnerability that results from a buffer overflow in a kernel-level driver included in many default virtualized environments. The VENOM vulnerability has the potential to provide attackers with access to the host operating system and, as a result, other guest operating systems on the same host.
+VENOM is of particular concern to enterprises, as it can compromise corporate data centers and cloud services, which tend to rely heavily on virtualized systems throughout their operations.
+VENOM Specifics and Efforts to Patch Vulnerability
+Security firm CrowdStrike discovered and named the VENOM vulnerability in early 2015. VENOM, an acronym for Virtualized Environment Neglected Operations Manipulation, arises from QEMU's virtual Floppy Disk Controller (FDC), which carries a vulnerability that could enable an attacker to run code by pairing one of two flawed commands related to the controller with a buffer overflow.
+
+verification
+(n.) In a biometric security system, the process of comparing a biometric sample against a single reference template of a specific user in order to confirm the identity of the person trying to gain access to a system.  Contrast with identification.
+
+Verizon_FiOS
+FiOS is a type of fiber-to-the-premise service offered by Verizon, currently available in select locations only. Using Verizon's fiber optic network, this broadband service is designed to provide Internet access with maximum connection speeds of up to 30 Mbps downstream and 5 Mbps upstream, depending on the service selected.
+
+Veronica
+A search engine for Gopher sites. What Archie is to FTP sites, Veronica is to Gopher sites. Veronica uses a spider to create an index of the files on all Gopher servers. You can then enter search keywords into the Veronica system to search all Gopher sites at once.  
+
+version_control_system
+Another name for CVS.
+
+versioning_file_system
+A type of file system used for revision control that enables users to to access their file system as it appeared at any point in time. A set number of older copies of files are kept as the file is a new copy every time it is changed. Unlike a  backup system, the different versions of the file are kept on the local disk, rather than on archival (removable) media.
+
+verti-port
+A Web site that focuses on a particular industry, subject matter, or target group. The online retailer Amazon.com is a verti-port pioneer that until recently concentrated solely on books. Internet.com and Industry.net are verti-ports in Internet and engineering. Also referred to as miniportals.  
+
+vertical_application
+A vertical application is any software application that supports a specific business process and targets a smaller number of users with specific skill sets and job responsibilities within an organization.
+Examples of Vertical Applications
+Enterprise applications such as ERP (Enterprise Resource Planning) and CRM (customer relationship management) are types of vertical applications.
+Vertical Applications are Customized
+Vertical applications are often customized to meet the needs of industry-specific users. Vertical apps are also more complicated to use than horizontal apps, and because they need to integrate with other systems used in the organization, they may require IT assistance and deployment.
+
+vertical_cloud_computing
+A vertical cloud, or vertical cloud computing, is the phrase used to describe the optimization of cloud computing and cloud services for a particular vertical (e.g., a specific industry) or specific application use. The cloud provider will offer specialized functions and options that best meet industry-use and specifications. Today, the health care cloud is one of the more well-established vertical clouds.
+See also "A Cloud Computing Dictionary Resource" in the Quick Reference sectionof Webopedia.
+
+Vertical_Enterprise_Portal
+Abbreviated as VEP, a Vertical Enterprise Portal is a type of enterprise portal that is used by specific departments or users for a specific business function such as customer service or e-commerce functions.  Contrast with Horizontal Enterprise Portal (HEP).
+
+vortal
+Vertical Industry Portal (vortal) is a portal website that provides information and resources for a particular industry. Vortals are the Internet's way of catering to consumers' focused-environment preferences. Vortals typically provide news, research and statistics, discussions, newsletters, online tools, and many other services that educate users about a specific industry.
+
+vertical_justification
+A feature supported by some word processors and desktop publishing systems in which the system automatically adjusts the vertical space between lines (the leading) so that columns and pages have an even top and bottom margin. This is also called feathering.   
+
+Vertical_Service_Provider
+A Vertical Service Provider (VSP) is an ASP that covers the application needs of a specific vertical market or industry, such as: banking, manufacturing, education, real estate, government or law.
+
+VES
+Short for Common Language Runtime, a runtime environment that manages the execution of .NET program code and provides services such as memory and exception management, debugging and profiling, and security. The CLR is a major component of the .NET framework.  CLR also is known as the Virtual Execution System (VES).
+
+VESA
+Short for Video Electronics Standards Association, a consortium of video adapter and monitor manufacturers whose goal is to standardize video protocols.
+
+virtual_ethernet_veth
+Virtual Ethernet (vEth) is a virtual interface within a network switch that dynamically provisions virtual machine (VM) operations based on network policies stored in the switch. The IEEE 802.1Qbg working group is responsible for developing the official virtual Ethernet (vEth) specification, and is tasked with creating a virtual Ethernet standard that will provide access for network controls in virtualized environments comparable to the controls available in physical networks.
+The Virtual Ethernet (vEth) Standard
+The virtual Ethernet (vEth) standard is expected to include a virtual Ethernet port aggregator, or VEPA, as well as Ethernet virtual bridging (EVB), in addition to other technologies that facilitate connecting VMs to an external network. More than two dozen companies are contributing to the virtual Ethernet standards effort, including Cisco, HP, Dell, EMC, IBM and BLADE Network Technologies.
+
+
+VFAT
+Short for Virtual File Allocation Table, a virtual installable files system driver used in Windows for Workgroups and Windows 95. VFAT operates in protected mode and serves as an interface between applications and the File Allocation Table (FAT). 
+
+VGA
+Abbreviation of video graphics array, a graphics display system for PCs developed by IBM. VGA has become one of the de facto standards for PCs. In text mode, VGA systems provide a resolution of 720 by 400 pixels. In graphics mode, the resolution is either 640 by 480 (with 16 colors) or 320 by 200 (with 256 colors). The total paletteof colors is 262,144.
+Unlike earlier graphics  standards for PCs -- MDA, CGA, and EGA -- VGA uses analog signals rather than digital signals. Consequently, a monitordesigned for one of the older standards will not be able to use VGA.
+Since its introduction in 1987, several other standards have been developed that offer greater resolution and more colors (see SVGA , 8514/A   graphics standard, and XGA), but VGA remains the lowest common denominator. All PCs made today supportVGA, and possibly some other more advanced standard.
+
+VHDCI
+Short for Very High Density Cable Interconnect, VHDCI is a small 68-pin (.8mm) connector used for UltraSCSI and other peripheral devices such as scanners or external storage devices. VHDCI allows for the placement of four SCSI connectors on the back of a single PC card slot. VHDCI is also found on SCSI 5 host cards to connect peripherals to a SCSI 5 host controller or to each other.
+
+VHS
+Short for Video Home System it is a universal and widely used method of recording audio and video onto magnetic tape.  The VHS standard was developed by the Japan Victor Company (JVC) and was made available to the public market in 1976. The newest form of the VHS standard is Digital VHS (D-VHS).
+
+VHSIC
+Short for Very High Speed Integrated Circuit, VHSIC is a very high-speed computer chip that uses large-scale integration (LSI) and very large scale integration (VLSI) technology.
+
+video
+(adj.) (1) Refers to recording, manipulating, and displaying moving images, especially in a format that can be presented on a television.  (2) Refers to displaying images and text on a computer monitor. The video adapter, for example, is responsible for sending signals to the display device.  (n.) A recording produced with a video recorder (camcorder) or some other device that captures full motion. 
+
+video_adapter
+A board that plugs into a personal computer to give it display capabilities. The display capabilities of a computer, however, depend on both the logical circuitry (provided in the video adapter) and the display monitor. A monochrome monitor, for example, cannot display colors no matter how powerful the video adapter.
+Many different types of video adapters are available for PCs. Most conform to one of the video standards defined by IBM or VESA.
+Each adapter offers several different video modes. The two basic categories of video modes are text and graphics. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. Within the text and graphics modes, some monitors also offer a choice of resolutions. At lower resolutions a monitor can display more colors.
+
+video_bridge
+In videoconferencing, a video bridge is a computerized switching system that allows for multipoint videoconferencing.
+
+video_capture
+Converting analog video signals, such as those generated by a video camera, into a digital format and then storing the digital video on a computer's  mass storage device. Video capture from analog devices requires a special video capture card that converts the analog signals into digital form and compresses the data. There are also digital video devices that can capture images and transfer them to a computer via a standard serial or parallel interface.  
+
+video_chat
+Technology for conducting audio and video interaction in real time between users at disparate locations.  Video chats are typically conducted via a computer, tablet or smartphone device (also called videophone chatting), and may involve point-to-point (or one-to-one) interaction, as in the case of FaceTime and Skype, or multipoint (or one-to-many) interaction, as in the typical case of Google Hangouts.
+Related definitions:  Videoconferencing, Video conferencing software, FaceTime
+While video chatting is often used interchangeably with the term videoconferencing -- and there is considerable overlap between the two -- in most cases videoconferencing refers to multipoint (3 or more participants) audio and video interaction deployed in a business setting, whereas video chatting most frequently refers to one-to-one video calls made via software apps like Skype, FaceTime, Facebook Video Chat and ooVoo. 
+
+video_conferencing_software
+Video conferencing software facilitates initiating and conducting live conferences between two or more participants at different sites by using computernetworks to transmit audio, video and text data.
+Today, video conferencing software is used by companies of all sizes to stay connected with global partners and employees, to increase productivity and to cut costs. Most video conferencing software let users communicate and share and collaborate on files.
+How Video Conferencing Software Works
+Video conferencing and Web conferencing software applications enable both point-to-point (two-person) and multipoint (three or more participants) video conferences.
+
+video_editing
+The process of manipulating video images. Once the province of expensive machines called video editors, video editing software is now available for personal computers and workstations. Video editing includes cutting segments (trimming), re-sequencing clips, and adding transitions and other special effects. 
+
+video_encoding
+In video editing and production video encoding is the process of preparing the video for output, where the digital video is encoded to meet proper formats and specifications for recording and playback through the use of video encoder software. Also called video conversion.See also encoding.
+
+Video_for_Windows
+A format developed by Microsoft Corporation for storing video and audio information. Files in this format have a.AVI extension. AVI files are limited to 320 x 240 resolution, and 30 frames per second, neither of which is adequate for full-screen, full-motion video. However, Video for Windows does not require any special hardware, making it the lowest common denominator for multimedia applications. Many multimedia producers use this format because it allows them to sell their products to the largest base of users.  Video for Windows supports several data compression techniques, including RLE, Indeo, and Cinepak. A competing software -only video format is QuickTime. 
+
+video_memory
+RAM installed on a video adapter. Before an image can be sent to a display monitor, it is first represented as a bit map in an area of video memory called the frame buffer. The amount of video memory, therefore, dictates the maximum resolution and color depth available.  With a conventional video adapter, the bit map to be displayed is first generated by the computer's microprocessor and then sent to the frame buffer. Most modern video adapters, however, are actually graphics accelerators. This means that they have their own microprocessor that is capable of manipulating bit maps and graphics objects. A small amount of memory is reserved for these operations as well.  Because of the demands of video systems, video memory needs to be faster than main memory. For this reason, most video memory is dual-ported, which means that one set of data can be transferred between video memory and the video processor at the same time that another set of data is being transferred to the monitor. There are many different types of video memory, including VRAM, WRAM, RDRAM, and SGRAM.  
+
+video_mode
+The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth. 
+
+video_overlay
+The placement of a full-motion video window on the display screen. There are various techniques used to display video on a computer's screen, depending on whether the video source has been digitized or is still in analog NTSC format.  Since computer monitors are generally analog, NTSC video can be merged with signals coming from the video adapter. Increasingly, faster computer buses (PCI, VL-bus, etc.) and faster video busses (Advanced Feature Connector, VM Channel, etc.), allow for analog video to be digitized and stored with other binary data for output. Then the video adapter turns it into analog scan lines for the monitor.    
+
+video_SEO
+The term video SEO is used to describe optimizing video content for search engine traffic. The goal when working with video SEO is to have your video content appear in video search engines as well as in the organic search results for major search engines-with traffic being directed to yoursite and not to your video hosting provider.Video SEO may be abbreviated as vSEO.
+
+video_standards
+There are a variety of video standards that define the resolution and colors for displays. Support for a graphics  standard is determined both by the monitor and by the video adapter. The monitor must be able to show the resolution and colors defined by the standard, and the video adapter must be capable of transmitting the appropriate signals to the monitor.  Listed here, in approximate order of increasing power and sophistication, are the more popular video standards for PCs. Note that many of these numbers represent only the minimums specified in the standards. Many suppliers of video adapters provide greater resolution and more colors. VGA -- 640 x 480 resolution SVGA -- 800 x 600 resolution XGA -- 1024 x 768 resolution SXGA -- 1280 x 1024 resolution UXGA -- 1600 x 1200 resolution 
+
+video_switcher
+Also called a vision mixer, a video switcher is a hardware device used in video and film production to switch between different video or audio sources. This allows the producer to mix video and also add in special effects or footage captured on a secondary source.
+
+video_transition
+In video editing a transition is what the author shows between two shots or clips. The joining of those clips is the transition from one to the other. Transitions can be an instant scene or image change, a fade, fade to black, dissolve, pan from one person to another, or any digital effect.
+
+videoconferencing
+Videoconferencing (or video conference) means to conduct a conference between two or more participants at different sites by using computer networks to transmit audio and video data. For example, a point-to-point (two-person) video conferencing system works much like a video telephone. Each participant has a video camera, microphone, and speakers mounted on his or her computer. As the two participants speak to one another, their voices are carried over the network and delivered to the other's speakers, and whatever images appear in front of the video camera appear in a window on the other participant's monitor.
+Multipoint videoconferencing allows three or more participants to sit in a virtual conference room and communicate as if they were sitting right next to each other. Until the mid 90s, the hardware costs made videoconferencing prohibitively expensive for most organizations, but that situation is changing rapidly. Many analysts believe that videoconferencing will be one of the fastest-growing segments of the computer industry in the latter half of the decade.
+
+videophile
+Slang term used to describe a video enthusiast - that is, a person who has an extremely high interest in watching or making videos. A videophile may be overly concerned with near perfect audio quality and picture quality.
+
+VIDEO_TS
+VIDEO_TS is a UDF file name used for video directory on DVD disc volume. Compare with AUDIO_TS.
+
+view
+In database management systems, a view is a particular way of looking at a database. A single database can support numerous different views. Typically, a view arranges the records in some order and makes only certain fields visible. Note that different views do not affect the physical organization of the database. 
+
+viewable_area
+In computer monitor terminology, the viewable area is the diagonal measurement of a CRT screen, starting from where the glass becomes visible from behind the bezel.
+
+viewer
+A utility program that enables you to read a file in its native  format . A Lotus 1-2-3 viewer, for example, enables you to read Lotus 1-2-3 files. Many shell utilities and file managers include viewers so that you can display different types of files.   
+
+Viral_Marketing
+In Internet and  online advertising viral marketing is a type of marketing technique that relies on and encourages people to pass along a marketing message by word-of-mouth (or word-of-e-mail) marketing. Viral marketing online uses blog and social networks to produce positive word-of-mouth brand awareness.
+
+virtual
+Not real. The term virtual is popular among computer scientists and is used in a wide variety of situations. In general, it distinguishes something that is merely conceptual from something that has physical reality. For example, virtual memory refers to an imaginary set of locations, or addresses, where you can store data. It is imaginary in the sense that the memory area is not the same as the real physical memory composed of transistors. The difference is a bit like the difference between an architect's plans for a house and the actual house. A computer scientist might call the plans a virtual house. Another analogy is the difference between the brain and the mind. The mind is a virtual brain.It exists conceptually, but the actual physical matter is the brain.
+The opposite of virtual is real, absolute, or physical.
+
+
+virtual_camera
+In 3D animation, a virtual camera is a function of the animation software that works and behaves in the same way a camera or digital camera would in real-world situations. In the software, the virtual camera is made up from mathematical calculations that determine how the object will be rendered based on the location and angle of the virtual camera in the software program. As with a real camera, when working with a virtual camera in 3D animation programs, you can use functions like pan, zoom, or change focus and focal points.
+
+virtual_circuit
+A connection between two devices that acts as though it's a direct connection even though it may physically be circuitous. The term is used most frequently to describe connections between two hosts in a packet-switching network. In this case, the two hosts can communicate as though they have a dedicated connection even though the packets might actually travel very different routes before arriving at their destination. An X.25 connection is an example of a virtual circuit.  Virtual circuits can be either permanent (called PVCs) or temporary (called SVCs).  
+
+Virtual_Data_Room
+A Virtual Data Room (VDR) is a series of proprietary extranets that provide an online repository of data. Businesses typically use a  secure virtual data room to share critical information with external customers and partners in a secure, online environment. The Virtual Data Room enables parties to view documents relevant to a particular transaction for authorized users. Documents are stored in electronic format on a central server and accessed via the Internet.
+Secure, Virtual Meeting Rooms
+VDRs are assumed to be secure and confidential virtual meeting rooms where buyers, attorneys, accountants and other professionals can review sensitive documents. Initially, VDRs were mainly used by lawyers to meet with clients, but today VDRs are used in a wide array of businesses where a cost-effective way to eliminate the need for a physical data or consultation room is needed.
+A Virtual Data Room is commonly called a Virtual Deal Room.
+
+virtual_dedicated_server
+Abbreviated as VDS, a virtual dedicated server is a type of virtualization that enables a virtual server, which is a shared resource and not a dedicated server, to to work and act as if it were a dedicated server.  Each VDS has its own disk space, bandwidth, CPU allocation, memory and operating system. Also called a virtual private server (VPR). See also server virtualization.
+
+virtual_desktop
+A feature supported by some notebook computers that enables them to display images on an external monitor at a higher resolution than is supported by the built-in flat-panel display. For example, most flat-panel displays are limited to a maximum resolution of 800x600. With the virtual desktop feature, you could connect the computer to an external monitor and enjoy full SVGA (1,024x768) resolution.  The term also refers to a feature supported by some video adapters that enables them to provide a desktop larger than what's actually displayed. Only part of the virtual desktop is displayed at any one time, but you can see hidden areas by scrolling the display. It's as if the display screen is a small window overlaid upon a larger desktop.  
+
+virtual_device_driver
+In Windows systems, a special type of device driver that has direct access to the operating system kernel. This allows them to interact with system and hardware resources at a very low level.  In Windows 95, virtual device drivers are often called VxDs because the filenames end with the .vxd extension . 
+
+virtual_Ethernet
+A VLAN (virtual LAN) facilitates high-speed virtual Ethernet communications using memory and the system's processor rather than actual Ethernet cards. Used in Virtual I/O Servers, administrators can dynamically create virtual Ethernet segments or restrict access to VLAN segments. Virtual Ethernets are similar to physical Ethernets in that they support multiple networking protocols.
+Virtual Ethernet can also refer to the virtual Ethernet (vEth) specification, a forthcoming standard that will provide access for network controls in virtualized environments comparable to the controls available in physical networks.
+
+virtual_group
+Slang term used to describe a group of people who socialize and interact online  in multiplayer games, forums, chat rooms or on social networking sites, but who have not necessarily met offline, in real life.
+
+virtual_honeypot
+A software program that is designed to appear to be a real functioning network but is actually a decoy built specifically to be probed and attacked by malicious users. In contrast to a honeypot, which is typically a hardware device that lures users into its trap, a virtual honeypot uses software to emulate a network.
+
+virtual_host
+Often abbreviated vhost, a virtual host is a provider of Web services that include server functions and Internet connection services. A virtual host is often used by companies or individuals that do not want to purchase and maintain their own Web servers and Internet connections.  A virtual host will provide its customers with domain name registration, file storage and directory services for the files that Web page is built from, e-mail services and even Web site design and creation services if the customers want someone else to build their Web sites.  A limitation of using a virtual host is that the customer shares the Web services with all the other customers of the virtual host. If the virtual host is running multiple sites off the same server, then those sites will be competing for Web server resources. Some virtual hosting providers offer co-location services and/or allow a customer to rent dedicated servers that are allocated to serve only that one customer��s needs.
+
+Virtual_I_O
+Virtual I/O (VIO, Virtual I/O Server) Abbreviated as VIO, Virtual I/O is a term used to describe a set of storage virtualization and network virtualization features, including virtual Ethernet, shared Ethernet adapter, and storage virtualization.
+
+virtual_identity
+In online virtual communities, such as online chat rooms or in online games, a virtual identity is one created by the human user that acts as an interface between the physical person and virtual person other users see on their computer screen.  See also avatar.
+
+virtual_IP_address
+Abbreviated as VIPA, a virtual IP address is an IP address that is shared among multiple domain names or multiple servers. A virtual IP address eliminates a host's dependency upon individual network interfaces. Incoming packets are sent to the system's VIPA address, but all packets travel through the real network interfaces.
+
+virtual_ISP
+(n.) An ISP that piggybacks its services off of a third-party provider in order to offer ISP services without the expenses and duties required in providing those services. The virtual ISP does not invest in any network, equipment or backroom/technical support needed to offer ISP services. The third-party provider handles all of the needs of the end user but is invisible to the end user who only sees the virtual ISP.  For example: Company A is an online retail bookseller that wants to extend its services to offer its customers ISP services to bring more value to its customers and to create a bigger brand name in the market. However, the company, being a retailer, does not have the resources to branch out into the ISP arena and therefore hires Company B, an existing ISP, to provide the ISP services. Company B creates a branded ISP for Company A so that Company A's customers think that they are getting their ISP services through the bookseller but in reality they are being provided the services by means of Company B, the real ISP, who remains invisible to the end user. In this way, Company A becomes a virtual ISP.
+
+Virtual_IT_Service_Provider
+A Virtual IT Service Provider provides limited IT services from a remote location. Virtual IT Service Provider support can range from monitoring, reporting, remote management, backups, security and updates. Organizations can outsource some of the smaller IT functions of their office to a Virtual IT Service Provider.
+
+virtual_keyboard
+)A virtual keyboard is where a full-size image of a QWERTY keyboard is projected onto any surface. Touching the image of a key generates a unique electronic signal corresponding to a key's image. Using a virtual keyboard eliminates the chance of breakage and infection transfer. Additionally virtual keyboards require no cleaning and they have no wires, buttons, or switches. Virtual keyboards are also compatible with many Smartphones and PDAs. A virtual keyboard is also called a projection keyboard. VKEY is the trademarked name of the virtual keyboard developed by Virtual Devices Inc.  * Virtual keyboard image courtesy of  Virtual Devices Inc. 
+
+virtual_machine
+A self-contained operating environment that behaves as if it is a separate computer. For example, Java applets run in a Java virtual machine (VM) that has no access to the host operating system. This design has two advantages:
+
+System Independence: A Java application will run the same in any Java VM, regardless of the hardware and software underlying the system.
+Security: Because the VM has no contact with the operating system, there is little possibility of a Java program damaging other files or applications.
+
+The second advantage, however, has a downside. Because programs running in a VM are separate from the operating system, they cannot take advantage of special operating system features.
+
+
+virtual_machine_server
+A virtual machine (VM) server hosts virtual machines running operating systems in one of two following modes:   fully virtual: completely emulates all hardware devices paravirtual mode: does not require complete emulation of hardware devices.  
+
+virtual_memory
+)(n.) An imaginary memory area supported by some operating systems (for example, Windows but not DOS) in conjunction with the hardware. You can think of virtual memory as an alternate set of memory addresses. Programs use these virtual addresses  rather than real addresses to store instructions and data. When the program is actually executed, the virtual addresses are convertedinto real memory addresses.
+The purpose of virtual memory is to enlarge the address space, the set of addresses a program can utilize. For example, virtual memory might contain twice as many addresses as main memory. A program using all of virtual memory, therefore, would not be able to fit in main memory all at once. Nevertheless, the computer could execute such a program by copyinginto main memory those portions of the program needed at any given point during execution.
+To facilitate copying virtual memory into real memory, the operating system divides virtual memory into pages, each of which contains a fixed number of addresses. Each page is stored on a diskuntil it is needed. When the page is needed, the operating system copies it from disk to main memory, translating the virtual addresses into real addresses.
+
+virtual_network_computing
+Through the use of software VNC, acronym for virtual network computing, makes it possible to interact with a computer from any computer or mobile device on the Internet. VNC software provides cross-platform support allowing remote control between different types of computers. To use VNC you must have a network TCP/IP connection, a VNC server and a VNC viewer to connect to the computer running the VNC server. The open source version of VNC has been freely available since 1998, and more than 20 million copies of the software have been downloaded.
+
+virtual_printer
+A file containing a set of attribute values that describe the data stream for a printer. Before a print job can be placed in a queue, a virtual printer definition must exist for both the print queue and the queue device.
+
+virtual_private_server
+Abbreviated as VPS, the term virtual private server is used interchangeably with virtual dedicated server (VDS).See virtual dedicated server (VDS).
+
+virtual_reality
+An artificial environment created with computer  hardware and software and presented to the user in such a way that it appears and feels like a real environment. To "enter" a virtual reality, a user dons special gloves, earphones, and goggles, all of which receive their input from the computer system. In this way, at least three of the five senses are controlled by the computer. In addition to feeding sensory input to the user, the devices also monitor the user's actions. The goggles, for example, track how the eyes move and respond accordingly by sending new video input.  To date, virtual reality systems require extremely expensive hardware and software and are confined mostly to research laboratories.  The term virtual reality is sometimes used more generally to refer to any virtual world represented in a computer, even if it's just a text-based or graphical representation. 
+
+virtual_router
+(n.) An abstract object managed by VRRP that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN. 
+
+virtual_san
+Virtual SAN is a software-defined storage offering from VMware that enables enterprises to pool their storage capabilities and to instantly and automatically provision virtual machine storage via simple policies that are driven by the virtual machine.
+
+
+virtual_server
+A server, usually a Web server, that shares computer resources with other virtual servers. In this context, the virtual part simply means that it is not a dedicated server-- that is, the entire computer is not dedicated to running the server software.
+Virtual Web servers are a very popular way of providing low-cost web hosting services. Instead of requiring a separate computer for each server, dozens of virtual servers can co-reside on the same computer. In most cases, performance is not affected and each web site behaves as if it is being served by a dedicated server. However, if too many virtual servers reside on the same computer, or if one virtual server starts hogging resources, Web pages will be delivered more slowly.
+Also see the Server Types page in the Quick Reference section of Webopedia for a comparison of server types.
+
+Virtual_Studio_Technology
+Abbreviated as VST, Virtual Studio Technology is an interface standard used to integrate audio effects and instruments into digital audio. VSTs are usually software plug-ins used in audio editors that interacts with digital audio and MIDI elements.
+
+virtual_tape_library
+A VTL, or virtual tape library, is an archival backup solution that combines traditional tape backup methodology with low-cost disk technology to create an optimized backup and recovery solution.  It is an intelligent disk-based library that emulates traditional tape devices and tape formats. Acting like a tape library with the performance of modern disk drives, data is deposited onto disk drives just as it would onto a tape library, only faster. Virtual tape backup solutions can be used as a secondary backup stage on the way to tape, or as their own standalone tape library solution. A VTL generally consists of a Virtual Tape appliance or server, and software which emulates traditional tape devices and formats.
+
+virtual_teletype
+Abbreviated as VTY, virtual teletype is a command line interface that enables users to connect to the daemon using the  Telnet protocol. To connect to a VTY users must setup and use a VTY password. VTY offers three user modes including the following;  VTY View Mode for read-only interaction. VTY Enable Mode for read-write interaction. VTY Other Mode which are special modes, like TFTP. 
+
+virtual_tour
+Virtual tour is a panoramic view or video simulation of an existing place that can be viewed online, often for travel or vacation-related research. A virtual tour is usually a collection of panoramic images that are played in sequence to view like a moving video with added sound and text effects, or a virtual tour may use models in place of real-life video and images.
+Real Estate Virtual Tours
+A virtual your is designed to give the viewer a more life-like  3D view of the location being presented in the tour, making it popular in the real estate industry where a realistic 3D view of a home or property can be presented to interested purchasers. 
+A virtual tour may also be called a panoramic tour.
+
+virtual_Web_site
+A Web site hosted on a server that shares resources with other Web sites, as opposed to a single machine dedicated to processing HTTP requests for a single Web site. Web sites on the same server will share common resources. Also called shared Web hosting. See virtual host. Also see "All About Web Site Hosting" in the Did You Know...? section of Webopedia.
+
+VirtualDub
+In video editing a VirtualDub is an open source video capture and processing utility, designed for fast linear operations. It's available for 32-bit Windows platforms. VirtualDub has batch-processing capabilities for processing large numbers of files and can be extended with third-party video filters. VirtualDub is licensed under the GNU General Public License (GPL).
+
+virtualization
+In computing, virtualization means to create a virtual version of a device or resource, such as a server, storage device, network or even an operating system where the framework divides the resource into one or more execution environments. Even something as simple as partitioning a hard drive is considered virtualization because you take one drive and partition it to create two separate hard drives. Devices, applications and human users are able to interact with the virtual resource as if it were a real single  logical resource. The term virtualization has become somewhat of a buzzword, and as a result the term is now associated with a number of computing technologies including the following:
+ 
+
+storage virtualization: the amalgamation of multiple network storage devices into what appears to be a single storage unit.
+server virtualization: the partitioning a physical server into smaller virtual servers.
+operating system-level virtualization: a type of server virtualization technology which works at the operating system (kernel) layer.
+network virtualization: using network resources through a logical segmentation of a single physical network.
+application virtualization
+
+See also virtual. Contrast with physical. Compare virtualization with emulation.
+
+virtualization-aware_networks
+Also known as VM-aware networks, virtualization-aware networks are powered by network switches that fully recognize and manage virtual machines (VMs). As a result, virtualization-aware networks enable data centers to efficiently configure and migrate virtual machines across the network as well as into the cloud while avoiding potential access or security issues.
+Whereas traditional network switches lack awareness of virtual machines, creating the potential for security and migration issues in virtualized environments, VM-aware network switches provide network configuration at a virtual port level, enabling the dynamic and automatic movement of VMs across the network.
+
+
+virtualization-aware_storage
+Also known as VM-aware storage, virtualization-aware storage is storage technology that facilitates management and monitoring of storage performance and integration in virtualized environments where virtual machines (VMs) are utilized. Virtualization-aware storage enables the storage infrastructure to be managed together with the VMs rather than as separately managed volumes or LUNs (logical unit numbers).  A key role of virtualization-aware storage is to facilitate communication between the storage array and the hypervisor for more efficient automation and management of storage performance, reliability and cost-efficiency. The storage infrastructure for VM-aware storage is tuned to the distinct input and output patterns of virtual environments and set up to automatically manage quality of server (QoS) for each virtual machine (VM).
+
+
+virus_disinfection
+A function of an antivirus program which attempts to remove and disinfect infections on the computer system including viruses, worms and Trojan horses. Disinfection in antivirus programs may also detect and remove unwanted  applications as well.
+
+virus_protection
+Virus protection software is designed to prevent viruses, worms and Trojan horses from getting onto a computer as well as remove any malicious software code that has already infected a computer.
+Most virus protection utilities now bundle anti-spyware and anti-malware capabilities to go along with anti-virus protection.  Internet security suites go a step further by including additional capabilities like anti-spam, anti-phishing, firewall, file protection and PC optimization.
+Also see antivirus programs and The Difference Between a Virus, Worm and Trojan Horse  in the Did You Know? section of Webopedia. 
+
+virus_scanner
+(n.) A type of antivirus program that searches a system for virus signatures that have attached to executable programs and applications such as e-mail clients. A virus scanner can either search all executables when a system is booted or scan a file only when a change is made to the file as viruses will change the data in a file.
+
+virus_signature
+A unique string of bits, or the binary pattern, of a virus. The virus signature is like a fingerprint in that it can be used to detect and identify specific viruses. Anti-virus software uses the virus signature to scan for the presence of malicious code.
+
+vishing
+The telephone equivalent of phishing. Vishing is the act of using the telephone in an attempt to scam the user into surrendering private information that will be used for identity theft. The scammer usually pretends to be a legitimate business, and fools the victim into thinking he or she will profit. See "Defend Yourself Against Identity Theft" in Webopedia's "Did You Know...?" section. See also "VoIPowering Your Office: Vishing, Hijacking, Bots, and Other Entertainments" on VoIPPlanet.com.
+
+VisiCalc
+The first spreadsheet application, introduced in the late 1970's. The idea behind VisiCalc was developed by Dan Bricklin, and the actual programming was performed by a friend named Bob Frankston. Bricklin needed a computer tool to complete repetitive calculations associated with case studies at the Harvard Business School. After gaining popularity as an Apple application, the product was sold to Lotus Development Corporation, and led to the development of the Lotus 1-2-3 spreadsheet for the PC in 1983. 
+
+visitor_location_register
+Abbreviated as VLR, the visitor location register is a database maintained by a  cellular service provider used to track users who are  roaming in that mobile service provider's area.
+
+Vista_SP1
+Short for Vista Service Pack 1 (SP1), Vista SP1 is a collection of end-user features, security fixes, bug fixes, improvement features, and other changes that will affect Microsoft Windows Vista.  See also service pack.
+
+Visual_Basic
+A programming language and environment developed by Microsoft. Based on the BASIC language, Visual Basic was one of the first products to provide a graphical programming environment and a paint metaphor for developing user interfaces. Instead of worrying about syntax details, the Visual Basic programmer can add a substantial amount of code simply by dragging and dropping controls, such as buttons and dialog boxes, and then defining their appearance and behavior.
+Although not a true object-oriented programming language in the strictest sense, Visual Basic nevertheless has an object-oriented philosophy. It is sometimes called an event-driven language because each object can react to different events such as a mouse click.
+Since its launch in 1990, the Visual Basic approach has become the norm for programming languages. Now there are visual environments for many programming languages, including C, C++, Pascal, and Java. Visual Basic is sometimes called a Rapid Application Development (RAD)system because it enables programmers to quickly build prototype applications.
+
+Visual_Basic_Editor
+Abbreviated as VBE, Visual Basic Editor is the tool used to create, modify and maintain Visual Basic for Applications (VBA) procedures and modules in Microsoft Office applications. The Visual Basic Editor is included with most Office programs.See also Visual Basic for Applications (VBA).
+
+Visual_Basic_for_Applications
+Abbreviated as VBA, Visual Basic for Applications is a programming language that is similar to Visual Basic, only it is embedded in an individual Microsoft application such as Excel or Access. Using VBA you can create macros or small programs that perform tasks within the Microsoft application. See also Visual Basic Editor (VBE).
+
+Visual_C_plus_plus
+An application development tool developed by Microsoft for C++ programmers. Visual C++ supports object-oriented programming of 32-bit Windows applications with an integrated development environment (IDE), a C/C++ compiler, and a class library called the Microsoft Foundation Classes (MFC). The IDE includes an AppWizard, ClassWizard, and testing features to make programming easier. Visual C++ was introduced in 1993, and Release 4.0 became available in 1996. 
+
+visual_voicemail
+Visual voicemail is a feature typically provided by cellular telephone service providers that adds a visual interface to standard voicemail capabilities. With visual voicemail users can quickly view and access a list of their voicemail messages for playback as well as manage their personal greetings and upload messages to a voicemail server using a graphical interface. With some visual voicemail services e-mail-based and text-based transcripts of audio messages can be provided as well.
+Popularized by Apple's iPhone, visual voicemail is now common on BlackBerry, Windows Phone 7.1 (“Mango”) and other smartphone devices.  Additionally, third-party services from companies like PhoneFusion and YouMail deliver visual voice mail services and smartphone apps for devices that lack built-in visual voicemail capabilities.
+
+VITA
+VITA is an American National Standards developer and a submitter of Industry Technical Agreements to the IEC, and the VITA Standards Organization provides its members with the ability to develop and to promote open technology standards. It's a nonprofit organization of vendors and users having a common market interest in real-time, modular embedded computing systems. The functions performed by VITA are technical, promotional and user related and are aimed at increasing the total market size. VITA's mission includes not only promoting VMEbus, but promoting the very concept of open technology as embodied in the many standards currently under development within the VITA Standards Organization. 
+
+vivid-vervet
+Vivid Vervet is the Ubuntu codename for version 15.04 of the Ubuntu Linux-based operating system. Officially released in April 2015, Vivid Vervet follows the Utopic Unicorn (v14.10) release.
+Vivid Vervet introduces updates across the Ubuntu desktop, smartphone, cloud and Internet of Things (IoT) ecosystem as well as the first stable release of Ubuntu's lightweight "Snappy" Ubuntu Core version developed for embedded IoT devices.
+Other additions in the Ubuntu Vivid Vervet release include the new Linux 3.19 kernel, the LXD Linux container hypervisor, the Kilo release of OpenStack, updated integrated applications like Firefox (v37.0) and LibreOffice (v4.2.2.2), and a switch for the default init system from Canonical’s upstart to the Debian-standard systemd.
+
+VL_Bus
+Short for VESA Local-Bus, a local bus architecture created by the Video Electronics Standards Association ( VESA ). Although it was quite popular in PCs made in 1993 and 1994, it has been overshadowed by a competing local bus architecture called PCI. 
+
+VLAN
+Short for virtual LAN, a network of computers that behave as if they are connected to the same wire even though they may actually be physically located on different segments of a LAN. VLANs are configured through software rather than hardware, which makes them extremely flexible. One of the biggest advantages of VLANs is that when a computer is physically moved to another location, it can stay on the same VLAN without any hardware reconfiguration.
+
+
+VLC
+A cross-platform media player that can be used for playing multiple audio and video formats such as MPEG-2, MPEG-4, DivX, Ogg and others. VLC also supports DVD, VCD and various streaming protocols and can be used as a server to stream in unicast or multicast. VLC is available for many different operating systems including Windows, MacOS X, BeOS, multiple Linux versions, Fedora, FreeBSD, Solaris and others. The VLC media Player is produced under VideoLAN, a software project that produces free software for video, released under the GNU General Public License.
+
+VLIW
+Short for Very Long Instruction Word, a microprocessor design technology. A chip with VLIW technology is capable of executing many operations within one clock cycle. Essentially, a compiler reduces program instructions into basic operations that the processor can perform simultaneously. The operations are put into a very long instruction word that the processor then takes apart and passes the operations off to the appropriate devices.  Compare with RISC and CISC.
+
+vlog
+(n.) Short for video blog, it is the term used to describe a blog that includes or consists of video clips. Typically updated daily (or with regular frequency) vlogs often reflect the personality or cause of the author. Also called vog.
+(v.) To author a video blog.
+Other forms: vlogger (a person who video blogs).
+
+vlogosphere
+Meaning all vlogs, vlogosphere is an expression used to describe the "world of video blogs." See also vlog.
+
+VLSI
+Abbreviation of very large-scale integration, the process of placing thousands (or hundreds of thousands) of electronic components on a single chip. Nearly all modern chips employ VLSI architectures, or ULSI (ultra large scale integration). The line between VLSI and ULSI is vague. 
+
+VLSM
+Variable Length Subnet Mask, abbreviated as VLSM, is a means to specify a different subnet mask for the same network number on different subnets. With VLSM, a network administrator can use a long mask on networks with few hosts and a short mask on subnets with many hosts. To use VLSM, the routing protocol must support it. See also subnet mask.
+
+vm-aware_networks
+Also known as virtualization-aware networks, VM-aware networks utilize virtual Ethernet (vEth) technologies that enable data centers to efficiently configure and migrate virtual machines (VMs) across a network as well as into the cloud.  By providing network configuration at a virtual port level, VM-aware networking switches enable the dynamic and automatic movement of VMs across the network in virtualized environments. This helps eliminate the potential for security and migrations issues in a networked environment that relies heavily on virtual machines.  See also: Virtualization-aware networks, VM-aware storage and Software-Defined Networking (SDN)
+
+vm-aware_storage
+VM-aware storage, or virtualization-aware storage, is the intelligent management and monitoring of storage infrastructure in virtualized environments where virtual machines (VMs) are utilized. The key factor in a VM-aware storage environment is that the storage components are managed together with the VMs rather than as separately managed volumes or LUNs (logical unit numbers).
+
+VME_bus
+(VersaModule Eurocard bus) A 32-bit bus developed by Motorola, Signetics, Mostek and Thompson CSF. It is widely used in industrial, commercial and military applications with over 300 manufacturers of VMEbus products worldwide. VME64 is an expanded version that provides 64-bit data transfer and addressing. 
+
+VMM
+Short for virtual machine monitor, in virtualization technology it is the host program that allows a computer to support multiple and identical execution environments. The VMM provides the underpinnings for virtualization management, which includes policy-based automation, virtual hard disk, life cycle management, live migration and real-time resource allocation.   You can basically think of the VMM as the part of the code in firmware that manages either multiple operating systems or multiple instances of the same operating system on a single computer system. Its job is to manage the system's processor, memory and other resources to allocate what each operating system requires. VMMs provide the means, through emulation, to divide a single, physical server or blade, allowing multiple operating systems to run securely on the same CPU and increase the CPU utilization. 
+
+VMM32_vxd
+Found in Windows 9x machines, VMM32.vxd is the virtual device driver librarythat contains virtual device driver files needed for system start up.
+VMM32.vxd is different for every machine; therefore, if it gets corrupted, it cannot be copied from another computer; it'll need to be rebuilt.
+
+VMS
+1) Short for Virtual Memory System, a multi-user, multitasking, virtual memory operating system that runs on DEC's VAX and Alpha lines of minicomputers and workstations. VMS was introduced in 1979 along with the first VAX minicomputer. Like the VAX itself, VMS has undergone many changes over the years. DEC now refers to it as OpenVMS. 2) Short for Vocabulary Management Solution. See also Vocabulary Management Solution.
+
+VMware_ESX
+
+HTML clipboard
+&lt;!--
+.style1 {
+	color: #FF0000;
+}
+.style2 {
+	color: #FF0000;
+	font-style: italic;
+}
+--&gt;
+VMware ESX  is VMware’s  enterprise server virtualization platform. The platform is available in two  versions -- ESX Server and ESXi Server. VMware ESX and ESXi can be deployed as   part of the VMware infrastructure (vSphere or VMware View) to enable centralized   management for data center applications and enterprise desktops. One main feature   of the enterprise server virtualization  platform is that it allows users to   contain server sprawl by running software applications in virtual machines   on fewer physical servers.
+
+vmware_nsx
+A bundled solution from VMware that integrates the company's own virtualization technology with technology acquired from Nicira in order to provide a unified, single-solution network virtualization platform for data centers.
+According to this article on eWeek, "VMware NSX enables organizations to virtualize Layer 2-7 services – from the switch and router to load balancing, firewalls and VPNs – in software, and to enable the solution to work with any underlying networking hardware infrastructure, any hypervisor and any cloud management platform."
+
+
+vmware_cloud_connector
+The VMware vCloud Connector is a tool that facilitates hybrid cloud computing for organizations. The vCloud Connector essentially helps to orchestrate and administer the migration of VMs across different data centers and clouds. Using the vCloud Connector tool you can view, operate on and transfer your computing resources across vSphere and vCloud Director in both private cloud environments and public clouds from vCloud service providers.
+
+vmware-vsphere
+A server virtualization platform from VMware. VMware vSphere debuted in 2009 as the successor to the company's flagship VMware Infrastructure solution, and it serves as a complete platform for implementing and managing virtual machine (VM) infrastructure on a large scale.
+Also referred to as a cloud operating system or virtualized data center platform, VMware vSphere enables IT departments to efficiently place application workloads on the most cost-effective compute resource available.
+VMware vSphere includes the VMware ESX / ESXi hypervisor, a type 1 hypervisor that functions as the virtualization server; the VMware vCenter Server, which manages vSphere environments; the VMware vSphere Client, which is used to install and manage virtual machines through the hypervisor; and VMware VMFS, the file system component from VMware.
+
+vNAS
+A 1Vision Software Inc., product that manages network-attached storage (NAS) to bring all storage volumes together into a single environment that looks and behaves like a single storage device.
+
+virtualized-network-function
+In a Network Functions Virtualization architecture, a virtualized network function, or VNF, is responsible for handling specific network functions that run in one or more virtual machines on top of the hardware networking infrastructure, which can include routers, switches, servers, cloud computing systems and more.
+Individual virtualized network functions can be chained or combined together in a building block-style fashion to deliver full-scale networking communication services.
+
+VOB
+Short for Video Object VOB is a DVD video movie file format. VOB contains several multiplexed streams of video, audio, and subtitles. See Data Formats and Their File Extensions in the Quick Reference section of Webopedia.
+
+Vocabulary_Management_Solution
+A Vocabulary Management Solution (VMS) provides the tools for a software knowledge management system that can be used on both intranets and extranets for managing taxonomies, thesauri, classification schemes, and provides users with the capability to control files and indexes. Vocabulary Management Solutions will generally provide users with configurable record structures, intranet and extranet client/server networking, Web based user interface for all editorial tasks, and web-based indexing tools that allow for easy searching and browsing.
+
+VoD
+Short for Video-on-Demand, an umbrella term for a wide set of technologies and companies whose common goal is to enable individuals to select videos from a central server for viewing on a television or computer screen. VoD can be used for entertainment (ordering movies transmitted digitally), education (viewing training videos), and videoconferencing(enhancing presentations with video clips). Although VoD is being used somewhat in all these areas, it is not yet widely implemented. VoD's biggest obstacle is the lack of a network infrastructure that can handle the large amounts of data required by video.
+
+
+VoFi
+VoWiFi is a Wi-Fi based VoIP service. Where VoIP consists of the hardware and  software.html that enables people to use the Internet as the transmission medium for telephone calls, VoWiFi is the wireless version of  this technology which is designed to work on wireless devices such as a laptop or PDAs.See also VoIP and Wi-Fi. Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+Voice_2_0
+A buzzword used to describe the trends, technologies and applications used to bring IP telephony to the Web to create a new class of voice-enabled applications. Applications such as Skype is an example of Voice 2.0.
+
+voice_mail
+Refers to e-mail systems that support audio. Users can leave spoken messages for one another and listen to the messages by executing the appropriate command in the e-mail system. 
+
+voice_recognition
+The field of computer science that deals with designing computer systems that can recognize spoken words. Note that voice recognition implies only that the computer can take dictation, not that it understands what is being said. Comprehending human languages falls under a different field of computer science called natural language  processing.
+A number of voice recognition systems are available on the market. The most powerful can recognize thousands of words. However, they generally require an extended training session during which the computer system becomes accustomed to a particular voice and accent. Such systems are said to be speaker dependent.
+Many systems also require that the speaker speak slowly and distinctly and separate each word with a short pause. These systems are called discrete speech systems. Recently, great strides have been made in continuous speech systems -- voice recognition systems that allow you to speak naturally. There are now several continuous-speech systems available for personal computers.
+
+voice_response_system
+A form of speech synthesis in which sentences are formed by concatenating pre-recorded words from a database. Unlike a TTS system, which uses speech synthesis to form spontaneous sentences and/or phrases based on human phonetics, a voice response system operates with a limited vocabulary in situations where the sentences and/or phrases that are formed follow a strict predetermined pattern. For example, a train station may use a voice response system to notify passengers of schedule information or a train��s status. The synthesized speech is created from a pool of words that are strung together based on the input of a human operator, and the pool only contains a limited number of words as there are a limited number of combinations of words that are necessary for the train station's purpose; financial institutions also use voice response systems to aid customers in getting account information over the telephone. The same principle applies here -- since the financial institution only needs to provide the caller with a limited amount of information, it does not need to be able to generate spontaneous sentences in response to customer inquiries.  Contrast with TTS.
+
+Voice_Web_Application
+A Web-driven voice application platform that allows service providers and their enterprise customers to deliver Web-driven self service and customer care solutions to any telephone.
+
+voicemail
+Voicemail is a computerized system that enables support for answering, storing and relaying telephone call messages. Also spelled as voice mail, voicemail records and stores incoming messages, enabling playback of the messages from the same phone number or from another telephone.
+Voicemail is a basic feature of most modern cellular telephones, digital phones and corporate PBX systems. More advanced forms of voicemail like visual voicemail add a visual interface and in some cases e-mail- and/or text-based transcript capabilities to standard voicemail services.
+
+VoIM
+Short for Voice over Instant Messenger, it is a category of products which offer PC-based voice services (VoIP) and also include text-based instant messaging (IM). See also VoIP and IM.
+
+VoIP
+VoIP is short for Voice over Internet Protocol.
+Voice over Internet Protocol is a category of hardware and software that enables people to use the Internet as the transmission medium for telephone calls by sending voice data in packets using IP rather than by traditional circuit transmissions of the PSTN.
+Advantages of VoIP
+One advantage of VoIP is that the telephone calls over the Internet do not incur a surcharge beyond what the user is paying for Internet access, much in the same way that the user doesn't pay for sending individual emails over the Internet.
+
+voip_call
+A Voice over IP call, or VoIP call, utilizes packet-switched Voice over Internet Protocol (VoIP) or Internet telephony as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN). The advantage to VoIP phone calls is that unlike regular long-distance calls, calls made through a VoIP phone service are free – there are no fees beyond the cost of your Internet access.
+Also referred to as online phones or Internet phones, a VoIP phone can be a physical telephone with built-in IP technology and an RJ-45 Ethernet connector instead of the RJ-11 phone connector found in standard phones, or it can be a voice-capable computer that uses VoIP hardware such as MagicJack or VoIP software like Skype. This flexibility makes it possible for VoIP calls to function as Internet phone-to-phone, Internet phone-to-PC, PC-to-PC or PC-to-phone calls.
+See The Difference Between VoIP and PSTN Systems in the Did You Know? section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+VoIP_Gateway
+A network device that converts voice and fax calls, in real time, between the public switched telephone network (PSTN) and an IP network. The primary functions of a VoIP gateway include voice and fax compression/decompression, packetization, call routing, and control signaling. Additional features may include interfaces to external controllers, such as Gatekeepers or Softswitches, billing systems, and network management systems.
+
+VoIP_packet_loss
+VoIP packet loss occurs when a large amount of traffic on the network causes dropped  packets. This results in dropped conversations, a delay in receiving the voice communication, or extraneous noise on the call.
+
+voip_pbx
+A Voice over Internet Protocol (VoIP) private box exchange (PBX) is a business telephone system that provides services similar to a standard PBX, but does so over a company's LAN or WAN data network rather than through the circuit-switched networks used by the traditional Public Switched Telephone Network (PSTN).
+Also referred to as an IP PBX, VoIP PBX systems can typically switch calls between VoIP on local lines or between VoIP and traditional telephone users in the same way a PBX does. A VoIP PBX system can be hardware based or can function entirely as a software system.
+See The Difference Between VoIP and PSTN Systems in the Did You Know? section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+voip_phone
+VoIP phones utilize packet-switched Voice over Internet Protocol (VoIP), or Internet telephony, to transmit telephone calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN). The advantage to VoIP phone calls is that unlike regular long-distance calls, phone calls made through a VoIP phone service are free – there are no fees beyond the cost of your Internet access.
+Also referred to as online phones or Internet phones, a VoIP phone can be a physical telephone with built-in IP technology and an RJ-45 Ethernet connector instead of the RJ-11 phone connector found in standard phones, or it can be a voice-capable computer that uses VoIP hardware such as MagicJack or VoIP software like Skype. This flexibility makes it possible for VoIP phone calls to function as Internet phone-to-phone, Internet phone-to-PC, PC-to-PC or PC-to-phone calls.
+See The Difference Between VoIP and PSTN Systems in the Did You Know? section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+voip_service_provider
+A voice over Internet Protocol (VoIP) service provider offers VoIP Internet telephony solutions to residential and commercial customers. Also known as an Internet phone service provider, a VoIP service provider generally provides the VoIP hardware and services to subscribers at a monthly rate, although hosted VoIP services are also quite common.
+As with all VoIP solutions, VoIP service providers utilize packet-switched telephony to transmit calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN). VoIP calls are like regular phone calls but they're made over a broadband high speed Internet connection rather than over a regular telephone line.
+The key advantage to VoIP phone calls is that unlike regular long-distance calls, calls made through a VoIP service provider are free – there are no fees beyond the cost of your Internet access.
+
+voip_telephone
+Voice over Internet Protocol, or VoIP, telephone products connect to VoIP, or Internet telephony, systems, which use packet-switched telephony to transmit calls over the Internet as opposed to the circuit-switched telephony used by the traditional Public Switched Telephone Network (PSTN).
+VoIP telephones look and largely function like standard phones, but they have built-in IP technology and an RJ-45 Ethernet connector instead of the standard RJ-11 phone connector that enables the VoIP phone to connect directly to a router for making and receiving IP calls. A standard phone can also function as a VoIP telephone when used with an analog-to-digital converter called an ATA, or analog telephone adaptor. Another option is to bypass the phone entirely and simply use a VoIP-capable computer to make and receive IP calls.
+See "The Difference Between VoIP and PSTN Systems" in the Did You Know... section of Webopedia.Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+volatile_memory
+Memory that loses its contents when the power is turned off. All RAM except the CMOS RAM used for the BIOS is volatile. ROM, on the other hand, is nonvolatile. 
+
+volser
+The tape volume serial number or VOLSER is the method used to uniquely identify a tape volume. The VOLSER is specified in the tape label, which is the first set of information contained on the tape. [Source: Audit Serve]
+
+voltage_regulator
+(n.) A small device or circuit that regulates the voltage fed to the microprocessor. The power supply of most PCs generates power at 5 volts but most microprocessors require a voltage below 3.5 volts. The voltage regulator's job is to reduce the 5 volt signal to the lower voltage required by the microprocessor. Typically, voltage regulators are surrounded by heat sinks because they generate significant heat.  Pentium microprocessors with MMX actually require two voltage regulators -- one for the internal (core) voltage, and one for the I/O drivers at 3.3 volts.  Some voltage regulators, particularly those packaged as a voltage regulator module (VRM), are voltage ID (VID) programmable, which means that the microprocessor can program the voltage regulator to provide the correct voltage during power-up. 
+
+volume
+A fixed amount of storage on a disk or tape. The term volume is often used as a synonym for the storage medium itself, but it is possible for a single disk to contain more than one volume or for a volume to span more than one disk. 
+
+volume_label
+In DOS systems, the name of a volume (that is, the name of a disk or tape). Specifying a volume label makes it easier to keep track of what data is stored on each medium. 
+
+VON
+Short for Voice on the Net, a coalition of Internet telephony software producers. VON's main goal is to ensure that the telephone companies do not succeed in their bid to outlaw Internet telephony. 
+
+Von_Neumann_machine
+(pronounced von noi-man) An early computer created by Hungarian mathematician John von Neumann (1903-1957). It included three components used by most computers today: a CPU; a slow-to-access storage area, like a hard drive ; and secondary fast-access memory (RAM ). The machines stored instructions as binary values (creating the stored program concept) and executed instructions sequentially - the processor fetched instructions one at a time and processed them. Today "von Neumann architecture" often refers to the sequential nature of computers based on this model.   
+
+VOP
+Velocity of Propagation is the speed of a signal in relation to the speed of light in a vacuum (186,400 miles per second). The number 1 represents the speed of light; all other signals are a fraction of this. A cable with a VOP of.75 transmits a signal at 75% of the speed of light.   Factors that affect the velocity of propagation are various insulation materials and thicknesses. 
+
+VoWiFi
+VoWiFi is a Wi-Fi based VoIP service. Where VoIP consists of the hardware and  software.html that enables people to use the Internet as the transmission medium for telephone calls, VoWiFi is the wireless version of  this technology which is designed to work on wireless devices such as a laptop or PDAs.See also VoIP and Wi-Fi. Also see the VoIP Meets WiFi article in the Did You Know? section of Webopedia.
+
+vox
+(1) Capitalized, VOX is short for voice operated switch it is a term commonly used in telecommunications. It refers to a switch that works when a sound is detected by a device (transmitter or recording device) which is activated by the sound in place of a user a pushing a button to transmit. (2) In the audio and sound recording industry vox is a term used as an abbreviation for voice or vocal tracks.
+
+voxel
+Short for volume pixel, the smallest distinguishable box-shaped part of a three-dimensional image.   Voxelization is the process of adding depth to an image using a set of cross-sectional images known as a volumetric dataset. These cross-sectional images (or slices) are made up of pixels. The space between any two pixels in one slice is referred to as interpixel distance, which represents a real-world distance. And, the distance between any two slices is referred to as interslice distance, which represents a real-world depth.   The dataset is processed when slices are stacked in computer memory based on interpixel and interslice distances to accurately reflect the real-world sampled volume.   Next, additional slices are created and inserted between the dataset's actual slices so that the entire volume is represented as one solid block of data.   Now that the dataset exists as a solid block of data, the pixels in each slice have taken on volume and are now voxels.   For a true 3D image, voxels must undergo opacity transformation. Opacity transformation gives voxels different opacity values. This is important when it is crucial to expose interior details of an image that would otherwise be hidden by darker more opaque outside-layer voxels.   Voxel images are primarily used in the field of medicine and are applied to X-Rays, CAT (Computed Axial Tomography) Scans, and MRIs (Magnetic Resonance Imaging) so professionals can obtain accurate 3D models of the human body.   Voxel imaging is also being used to create computer games, so 3D acceleration is not necessary. 
+
+VP6
+A proprietary video codec developed by On2 Technologies that used in Adobe Flash Player 8 and newer versions. See also "A Complete Guide to Video Codecs" on WebVideoUniverse.com.
+
+VPBX
+A business phone system providing call routing, follow-me calling, voicemail, fax-mail, and ACD queues delivered over the public switched telephone system, thus requiring no customer-installed equipment.
+
+VPDN
+Acronym for Virtual Private Dial-up Network. A network that extends remote access to a private network using a shared infrastructure. VPDNs use Layer 2 tunnel technologies (L2F, L2TP, and PPTP) to extend the Layer 2 and higher parts of the network connection from a remote user across an ISP network to a private network. VPDNs are a cost-effective method of establishing a long-distance, point-to-point connection between remote dial users and a private network.
+
+VPI
+Short for virtual path identifier, an eight-bit field in an ATM cell��s header that identifies the virtual path (a bundle of virtual channels that have the same endpoint) to which the cell belongs as it travels through an ATM network.  Also see VCI. An ATM switch uses either the VPI, the VCI, or a combination of both to route the cell to its destination.
+
+VPIM
+Short for Voice Profile for Internet Mail, a method for encoding voice mail messages as data, enabling travel via the SMTP mail protocol over IP networks. VPIM uses MIME to encode messages in multiple parts, which are decoded by VPIM-compliant voice mail systems at the receiving end.
+
+VPN
+VPN is pronounced as separate letters and is short for virtual private network.
+VPN, or virtual private network, is a network that is constructed by using public wires — usually the Internet — to connect to a private network, such as a company's internal network. There are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+VPN Security
+A VPN is designed to provides a secure, encrypted tunnel in which to transmit the data between the remote user and the company network. The information transmitted between the two locations via the encrypted tunnel cannot be read by anyone else because the system contains several elements to secure both the company's private network and the outside network through which the remote user connects through.
+
+VRAM
+Short for video RAM, and pronounced vee-ram. VRAM is special-purpose memory used by video adapters. Unlike conventional RAM, VRAM can be accessed by two different devices simultaneously. This enables the RAMDAC to access the VRAM for screen updates at the same time that the video processor provides new data. VRAM yields better graphics performance but is more expensive than normal RAM.
+A special type of VRAM, called Windows RAM (WRAM), yields even better performance than conventional VRAM.
+
+
+VRC
+Short for vertical redundancy check it is a method of error checking that attaches a parity bit to each byte of data to be transmitted, which is then tested to determine if the transmission is correct. This method is considered to be somewhat unreliable. If an odd number of bits are distorted, the check will not detect the error.
+VRC (vertical redundancy check) is synonymous with TRC (transverse redundancy check).
+
+virtual-routing-and-forwarding-vrf
+Virtual Routing and Forwarding (VRF) is an IP (Internet Protocol) technology in some network routers that can be configured to allow multiple instances of a routing table on your router to work at the same time. The multiple routing instances are independent, allowing the same or overlapping IP addresses to be used without conflict. You can use the same IP address assigned to two different interfaces on a router at the same time. 
+VPN Routing and Forwarding
+Service providers often use virtual routing and forwarding technology to create separate virtual private networks (VPNs) for customers where a routing table instance that can exist in one or multiple instances per each VPN on a Provider Edge (PE) router. When this IP technology is used in VPNs it is often referred to as VPN routing and forwarding.
+
+VRM
+Short for voltage regulator module, a small module that installs on a motherboard to regulate the voltage fed to the microprocessor. Nearly all motherboards have either a built-in voltage regulator or a VRM, the only difference being that the VRM is replaceable.  
+
+VRML
+Pronounced ver-mal, and short for Virtual Reality Modeling Language, VRML is a specification for displaying 3-dimensional objects on the World Wide Web. You can think of it as the 3-D equivalent of HTML. Files written in VRML have a.wrl extension (short for world). To view these files, you need a VRML browser or a VRML plug-in to a Web browser.  VRML produces a hyperspace (or a world), a 3-dimensional space that appears on your display screen. And you can figuratively move within this space. That is, as you press keys to turn left, right, up or down, or go forwards or backwards, the images on your screen will change to give the impression that you are moving through a real space. 
+
+VRRP
+Short for Virtual Router Redundancy Protocol, an election protocol that dynamically assigns responsibility for one or more virtual router(s) to the VRRP router(s) on a LAN, allowing several routers on a multiaccess link to utilize the same virtual IP address. A VRRP router is configured to run the VRRP protocol in conjunction with one or more other routers attached to a LAN. In a VRRP setup, one router is elected as the master router with the other routers acting as backups in case of the failure of the master router. 
+
+VSAM
+Short for Virtual Storage Access Method, a file management system used on IBM mainframes. VSAM speeds up access to data in files by using an inverted index (called a B+tree) of all records added to each file. Many legacy software systems use VSAM to implement database systems (called data sets).  
+
+VSAT
+Short for very small aperture terminal, an earthbound station used in satellite communications of data, voice and video signals, excluding broadcast television. A VSAT consists of two parts, a transceiver that is placed outdoors in direct line of sight to the satellite and a device that is placed indoors to interface the transceiver with the end user's communications device, such as a PC. The transceiver receives or sends a signal to a satellite transponder in the sky. The satellite sends and receives signals from a ground station computer that acts as a hub for the system. Each end user is interconnected with the hub station via the satellite, forming a star topology. The hub controls the entire operation of the network. For one end user to communicate with another, each transmission has to first go to the hub station that then retransmits it via the satellite to the other end user's VSAT. VSAT can handle up to 56 Kbps.
+
+VSB
+1. Short for vestigial side band, a method for modulating -- or converting for transmission -- digital data over coaxial cable. Created by Zenith, VSB has been chosen by the FCC as a standard for digital TV.   2. Short for VME Subsystem Bus, an auxiliary bus used with a primary 32-bit bus called a VME (VersaModule Eurocard), made for commercial, industrial, and military uses. The VSB helps speed transfers between devices. 
+
+vSERV
+A 1Vision Software Inc., product that provides server and network-attached storage (NAS) aggregation. Using vSERV, all user data from server storage systems and any attached NAS devices merged into a single directory structure to work as if it were one virtual device. 
+
+VSIP
+Short for Visual Studio Industry Partners, the Microsoft VSIP program was created to educate and support independent software vendors (ISVs), systems integrators (SIs), academic institutions, corporations and developers interested in integrating tools, components, and languages into the Visual Studio IDE. In addition to offering the technology for advanced integration scenarios, the VSIP program includes: Community and technical support, Visual Studio licensing options, and Co-marketing opportunities. The Microsoft Visual Studio integrated development environment (IDE) is designed from the ground up to be the host for multiple languages and development tools, including Visual Basic, Visual C#, and Visual C++. The IDE can be easily extended so that Visual Studio customers have a complete set of tightly integrated tools for their development projects.
+
+VSP
+A Vertical Service Provider (VSP) is an ASP that covers the application needs of a specific vertical market or industry, such as: banking, manufacturing, education, real estate, government or law.
+
+VSwitch
+In  virtualization terminology, VSwitch is short for Virtual Switch and represents networking entities connecting Virtual Machines in a virtual  network at layer 2. The Virtual Switch is fully  virtual and can be connected to a NIC (Network Interface Card). The VMware Virtual Switch is  a switching fabric built into the VMware infrastructure (ESX) that allows you to  network your Virtual Machines (VMs).
+
+Vsync
+Short for Vertical Sync, Vsync is a display option found in some 3-D computer games that allow the gamer to synchronize the frame rate of the game with the  monitor refresh rate for better stability. If the Vsync is turned off, gamers might obtain a higher frame rate but this action may introduce artifacts in the game.
+
+vt100
+Introduced by DEC in August 1978, Video Terminal 100 was the first terminal to use a general-purpose processor for interpreting the newly published (1977) ANSI control codes (ANSI X3.64).   Quickly, the vt100 become popular, and the ANSI control codes embodied in the vt100 became a de facto standard. Eventually, IBM adopted them for its line of PCs.   Today, most terminal-emulation programs commonly use the vt100 setting.  
+
+VTAM
+Abbreviation of Virtual Telecommunications Access Method, an IBM API that controls communications in Systems Network Architecture (SNA) networks. VTAM supports several network protocols, including SDLC and Token Ring.  VTAM is now known as the SNA Services feature of Communications Server for OS/390.  
+
+vulnerability_scanning
+The automated process of proactively identifying security vulnerabilities of computing systems in a network in order to determine if and where a system can be exploited and/or threatened. While public servers are important for communication and data transfer over the Internet, they open the door to potential security breaches by threat agents, such as malicious hackers.
+Vulnerability scanning employs software that seeks out security flaws based on a database of known flaws, testing systems for the occurrence of these flaws and generating a report of the findings that an individual or an enterprise can use to tighten the network's security.
+Vulnerability scanning typically refers to the scanning of systems that are connected to the Internet but can also refer to system audits on internal networks that are not connected to the Internet in order to assess the threat of rogue software or malicious employees in an enterprise.
+
+VXML
+Short for Voice Extensible Markup Language. VXML, or VoiceXML, technology allows a user to interact with the Internet through voice-recognition technology. Instead of a traditional browser that relies on a combination of HTML and keyboard and mouse, VXML relies on a voice browser and/or the telephone. Using VXML, the user interacts with voice browser by listening to audio output that is either pre-recorded or computer-synthesized and submitting audio input through the user's natural speaking voice or through a keypad, such as a telephone.  AT&T, IBM, Lucent Technologies, and Motorola created VXML 1.0 in a joint effort to promote the technology.
+

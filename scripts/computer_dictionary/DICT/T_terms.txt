@@ -1,0 +1,1074 @@
+red_hat_summit
+Red Hat Summit is the name of a yearly technology event to showcase the latest in open source cloud computing, platform, virtualization, middleware, storage, and systems management technologies. Red Hat Summit highlights include keynotes, product experts, sessions and Red Hat ecosystem access.
+
+T_1_carrier
+A dedicated phone connection supporting data rates of 1.544Mbits per second. A T-1 line actually consists of 24 individual channels, each of which supports 64Kbits per second. Each 64Kbit/second channel can be configured to carry voice or data traffic. Most telephone companies allow you to buy just some of these individual channels, known as fractional T-1 access.  T-1 lines are a popular leased line option for businesses connecting to the Internet and for Internet Service Providers (ISPs) connecting to the Internet backbone. The Internet backbone itself consists of faster T-3 connections.  T-1 lines are sometimes referred to as DS1 lines. 
+
+T_3_carrier
+A dedicated phone connection supporting data rates of about 43 Mbps. A T-3 line actually consists of 672 individual channels, each of which supports 64 Kbps.  T-3 lines are used mainly by Internet Service Providers (ISPs) connecting to the Internet backbone and for the backbone itself.  T-3 lines are sometimes referred to as DS3 lines. 
+
+T_SQL
+Short for Transaction-SQL, an extended form of SQL that adds declared variables, transaction control, error and exceptionhandling and row processing to SQL��s existing functions.
+Microsoft SQL and Sybase both support T-SQL statements. Up until version 4.2, the Microsoft SQL Server and Sybase relational database were developed together to work together. It should be noted that Sybase refers to its statements as T-SQL while Microsoft refers to its statements as Transaction-SQL.
+
+tab_character
+A special character that can be inserted into a text document.  Different programs react to tab characters in different ways. Most word processors, for example, move the cursor or insertion point to the next tab stop, and most printers move the print head to the next tab stop as well. Some programs, however, simply ignore tabs.   
+
+Tab_key
+A key on computer keyboards that inserts a tab character or moves the insertion point to the next tab stop. Some applications respond to the tab key by inserting spaces up to the next tab stop. This is often called a soft  tab, whereas a real tab character is called a hard  tab.  Spreadsheet and database management applications usually respond to the Tab key by moving the cursor to the next field or cell. In dialog boxes and menus, pressing the Tab key highlights the next button or option.   
+
+tab_stop
+A stop point for tabbing. In word processing, each line contains a number of tab stops placed at regular intervals (for example, every half inch). They can be changed, however, as most word processors allow you to set tab stops wherever you want. When you press the Tab key, the cursor or insertion point jumps to the next tab stop, which itself is invisible. Although tab stops do not exist in the text file, the word processor keeps track of them so that it can react correctly to the Tab key. 
+
+tabbed_browsing
+Tabbed browsing is a relatively new feature found in some Web browsers. Tabbed browsing is a function of some Web browsers that allow uses to surf and view multiple pages by loading the Web sites into "tabbed" sections of one page, rather than multiple pages. This allows the user to view a selection of favorite sites in one window, view multiple search results at the same time, and would allow you to set several pages as your home page, rather than just one. Currently, you will find tabbed browsing available in the following Web browsers; Mozilla/Firefox, Opera, Apple's Safari, AOL's Netscape and the Linux-based Konqueror. Some third-party browsers based on the Internet Explorer engine that also offer tabs include MyIE2 and Avant browser. The first browser to offer tabbed browsing was InternetWorks in 1994, but the feature did not become popular until Mozilla incorporated the function into their browser in 2003.
+
+table
+Refers to data arranged in rows and columns. A spreadsheet, for example, is a table. In relational database management systems, all information is stored in the form of tables.
+
+
+tablet
+Short for graphics tablet, digitizing tablet, or electronic tablet.  Also see tablet PC.
+
+tablet_ecommerce
+In ecommerce terminology, tablet commerce, also called tablet ecommerce or t-commerce, is a mobile commerce strategy that focuses on designing and developing ecommerce websites and related processes to improve the browsing and shopping experience on tablet devices.
+Optimizing the Shopping Experience For Tablet Users
+Today, tablets offer features not found when browsing using a PC or smartphone. Tablet-optimized ecommerce websites and processes are designed to deliver a more intimate web browsing experience that leverages touchscreen technology.
+As more consumers use tablets to browse, shop and purchase online, there is a need for online retailers to offer tablet-optimized shopping experiences to not only meet the growing numbers of tablet users, but to also increase sales.
+
+tablet_PC
+(n.) (1) Spelled tablet PC, a type of notebook computer that has an LCD screen on which the user can write using a special-purpose pen, or stylus. The handwriting is digitized and can be converted to standard text through handwriting recognition, or it can remain as handwritten text. The stylus also can be used to type on a pen-based key layout where the lettered keys are arranged differently than a QWERTY keyboard. Tablet PCs also typically have a keyboard and/or a mouse for input.  The tablet PC relies on digital ink technology, where a digitizer is laid under or over an LCD screen to create an electromagnetic field that can capture the movement of the special-purpose pen and record the movement on the LCD screen. The effect is like writing on paper with liquid ink.  (2) Spelled Tablet PC, the Microsoft Windows operating system designed for tablet PC technology.
+
+Tabular_Data_Control
+Abbreviated as TDC, Tabular Data Control is a Microsoft ActiveX control that is built into Internet Explorer 4.0 and later versions, that enables Web authors to extract data stored in a delimited text file. Using the TDC, a Web author can display data either within tables or within controls found in a form. This enables the Web author to create simple database functions without needing server side scripting such as PHP or mySQL.
+
+Tabular_Data_Stream
+Abbreviated as TDS, Tabular Data Stream is an application level protocol that describes the transmission of data between two computers. TDS defines the types of messages that can be sent as well as the order in which the messages can be sent in. TDS relies on a connection-oriented transport service. Session, presentation and application service elements are provided by TDS. The TDS protocol was designed and developed by Sybase Inc. for their Sybase SQL Server relational database engine in 1984.
+
+TACACS
+Short for Terminal Access Controller Access Control System, an authentication protocol that was commonly used in UNIX networks. TACACS allows a remote access server to communicate with an authentication server in order to determine if the user has access to the network.  TACACS is now somewhat dated and is not used as frequently as it once was. A later version of TACACS was called XTACACS (Extended). These two versions have generally been replaced by TACACS+ and RADIUS in newer or updated networks. TACACS+ is a completely new protocol and is therefore not compatible with TACACS or XTACACS.  TACACS is detailed in RFC 1492.
+
+tactile
+In haptics it is the term used to describe the sensation of a mechanical interaction with a person's skin (e.g. the ability to feel pressure, pain, heat and so on through touch). Tactile is frequently described as the science of touch.
+
+tag
+(n) A command inserted in a document that specifies how the document, or a portion of the document, should be formatted. Tags are used by all format specifications that store documents as text files. This includes SGML and HTML.
+(v) To mark a section of a document with a formatting command.
+
+
+tag_cloud
+)[Image: Screenshot showing a visual representation of a tag cloud. This image shows the "All time most popular tags" from Flickr Photo Sharing] A tag cloud is a stylized way of visually representing occurrences of words used to described tags. The most popular  topics are normally highlighted in a larger, bolder font. Visitors to a blog or site using a tag cloud, are able to easily see the most popular tags within the page - making it easy to discern the topics covered in one quick look. Also called a weighted list.
+
+tag_RAM
+The area in an L2 cache that identifies which data from main memory is currently stored in each cache line. The actual data is stored in a different part of the cache, called the data store. The values stored in the tag RAM determine whether a cache lookup results in a hit or a miss.  The size of the data store determines how much data the cache can hold at any one time. The size of the tag RAM determines what range of main memory can be cached. Many modern PCs, for example, are configured with a 256K L2 cache and tag RAM that is 8 bits wide. This is sufficient for caching up to 64 MB of main memory. If you add additional main memory, however, it won't be cached unless you also expand tag RAM. Some motherboards allow you to add additional tag RAM chips for this purpose but many do not.  For Pentium Pro and Pentium II microprocessors, the tag RAM is integrated in the chipset. Pentium Pros have an integrated L2 cache capable of caching up to 4 GB of main memory. Pentium IIs use a SEC daughtercard for L2 caches and can cache up to 512 MB. 
+
+tagging
+(1) Commonly used in blogs, site authors attach keyword descriptions (called tags) to identify images or text within their site as a categories or topic. Web pages and blogs with identical tags can then be linked together allowing users to search for similar or related content. If the tags are made public, online pages that act as a Web-based bookmark service are able to index them. tags can be created using words, acronyms or numbers. Tags are also called  tagging, blog tagging, folksonomies (short for folks and taxonomy), or  social bookmarking. See also tag and tag cloud. (2) The act of placing RFID labels bar codes on items is called tagging.
+
+TAN
+Short for tiny area network, a LAN with only a few nodes. TANs are typically installed in homes or small office environments so that the devices can share resources, such as modems, files or printers.
+
+tape
+A magnetically coated strip of plastic on which data can be encoded. Tapes for computers are similar to tapes used to store music.  Storing data on tapes is considerably cheaper than storing data on disks. Tapes also have large storage capacities, ranging from a few hundred kilobytes to several gigabytes. Accessing data on tapes, however, is much slower than accessing data on disks. Tapes are sequential-access media, which means that to get to a particular point on the tape, the tape must go through all the preceding points. In contrast, disks are random-access media because a disk drive can access any point at random without passing through intervening points.  Because tapes are so slow, they are generally used only for long-term storage and backup. Data to be used regularly is almost always kept on a disk. Tapes are also used for transporting large amounts of data.  Tapes come in a variety of sizes and formats.  Tapes are sometimes called streamers or streaming tapes. 
+
+tape_drive
+A device, like a tape recorder, that reads data from and writes it onto a tape. Tape drives have data capacities of anywhere from a few hundred kilobytes to several gigabytes. Their transfer speeds also vary considerably. Fast tape drives can transfer as much as 20MB (megabytes) per second.  The disadvantage of tape drives is that they are sequential-access devices, which means that to read any particular block of data, you need to read all the preceding blocks. This makes them much too slow for general-purpose storage operations. However, they are the least expensive media for making backups.  
+
+TAPI
+Short for Telephony Application Programming Interface, an API for connecting a PC running Windows to telephone services. TAPI was introduced in 1993 as the result of joint development by Microsoft and Intel. The standard supports connections by individual computers as well as LAN connections serving many computers. Within each connection type, TAPI defines standards for simple call control and for manipulating call content.  The Telephony Server Application Programming Interface (TSAPI) defines similar capabilities for NetWare servers. 
+
+taptic-engine
+A combination of "tap" and "haptic feedback," taptic engine is a name Apple created for its technology that provides tactile sensations in the form of vibrations to users of Apple devices like the Apple Watch, iPhones, iPads, and MacBook laptops.
+Apple debuted its taptic engine technology along with the Force Touch feature in the 2015 editions of Apple MacBook notebooks and the initial Apple Watch, and the two features work together to provide a user with more input control and feedback.
+How Taptic Engine Technology Works on the iPhone and Other Devices
+Taptic engine functionality became part of the iPhone in late 2015 when Apple added what it calls a "3D Touch" feature in the Apple iPhone 6S that senses the amount of fingerprint pressure applied to the iPhone 6S display and reacts accordingly.
+
+tar
+(1) Short for tape archive, a UNIX utility that combines a group of files into a single file. The resulting file has a .tar extension.  The tar command does not compress files. Frequently, therefore, a tar file is compressed with the compress or gzip commands to create a file with a .tar.gz or .tar.Z extension. These are comparable to files that have been compressed with PKZIP on a PC platform. Most PC compression utilities, including PKZIP, can open (untar) a tar file.  (2)(v) To combine files with the tar command. 
+
+tar_ball
+An archive of files created with the Unix tar utility. Source-code distributions have been packaged as tarballs since the mid 1980s, even though the term's usage did not become commonplace until the late 1990s.
+
+tarball
+An archive of files created with the Unix tar utility. Source-code distributions have been packaged as tarballs since the mid 1980s, even though the term's usage did not become commonplace until the late 1990s.
+
+target
+Synonymous with destination, a target is a file, device or any type of location to which data is moved or copied. Many computer  commands involve copying data from one place to another. One says that the computer copies from the source to the target (or destination). 
+
+target_initiated_termination
+A mechanism of the PCI standard where the target of a data transfer is given the ability to terminate a data transfer between it and the bus master if the target device monopolizes the bus due to slow access time. Access time is measured in clock cycles, and the target will abort the data transfer once a predetermined number of clock cycles has been exceeded. The initial data transfer is allowed 16 clock cycles, and subsequent data transfers are allowed eight clock cycles. The target device will also terminate the transfer if it detects a collision on the bus. After the transfer has been terminated, the target device will issue a retry request to the PCI bus master.
+
+targeted_attack
+In computer and network security terminology,  a targeted attack is one that has been aimed at a specific user, company or organization. These attacks are not widespread, but rather are designed to attack and breech a specific target. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+targeted_tweets
+Enhanced Twitter messages ("tweets") that enable brands to reach specific people or audiences on Twitter without having to send the Tweet to all followers. Brands and advertisers can compose targeted Tweets using the enhanced Tweet box in ads.twitter.com.
+Targeted Tweets is a pay service offered by Twitter, however brands will only be required to pay when users engage.
+Learn more about Twitter lingo in the Webopedia Twitter Dictionary.
+
+tarpitting
+A technique used by spammers to slow down the transmission rate of unsolicited emails (spam) that are sent in bulk. For example, If the spammer has 10,000 emails to send, they may send the messages in groups of 25 at a time adding a delay in an SMTP communication between mail servers.  When delaying the sending of mass numbers of email messages, the spammer is more likely to avoid having his or her spam behavior detected by an ISP.
+
+task
+An operating system concept that refers to the combination of a program being executed and bookkeeping information used by the operating system. Whenever you execute a program, the operating system creates a new task for it. The task is like an envelope for the program: it identifies the program with a task number and attaches other bookkeeping information to it.  Many operating systems, including UNIX, OS/2, and Windows, are capable of running many tasks at the same time and are called multitasking operating systems.  In most operating systems, there is a one-to-one relationship between the task and the program, but some operating systems allow a program to be divided into multiple tasks. Such systems are called multithreading operating systems.  The terms task and process are often used interchangeably, although some operating systems make a distinction between the two. 
+
+Task_Manager
+A term most often associated with Microsoft Windows Operating System(s).A Windows feature that provides details about programs and processes running on your computer. It also displays the most commonly used performance measures for processes. Using the Task Manager can provide you with details on current programs, and see which programs have stopped responding.  Utilities that are not a part of Microsoft Windows may also be called task managers and are used to monitor specific software or operating tasks in progress on your computer. The most common usage of the term however, is in reference to the Microsoft Windows Task Manager.
+
+Task_Pane
+A Task Pane is a new feature included in Microsoft Office XP. It is a dockable dialog window that gives users a convenient way to use commands, gather information, and modify their documents. An Office Task Pane can contain one or more pages, and each page is broken up into sections.  Developers can programmatically manipulate the Task Pane to perform certain functions such as view the pane, dock or undock the window, and add custom information to the New Item page that is common among all Office XP applications. * * [Source:  Microsoft Knowledge Base]
+
+task_switching
+Refers to operating systems or operating environments that enable you to switch from one program to another without losing your spot in the first program. Many utilities are available that add task switching to DOS systems.  Note that task switching is not the same as multitasking. In multitasking, the CPU switches back and forth quickly between programs, giving the appearance that all programs are running simultaneously. In task switching, the CPU does not switch back and forth, but executes only one program at a time. Task switching does allow you to switch smoothly from one program to another.  Task switching is sometimes called context switching.   
+
+taskbar
+In GUI  interfaces, the taskbar is a desktop toolbar application that lets you perform tasks such as switching between open windows and starting new applications. The taskbar is usually associated with the Microsoft Windows interface.
+
+tax_software
+Tax software is defined as a type of computer software designed to help individuals or companies prepare for and file income, corporate and similar tax returns. Tax software streamlines the process of filing taxes by walking the user through tax forms and issues and also automatically calculates the individual's or company's tax obligations. Many personal tax software applications are now available in the traditional physical box software format (retail software) as well as in hosted online service (SaaS) formats.
+Recommended Reading: SOHO Business Solutions: Accounting and Finance Software.
+Top 5 Business Software Questions
+1. What is software? 2. What is accounting software? 3. What is billing software?  4. What is email software? 5. What is commercial software?
+
+taxonomy
+The science of categorization, or classification, of things based on a predetermined system. In reference to Web sites and portals, a site��s taxonomy is the way it organizes its data into categories and subcategories, sometimes displayed in a site map. Click here to view Webopedia��s taxonomy.
+
+TC
+Short for Telecommunications Closet, an area, typically a room or closet, that houses all the equipment associated with telecommunications wiring systems. The TC also serves as a termination point for the horizontal cabling system of a network, the point of circuit administration and contains the network's distribution panels, cross-connects and backbone. All telecommunications wiring is channeled through the TC. The TC may also house auxiliary power supplies for workstation equipment. The larger the network, the more TCs are needed since the end workstations can only be a certain distance away from the TC because of constraints in the type of wiring used. Networks that span multi-level buildings, such as hospitals, typically have a TC on each floor.
+
+TCB
+Short for trusted computing base. TCB refers to the totality of protection mechanisms (hardware, firmware and software) that provide a secure computing environment. The TCB includes everything that must be trusted -- access control, authorization and authentication procedures, cryptography, firewalls, virus protection, data backup, and even human administration -- in order for the right level of security to work.
+
+Tcl
+Short for Tool Command Language, and pronounced T-C-L or tickle, a powerful interpreted programming language developed by John Ousterhout. One of the main strengths of Tcl is that it can be easily extended through the addition of custom Tcl libraries. It is used for prototyping applications as well as for developing CGI scripts, though it is not as popular as Perl for the latter.  
+
+TCO
+Abbreviation of Total Cost of Ownership, a very popular buzzword representing how much it actually costs to own a PC. The TCO includes:
+
+Original cost of the computer and software
+Hardware and software upgrades
+Maintenance
+Technical support
+Training
+
+Most estimates place the TCO at about 3 to 4 times the actual purchase cost of the PC. The TCO has become a rallying cry for companies supporting network computers. They claim that not only are network computers less expensive to purchase, but the TCO is also much less because network computers can be centrally administered and upgraded. Backers of conventional PCs, especially Microsoft and Intel, have countered with Zero Administration for Windows (ZAW), which they claim will also significantly reduce TCO.
+
+
+TCP
+Abbreviation of Transmission Control Protocol, and pronounced as separate letters. TCP is one of the main protocols in TCP/IP networks. Whereas the IP protocol deals only with packets, TCP enables two hosts to establish a connection and exchange streams of data. TCP guarantees delivery of data and also guarantees that packets will be delivered in the same order in which they were sent.
+ 
+
+TCP_segmentation_offload
+Abbreviated as TSO, TCP segmentation offload is used to reduce the CPU overhead of  TCP/IP on fast networks. TSO breaks down large groups of  data sent over a network into smaller segments that pass through all the network elements between the source and destination. This type of offload relies on the network interface controller (NIC) to segment the data and then add the TCP, IP and data link layer protocol headers to each segment. The NIC must support TSO. TSO is also called large segment offload (LSO). See "Understanding The Data Link Layer" in Webopedia's Did You Know section.
+
+TCP_SYN_attack
+A sender transmits a volume of connections that cannot be completed. This causes the connection queues to fill up, thereby denying service to legitimate TCP users. A TCP SYN attack (also called SYN attack) is a common type of  Denial of Service attack. See also DoS attack.
+
+TCP_Wrapper
+A computer program that provides firewall services to UNIX users on a network by monitoring incoming packets to determine if the external device is authorized to have access. TCP Wrapper monitors and filters incoming requests for the SYSTAT, FINGER, FTP, TELNET, RLOGIN, RSH, EXEC, TFTP, TALK, and other network services.
+
+TCP_Friendly_Rate_Control
+TCP-Friendly Rate Control (TFRC) is a congestion control mechanism designed for unicast flows operating in an Internet environment and competing with TCP traffic. It is designed for applications that use a fixed packet size, and vary their sending rate in packets per second in response to congestion. TFRC is a receiver-based mechanism, with the calculation of the congestion control information (i.e., the loss event rate) in the data receiver rather in the data sender. This is well-suited to an application where the sender is a large server handling many concurrent connections, and the receiver has more memory and CPU cycles available for computation. [Adapted from RFC 3448 - TCP Friendly Rate Control (TFRC): Protocol Specification]
+
+TCP_IP
+(pronounced as separate letters) Short for Transmission Control Protocol/Internet Protocol, TCP/IP is the suite of communications protocols used to connect hosts on the Internet. TCP/IP uses several protocols, the two main ones being TCP and IP. TCP/IP is built into the UNIX operating system and is used by the Internet, making it the de facto standard for transmitting data over networks. Even network operating systems that have their own protocols, such as Netware, also supportTCP/IP.
+
+TCQ
+Short for tagged command queuing, a method of processing requests from a host device to a hard drive that is storing the data requested. TCQ was first introduced with the SCSI-2 standard as a way to allow hard drives to accept multiple concurrent commands from a host PC. When commands arrive at the drive's buffer, they are tagged with an identifier and then reordered by the drive��s microprocessor to minimize the distance the drive's read head needs to move laterally along the platter looking for data. For example, if a command is looking for data in one section of the drive and a following queued command is looking for data in a neighboring area, the SCSI host adapter can reorder the commands to make the two occur sequentially. This is a different system than SCSI-1 or IDE/ATA, which will allow only a single command to be outstanding at a time to any device and processes requests serially.  Tagged command queuing also is called command queuing and reordering.  Also see What's Inside a Hard Drive? in the Did You Know . . . ? section of Webopedia.
+
+TDM
+Short for Time Division Multiplexing, a type of multiplexing that combines data streams by assigning each stream a different time slot in a set. TDM repeatedly transmits a fixed sequence of time slots over a single transmission channel. Within T-Carrier systems, such as T-1 and T-3, TDM combines Pulse Code Modulated (PCM)streams created for each conversation or data stream.
+
+
+TDMA
+Short for Time Division Multiple Access, a technology for delivering digital wireless service using time-division multiplexing (TDM). TDMA works by dividing a radio frequency into time slots and then allocating slots to multiple calls. In this way, a single frequency can support multiple, simultaneous data channels. TDMA is used by the GSM digital cellular system. 
+
+TDR
+Time Domain Reflectometry is used to pinpoint flaws and problems in underground and aerial wire, cabling, and fiber optics.   Time Domain Reflectometers send a signal down the conductor and measure the time it takes for the signal -- or part of the signal -- to return. The signal's reflection begins at the flaw point. Once it returns, time is converted to distance, then divided by the speed of light, multiplied by the proper velocity of propagation (VOP), and the result is divided by two.   It is important to note that the final result does not describe the problem; it only tells the engineer where on the line to look for the problem. 
+
+team_groupware
+A category of software that enables colleagues, especially geographically dispersed colleagues, to collaborate on projects. Typically, team groupware uses the Internet and the World Wide Web to facilitate communication among the team.
+
+teamviewer
+TeamViewer (TeamViewer 6) is a popular piece of  software used for Internet-based remote access and support. TeamViewer software can connect to any PC or server, so you can remote control your partner's PC as if you were sitting right in front of it. For the remote session to work the partner has to start a small application, which does not require installation or administrative rights.
+TeamViewer 6 is the latest version of the software and works with Windows, Mac, Linux operating systems and Mobile (Android, Apple iPad, Apple iPhone) devices. TeamViewer 6 is free for all non-commercial users.
+
+Teamware
+Teamware is a trademark of Teamware Group Oy. Also see team groupware.
+
+tear_off_menu
+A pop-up menu that you can move around the screen like a window. Regular pop-up menus are attached to the menu selection that caused them to pop up.   
+
+Teardrop_attack
+A DoS attack where fragmented packets are forged to overlap each other when the receiving host tries to reassemble them.  See also DoS attack.
+
+technology
+(tk-nl-j) (pl.) technologies
+(1) (n.) (a) The application of science, especially to industrial or commercial objectives.  (b) The scientific method and material used to achieve a commercial or industrial objective.   (2) Electronic or digital products and systems considered as a group.   (3) Anthropology. The body of knowledge available to a society that is of use in fashioning implements, practicing manual arts and skills, and extracting or collecting materials.   (pl.) technologies
+[Source: Adapted from Dictionary.com]
+
+Technorati
+An Internet search engine that indexes and searches blogs. Technorati tracks blogs and other forms of citizen media, including video blogs (vlogs), podcasts and amateur movies and videos in real-time. All this activity is monitored and indexed within minutes of posting.
+
+telco
+An abbreviation for telephone company.
+
+tele-immersion
+Tele-immersion is a technology to be implemented with Internet2 that will enable users in different geographic locations to come together in a simulated environment to interact. Users will feel like they are actually looking, talking, and meeting with each other face-to-face in the same room.   This is achieved using computers that recognize the presence and movements of individuals and objects, tracking those individuals and images, and reconstructing them onto one stereo-immersive surface.   3D reconstruction for tele-immersion is performed using stereo, which means two or more cameras take rapid sequential shots of the same object, continuously performing distance calculations, and projecting them into the computer-simulated environment, as to replicate real-time movement.  Tele-immersion presents the greatest technological challenge for Internet2.
+
+telecommunications
+Refers to all types of data transmission, from voice to video
+.
+ 
+
+telecommuting
+A term coined by Jack Nilles in the early 1970s to describe a geographically dispersed office where workers can work at home on a computer and transmit data and documents to a central office via telephone lines. A major argument in favor of telecommuting over vehicular commuting is that it does not produce air pollution. In addition, many people are more productive working at home than in an office. For others, however, the contrary holds true.   
+
+teleconference
+(1) To hold a conference via a telephone or network connection. Computers have given new meaning to the term because they allow groups to do much more than just talk. Once a teleconference is established, the group can share applications and mark up a common whiteboard. There are many teleconferencing applications that work over private networks. One of the first to operate over the Internet is Microsoft's NetMeeting.
+Also see videoconferencing.
+(2) To deliver live events via satellite to geographically dispersed downlink sites.
+
+telecopy
+To send a document from one place to another via a fax machine. 
+
+telematics
+Refers to the broad industry related to using computers in concert with telecommunications systems. This includes dial-up service to the Internet as well as all types of networks that rely on a telecommunications system to transport data. The term has evolved to refer to systems used in automobiles that combine wireless communication with GPS tracking. The term is further evolving to include a wide range of telecommunication functions that originate or end inside automobiles.
+
+Telenet
+One of the largest public data networks (PDNs) in the United States. Telenet is owned by U.S. Sprint Communications Corporation. A competing network, called Tymnet, is owned by McDonnell Douglas. Telenet serves as the communications backbone for many online services.   
+
+telephony
+The science of translating sound into electrical signals, transmitting them, and then converting them back to sound; that is, the science of telephones. The term is used frequently to refer to computer hardware and software that performs functions traditionally performed by telephone equipment. For example, telephony software can combine with your modem to turn your computer into a sophisticated answering service. Voice mail is another popular telephony application. 
+
+telephoto_lens
+A camera lens that has a narrow angle of view, and a longer than usual focal length. The effects of a telephoto lens are akin to using binoculars; the image is magnified making the subject seem closer than it actually is.
+
+telepresence
+The term used to describe a set of technologies, such as high definition audio, video, and other interactive elements that enable people to feel or appear as if they were present in a location which they are not physically in. Used mainly as a collaboration tool, telepresence is used by vendors, including Cisco to help create a more "in person" meeting experience over a converged network. Telepresence differs from  videoconferencing as it offers face-to-face interactions between the people in the meeting through the transmission of life-size, high-definition images and audio.
+
+Telesync
+Abbreviated at TS it is a bootleg copy of a movie recorded in a movie theater. It is similar to a CAM however it uses an external audio source, which has usually been recorded from an audio jack in the chair provided by the theater for those movie-goers who may be hard of hearing.
+
+television_aspect_ratio
+Television aspect ratio refers to the screens width compared to its height.  Traditional television aspect ratio is 4x3. For example, a 32-inch traditional television screens would be 25 1/2 inches wide and 19 inches tall. Widescreen aspect ratio is 16x9. A 32-inch widescreen television screen would be 28 inches wide and 19 inches tall. (Adapted from www.dtv.gov)
+
+television_board
+An expansion board that enables your computer monitor to do double-duty as a television screen. The board contains a TV tuner to select channels and circuitry to convert from the TV video standard (NTSC) to your computer's video standard (normally VGA or SVGA). Most television boards support windowed TVs as well as full-screen viewing. With a TV window you can place a mini television in the corner of your screen while you use the computer for other tasks.  Today's television boards produce TV images comparable to normal televisions. Many home computers now come with a television board pre-installed. 
+
+teleworking
+(v.) telework, (n) teleteleworker, teleworking
+To use information technology (IT) and telecommunications to replace work-related travel. Teleworking allows employees work at home or at a local telework center one or more days per week using communication tools, such as such as phone, fax, modem, Internet teleconferencing, e-mail or IM, to perform work duties from a remote location. The term telework is the term favored in Europe and other countries while telecommute is used more often in the U.S and Canada.
+Also known as telecommuting.See also SOHO - Small Office / Home Office.
+
+Telnet
+(tel´net) (n.) A terminal emulation program for TCP/IP networks such as the Internet. The Telnet program runs on your computer and connects your PC to a server on the network. You can then enter commands through the Telnet program and they will be executed as if you were entering them directly on the server console. This enables you to control the server and communicate with other servers on the network. To start a Telnet session, you must log in to a server by entering a valid username and password. Telnet is a common way to remotely control Web servers.
+
+
+TEM
+Short for telecommunications equipment manufacturer.
+
+Tempest
+In computer technology, the name Tempest originated with the U.S. military in the 1960s as the name of a classified study of the security of telecommunications devices that emit electromagnetic radiation (EMR). Every electronic, electro-optical or electromechanical device gives off some type of electromagnetic signals, whether or not the device was designed to be a transmitter. This is why the use of cellular phones is not permitted on airplanes - their unintentional signals can interfere with navigational equipment. The EMR that "leaks" from devices can be intercepted and, using the proper equipment, reconstructed on a different device. The U.S. government began studying this phenomenon in order to prevent breaches in military security, but today the term has made its way into popular culture because of the proliferation of pervasive computing.  The EMR that is emitted by devices contains the information that the device is displaying or storing or transmitting. With equipment designed to intercept and reconstruct the data, it is possible to steal information from unsuspecting users by capturing the EMR signals. For example, in theory someone sitting in a van outside a person's house can read the EMR that is emanating from the user's laptop computer inside the house and reconstruct the information from the user's monitor on a different device. Different devices have different levels of susceptibility to Tempest radiation, and more and more devices are being created that shield the EMR from leaking from the device. The distance at which emanations can be monitored depends on whether or not there are conductive media such as power lines, water pipes or even metal cabinets in the area that will carry the signals further away from the original source.  While the name Tempest was the code name for the military operations in the 1960s, at a later stage the word became an acronym for Telecommunications Electronics Material Protected from Emanating Spurious Transmissions and an abbreviation of Transient Electromagnetic Pulse Emanation Standard.
+
+template
+)(n.) (1) Something that establishes or serves as a pattern for reference.  (2) A plastic or paper diagram that you can put on your keyboard to indicate the meanings of different keys for a particular program.  (3) A sheet of plastic with menus and command boxes drawn on it that you place on top of a digitizing tablet. You can select commands by pressing the digitizing tablet's pen against a command box or by positioning the cursor over a box and pressing one of the cursor keys.  (4) In spreadsheet and database applications, a template is a blank form that shows which fields exist, their locations, and their length. In spreadsheet applications, for example, a template is a spreadsheet in which all the cells have been defined but no data has yet been entered.  (5) In some word processing applications, template is used in place of style sheet.  (6) DOS uses the term template to mean command buffer.  (7) A shortened term for a biometric reference template.  
+
+temporal_compression
+A type of compression used by some codecs that assumes frames beside each other look similar. The first frame in the series would be entirely digitized (called a key frame). In the next frame only the information that has changed is digitized. Because temporal compression makes one frame depend on another it makes editing temporally compressed video difficult.
+
+temporary_Internet_file
+A file located on a user's hard disk in which a browser stores the Web site data for every Web page or URL address that a user visits. When the Web server sends the Web page files to the browser, they are stored in a file so that the next time the user visits the same Web site the browser takes the data from the temporary Internet file. With this method, the page quickly displays in the browser instead of having to wait for response from the Web site's server all over again. Basically, the browser is opening the Web page from the user��s hard drive instead of downloading the files from the Internet.  A buildup of data in the temporary Internet file will eventually slow a processor down as it takes up valuable resource space. Browsers that use a temporary Internet file also have methods for deleting the file.
+
+terabyte
+2 to the 40th power (1,099,511,627,776) bytes. This is approximately 1 trillion bytes. Terabyte is abbreviated as TB.
+
+terminal
+(1) A device that enables you to communicate with a computer. Generally, a terminal is a combination of keyboard and display screen.  Terminals are sometimes divided into three classes based on how much processing power they contain:
+
+intelligent terminal: a stand-alone device that contains main memory and a CPU.
+smart terminal: contains some processing power, but not as much as an intelligent terminal.
+dumb terminal: has no processing capabilities. It relies entirely on the computer's processor.
+
+(2) In networking, a terminal is a personal computer or workstation connected to a mainframe. The personal computer usually runs terminal emulation software that makes the mainframe think it is like any other mainframe terminal.
+
+
+terminal_adapter
+A device that connects a computer to an external digital communications line, such as an ISDN line. A terminal adapter is a bit like a modem, but whereas a modem needs to convert between analog and digital signals, a terminal adapter only needs to pass along digital signals. As ISDN becomes more common, future computers will probably have terminal adapters built in. Currently, though, you need to purchase a separate terminal adapter if you want ISDN access. You can get an internal adapter or an external adapter than connects to your computer's serial port. 
+
+terminal_emulation
+Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
+
+
+terminal_server
+A hardware device or server that enables one or more terminals to connect to a local area network (LAN) or the Internet without the need for each terminal to have a network interface card (NIC) or modem.  Terminals can be PCs, printers, IBM 3270 emulators or other devices with a RS-232 / RS-423 serial port interface.  Terminal servers can often support connections of up to 128 terminal devices.
+See also server.
+
+terminator
+(1) A device attached to the end-points of a bus network or daisy-chain. The purpose of the terminator is to absorb signals so that they do not reflect back down the line. Ethernet networks require a terminator at both ends of the bus, and SCSI chains require a single terminator at the end of the chain.  (2) A character that indicates the end of a string. In the C programming language, the null character serves as a terminator. 
+
+ternary_operator
+A ternary operator is some operation operating on 3 inputs. It's a shortcut for an if-else statement, and is also known as a  conditional operator.  In Perl/PHP it works as: "boolean_condition?true_value:false_value" In C/C++ it works as: logical expression? action for true : action for false 
+
+terrestrial
+(adj.) Of or relating to the earth. The term is used in reference to satellite technologies to distinguish between what is out in space and what is located on the earth��s surface.
+
+tertiary_colors
+Tertiary colors are the resulting color formed when an equal amount of a primary and a secondary color are mixed. The primary and secondary color must be beside each other on the color wheel. For example, a mixture of 50-percent red and 50-percent magenta would result in the tertiary color of orange. See "The Science of Color" in the Did You Know... section of Webopedia. See also Webopedia's  Digital Camera Quick Reference.
+
+test_driven_development
+Abbreviated as TDD, test-driven development is a concept in computer software programming to ensure code quality. The TDD cycle concept requires software programmers to develop in short iterations then test the code and clean up any new deficiencies in code quality as they arise. As each iteration is added the testing and clean-up is repeated as necessary.
+
+tethering
+Tethering enables your cellular telephone or similar Internet-enabled mobile device to connect other devices such as netbooks, laptops or PDAs to the Internet. Mobile phones that offer tethering typically connect to other devices via Bluetooth or a USB cable in order to provide them with Internet access.
+A key advantage of tethering is that it makes it possible for devices to connect to the Internet through a cellular data provider in situations and places where other Internet access options such as Wi-Fi, cable modem, DSL or analog modem aren't available. Some mobile phone carriers offer tethering at no additional cost, while others either don't offer it at all or charge additional data rates for tethering.
+
+TeX
+TeX is a macro processor that provides complete control over typographical formatting. Most people who use TeX, however, utilize one of several macro packages that provide an easier interface. The two most popular are LaTeX , originally written by Leslie Lamport, and plain TeX, written by Knuth. 
+
+Texas_Instruments
+A large electronics company that has contributed considerably to the computer revolution. In 1958, a TI researcher named Jack Kilby demonstrated the first integrated circuit (IC), and in 1967, TI introduced the first handheld calculator. Today, TI's core business is in producing semiconductors. 
+
+Texas_Instruments_Graphics_Architecture_TIGA
+A high-resolution graphics specification designed by Texas Instruments. Unlike other graphics standards, TIGA does not specify a particular resolution or number of colors. Instead, it defines an interface between software and graphics processors. Programs written for TIGA, therefore, should be able to run on future systems that conform to the TIGA standard, regardless of resolution and color specifics.  Currently, the only graphics standard that conforms to TIGA is TI 34010, which defines a resolution of 1,024 by 768, with 256 simultaneous colors. 
+
+texel
+Short for Texture Element. Like a pixel, a texel is the base unit of a graphic, although texels make up textured graphics - graphics that define the surface of three dimensional objects. The base unit of the surface of a 3D brick wall would be a texel, while a two-dimensional wall would consist of pixels.   
+
+text
+Words, sentences, paragraphs. This book, for example, consists of text. Text processing refers to the ability to manipulate words, lines, and pages. Typically, the term text refers to text stored as ASCII codes (that is, without any formatting). Objects that are not text include graphics, numbers (if they're not stored as ASCII characters), and program code.
+Also see text messaging.
+
+text_file
+A file that holds text. The term text  file is often used as a synonym for ASCII file, a file in which characters are represented by their ASCII codes.   
+
+Text_For_Banner
+Text For Banner or Text Banner is a setting commonly found on broadband router firmware. A "text banner" is a message a user can set that is displayed when someone logs in to the router. Text banners usually include a message to indicate that unauthorized access is prohibited. See "Common Router Settings" in the Quick Reference section of Webopedia. See also Webopedia's "Did You Know... Routers, Switches and Hubs: What's the Difference?"
+
+text_from_computer
+Text from computer is a feature that allows you to send a text message (also called SMS) to a cellular phone or wireless device on a cellular network from an Internet-connected computer using email.
+To text from computer you need an email account and the full ten-digit phone number of the person you want to send a text message to. You will also need to know who the recipient uses for cellular service.
+Each cellular phone service provider (also called a carrier) will have an email address that you will need to send a text from a computer.  You need to put the recipient’s full 10-difit cell number in front of the @ symbol in the email address used by the service provider for email text messages.
+
+text_messaging
+Sending short text messages to a device such as a cellular phone, PDA or pager. Text messaging is used for messages that are no longer than a few hundred characters. The term is usually applied to messaging that takes place between two or more mobile devices.
+Compare with SMS and instant messaging.
+Also see the page of text messaging abbreviations in the Quick Reference section of Webopedia.
+
+text_mode
+A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.  All video standards for the PC, including VGA, support a text mode that divides the screen into 25 rows and 80 columns. In addition to text mode, most video adapters support a graphics mode, in which the display screen is divided into an array of pixels.  Whereas character-based programs run in text mode, all graphics-based programs run in graphics mode.   
+
+text_wrap
+Text wrap is a feature supported by many word processors that enables you to surround a picture or diagram with text. The text wraps around the graphic. 
+Text wrap in HTML is most fequently used to describe wrapping of text around an image in the HTML code. This is done by adding align="left" or align="right" to the <img> tag.
+Text wrap is also called text flow.
+
+textual_harassment
+Using a mobile phone to repeatedly send unsolicited text messages to another person. The text messages may be a form of sexual harassment, abuse or bullying via text. Victims of textual harassment can request their cellphone provider to block texts (and calls) coming from a specific number, but with the capability to text from computer, the perpetrator could still send harassing text messages to the victim’s mobile phone.
+
+texture
+In 3D graphics, the digital representation of the surface of an object. In addition to two-dimensional qualities, such as color and brightness, a texture is also encoded with three-dimensional properties, such as how transparent and reflective the object is. Once a texture has been defined, it can be wrapped around any 3-dimensional object. This is called texture mapping.  Well-defined textures are very important for rendering realistic 3-D images. However, they also require a lot of memory, so they're not used as often as they might be. This is one of the rationales for the development of the new graphics interface, AGP, which allows texture to be stored in main memory, which is more expansive than video memory. AGP also speeds up the transfer of large textures between memory, the CPU and the video adapter. 
+
+TFRC
+TCP-Friendly Rate Control (TFRC) is a congestion control mechanism designed for unicast flows operating in an Internet environment and competing with TCP traffic. It is designed for applications that use a fixed packet size, and vary their sending rate in packets per second in response to congestion. TFRC is a receiver-based mechanism, with the calculation of the congestion control information (i.e., the loss event rate) in the data receiver rather in the data sender. This is well-suited to an application where the sender is a large server handling many concurrent connections, and the receiver has more memory and CPU cycles available for computation. [Adapted from RFC 3448 - TCP Friendly Rate Control (TFRC): Protocol Specification]
+
+TFT
+Short for thin film transistor, a type of LCD flat-panel display screen, in which each pixel is controlled by from one to four transistors. The TFT technology provides the best resolution of all the flat-panel techniques, but it is also the most expensive. TFT screens are sometimes called active-matrix  LCDs.
+
+
+TFTP
+Abbreviation of Trivial File Transfer Protocol, a simple form of the File Transfer Protocol (FTP). TFTP uses the User Datagram Protocol (UDP)and provides no security features. It is often used by servers to bootdiskless workstations, X-terminals, and routers.
+
+
+The_Green_Grid
+A U.S.-based global consortium that is dedicated to developing and promoting energy efficiency for data centers. The Green Grid works with end-users, technology providers and governments around the world to create standards for more efficient use of energy in data centers.  See also "Getting Started With Green Computing" in Webopedia's Did You Know...? section.
+
+The_Long_Tail_search
+A phrase coined by Wired editor Chris Anderson in an article published by Wired in October 2004, which later became a book published by Hyperion in July 2006. In his discussion Chris Anderson says The Long Tail is the theory "that our culture and economy is increasingly shifting away from a focus on a relatively small number of 'hits' (mainstream products and markets) at the head of the demand curve and toward a huge number of niches in the tail. Narrowly-targeted goods and services can be as economically attractive as mainstream fare." [Source: The Long Tail] Based on this theory presented by Anderson, The Long Tail search expands on the theory that media and entertainment industries need to push the niche avenues of mainstream popular products. In search queries it is important to tap the main and most common search terms (the head of the list), but also all the keywords and queries that fall along the talk of the search; which are the lesser searched for associated and related keywords.
+
+The_Open_Group
+An international consortium of computer and software manufacturers and users dedicated to advancing multi-vendor technologies. The Open Group was formed in February, 1996 by merging two previously independent groups - the Open Software Foundation (OSF) and X/Open Company Ltd. One of the most important technologies fostered by The Open Group is DCE.   
+
+The_Pirate_Bay
+A Swedish-owned and operated BitTorrent (torrents) Web site. The Pirate Bay allows users to search for torrents and then download them files from other users. In 2006 the servers for the Web site were raided by Swedish police and the founders have been involved in different lawsuits during its history - most of which alleged the that the Web site was a large facilitator of illegal downloading.  In April 2009, the Pirate Bay site operators Peter Kolmisoppi, Frederik Neij, Gottfrid Svartholm Warg and financial backer Carl Lundstr��m were found guilty in Swedish court of violating copyright laws. Each were sentenced a year in jail and a joint fine of 30 million Swedish crowns ($3.58 million).  In June 2009 it was reported that the Swedish software firm, Global Gaming Factory X, which offers on-screen advertising, software distribution and management tools for Internet cafes, struck a deal to acquire the BitTorrent site. As The Pirate Bay's new owner, plans were started to overhaul the site with a new business model that would provide compensation to content owners. 
+
+The_Tabulator
+A data browser and editor that provides a way to browse the Semantic Web and RDF data on the Web. It's a Firefox extension that enables Firefox to handle data as well as documents. The Tabulator is also available in an online version as a set of open source  JavaScript scripts, which can run in any Web page to add data browsing. The Tabulator is open source under the  W3C software license.  See hyperdata browser.
+
+Theora
+Theora is an open video codec being developed by the Xiph.org Foundation as part of their Ogg project (It is a project that aims to integrate On2's VP3 video codec, Ogg Vorbis audio codec and Ogg multimedia container formats into a multimedia solution that can compete with MPEG-4 format). Theora is derived directly from On2's VP3 codec. Currently, the two are nearly identical, varying only in framing headers, but Theora will diverge and improve from the main VP3 development lineage as time progresses. [Source: Theora.org FAQ] See also Ogg Vorbis.
+
+thermal_compound
+A thick substance that, in computer systems, is often used between the CPU core and surface of the  heatsink to assist in the quick transferal of heat. Common thermal compound applications are found in micro-electronic, automotive, power generation and other performance-intensive markets. Thermal compound may also be called  thermal grease.
+
+thermal_printer
+A printer that uses heat to transfer an impression onto paper. There are two kinds of thermal printers:  thermal wax transfer: a printer that adheres a wax-based ink onto paper. A thermal printhead melts wax-based ink from the transfer ribbon onto the paper. When cool, the wax is permanent. This type of thermal printer uses an equivalent panel of ink for each page to be printed, no matter if a full page or only one line of print is transferred. Monochrome printers have a black page for each page to be printed, while color printers have either three (CMY) or four (CMYK) colored panels for each page. Unlike thermal dye transfer printers , also called dye sublimation printers, these printers print images as dots, which means that images must be dithered first. As a result, images are not quite photo-realistic, although they are very good. The big advantages of these printers over thermal dye transfer printers are that they don't require special paper and they are faster. direct thermal: a printer that prints the image by burning dots onto coated paper when the paper passes over a line of heating elements. Early fax machines used direct thermal printing.    Also see color printer. 
+
+thin_client
+(thin klī´&nt) In client/server applications, a client designed to be especially small so that the bulk of the data processing occurs on the server.
+Although the term thin client usually refers to software, it is increasingly used for computers, such as network computers and Net PCs, that are designed to serve as the clients for client/server architectures. A thin client is a network computer without a hard disk drive, whereas a fat client includes a disk drive.
+
+
+thin_provisioning
+In data storage terminology, thin provisioning is the term used to describe the consolidation and automated process of allocating just "the exact required amount" of server space at the time it is required. Thin provisioning is most commonly used in centralized large storage systems such as SANs and also in storage virtualization environments where administrators plan for both current and future storage requirements and often over-purchase capacity, which can result in wasted storage. Since thin provisioning is designed to allocate exactly what is needed, exactly when it is needed, it removes the element of "paid for but wasted" storage capacity. Additionally, as more storage is needed additional volumes can be attached to the existing consolidated storage system.
+
+third-platform
+The Third Platform is an information technology (IT) term coined by IDC that distinguishes the current IT environment of mobile, social, cloud and Big Data from earlier eras of computing.  
+The evolution of the Third Platform has led hardware and software firms to adjust their business models to align more closely with the needs and demands of consumers first, with enhancements for enterprises following.
+This is in contrast to earlier eras of computing, where development and innovation focused first on the needs of enterprises rather than consumers.
+
+thread
+(1) In online discussions, a series of messages that have been posted as replies to each other. A single forum or conference typically contains many threads covering different subjects. By reading each message in a thread, one after the other, you can see how the discussion has evolved. You can start a new thread by posting a message that is not a reply to an earlier message.  (2) In programming, a part of a program that can execute independently of other parts. Operating systems that support multithreading enable programmers to design programs whose threaded parts can execute concurrently. 
+
+thread_bump
+In online forums and other online discussion spaces bump is the word used to describe an action (e.g. a message post) so that a particular thread is returned to the top in the list of threads. Some users may even post a message with only the word "bump" to indicate they are posting only to bump the thread to the top of the list where more users will see it.
+ 
+ 
+
+three_chip_projector
+Projectors employing a three-chip design use a prism to split light from the lamp. Each primary color (red, green and blue) of light is then routed to its own Digital Micromirror Device (DMD) chip. The colors are recombined and routed out through the lens. Contrast with single-chip projector which uses a single DMD.
+
+three_click_rule
+In website design, the three-click rule is a non-standard measurement for usability. The three-click (or 3-click) rule notes that no product or piece of content should ever be more than three clicks away from your Web site's main page. The three-click rule was made popular by Web designer Jeffrey Zeldman in his book, "Taking Your Talent to the Web."
+
+three_dimensional_spreadsheet
+A spreadsheet program that allows you to arrange data as a stack of tables, each of which has the same shape and size. You can analyze a single table or an entire group of tables. 
+
+three_point_editing
+In digital video editing, three-point editing is an editing method used to insert a clip from the source media into a destination track, which is done by setting three edit points. The first two set points define the in and out points of the clip, or the in and out points in the timeline that the clip will fit into. The third point indicates either the In or Out point for the clip (if the other tow points are in the timeline), or the in and out points in the timeline (if the other two points are in the clip).  [Adapted from Pierce College - Digital Movie Making]
+
+three_tier
+A special type of client/server architecture consisting of three well-defined and separate processes, each running on a different platform:  1. The user interface, which runs on the user's computer (the client).  2. The functional modules that actually process data. This middle tier runs on a server and is often called the application server.  3. A database management system (DBMS) that stores the data required by the middle tier. This tier runs on a second server called the database server.  The three-tier design has many advantages over traditional two-tier or single-tier designs, the chief ones being:  The added modularity makes it easier to modify or replace one tier without affecting the other tiers.   Separating the application functions from the database functions makes it easier to implement load balancing.  
+
+through_hole_technology
+A design standard for constructing electronic circuits where the components are mounted using pins that are inserted into pre-drilled holes on the printed circuit board (PCB) on one side, and then soldered to pads on the opposite side. Contrast with surface-mount technology. See "What You Need to Know About Motherboards" in the Quick Reference section of Webopedia. 
+
+throughput
+The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughputs are measured in kbps, Mbps and Gbps. 
+
+thumbnail
+)A miniature display of a page to be printed. Thumbnails enable you to see the layout of many pages on the screen at once. Generally, thumbnails are too small to show the actual text, so greeking is used to indicate how the text will look.   
+
+thunderbolt
+Intel's Thunderbolt input/output (I/O) technology is designed to connect high-performance peripherals and HD video displays via a single port using two communications methods, or protocols, PCI Express for data transfer and DisplayPort for displays.  Thunderbolt provides data transfer rates up to 10 Gbps, which is 20 times faster than the USB 2.0 standard and 12 times faster than FireWire 800.
+With Thunderbolt, you can also daisy-chain up to six devices, including a display, without the need for a hub, and also provides 10 watts of power to peripherals. Thunderbolt made its initial debut in the 2011 release of the MacBook Pro laptop series.
+
+thunk
+(v.) In PCs, to convert a 16-bit memory address to a 32-bit address, and vice versa. Thunking is necessary because Intel's older 16-bit microprocessors used an addressing scheme called segmented memory, whereas their 32-bit microprocessors use a flat address space  . Windows 95  supports a thunk mechanism to enable 32-bit programs to call 16-bit DLLs. This is called a flat thunk.  On the other hand, 16-bit applications running under Windows 3.x and Windows for Workgroups cannot use 32-bit DLLs unless the 32-bit addresses are converted to 16-bit addresses. This is the function of Win32s, and is called a universal thunk.  According to folklore, the term thunk was coined by the developers of the Algol-60 programming language, who realized late one night that the data type of parameters could be known with a little forethought by the compiler. That is, by the time the compiler processed the parameters, it had already thought of (thunked) the data types. The meaning of the term has changed considerably in recent years.  (n.) The operation of converting between a segmented memory address space and a flat address space.  
+
+THz
+Abbreviation for terahertz. A unit of measurement of frequency, also known as cycles per second. One TeraHertz (THz) is equal to 1012 (10 to the power of 12)hertz (Hz) or one thousand gigahertz (GHz).See also Hz.
+
+TI_34010
+A video standard from Texas Instruments that supports a resolution of 1,024 by 768. TI 34010 conforms to TI's Graphics Architecture (TIGA). Unlike IBM's 8514/A, which supports the same resolution, TI 34010 is noninterlaced. 
+
+tick_tock
+In technology terms, tick-tock typically refers to Intel's model of releasing new processor families each year, with the "tick" applying to processors fabricated on a smaller die shrink and the "tock" representing processors that is based on a new processor microarchitecture.  The "tick" processors feature enhanced performance and energy efficiency on a smaller, more refined silicon chip, while the "tock" processors typically optimize the value of the increased number of transistors available from the "tick" release and also integrate the latest technology updates available.
+Examples of Intel's tick-tock model include Sandy Bridge ("tock") and Ivy Bridge ("tick") and the upcoming Haswell ("tock"), Broadwell ("tick"), Skylake ("tock") and Skymont ("tick") processors.
+
+tiered_storage
+Tiered storage is an underlying principle of ILM (information  lifecycle management). It is a storage networking method where data is stored on various types of  media based on performance, availability and recovery requirements. For example, data intended for restoration in the event of data loss or corruption could be stored locally -- for fast recovery -- while data for regulatory purposes could be archived to lower cost disks.
+Today's tiered storage infrastructures range from simple two-tier architecture consisting of SCSI or fibre channel attached disk and tape to more complex infrastructures, which in some cases are comprised of five-to-six tiers. Regardless of the number of tiers, organizations are looking to tiered storage and ILM to lower cost and improve operational efficiency.Implementing tiered storage infrastructures can dramatically decrease the cost associated with achieving an RPO and RTO of zero. Classification of data can provide different RPOs and RTOs based on application and business requirements.  Policy-based data migration ensures that the right data is in the right place at the right time.
+Learn more about storage networking on Enterprise Storage Forum.
+
+TIFF
+Acronym for tagged image file format, one of the most widely supported file formats for storing bit-mapped images on personal computers (both PCs and Macintosh computers). Other popular formats are BMP and PCX.  TIFF graphics can be any resolution, and they can be black and white, gray-scaled, or color. Files in TIFF format often end with a .tif extension.   
+
+tight_coupling
+(1) In computer science, tight coupling (or tightly coupled) is a type of coupling that describes a system in which hardware and software are not only linked together, but are also dependant upon each other. In a tightly coupled system where multiple systems share a workload, the entire system usually would need to be powered down to fix a major hardware problem, not just the single system with the issue. (2) In software the term tight coupling is used to define software that will work only in one part of a specific type of system and the software is dependant on other software. For example, an operating system would be considered tightly coupled as it depends on software drivers to correctly install and activate the system's peripheral devices. Also called heavy coupling. See also loose coupling, coupling, and decoupled.
+
+Tile64
+The name for the first processor in the family of Tile Processor chips from Tilera Corporation. The TILE64 processor is based on an architecture that can scale to hundreds, or even thousands of cores. The processor contains 64 full-featured, programmable cores, each capable of running its own operating system. Tilera's architecture eliminates the on-chip bus interconnect by placing a communications switch on each processor core and arranging them in a grid fashion on the chip to create an efficient two-dimensional traffic system for packets. Each of the 64 cores is a general-purpose processor that includes L1 and L2 caches, as well as an innovative distributed L3 cache. Initial target markets for the TILE64 processor include the embedded networking and digital multimedia markets.
+
+tiled_windows
+Windows window arranged so that they do not overlap each other. Overlapping windows are often called overlaid or cascading windows. 
+
+Tillamook
+Codename for a low-power version of the Pentium microprocessor designed especially for portable devices. The Tillamook processor is Intel's first chip to be manufactured with a new 0.25-micron process, as opposed to 0.35 microns for previous chips. This means that transistors can be packed together more closely, which reduces the power requirements. The Tillamook chips runs at over 200 MHz and support MMX instructions. 
+
+Time_Base_Corrector
+Playback circuitry used to compensate for irregularities in disk rotation or tape movement. The irregularities would otherwise result in scan lines beginning at different horizontal positions on the screen and cause vertical lines in the picture to appear wavy.
+
+time_code
+A digitally encoded signal that is recorded on videotape to identify each frame of video by hour, minute, second and frame number. There are two kinds of recorded signal: longitudinal time code (LTC) and vertical interval time code (VITC). [Adapted from Extreme Exposure]
+
+time_lapse
+In digital photography, it's the name of the process used to capture a set of images at preset intervals of time.  See also "The Digital Camera Picture" in  Webopedia's Quick Reference section.
+
+time_sharing
+Refers to the concurrent use of a computer by more than one user -- users share the computer's time. Time sharing is synonymous with multi-user. Almost all mainframes and minicomputers are time-sharing systems, but most personal computers and workstations are not.   
+
+time_out
+An interrupt signal generated by a program or device that has waited a certain length of time for some input but has not received it. Many programs perform time-outs so that the program does not sit idle waiting for input that may never come. For example, automatic bank-teller machines perform a time-out if you do not enter your password quickly enough.
+Also spelled timeout.
+
+timebomb
+A malicious program that is programmed to "detonate" at a specific time and release a virus onto the computer system or network.See also logic bomb.
+
+timeline
+(1) In video editing, timeline is a commonly used interface found in most video editing  programs. This interface enables authors to lay a video project out in a linear fashion horizontally across a monitor. (2) A chronological display of an edited sequence in a non-linear editing system.
+
+Tinn
+Acronym for Tinn is not Notepad, Tinn is an ASCII file editor intended to replace the default Notepad program distributed with Windows. Tinn is written in Delphi 5 and runs only under Windows (9X/Me/2000/XP). It is distributed under the GPL license. An updated version of Tinn, Tinn-R contains enhancements to allow syntax highlighting of S language, the language used by open source statistical software.
+
+tint
+In color, the word tint is used to reference how light a color is. Shades are derived from a combination of hue and white. For example, red, when saturated with white creates a tint of pink. Contrast with  shade. See "The Science of Color" in the Did You Know... section of Webopedia. See also Webopedia's  Digital Camera Quick Reference.
+
+titan_supercomputer
+Titan is the name given to a supercomputer developed at the U.S. Department of Energy's Oak Ridge National Laboratory in Tennessee. The supercomputer is capable of 20 petaflops, which is 20,000 trillion calculations per second. It is more than 10 times faster than its predecessor called Jaguar, which was deployed in 2009 and was considered the world's fastest supercomputer in June 2010.
+According to Datamation.com, It would take 60,000 years for 1,000 people working at a rate of one calculation per second to complete the number of calculations that Titan can process in a single second.
+
+title_bar
+A bar on top of a window. The title bar contains the name of the file or application. In many graphical user interfaces, including the Macintosh and Microsoft Windows interfaces, you move (drag) a window by grabbing the title bar.   
+
+title_generator
+In video and film terminology it is a small device that can superimpose the time, date, and 22-character alphanumeric title on one video channel.
+
+TLB
+Short for translation look-aside buffer, a table in the processor��s memory that contains information about the pages in memory the processor has accessed recently. The table cross-references a program��s virtual addresses with the corresponding absolute addresses in physical memory that the program has most recently used. The TLB enables faster computing because it allows the address processing to take place independent of the normal address-translation pipeline.  Also referred to as the address translation cache, a typical TLB contains anywhere from 64 to 256 entries.
+
+TLD
+Short for top-level domain, and refers to the suffix attached to Internet domain names. There are a limited number of predefined suffixes, and each one represent a top-level domain. Current top-level domains include:
+
+com- commercial businesses; this is the most common TLD
+gov- U.S. government agencies
+edu- Educational institutions such as universities
+org- Organizations (mostly nonprofit)
+mil- Military
+net- Network organizations
+ca- Canada
+th - Thailand
+
+
+
+TLS
+Short for Transport Layer Security, a protocol that guarantees privacy and data integrity between client/server applicationscommunicating over the Internet.
+The TLS protocol is made up of two layers:
+
+The TLS Record Protocol -- layered on top of a reliable transport protocol, such as TCP, it ensures that the connection is private by using symmetric data encryption and it ensures that the connection is reliable. The TLS Record Protocol also is used for encapsulationof higher-level protocols, such as the TLS Handshake Protocol.
+The TLS Handshake Protocol -- allows authentication between the server and client and the negotiation of an encryption algorithm and cryptographic keys before the application protocol transmits or receives any data.
+
+TLS is application protocol-independent. Higher-level protocols can layer on top of the TLS protocol transparently.
+
+TMPGEnc
+An MPEG-1 and MPEG-2 encoder. TMPGEnc converts .AVI file to MPEG1, the format which is used in VideoCD. Using variety of option in TMPGEnc, you can compress your video file in high quality.
+
+TNEF
+Pronounced tee-neff, and short for Transport Neutral Encapsulation Format, a proprietary format used by the Microsoft Exchange and Outlook e-mail clients when sending messages formatted as Rich Text Format (RTF). When Microsoft Exchange thinks that it is sending a message to another Microsoft e-mail client, it extracts all the formatting information and encodes it in a special TNEF block. It then sends the message in two parts - the text message with the formatting removed and the formatting instructions in the TNEF block. On the receiving side, a Microsoft e-mail client processes the TNEF block and re-formats the message.  Unfortunately, most non-Microsoft e-mail clients cannot decipher TNEF blocks. Consequently, when you receive a TNEF-encoded message with a non-Microsoft e-mail client, the TNEF part appears as a long sequence of hexadecimal digits, either in the message itself or as an attached file (usually named WINMAIL.DAT).
+
+TnL
+TnL or T&L, short for Transform and Lighting it refers to a hardware feature found on some graphics cards. TnL is separate engines on the GPU that enable extremely high polygon count scenes. With TnL technology some or all of the 3-D information normally processed by the computer processoris processed by the GPU. Transform performance determines how complex objects can be and how many can appear in a scene without sacrificing frame rate. Lighting techniques add to a scene's realism by changing the appearance of objects based on light sources.
+Also see  Understanding Video and Graphics Adapters  in Webopedia's "Did You Know...?" section.
+
+TOAD
+Short for Tools for Oracle Application Development, TOAD is a set of development tools used for application development, database development, or business intelligence and assist developers in deploying Oracle-based applications and Web services on the Windows platform. Developers use the applications for defining business logic, creating user interfaces, applications as Web services, and more.
+ 
+ 
+
+toaster
+Originally used to describe outdated or slow hardware (referring to the power of a kitchen toaster), the term is now often used to describe a product that joins various components in one easy-to-use package (referring to the ease of using a kitchen toaster). For example, a video toaster is a desktop video editor that features all the software and hardware needed to create broadcast-quality video in one integrated system. An intranet toaster is an all-in-one server that can be connected to an existing LAN and configured through a Web browser. The term can also refer to both qualities -- easy-to-use but less powerful than other products. 
+
+TOE
+Short for TCP/IP Offload Engine, TOE a technology used in NICs (network interface cards) to offload processing of the TCP/IP stack to the network controller. TOE works because it allows the operating system to offload all TCP/IP traffic to hardware on the NIC, and also gives TCP/IP control to the host server. TOE is mainly used in high-speed networks such as gigabit or 10GB Ethernet.
+
+toggle
+To switch from one setting to another. The term toggle implies that there are only two possible settings and that you are switching from the current setting to the other setting.
+A toggle switch  is a switch that has just two positions. For example, light switches that turn a light on or off are toggle switches. On computer keyboards, the Caps Lock key is a toggle switch because pressing it can have two meanings depending on what the current setting is. If Caps Lock is already on, then pressing the Caps Lock key turns it off. If Caps Lock is off, pressing the Caps Lock key turns it on.
+Toggle switches also exist in software. For, example a check box in a dialog box is a toggle switch.
+
+token
+)(1) In programming languages, a single element of a programming language. For example, a token could be a keyword, an operator, or a punctuation mark.
+(2) In networking, a token is a special series of bits that travels around a token-ring network. As the token circulates, computers attached to the network can capture it. The token acts like a ticket, enabling its owner to send a message across the network. There is only one token for each network, so there is no possibility that two computers will attempt to transmit messages at the same time.
+(3) In security systems, a small device the size of a credit card that displays a constantly changing ID code. A user first enters a password and then the card displays an ID that can be used to log into a network. Typically, the IDs change every 5 minutes or so.
+
+token_bus_network
+A type of local-area network (LAN) that has a bus topology and uses a token -passing mechanism to regulate traffic on the bus. A token bus network is very similar to a token ring network, the main difference being that the endpoints of the bus do not meet to form a physical ring. Token bus networks are defined by the IEEE 802.4 standard. For network diagrams, see Network Topology Diagrams in the Quick Reference section of Webopedia.
+
+token_passing
+A type of CAM. Token passing uses a token, or series of bits, to grant a device permission to transmit over the network. Whichever device has the token can put data into the network. When its transmission is complete, the device passes the token along to the next device in the topology. System rules in the protocol specifications mandate how long a device may keep the token, how long it can transmit for and how to generate a new token if there isn't one circulating. Also see contention and polling.
+
+token_ring_network
+)(1) A type of computer  network in which all the computers are arranged (schematically) in a circle. A token, which is a special bit pattern, travels around the circle. To send a message, a computer catches the token, attaches a message to it, and then lets it continue to travel around the network.
+Also see token passing.
+For network diagrams, see Network Topology Diagrams in the Quick Referencesection of Webopedia.
+
+Tomato_firmware
+Called Tomato, it is the name of a firmware for wireless routers, including the popular WRT54G family. Tomato is designed to be flashed onto your compatible wireless router to replace the stock firmware loaded by the vendor.
+Like DD-WRT, the Tomato firmware can be installed on a variety of wireless routers. Tomato supports the Linksys WRT54G family, which also includes the WRT54GS, WRT54GL and WRTSL54GS. Note that Tomato will not work with WRT54G routers later than version 4, since these do not run Linux.
+Unlike DD-WRT, which is available in numerous versions for different routers and with different feature sets, there is only one primary version of Tomato. There is also one alternate version compiled specifically for the Buffalo WHR-G125 router. 
+
+toner
+A special type of ink used by copy machines and laser printers. Toner consists of a dry, powdery substance that is electrically charged so that it adheres to a drum, plate, or piece of paper charged with the opposite polarity.  For most laser printers, the toner comes in a cartridge that you insert into the printer. When the cartridge is empty, you can replace it or have it refilled. Typically, you can print thousands of pages with a single cartridge. 
+
+tool
+A program that performs a very specific task. Synonymous with utility. Similar to application.
+
+tool_bar
+A series of selectable buttons in a GUI that give the user an easy way to select desktop, application or Web browser functions. Toolbars are typically displayed as either a horizontal row or a vertical column around the edges of the GUI where they are visible while the application is in use. Most applications use toolbars as they give the user another option aside from pull-down menus.
+
+toolbar
+A series of selectable buttons in a GUI that give the user an easy way to select desktop, application or Web browser functions. Toolbars are typically displayed as either a horizontal row or a vertical column around the edges of the GUI where they are visible while the application is in use. Most applications use toolbars as they give the user another option aside from pull-down menus.
+
+top_content
+In Web analytics, including Google Analytics, top content provides details on the most viewed pages (top performing content) on your website. These pages are responsible for driving the most page views on your website.
+See also Web analytics and basic metrics.
+
+topic_maps
+An ISO standard for representing knowledge structures and associating information and resources to those structures. The topic map represents the topics, associations (relationships between the topics), and occurrences. Topic maps are commonly used in building topic-driven content Web sites and also to organize the content in content management systems, in place of folder hierarchies.
+
+topology
+)The shape of a local-area network (LAN) or other communications system. Topologies are either physical or logical.
+There are four principal topologies used in LANs.
+
+bus topology: All devices are connected to a central cable, called the bus or backbone. Bus networks are relatively inexpensive and easy to install for small networks. Ethernet systemsuse a bus topology.
+ring topology :All devices are connected to one another in the shape of a closed loop, so that each device is connected directly to two other devices, one on either side of it. Ring topologies are relatively expensive and difficult to install, but they offer high bandwidth and can span large distances.
+star  topology: All devices are connected to a central hub. Star networks are relatively easy to install and manage, but bottlenecks can occur because all datamust pass through the hub.
+tree topology: A tree topology combines characteristics of linear bus and star topologies. It consists of groups of star-configured workstations connected to a linear bus backbone cable.
+
+These topologies can also be mixed. For example, a bus-star network consists of a high-bandwidth bus, called the backbone,which connects a collections of slower-bandwidth star segments.
+
+TOPS
+Acronym for transparent operating system, a type of local-area network designed by Sun Microsystems that can combine Apple Macintosh computers, PCs, and Sun workstations on the same network. A particular strength of TOPS is that the networking software is transparent, meaning that users do not need to adjust to a new operating environment. PC users see their PC interface and Mac users see the Mac interface.  TOPS uses the Macintosh computer's built-in AppleTalk protocol. It is a peer-to-peer network, which means that it does not require any computers to be set aside as file servers. Authorized users can access files from any disk drive connected to the network.   
+
+Tor
+An anonymous Internet communication system based on a distributed network. Tor is a toolset for a wide range of organizations and people that want to improve their safety and security on the Internet. Using Tor can help you remain anonymous while Web browsing, instant messaging, using IRC, SSH, or other applications which use the TCP protocol. The Tor network takes a random pathway through several servers that cover your tracks so no observer at any single point can tell where the data came from or where it's going.  Tor also provides a platform on which software developers can build new applications with built-in anonymity, safety and privacy features.  Tor was developed is supported by the Electronic Frontier Foundation.
+
+Toshiba_America_Information_Systems
+Toshiba America Information Systems, Inc. (ALIAS: Toshiba) Toshiba's Digital Products Division (DPD) is a leading vendor for portable computers. Along with the company's award-winning notebook PCs, the company offers portable and  wireless accessories, Pocket PCs and projectors for business customers under the Toshiba brand name. The Digital Products Division is a division of Toshiba America Information Systems (TAIS). TAIS is an independent operating company owned by Toshiba America, Inc., a subsidiary of Toshiba Corp.
+
+TOSLINK
+A proprietary fiber optics signal connection system, commonly used in audio applications. A TOSLINK connector provides a distortion-free connection between a digital source and digital receiver or recorder. TOSLINK is a registered trademark of Toshiba.
+
+TOSsed
+Slang term used to indicate a user who has violated a Web site's TOS, or Terms of Service. Such a user would say they have been "TOSsed".
+
+total_solution
+In business computing a total solution is one that contains all products and services in one delivery that meets a specific function or provides one solution or system to solve multiple problems. For example a computer system with all software and applications preinstalled and the installation of that system on the network would constitute a total solution product. Many  VARs and ASPs offer total solutions to businesses.
+
+total_zoom
+Some digital camera manufactures advertise a camera's zoom capability as a total zoom. When you see a total zoom listing, it is the digital zoom multiplied by the optical zoom. For instance, a camera touting a 20x total zoom could be a digital camera with 4x optical and 5x digital zoom.
+
+touch_screen
+A type of display screen that has a touch-sensitive transparent panel covering the screen. Instead of using a pointing device such as a mouse or light pen, you can use your finger to point directly to objects on the screen.  Although touch screens provide a natural interface for computer novices, they are unsatisfactory for most applications because the finger is such a relatively large object. It is impossible to point accurately to small areas of the screen. In addition, most users find touch screens tiring to the arms after long use.   
+
+touchpad
+A small, touch-sensitive pad used as a pointing device on some portable computers. By moving a finger or other object along the pad, you can move the pointer on the display screen. And you click by tapping the pad.  
+
+touchscreen
+A type of electronic display that senses physical touch by a person’s hands or fingers, or by a device such as a stylus, and then performs actions based on the location of the touch as well as the number of touches.  A touchscreen display is useful for interacting directly with a computer or electronic device, partially or even completely eliminating the need for intermediate input devices such as computer mice, trackpads or keyboards. 
+Touchscreen, or touch screen, support by mobile operating systems like Apple’s iOS have made touchscreens pervasive on smartphones and tablet devices, and they’re also becoming more popular on laptops and even desktop computers.  Microsoft Windows 7 employs Windows Touch, and Windows 8 is expected to be designed from the ground up with touchscreens in mind.  Apple’s Mac OS X has offered touchscreen support for quite some time, and the new Mac OS X Lion release provides enhanced support for multi-touch gestures and animations. 
+
+tower_model
+)Refers to a computer in which the power supply, motherboard, and mass storage devices are stacked on top of each other in a cabinet. This is in contrast to desktop models, in which these components are housed in a more compact box.  The main advantage of tower models is that there are fewer space constraints, which makes installation of additional storage devices easier.
+
+TP_monitor
+Short for transaction processing monitor, a program that monitors a transaction as it passes from one stage in a process to another. The TP monitor's purpose is to ensure that the transaction processes completely or, if an error occurs, to take appropriate actions.  TP monitors are especially important in three-tier architectures that employ load balancing because a transaction may be forwarded to any of several servers. In fact, many TP monitors handle all the load balancing operations, forwarding transactions to different servers based on their availability. 
+
+TPI
+Short for tracks per inch, the density of tracks on a disk. For example, double-density 5.25-inch floppies have a TPI of 48, while high-density floppies record 96 TPI. High-density 3.5-inch diskettes are formatted with 135 TPI. Hard disks have TPIs in the thousands. 
+
+Trusted_Platform_Module
+Trusted Platform Module (TPM) is a hardware device that is basically a secure micro-controller with added cryptographic functionality. It works with supporting software and firmware to prevent unauthorized access to a notebook computer. The TPM contains a hardware engine to perform up to 2048-bit RSA encryption/decryption. The TPM uses its built-in RSA engine during digital signing and key wrapping operations.
+
+TPS
+(1) Short for transactions per second, a measurement used to determine how many transactions have been processed in one second in transaction-oriented systems. (2) Short for Transaction Process System it is a type of information system (IS) that collects, stores, modifies and retrieves transaction of an organization. Here the word transaction is used to mean any event that generates or modifies data stored in the IS. For example batch processing is an example of TPS.
+
+TR_069
+TR-069 CPE WAN Management Protocol (CWMP) was created by the DSL Forum to standardize the Wide Area Network (WAN) management of CWMP. The TR-069 protocol specifically defines a common method for CPE devices to communicate with an Auto Configuration Server (ACS).
+
+trace_cache
+(trās kash) (n.) An instruction cache in a microprocessor that stores dynamic instruction sequences after they have been fetched and executed in order to follow the instructions at subsequent times without needing to return to the regular cache or the memory for the same instruction sequence. An advantage of the trace cache is it reduces the required fetch bandwidth on the processing pipeline.
+
+traceroute
+(trās´rowt) (n.) A utility that traces a packet from your computer to an Internet host, showing how many hops the packet requires to reach the host and how long each hop takes. If you're visiting a Web site and pages are appearing slowly, you can use traceroute to figure out where the longest delays are occurring.  The original traceroute is a UNIX utility, but nearly all platforms have something similar. Windows includes a traceroute utility called tracert. In Windows, you can run tracert by selecting Start->Run, and then entering tracert followed by the domain name of the host. For example:  tracert www.pcwebopedia.com  Traceroute utilities work by sending packets with low time-to-live (TTL) fields. The TTL value specifies how many hops the packet is allowed before it is returned. When a packet can't reach its destination because the TTL value is too low, the last host returns the packet and identifies itself. By sending a series of packets and incrementing the TTL value with each successive packet, traceroute finds out who all the intermediary hosts are.  
+
+track
+)A ring on a disk where data can be written. A typical floppy disk has 80 (double-density) or 160 (high-density) tracks. For hard disks, each platter is divided into tracks, and a single track location that cuts through all platters (and both sides of each platter) is called a cylinder. Hard disks have many thousands of cylinders.  Each track is further divided into a number of sectors. The operating system and disk drive remember where information is stored by noting its track and sector numbers.  The density of tracks (how close together they are) is measured in terms of tracks per inch (TPI). 
+
+track_changes
+In word processing, track changes is an editing command that is commonly used when you create an original document and make changes and want to keep track of the changes that are made to that original document. It is also a useful tool for collaborating on a document, as it allows multiple users to make revisions without losing the context of the original document.  Changes to text and formatting are noted in a number of different ways, depending on the word processing software you use. For example, Microsoft Office Word 2007 uses balloons to display deletions, comments, formatting changes, and content that has moved. You can also choose how tracked changes and comments are displayed, for example in a different font color. In some word processing programs, track changes may also be referred to as  edit mode.
+
+track_density
+Same as TPI. A measurement of how tightly the concentric tracks on a disk are packed.
+
+TrackBack
+TrackBack is a type of peer-to-peer communication system that was designed to send notification of updates between two Web sites via a Trackback Ping. Ping in reference to TrackBack refers to a small message sent from one Web server to another. TrackBacks are useful for informing a Web site that you have referenced its Web site within your own Web site, and is popular with bloggers. TrackBack was first released as an open specification in August 2002.
+
+trackball
+)A pointing device. Essentially, a trackball is a mouse lying on its back. To move the pointer, you rotate the ball with your thumb, your fingers, or the palm of your hand. There are usually one to three buttons next to the ball, which you use just like mouse buttons.  The advantage of trackballs over mice is that the trackball is stationary so it does not require much space to use it. In addition, you can place a trackball on any type of surface, including your lap. For both these reasons, trackballs are popular pointing devices for portable computers. 
+
+trackware
+Any undesirable software program that is able to track a user's system activity or gather system information and provide the data to a third party. Trackware does not gather any personally identifiable information.
+
+tractor_feed
+)A method of feeding paper through a printer. Tractor-feed printers have two sprocketed wheels on either side of the printer that fit into holes in the paper. As the wheels revolve, the paper is pulled through the printer. Tractor feed is also called pin feed.  The other principal form of feeding paper into a printer is friction feed, which utilizes plastic or rubber rollers to squeeze a sheet of paper and pull it through the printer.  Tractor-feed printers require special paper (with holes), whereas friction feed printers can handle most types of cut-sheet paper, including envelopes. Some printers support both types of feeding mechanisms.   
+
+trademark
+A name, symbol, or other device identifying a product, officially registered and legally restricted to the use of the owner or manufacturer. A trademark is used to prevent others from using identical or similar marks. Abbreviated as TM or ��.
+
+traffic
+(traf´ik) (n.) (1) The load on a communications device or system. One of the principal jobs of a system administrator is to monitor traffic levels and take appropriate actions when traffic becomes heavy.
+(2) The measurement of the amount of users that visit a Web site.
+
+traffic_meter
+A router (or Wi-Fi router) feature that will monitor the data consumption (upload and download) of all the devices on your network and notify you when you approach a predefined threshold. A traffic meter is useful if your ISP is enforcing a maximum monthly data transfer allocation (typically this is 250-GB).
+See What is 250 GB? See also "10 Must-Have Features for Your Next Wi-Fi Router" on Practically Networked.com. 
+
+traffic_sources_metrics
+In Web analytics, the study of the impact of a Web site on its users, basic metrics is the term used to refer to the data in analytics programs that will give you an indication of who your site traffic is and where they are visiting from. Traffic sources metrics consists of the following data:  Direct Traffic: all those people showing up to your Web site by typing in the URL of your Web site coming or from a bookmark. Some people also call this "default traffic" or "ambient traffic." Referring URLs: other Web sites sending traffic to you. These could be as a result of your banner ads or campaigns. These could be all those blogs or affiliates who link to you. Search Engines: Google, Yahoo, MSN, Ask, others. This bucket will include both your organic as well as your paid (PPC/SEM) traffic, so be aware of that. Other: These include campaigns you have run, e-mail, direct marketing and so on.  See also "Web Analytics Primer: Five Metrics Demystified" on Ecommerce-Guide.com.
+
+traffic_sources
+In Web analytics, including Google Analytics, traffic sources is a report that provides an overview of the different kinds of sources that send traffic to your Web site, for example direct traffic (clicks from bookmarks or visitors who know your URL) or Web search engines.  The metrics you will find under the general topic of traffic sources in analytics programs are as follows:
+
+
+Direct Traffic: All those people showing up to your Web site by typing in the URL of your Web site or from a bookmark.
+Referring URLs: other Web sites sending traffic to you. These could be as a result of your banner ads or campaigns or blogs or affiliates who link to you.
+Search Engines: Google, Yahoo, Bing, Ask, others. This will include organic and paid traffic.
+Other: These include campaigns you have run, e-mail, direct marketing, etc.
+
+See also Web analytics and basic metrics.
+
+trailer
+In video and film terminology a series of short edited clips of selected scenes that are put together into one montage. Trailers are often used as a way to advertise a video or film.
+
+trainer
+A trainer is an application that intercepts and alters the memory addresses of a game that you have running in the background. Trainers allow gamers access to features similar to cheat codes, but these may not have been programmed into the game by the developer. The trainer will need to run while the game is being played as closing the trainer will disable the cheats.
+
+Transaction_Authority_Markup_Language
+Shortened as XAML. XAML is a vendor-neutral standard developed jointly by Bowstreet, Hewlett-Packard, IBM, Oracle and Sun that is used to coordinate and process online business transactions. Based on XML, XAML uses a set of XML message formats and interaction models that Web services can use to provide business-level transactions that span multiple parties across the Internet.  XAML distinguishes traditional online transaction processing (OLTP), such as making banking transactions online or purchasing a product from a consumer Web site, from business Web transaction processing (BWTP), which involves Web services from multiple organizations on the Internet and must coordinate the low-level operations of commit, cancel, retry, and compensate (undo or reverse) in order to ensure business-level transaction integrity.  The following example illustrates a business-level transaction involving a set of Web services that would utilize XAML: Consider a lumber company that needs to purchase a large quantity of a chemical it uses to treat its lumber before it is sold. In order for the buyer to purchase the chemical, the company requires additional value-added services provided by third parties, such as shipping with specific delivery terms, government compliance for safe transport, payment financing and casualty insurance. The purchase cannot take place until all these services are coordinated and the buyer is satisfied. XAML will allow the different parties involved to process the transactions over the Web.
+
+transaction_processing
+A type of computer processing in which the computer responds immediately to user requests. Each request is considered to be a transaction. Automatic teller machines for banks are an example of transaction processing.
+The opposite of transaction processing is batch processing, in which a batch of requests is stored and then executed all at one time. Transaction processing requires interaction with a user, whereas batch processing can take place without a user being present.
+
+
+transceiver
+Short for transmitter-receiver, a device that both transmits and receives analog or digital signals. The term is used most frequently to describe the component in local-area networks (LANs) that actually applies signals onto the network wire and detects signals passing through the wire. For many LANs, the transceiver is built into the network interface card (NIC). Some types of networks, however, require an external transceiver.  In Ethernet networks, a transceiver is also called a Medium Access Unit (MAU).  In radio communications, a transceiver is a two-way radio that combines both a radio transmitter and a receiver that exchanges information in half-duplex mode.
+
+transcoding
+The process of converting a media file or object from one format to another. Transcoding is often used to convert video formats (i.e., Beta to VHS, VHS to QuickTime, QuickTime to MPEG). But it is also used to fit HTML files and graphics files to the unique constraints of mobile devices and other Web-enabled products. These devices usually have smaller screen sizes, lower memory, and slower bandwidth rates. In this scenario, transcoding is performed by a transcoding proxy server or device, which receives the requested document or file and uses a specified annotation to adapt it to the client.
+
+transducer
+A device that is actuated by energy from one system and supplies energy usually in another form to a second system. For example, a microphone is a transducer that transforms sound energy into electrical signals.
+
+transflective
+(adj.) A type of LCD screen in which the pixels are illuminated from both the front of the monitor��s screen and from behind the screen, combining the illumination characteristics of both transmissive and reflective technologies. Transflective LCDs work under any lighting condition, from complete darkness to bright sunlight.
+
+transistor
+A device composed of semiconductor material that amplifies a signal or opens or closes a circuit. Invented in 1947 at Bell Labs, transistors have become the key ingredient of all digital circuits, including computers. Today's microprocessors contains tens of millions of microscopic transistors.
+Prior to the invention of transistors, digital circuits were composed of vacuum tubes, which had many disadvantages. They were much larger, required more energy, dissipated more heat, and were more prone to failures. It's safe to say that without the invention of transistors, computing as we know it today would not be possible.
+
+
+transmission_media
+Describes the type of physical system used to carry a communication signal from one system to another. Examples of transmission media include twisted-pair cable, coaxial cable, and  fiber optic cable.
+See also media.
+
+
+transmission_path
+Also referred to as a transmission channel, the path between two nodes of a network that a data communication follows. The term can refer to the physical cabling that connects the nodes on a network, the signal that is communicated over the pathway or a subchannel in a carrier frequency.
+
+Transmission_Sequence_Number
+Abbreviated as TSN, a Transmission Sequence Number is a 32-bit sequence number used internally by SCTP (Stream Control Transmission Protocol). A TSN is attached to each unit of information within an SCTP packet (also called a chunk) containing user data to permit the receiving SCTP endpoint to acknowledge its receipt. Also see The OSI Reference Model - Understanding Layers" in the  Did You Know...? section of Webopedia.
+
+transmissive
+(adj.) A type of LCD screen in which the pixels are illuminated from behind the monitor��s screen (opposite of the user). Transmissive LCDs are commonly used in laptop computers because they offer high contrast and deep colors and are well-suited for indoor environments and low-light circumstances. Transmissive LCDs are at a disadvantage in very bright light, such as outdoors in full sunlight, as the screen can be hard to read.  Compare to reflective and transflective.
+
+transparent
+Invisible. In computer  software, an action is transparent if it takes place without any visible effect. Transparency is usually considered to be a good characteristic of a system because it shields the user from the system's complexity. 
+
+transparent_bridge
+Transparent bridges are devices which connects more than one network segments with other bridges to make all  routing decisions. A transparent bridge is essentially used to learn the MAC addresses of all nodes and their associated port, to  filter incoming frames whose destination MAC addresses are located on the same incoming port, and to forward incoming frames to the destination MAC through their associated port@. There are two types of Transparent Bridge Modes:  Store-and-Forward: Stores the entire frame and verifies the CRC before forwarding the frame. If a CRC error is detected, the frame is discarded. Cut-Through: Forwards the frame just after it reads the destination MAC address without performing a CRC check.  Adapted from [CCIE Routing and Switching Exam Certification Guide] 
+
+transponder
+A wireless communications device usually attached to a satellite. A transponder receives and transmits radio signals at a prescribed frequency range. After receiving the signal a transponder will at the same time broadcast the signal at a different frequency. The term is a combination of the words transmitter and responder. Transponders are used in satellite communications and in location, identification and navigation systems.
+
+transport_right
+The right to move, copy, or loan content.
+
+transport_stream
+Abbreviated as TS or MPEG-TS, transport stream is an audio, video and data communications transmission protocol that is specified in MPEG-2 Part 1. The transport stream allows for multiplexing of the digital video and audio, which means the data is combined into a single synchronous transmission bit stream, for transmission over a variety of standard mediums such as DSL, IP, IPv, Ethernet, Cable TV networks, and more. The transport stream is designed to address only the delivery. Storage applications use the program stream.
+
+transportable
+(n.) Also called a luggable, a large portable computer, typically more then 15 pounds.
+
+trapdoor
+Also called a trapdoor. An undocumented way of gaining access to a program, online service or an entire computer system. The backdoor is written by the programmer who creates the code for the program. It is often only known by the programmer. A backdoor is a potential security risk.
+
+Travan
+A magnetic tape technology developed by 3M Corporation that allows for higher data densities. Travan has been standardized by the QIC consortium, and is backward compatible with older QIC standards. This means that Travan tape drives can read and write older QIC tapes a well as the newer high-capacity Travan tapes. The following table shows tape capacities (uncompressed) and QIC compatibilities for the different Travan levels, 1 to 4.  Travan Level Uncompressed StorageQIC compatibility  TR-1400 MBQIC-80-MC  TR-2800 MBQIC-3010-MC  TR-31.6 GBQIC-3020-MC  TR-44 GBQIC-3095-MC      
+
+travel_weight
+The total weight of a notebook computer package that includes the notebook, transformer, carrying case, external drives, cables, full-size battery pack and adapters for connecting accessories -- all devices that are necessary to keep a mobile computing environment functional.  Travel weight is a concern for notebook users who rely on the mobility of their notebook devices. A notebook��s travel weight is different than its system weight, which refers to the weight of just the notebook device and not any of the accessories. Unless the term travel weight is used, one should assume that any quoted weight only refers to the system weight.
+
+tree_structure
+)A type of data structure in which each element is attached to one or more elements directly beneath it. The connections between elements are called branches. Trees are often called inverted trees because they are normally drawn with the root at the top.  The elements at the very bottom of an inverted tree (that is, those that have no elements below them) are called leaves. Inverted trees are the data structures used to represent hierarchical file structures. In this case, the leaves are files and the other elements above the leaves are directories.  A binary  tree is a special type of inverted tree in which each element has only two branches below it.   
+
+tri_gate
+A new transistor technology from Intel that operates in a true three-dimensional fashion, moving electrons across three dimensions rather than the two dimensions of the traditional planar design.  Tri-Gate transistor technology will debut in Intel’s Ivy Bridge family of processors in the first half of 2012 and should help Ivy Bridge and future processors from Intel operate at lower voltage with lower leakage, enabling both improved performance and reduced power consumption.
+Tri-Gate transistors have a vertical "fin" form that conducts channels on all three sides of the structure, with two channels on each side and one on the top.  This enables the transistors to be packed closer together and allows more transistor current to flow when the transistor is on.  The 3D Tri-Gate transistor technology is expected to help enable Moore's Law to continue for at least the next few years.
+
+trial
+(noun) A preliminary competition or test to determine qualifications. (adj.) Attempted or advanced on a provisional or experimental basis. In the software industry, trial software refers to software which consumers can try before they buy. Trial versions of software usually contain all the functionality of the regular version, but can only be used for a limited time.
+
+trick_banner
+A banner ad that attempts to trick people into clicking it, usually by imitating an operating system or software error/action message.
+
+trigger
+(n.) In a DBMS, a trigger is a SQL procedure that initiates an action (i.e., fires an action) when an event (INSERT, DELETE or UPDATE) occurs. Since triggers are event-driven specialized procedures, they are stored in and managed by the DBMS. A trigger cannot be called or executed; the DBMS automatically fires the trigger as a result of a data modification to the associated table. Triggers are used to maintain the referential integrity of data by changing the data in a systematic fashion.
+Each trigger is attached to a single, specified table in the database.
+Triggers can be viewed as similar to stored procedures in that both consist of procedural logic that is stored at the database level. Stored procedures, however, are not event-drive and are not attached to a specific table as triggers are. Stored procedures are explicitly executed by invoking a CALL to the procedure while triggers are implicitly executed. In addition, triggers can also execute stored procedures.
+
+trill
+TRILL is short for Transparent Interconnect of Lots of Links.
+The Transparent Interconnection of Lots of Links (TRILL) is an IETF specification that enables multipathing in the data center. The TRILL protocol provides transparent Layer 2 forwarding using encapsulation with a hop count and IS-IS link state routing.
+Recommended Reading: Understanding The Data Link Layer.
+
+Trillian
+Created by Cerulean Studios and released in 2001, Trillian is a multiheaded IM client that connects users of multiple public IM services such as AIM, Windows Live Messenger, Jabber, Skype and more. If you have friends on different networks, you can use Trillian to manage your various IM accounts. When you log in to Trillian, users on proprietary systems will see you as being online in each of those systems. Trillian uses a color-code system to indicate which service you are receiving messages through. Features of Trillian include Emotiblips, skins and customizable interfaces, plug-ins, and more. There are free and commercial versions of Trillian available.  See "A Quick Reference to Consumer Instant Messaging" in the Quick Reference section of Webopedia. See also "Internet-based Communications" in the Did You Know... section of Webopedia.
+
+Trim
+A feature of the Data Set management command available in the ATA8-ACS-2 specification. The command is used in the operating system used to wipe invalid data blocks on solid-state drives (SSD) which are no longer in use - including data blocks which have been left by deleted files.  Traditionally, flash media could not overwrite existing data as it first would need to first perform a 512KB block erase. Overwriting data on a SSD, required a longer read-modify-write operation which decreased the performance and speed of the SSD. The Trim command enables file system information to be collected by the OS and sends it to the SSD controller, which otherwise would not know it could delete those blocks.  The purpose of Trim is to improve the speed of SSD drives and ultimately boost the drives' overall read and write performance. Both the operating system and  SSD firmware must support Trim. Trim may also be referred to as DisableDeleteNotify, or SSD Optimizer. See also "Solid State Drives Get Faster with TRIM" on EnterpriseStorageForum.Learn more about storage management on Enterprise Storage Forum.
+
+Triple_DES
+Also referred to as 3DES, a mode of the DES encryption algorithm that encrypts data three times. Three 64-bit keys are used, instead of one, for an overall key length of 192 bits (the first encryption is encrypted with second key, and the resulting cipher text is again encrypted with a third key).
+
+Triton
+Refers to the Intel 430 family of Pentium chipsets. The first in family, the 430FX, is called the Triton; the enhanced 430 HX is called Triton 2. The Triton chipset supports the PCI bus and was the first x86 chip to use EDO DRAM. The Triton 2 is one of the fastest Pentium chipsets, with support for multiple CPUs, pipelined burst SRAM cache, memory error checking and correction (ECC), 512 MB of memory, and caching of RAM over 64 MB. The 430VX, a third member of the family, supports USB and uses SDRAM. The VX model is sometimes called Triton-2 or Triton-3.  
+
+Trojan_horse
+A destructive program that masquerades as a benign application. Unlike viruses, Trojan horses do not replicate themselves but they can be just as destructive. One of the most insidious types of Trojan horse is a program that claims to rid your computer of viruses but instead introduces viruses onto your computer.
+The term comes from the a Greek story of the Trojan War, in which the Greeks give a giant wooden horse to their foes, the Trojans, ostensibly as a peace offering. But after the Trojans drag the horse inside their city walls, Greek soldiers sneak out of the horse's hollow belly and open the city gates, allowing their compatriots to pour in and capture Troy.
+Trojan horses are broken down in classification based on how they breach systems and the damage they cause. The seven main types of Trojan horses are:
+
+troll
+(v.) (1) To deliberately post derogatory or inflammatory comments to a community forum, chat room, newsgroup and/or a blog in order to bait other users into responding.  (2) To surf the Internet.  (3) To hang around a chat room reading the posts instead of contributing to the chat.  (n.) One who performs any of the above actions.
+
+TRON
+Acronym for The Real-time Operating system Nucleus. It is a set of interfaces and design guidelines (a set of software design specifications) for creating the computer code that will become the kernel. The TRON interfaces and design guidelines are copyrighted by the TRON Association, but they are available for use by software developers anywhere in the world without charge. Computer architecture based on TRON and the TRON Architecture, is an open architecture that welcomes cloning and interoperability. [Source TRON Web]
+
+troubleshoot
+(trub´&l-shoot´´) (v.) To isolate the source of a problem and fix it, typically through a process of elimination whereby possible sources of the problem are investigated and eliminated beginning with the most obvious or easiest problem to fix.
+Usage Note: In the case of computer systems, the term troubleshoot is usually used when the problem is suspected to be hardware-related. If the problem is known to be in software, the term debug is more commonly used.
+
+
+Tru64
+A UNIX operating system from Compaq.
+
+true_color
+Refers to any graphics  device or software that uses at least 24 bits to represent each dot or pixel. Using 24 bits means that more than 16 million unique colors can be represented. Since humans can only distinguish a few million colors, this is more than enough to accurately represent any color image. Also see The Science of Color in the Did You Know . . . ? section of Webopedia.
+
+TrueFFS
+Short for True Flash File System TrueFFS is a technology patented by msystems (formerly M-Systems) for flash drive management. TrueFFS enables flash products to fully emulate hard disks when connected to the host processor.
+
+TrueType
+An outline font technology developed jointly by Microsoft and Apple. Because TrueType support is built into all Windows and Macintosh operating systems, anyone using these operating systems can create documents using TrueType fonts.  Since being introduced in 1991, TrueType has quickly become the dominant font technology for everyday use, and is even displacing PostScript in many publishing environments. 
+
+truncate
+(v.) To cut off the end of something. Usually, the term is used to describe a type of rounding of floating-point numbers. For example, if there are too few spaces for a long floating-point number, a program may truncate the number by lopping off the decimal digits that do not fit: 3.14126 might be truncated to 3.14. Note that truncation always rounds the number down. If the number 1.19999 is truncated to one decimal digit, it becomes 1.1, not 1.2.  The term also is used to describe the process of shortening data that is gathered in a dynamic field. For example, an electronic form that asks for a person��s name and only allows for 10 characters will cut off any characters after the 10th even though a person��s name may be more than 10 characters.  The term also is used to describe the process of removing bits when data is moved to a storage medium. For example, an MP3 file might be truncated, or made smaller by removing bits of data, when stored on a compact disc.  Other forms: truncately (adv.) and truncation (n.)
+
+trunk
+A communications channel between two points. It usually refers to large-bandwidth telephone channels between switching centers that handle many simultaneous voice and data signals.   A circuit from a user's terminal or PC to a network is more accurately called a line (i.e. T1 line or ISDN line) rather than a trunk, although the terms line, trunk and circuit are often used interchangeably. 
+
+trunking
+In telecommunications it refers to the grouping of connection switches and circuits within a telephone exchange. Trunking is a process that enables the service provider to use fewer circuits because users are sharing connections. See also trunk.
+
+trusty-tahr
+Trusty Tahr is the Ubuntu codename for version 14.04 LTS of the Ubuntu Linux-based operating system.  Officially released in April 2014, Trusty Tahr follows the Saucy Salamander (v13.10) release and serves as a significant update for Ubuntu, featuring improved integration with OpenStack (including Icehouse support), enhancements to the Unity Linux desktop interface, the new Linux 3.13 kernel and more.
+As a long-term support (LTS) release, Trusty Tahr users will receive five years of support from Canonical, the developers of Ubuntu, for the operating system (as opposed to nine months of security updates and support for the non-LTS releases). New Ubuntu LTS releases debut every two years, with the last Ubuntu LTS being the Ubuntu 12.04 Precise Pangolin distribution in April 2012.
+What Exactly Is a Trusty Tahr?
+Trusty is an adjective that refers to someone regarded as reliable or trustworthy, and the Tahr is a horned wild goat found in a number of areas throughout southern Asia.
+
+TruSurround_XT
+TruSurround XT is the second generation of SRS TruSurround. Building upon its patented predecessor, TruSurround XT solves the problem of playing 5.1 or 6.1 multichannel content over two speakers (or headphones).  TruSurround XT accepts input from up to a seven channel (6.1) audio source and processing a two-channel output. When receiving multichannel content, TruSurround XT virtualizes the channels, creating "phantom" speakers that appear to extend all around the listener. When receiving mono or  stereo content, TruSurround XT presents an expansive three dimensional sound field.
+
+truth-table
+A truth table is a logically-based mathematical table that illustrates the possible outcomes of a scenario. The truth table contains the truth values that would occur under the premises of a given scenario. As a result, the table helps visualize whether an argument is logical (true) in the scenario.
+The rows of a basic truth table contain the Boolean logic true or false values, while the columns list the premises of a scenario as well as the conclusion. A simple truth table contains a single scenario and lists the valid statement and its negation.
+How to Create a Truth Table
+The first step in creating a truth table is to determine the number of variables and rows needed for the table and then write down all the possible combinations (typically diagrammed as "p" and "q").
+
+TSAPI
+Short for Telephony Server API, an API developed by Novell and AT&T that enables programmers to build telephony and CTI applications. TSAPI is similar to TAPI, which was developed by Microsoft and Intel. But whereas TAPI has been implemented for the Windows operating system, TSAPI runs on Netware platforms. Another key difference is that TAPI can be used for both client - and server -based applications whereas TSAPI is strictly a server API. 
+
+TSCV
+Freeware video authoring software for creating VCD and SVCDs. It supports chapters, still menus, motion menus and other authoring options.
+
+TSIG
+Short for Transaction Signature, TSIG is a computer networking protocol used by the Domain Name System (DNS) as a way to authenticate updates to a dynamic DNS database. The RFC 2845 specification specifically states that the TSIG protocol allows for transaction level authentication using shared secrets and one way hashing. It can be used to authenticate dynamic updates as coming from an approved client, or to authenticate responses as coming from an approved recursive name server.
+
+TSOP
+Short for Thin Small Outline Package, it's a surface-mount memory packaging from Intel. Features of the TSOP include the following: JEDEC and EIAJ standard dimensions, it's the smallest leaded package form factor for flash, 0.5 mm (19.7 mil) lead pitch, reduced total package height, 1.20 mm maximum, gull wing formed leads, and supports future flash density and feature growth. Intel's TSOP package is offered in 32-lead, 40-lead, 48-lead and 56-lead versions in JEDEC and EIAJ registered standard dimensions. See also Small Outline Package.
+
+TSR
+Abbreviation of terminate and stay resident. Refers to DOS programs that can be memory resident (remaining in memory at all times once they are loaded). Calendars, calculators, spell checkers, thesauruses, and notepads are often set up as TSRs so that you can instantly access them from within another program. TSRs are sometimes called pop-up programs because they can pop up in applications.  When you install a TSR, you define a special key sequence (usually a control character) that will invoke the TSR program. You can then press this hot key from within any application to run the TSR program. Many programs can be installed as a TSR, but TSRs reduce the amount of memory available to other programs. In addition, not all TSRs interact well with each other. You may have difficulties, therefore, if you try to keep too many TSRs in main memory at once.  TSRs are unnecessary with multitasking operating systems such as Windows, OS/2, and the Mac OS.    
+
+TTFF
+Short for Time To First Fix, in GPS systems it means the amount of time required to get a fix on as many satellites as required to determine your position.
+
+TTL
+(1) Short for transistor-transistor logic, a common type of digital circuit in which the output is derived from two transistors. The first semiconductors using TTL were developed by Texas Instruments in 1965. The term is commonly used to describe any system based on digital circuitry, as in TTL monitor.
+(2) Short for Time to Live, a field in the Internet Protocol (IP) that specifies how many more hops a packetcan travel before being discarded or returned.
+(3) Short for through-the-lens it is a name for the LCD screen on a digital camera that shows what is projected onto the sensor by the lens. This is an alternate to using the optical or electronic viewfinder. Also called a TTL viewfinder.
+
+TTL_monitor
+TTL stands for transistor-transistor logic and refers to a special type of digital circuit. More commonly, however, TTL is used to designate any type of digital input or device. A TTL monitor, therefore, is a monitor that accepts digital input. TTL monitors are consistent with older graphics  standards such as MDA, but all newer graphics standards, including VGA, require analog signals. 
+
+TTS
+Text to speech, abbreviated as TTS, is a form of speech synthesis that converts text into spoken voice output. Text to speech systems were first developed to aid the visually impaired by offering a computer-generated spoken voice that would "read" text to the user.
+TTS should not be confused with voice response systems. Voice response systems synthesize speech by concatenating sentences from a database of prerecorded words and are used for different purposes than TTS systems, which form sentences and/or phrases based on a language's graphemes and phonemes. Voice response systems are limited to synthesizing sentences that contain only words that have been predetermined by the system.
+TTS systems, in contrast, are theoretically capable of "reading" any string of text characters to form original sentences.
+
+tuenti
+Tuenti is a social networking platform that is designed to improve communication and information sharing between people who know each other. It is a private platform so you can only register if you've received an invitation from another user. Headquartered in Madrid, Tuenti has grown to become the most trafficked Web site in Spain and is one of the largest invite-only Web sites worldwide.
+
+Tunnel_Broker
+In computer networking terminology, a tunnel broker is the phrase used to describe a service that provides a network tunnel. The Tunnel Broker model is based on dedicated servers   called Tunnel Brokers   that automatically manage tunnel requests coming from users.   The most common usage of the phrase is in reference to IPv6, where a tunnel broker provides IPv6 tunnels to Web sites and users. The Network Working Group defines IPv6 Tunnel Broker in RFC 3053. The IPv6 global Internet uses a lot of tunnels over the existing  IPv4 infrastructure. The tunnels are difficult to configure and maintain and too complex for the isolated end user, so the concept of the tunnel broker was presented to help early IPv6 adopters to hook up to an existing IPv6 network.
+ 
+See tunneling and RFC 3053: IPv6 Tunnel Broker. See also "Understanding IPv6" in the Did You Know...? section of Webopedia.
+
+tunneling
+(tun´&l-ing) (n.) A technology that enables one network to send its data via another network's connections. Tunneling works by encapsulating a network protocol within packets carried by the second network. For example, Microsoft's PPTP technology enables organizations to use the Internet to transmit data across a VPN. It does this by embedding its own network protocol within the TCP/IP packets carried by the Internet.
+Tunneling is also called encapsulation.
+
+
+Tunneling_Virus
+A type of virus that attempts  installation beneath the antivirus program by directly intercepting the interrupt handlers of the operating system to evade detection.
+
+tuple
+In relational database systems, a record. See under record. 
+
+turing
+(1) See Turing test. (2) See Alan Turing. (3) See turing number.
+
+turing_number
+)Abbreviated as TN, turning number is a randomly generated security code, usually a series of digits, displayed as an image that users may need to read and copy into a form field in order to submit or validate a form submission online via a Web browser. Turing numbers are used to ensure there is a human user instead of automated (bot) submissions. Turing numbers are commonly used on  e-commerce Web sites or promotional or contest Web sites anywhere there is a need to avoid automated submissions by bots. [Image: Example of a turing number as it may appear on a Web-based user submission form]
+
+Turing_test
+A test devised by the English mathematician Alan M. Turing to determine whether or not a computer can be said to think like a human brain. In an attempt to cut through the philosophical debate about how to define "thinking," Turing devised a subjective test to answer the question, "Can machines think?" and reasoned that if a computer acts, reacts and interacts like a sentient being, then call it sentient. The test is simple: a human interrogator is isolated and given the task of distinguishing between a human and a computer based on their replies to questions that the interrogator poses. After a series of tests are performed, the interrogator attempts to determine which subject is human and which is an artificial intelligence. The computer's success at thinking can be quantified by its probability of being misidentified as the human subject.
+ 
+
+turnkey
+Refers to a system or software package that has been built, installed or supplied by the manufacturer complete and ready to operate. In the computer industry, the term is used to promote a system that can be easily set up and operated "right out of the box."
+
+turnkey_system
+A computer system that has been customized for a particular application. The term derives from the idea that the end user can just turn a key and the system is ready to go. Turnkey systems include all the hardware and software necessary for the particular application. They are usually developed by OEMs (original equipment manufacturers) who buy a computer from another company and then add software and devices themselves.   
+
+tutorial
+(too-t��r´ē-&l) (n.) An instructional lesson that leads the user through key features and functions of things such as software applications, hardware devices, processes, system designs, and programming languages. The tutorial typically is set up as a series of steps that progress through levels of difficulty and understanding. For this reason, the tutorial is best followed in its logical sequence in order to understand all of the elements of what the user is trying to learn.  The term is used widely on the Internet as there are many Web sites that offer tutorials on everything from HTML coding to overclocking a graphics card. While tutorials can take printed form, the term is more commonly being used to refer to online learning programs.
+
+Tux3
+According to the official Tux3 Web site, it is a write-anywhere, atomic commit, btree-based versioning filesystem. The main purpose of Tux3 is to embody Daniel Phillips's new ideas on storage data versioning. The secondary goal is to provide a more efficient snapshotting and replication method for the Zumastor NAS project, and a tertiary goal is to be better than ZFS.
+
+Twaffic
+Slang term used to mean "Twitter traffic".
+
+TWAIN
+The de facto interface standard for scanners. Nearly all scanners come with a TWAIN driver, which makes them compatible with any TWAIN-supporting software. However, not all scanner software is TWAIN-compatible. 
+
+twalking
+Slang term used to describe someone who is walking while they tweet (a Twitter message) using a mobile device.See "Cool Twitter Tools for Better Tweeting" in the Did You Know...? section of Webopedia.  See also "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+tweak
+To make small changes that fine-tune a piece of software or hardware. Tweaking sometimes refers to changing the values of underlying variables slightly to make the results of a program coincide with desired results. In this case, tweaking is not always a good thing since it undermines the integrity of the program. 
+
+Twebay
+Slang term used to describe selling (or promoting) an eBay item on Twitter.See "Cool Twitter Tools for Better Tweeting" in the Did You Know...? section of Webopedia.  See also "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+tweening
+Short for in-betweening, the process of generating intermediate frames between two images to give the appearance that the first image evolves smoothly into the second image. Tweening is a key process in all types of animation, including computer animation. Sophisticated animation software enables you to identify specific objects in an image and define how they should move and change during the tweening process.
+
+
+Tweeple
+Meaning Twitter people, Tweeple is the name give to those who Twitter (Twitter users). See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+tweet
+Slang term to describe a Twitter update to answer Twitter's "What are you doing?" question. A tweet is basically whatever you type into the Web box to answer that question, using 140 characters or less. People tweet personal messages, random thoughts, links, or anything that fits in the character requirements.
+
+tweetorial
+Slang term used to describe used to describe tutoring or lecturing on or about Twitter. Some industry speakers use the term to describe a live event where a lecture on a Twitter topic is given (e.g., a seminar or event that teaches people how to use Twitter), while others use the term to describe giving a lecture on Twitter. Here the host speaker will use a special designated hash tag so others can follow the lecture on Twitter.
+
+twettiquette
+Short for "Twitter etiquette" it is a slang term used to describe acceptable Twitter behavior. See also "Twitter Dictionary: A guide to help you understand Twitter chatter and slang" in the Quick Reference section of Webopedia.
+
+twewbie
+Slang term used to describe someone new to Twitter.  Twitter newbie.See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+Twidroid
+The name of a full-featured Twitter app designed for use on Android mobile phones. See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+twinaxial_cable
+Abbreviated as twinax, a twinaxial cable is a cable with three conductors. Two conductors are insulated wires in the center of the cable. The other conductor surrounds the first two conductors and they are separated by a layer of insulation. Typically, twinax is used to connect AS/400 computers with its devices.
+
+TWIP
+Short for twentieth of a point , a typographical measurement. 
+
+Twishing
+(twish��ing) (n.) Twishing is the act of sending a message to a Twitter user in an attempt to obtain his or her name and password. The message may instruct the recipient to visit a Web site where he or she is asked to log in. The Web site, however, is bogus and set up only to steal the user's information.   Twishing is a combination of the words Twitter and phishing. The idea is that bait is given out �� the concept behind the term phishing �� to Twitter users with the hopes that while most will ignore the bait, a small percentage will be tricked into revealing their user names and passwords. Twishing may also be seen written in lowercase as twishing. Also see "Beware of Twishing" in the  Did You Know...? section of Webopedia.
+
+twisted_pair_cable
+A type of cable that consists of two independently insulated wires twisted around one another. The use of two wires twisted together helps to reduce crosstalk and electromagnetic induction. While twisted-pair cable is used by older telephone networks and is the least expensive type of local-area network (LAN) cable, most networks contain some twisted-pair cabling at some point along the network. Other types of cables used for LANs include coaxial cables and fiber opticcables.
+
+
+Twitosphere
+An expression used to describe the 'world of  Twitter'.  See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+Twitter
+A free social messaging tool that lets people stay connected through brief text message updates up to 140 characters in length. Twitter is based on you answering the question "What are you doing?" You then post thoughts, observations, and goings-on during the day. Your update is posted on your Twitter profile page through SMS text messaging, the Twitter Web site, instant messaging, RSS, e-mail, or through other social applications and sites, such as Facebook.
+See "Cool Twitter Tools for Better Tweeting" in the Did You Know...? section of Webopedia.  See also "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+Twitter_following
+On the Twitter Web site "following" someone means you will see their tweets (Twitter updates) in your personal timeline. Twitter lets you see who you follow and also who is following you. Followers are people who receive other people's Twitter updates.
+
+Twitter_Sparq
+The name of the first advertising service for Twitter. Sparq provides a self-service interface that lets advertisers quickly set up the ads. The ads appear on the right-hand column on Twitter as Tweet Now. When someone clicks on the link, it automatically populates the tweet box with the advertiser's message. This can include a link, as well as an option for the user to customize or add to the message.   See "Is Sparq the Future of Twitter?" on  InternetNews.com.
+
+Twitter_ific
+Short for "Twitter and terrific" it is a slang term used to describe something terrific you find on Twitter.  See also "Twitter Dictionary: A guide to help you understand Twitter chatter and slang" in the Quick Reference section of Webopedia.
+
+Twitterers
+People who send tweets on the  Twitter service. See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+Twittermaps
+A mash-up that lets Twitter users update their locations on a Google Map and send a  tweet with it. See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+TwitterTroll
+The name of a free online service that searches Twitter in real-time. TwitterTroll can be used to help you find Twitterers with similar interests as yourself. See also "Twitter Dictionary: A guide to help you understand Twitter chatter and slang" in the Quick Reference section of Webopedia.
+
+Twitturly
+The name of an online Web service that tracks Web addresses (URL) that are being tweeted about the most on Twitter.See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+Twittworking
+Short for Twitter networking, Twittworking is a slang term used to describe Twitterers who use Twitter to network.  See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+two_tier_enterprise_resource_planning_erp
+Organizations use two-tier enterprise resource planning (ERP) to run two integrated ERP systems simultaneously. One system, the legacy application, also called the the Tier-1 system, is typically deployed at the corporate level and the other is managed at the subsidiary level. Two-tier ERP software is often used by large corporations with multiple sites or by an organization that's based in multiple geographic locations.
+Recommended Reading: Webopedia's enterprise resource planning (ERP) definition.
+The Benefits of Two-Tier ERP
+Two-tier ERP enables an organization to optimize regional back office processes at a site that operates under a business model that is separate from the main company. At some locations the ERP requires special considerations — including translations or regionalized business models — and organizations my look to maintain a legacy ERP at headquarters with two-tier ERP solutions to support specific needs at the subsidiary level that fully integrates with the corporate system.
+
+
+two_phase_commit
+A feature of transaction processing systems that enables databases to be returned to the pre-transaction state if some error condition occurs. A single transaction can update many different databases. The two-phase commit strategy is designed to ensure that either all the databases are updated or none of them, so that the databases remain synchronized.
+Database changes required by a transaction are initially stored temporarily by each database. The transaction monitor then issues a "pre-commit" command to each database which requires an acknowledgment. If the monitor receives the appropriate response from each database, the monitor issues the "commit" command, which causes all databases to simultaneously make the transaction changes permanent.
+ 
+
+two_tier
+Refers to client/server architectures in which the user interface runs on the client and the database is stored on the server. The actual application logic can run on either the client or the server. A newer client/server architecture, called a three-tier architecture introduces a middle tier for the application logic. 
+
+Tymnet
+One of the largest public data networks (PDNs) in the United States. Tymnet is owned by MCI. A competing network, called Telenet, is owned by U.S. Sprint Communications Corporation.   
+
+type
+(1) v. To enter characters by pressing keys on the keyboard.  (2) n. In DOS, OS/2, and many other operating systems, the TYPE command causes a fileto appear on the display screen.  (3) Short for data type. 
+
+type_safe
+(adj.) Code that accesses only the memory locations it is authorized to access, and only in well-defined, allowable ways. Type-safe code cannot perform an operation on an object that is invalid for that object. The C# and VB.NET language compilers always produce type-safe code, which is verified to be type-safe during JIT compilation.
+
+typeface
+)A design for a set of characters. Popular typefaces include Times Roman, Helvetica, and Courier. The typeface represents one aspect of a font. The font also includes such characteristics as size, weight, italics, and so on.
+There are two general categories of typefaces: serif and sans serif. Sans serif typefaces are composed of simple lines, whereas serif typefaces use small decorative marks to embellish characters and make them easier to read. Helvetica is a sans serif type and Times Roman is a serif type.
+
+
+typosquatting
+(tī´pō-skwot´´ting) slang. Purchasing a domain name that is a variation on a popular domain name with the expectation that the site will get traffic off of the original sight because of a user's misspelling of the name. For example, registering the domain names webapedia.com or yahooo.com in the hopes that someone making a typo will get to that site unexpectedly.  Also see cybersquatting.
+

@@ -1,0 +1,183 @@
+Q_931
+
+Q.931 is an ISDN connection control protocol, roughly comparable to TCP in the Internet protocol stack. Q.931 doesn't provide flow control or perform retransmission, because the underlying layers are assumed to be reliable and the circuit-oriented nature of ISDN allocates bandwidth in fixed increments of 64 kbps. Q.931 does manage connection setup and breakdown. In H.323 scenario, this protocol is encapsulated in TCP and sent to port 1720.
+
+QBASIC
+
+An interpreter for the BASIC programming language provided by Microsoft with the DOS and Windows 95 operating systems. The QBASIC interpreter supports many of the more sophisticated features of the BASIC language and replaces GW-BASIC. 
+
+QCIF
+
+Short for Quarter Common Intermediate Format, a videoconferencing format that specifies data rates of 30 frames per second (fps), with each frame containing 144 lines and 176 pixels per line. This is one fourth the resolution of Full CIF. QCIF support is required by the ITU H.261 videoconferencing standard. 
+
+qi-wireless-charging
+
+Qi is a wireless charging technology used to wirelessly power electronic devices such as smartphones, tablets and wearable computing products. Qi, which is pronounced like "chee" and is taken from the Chinese word for "natural energy," was created by the Wireless Power Consortium in 2009.
+The consortium itself formed in 2008 as electronics and mobile device manufacturers like Sony, Samsung, LG, Motorola and HTC partnered to create a standard that would utilize electromagnetic induction principles to power devices without the need for wires.
+Qi's Competition in the Wireless Charging Market
+The Wireless Power Consortium's resulting Qi standard has emerged as the frontrunner in the battle for wireless charging market share against competing technologies such as the Power Matters Alliance's PowerMat and the Alliance for Wireless Power's (A4WP) Rezence.
+
+QIC
+
+Abbreviation for quarter-inch cartridge, pronounced quick, a standard for magnetic tape drives. QIC tapes are among the most popular tapes used for backing up personal computers. QIC tapes are divided into two general classes: full-size (also called data-cartridge) and minicartridge.  The QIC-40 and QIC-80 standards are sometimes referred to as floppy tape standards because they are designed to use a personal computer's existing floppy disk drive controller instead of requiring a customized controller.  The newest set of QIC standards are based on the Travan technology developed by 3M.  The various QIC standards are controlled by a consortium of manufacturers called the Quarter-Inch Cartridge Drive Standards, Inc. The term QIC, therefore, is used to refer both to the type of tape and to the standards-producing organization. 
+
+QoE
+
+Short for Quality of Experience in telecommunications terminology, it is a measurement used to determine how well that network is satisfying the end user's requirements. In contrast to Quality of Service (QoS) a measurement of network operating conditions such as noise, crosstalk, or lost or dropped packets, in telecommunications terminology, QoE takes into consideration the end-to-end connection and applications that are currently running over that network connection and how multimedia elements such as Internet video or IPTV networks are satisfying or meeting the end user's requirements.   The relationship between a performance-based QoS parameter (such as packet loss) has a resulting effect on the end user's QoE since a high network performance is required to meet QoE objectives.  See Quality of Service (QoS). See also "Healthy VoIP Nets are Part of the VOIP Quality of Experience" on Enterprise VoIP Planet. Also see "VoIP and the Small Business" in the "Did You Know..." section of Webopedia. Also see "Internet Telephony" in the Quick Reference section of Webopedia.
+
+QoS
+
+Short for Quality of Service, a networking term that specifies a guaranteed throughput level. One of the biggest advantages of ATM over competing technologies such as Frame Relay and Fast Ethernet, is that it supports QoS levels. This allows ATM providers to guarantee to their customers that end-to-end latency will not exceed a specified level. 
+
+QR_Code
+
+Short for quick response code, a QR  code is a type of  two-dimensional (2D) barcode that can be read using a QR barcode reader or  camera-enabled smartphone with QR reader software. A QR code is able to carry information in both the  vertical and the horizontal direction, which is why it is called a 2D barcode. The QR Code is a registered trademark of Denso Wave Inc. in Japan and other countries. QR Codes are popular with mobile phone users as the  barcode can be used to store addresses and URLs. With a camera-enabled  smartphone, users can scan the QR Code which has been coded to do things like  display text, provide contact data or even open a webpage in the browser on the  smartphone. The QR Code specification outlines data types, or services for this  information. By using the standards it ensures QR Code software can correctly  read the barcode. Some examples include:
+ 
+
+
+URL: (HTTP) encode the text of URL in the barcode
+Email address: (MAILTO) encode an e-mail address using the mailto  	URI 
+Telephone numbers: (TEL) encode a telephone number with digits  	understood as a telephone number
+SMS: (SMS) encode an SMS shortcode or number by creating an SMS URI. 
+
+ 
+
+QSIG
+
+Short for [Q (point of the ISDN model) Signaling]. QSIG is a common channel signaling protocol based on ISDN Q.931 standards and used by many digital PBXs. QSIG is used for the establishment and release of calls and for the control of a large number of features.
+
+QT_Mutator
+
+Short for QuickTime Mutator, QT Mutator is a Macintosh software application used in viseo editing to sync video and audio in Quicktime movies.
+
+quad_core
+
+A type of multi-core technology that includes two separate dual-core dies, where dual-core means a CPU that includes two complete execution cores per physical processor, installed together in one CPU package. In this set-up cores 1 and 2 would share a memory cache, as would cores 3 and 4. If core 1 or 2 needs to communicate with 3 or 4, it is an external communication, usually via the frontside bus.  Both Intel and AMD have introduced quad-core processors, starting with Intel in late 2006.
+See dual-core. Also see "All About Dual-Core Processors" in the "Did You Know..." section of Webopedia.
+
+
+quad_speed_CD_ROM_drive
+
+A CD-ROM drive designed to run four times as fast as original models. Often denoted as 4X CD players, they provide data transfer rates of 600K per second and data access times as low as 125 milliseconds (ms). 
+
+quadraphonic_sound
+
+Quadraphonic sound uses four channels to output sound; right front, left front, right rear, and left rear. The goal of a quadraphonic sound system is to reproduce sounds in both the front and back of the listener, which simulates 360-degree sound. Quadraphonic sound became the more common and popular choice in the late 1950s to early 1960s versus Four Channel Discrete which was also available during that time.
+
+quality_backlink
+
+In search engine optimization (SEO) terminology, a  quality backlink is a backlink that links to your Web site using your  keywords or keyword phrase, and also appears on a Web site that has the same theme or similar content topic as your own Web site. See also backlink.
+
+quantal_quetzal
+
+Quantal Quetzal is the Ubuntu codename for version 12.10 of the Ubuntu Linux-based operating system.  Officially released in October 2012, Quantal Quetzal follows the Precise Pangolin (v12.04) release and serves as a major update for Ubuntu, featuring the latest Linux kernel, 3.5, Python 3.2.3 and LibreOffice 3.6, as well as significant improvements for OpenStack (including Folsom support), Juju, Metal-as-a-Service (MaaS) support and various other enterprise-focused features.  
+Quantal is an adjective that means pertaining to quantum mechanics, and the Quetzal is a South American bird with golden-green and scarlet plumage.  The Quetzal is also the national bird of Guatemala.The Quantal Quetzal release of Ubuntu Linux is expected to be succeeded by Raring Ringtail (Ubuntu v13.04) in April 2013.
+
+quantization
+
+The process of converting, or digitizing, the almost infinitely variable amplitude of an analog waveform to one of a finite series of discrete levels. In video compression, quantization is a process that attempts to determine what information can be discarded safely without a significant loss in visual fidelity. The quantization process is inherently lossy because of the many-to-one mapping process. [Source: Xilinx Web site]
+
+quantize
+
+A lossless  encoding process where a value or range of values is converted into smaller values or ranges by using integer division. The values are converted back by multiplying. However, when converting back the values may be close to the original but not exactly the same.
+
+quantize_matrix
+
+The 8x8 blocks of numbers used by the encoder to perform the best optimization for the appropriate video format. Quantization matrices are used to decide how accurately the frequencies present in the image need to be represented. Lower frequencies use lower quantization and produce a higher accuracy. See also DCT.
+
+quantum_computing
+
+First proposed in the 1970s, quantum computing relies on quantum physics by taking advantage of certain quantum physics properties of atoms or nuclei that allow them to work together as quantum bits, or qubits, to be the computer's processor and memory. By interacting with each other while being isolated from the external environment, qubits can perform certain calculations exponentially faster than conventional computers.   Qubits do not rely on the traditional binary nature of computing. While traditional computers encode information into bits using binary numbers, either a 0 or 1, and can only do calculations on one set of numbers at once, quantum computers encode information as a series of quantum-mechanical states such as spin directions of electrons or polarization orientations of a photon that might represent a 1 or a 0, might represent a combination of the two or might represent a number expressing that the state of the qubit is somewhere between 1 and 0, or a superposition of many different numbers at once. A quantum computer can do an arbitrary reversible classical computation on all the numbers simultaneously, which a binary system cannot do, and also has some ability to produce interference between various different numbers. By doing a computation on many different numbers at once, then interfering the results to get a single answer, a quantum computer has the potential to be much more powerful than a classical computer of the same size. In using only a single processing unit, a quantum computer can naturally perform myriad operations in parallel.   Quantum computing is not well suited for tasks such as word processing and email, but it is ideal for tasks such as cryptography and modeling and indexing very large databases. 
+
+quantum_dot
+
+A nano-scale crystalline structure made from cadmium selenide that absorbs white light and then reemits it a couple of nanoseconds later in a specific color. The quantum dot has been around since the 1980s when scientists were looking into the technology as a way to build nano-scale computing applications where light is used to process information. More recently, however, the technology is being used in medicine. The crystals are one ten-millionth of an inch in size and can be dissolved in water. When illuminated, they act as molecule-sized LEDs and can be used as probes to track antibodies, viruses, proteins, or DNA within the human body.
+
+quarantine
+
+To move an infected file, such as a virus, into an area where it cannot cause more harm. Antivirus softwares come with quarantine options so that the user also can keep track of virus activity. 
+
+qubit
+
+A quantum bit. The smallest unit of information in quantum computing. Qubits hold an exponentially larger amount of information than traditional bits. 
+
+query
+
+(n.) A query is a request for information from a database. There are three general methods for posing queries:
+
+Choosing parameters from a menu: In this method, the database system presents a list of parameters from which you can choose. This is perhaps the easiest way to pose a query because the menus guide you, but it is also the least flexible.
+Query by example (QBE): In this method, the system presents a blank record and lets you specify the fields and values that define the query.
+Query language: Many database systems require you to make requests for information in the form of a stylized query that must be written in a special query language. This is the most complex method because it forces you to learn a specialized language, but it is also the most powerful.
+
+(v.) To make a request for information from a database.
+
+query_application
+
+Short for Web clipping application, an application that allows users to extract static information from a Web server and load the data onto a Web-enabled PDA. The display screens of PDAs are too small to adequately display Web pages the same way they are seen on PC screens, and wireless modems are slower than wired modems (with bandwidth of 8 Kbps, compared to the 14 Kbps bandwidth of wired modems from the early days of the Internet). WCAs, a technology pioneered by Palm for its Palm VII handheld device, help to solve these problems by reducing the amount of content that a PDA extracts from the Web, essentially optimizing page layouts, graphics and content for the smaller screens and slower transfer speeds of PDAs.  The WCA extracts static information from a Web server and stores that data on the PDA for easy accessibility. Links within the WCA either refer to other pages that are stored within the application or refer to dynamic documents or scripts (such as stock quotes or weather reports) that reside on a Web server. If the link exists outside of the WCA, then a wireless HTTP request is necessary in order to retrieve the data.  WCAs are also called query applications.
+
+query_by_example
+
+In database management systems, query by example (QBE) refers to a method of forming queries in which the database program displays a blank record with a space for each field. You can then enter conditions for each field that you want to be included in the query. For example, if you wanted to find all records where the AGE field is greater than 65, you would enter >65 in the AGE field blank.
+QBE systems are considered easier to learn than formal query languages.
+ 
+
+query_language
+
+A specialized language for requesting information from a database. For example, the query  SELECT ALL WHERE age > 30 AND name = "Smith"  requests all records in which the name-field is "Smith" and the Age field has a value greater than 30. The de facto standard for query languages is SQL.   
+
+query_string
+
+The portion of a dynamic URL that contains the search parameters when a dynamic Web site is searched. Query strings do not exist until a user plugs the variables into a database search, at which point the search engine will create the dynamic URL with the query string based on the results. Query strings typically contain ? and % characters. The following URL is an example of a dynamic URL with a query string as the result of a search in the Webopedia database for the term "query string." The portion of the URL in bold is the query string: http://search.internet.com/www.webopedia.com?IC_QueryText="query%20string"&IC_QueryDatabase=www.webopedia.com.
+
+queue
+
+(v.) To line up. In computer science, queuing refers to lining up jobs for a computer or device. For example, if you want to print a number of documents, the operating system (or a special print spooler) queues the documents by placing them in a special area called a print buffer or print queue. The printer then pulls the documents off the queue one at a time. Another term for this is print spooling .
+The order in which a system executes jobs on a queue depends on the priority system being used. Most commonly, jobs are executed in the same order that they were placed on the queue, but in some schemes certain jobs are given higher priority.
+(n.) (1)A group of jobs waiting to be executed.
+
+QuickDraw
+
+The underlying graphics display system for Apple Macintosh computers. The QuickDraw system enables programs to create and manipulate graphical objects. Because all Macintosh programs use QuickDraw, they all share a common look.  There are several versions of QuickDraw that offer different color capabilities and other features. The newest, called QuickDraw GX, supports 16.7 million colors.  QuickDraw is currently used primarily for displaying images on monitors, but some printers use it as well. 
+
+Quicktag
+
+On WordPress blogs and other user-generated content (UGC) sites, a Quicktag is a on-click button that inserts HTML in to your post. For example the "b" Quicktag will insert the HTML bold tags  . Quicktag may also be seen written as  Quick Tag.
+
+QuickTime
+
+A video and animation system developed by Apple Computer. QuickTime is built into the Macintosh operating system and is used by most Mac applications that include video or animation. PCs can also run files in QuickTime format, but they require a special QuickTime driver. QuickTime supports most encoding formats, including Cinepak, JPEG, and MPEG. QuickTime is competing with a number of other standards, including AVI and ActiveMovie.  In February 1998, the ISO standards body gave Quicktime a boost by deciding to use it as the basis for the new MPEG-4 standard. 
+
+QuickTime_VR
+
+An enhanced version of the QuickTime standard developed by Apple for displaying multimedia content (animation, audio, and video) on computers. This enhanced version adds the ability to display and rotate objects in three dimensions. A QuickTime VR plug-in is available for most Web browsers.  You prepare visual material for QuickTime VR from computer-generated 3D artwork or from a series of photographs. To use photographs, an object must be photographed from various angles. The QuickTime viewer is able to stitch the photos together in a realistic way as you move about outside an object or inside a space.  
+
+quiesce
+
+(1) To temporarily render inactive. This refers to many areas in computing such as hardware (to quiesce a device). The time taken to render the device inactive is called the quiesce time. The term quiesce is applied outside of hardware and device suspension and it can refer to a voluntary inactivation of an entire computer system, an e-mail or forum discussion thread or an application.  (2) In all caps, QUIESCE is the command line. Quiesce is a database function similar to restricted or admin mode. In quiesced mode, it allows database administrators to perform maintenance tasks in an exclusive or controlled mode.
+
+quit
+
+To exit a program in an orderly way. Compare with abort, which exits a program in an unorderly fashion.   
+
+QVGA
+
+Short for Quarter Video Graphics Array, and more commonly abbreviated as Quarter VGA, QVGA is the term used to describe computer displays that use 320x240 resolution (320 pixels horizontally by 240 pixels vertically) or 240x320 resolution if the display is taller than wide. This display is commonly used in  smartphones, digital cameras, PDAs and other handheld computing devices. LCDdisplays using the QVGA specification will have full-color viewing capabilities, and some QVGA displays may also offer touch screen compatibility.
+See also VGA.
+
+
+QVL
+
+Short for Qualified Vendor List, QVL is a list of pre-qualified vendors who have third-party products or services that a manufacturer has approved as suitable and compatible with their own products or services. For example, a motherboard manufacturer will often provided users with a system memory QVL that indicates which vendors and memory part numbers work with that specific motherboard.
+
+QWERTY_keyboard
+
+(Pronounced kwer-tee). QWERTY refers to the arrangement of keys on a standard English computer keyboard or typewriter. The name derives from the first six characters on the top alphabetic line of the keyboard.
+Arrangement of Characters
+The arrangement of characters on a QWERTY keyboard was designed in 1868 by Christopher Sholes, the inventor of the typewriter. According to popular myth, Sholes arranged the keys in their odd fashion to prevent jamming on mechanical typewriters by separating commonly used letter combinations. However, there is no evidence to supportthis assertion, except that the arrangement does, in fact, inhibit fast typing.
+New Keyboards
+With the emergence of ball-head electric typewriters and computer keyboards, on which jamming is not an issue, new keyboards designed for speed typing have been invented. The best-known is called a Dvorak keyboard. Despite their more rational designs, these new keyboards have not received wide acceptance. The AZERTY keyboard is the French version of the standard QWERTY keyboard.
+
+QXGA
+
+Short for Quantum Extended Graphics Array, a display specification that is capable of supporting 2048 x 1536 resolution, or approximately 3.2 million pixels.  Also see XGA, SXGA and UXGA.
+

@@ -1,0 +1,658 @@
+pam_limits_module
+
+A Linux admin tool used to set hard and soft limits for users. The pam_limits sets parameters on system resources on a per-user (or per-group) basis. Using these tools, you can limit everything; from the maximum number of files a user can have open to the amount of CPU time.
+
+U_NII
+
+Short for Unlicensed National Information Infrastructure. Designated to provide short-range, high-speed wireless networking communication at low cost, U-NII consists of three frequency bands of 100 MHz each in the 5 GHz band: 5.15-5.25GHz (for indoor use only), 5.25-5.35 GHz and 5.725-5.825GHz. The three frequency bands were set aside by the FCC in 1997 initially to help schools connect to the Internet without the need for hard wiring.  U-NII devices do not require licensing.
+
+U3_smart_drive
+
+U3 is a software solution that turns USB Flash drives into smart drives. Flash drives that meet the U3 specification are called U3 smart drives.
+
+UAC
+
+Abbreviated as UAC. In Windows Vista, User Account Control is a feature that was designed to prevent unauthorized changes to your computer. When functions that could potentially affect your computer's operation are made, UAC will prompt for permission or an administrator's password before continuing with the task. There are four different alert messages associated with User Account Control:  Windows needs your permission to continue A program needs your permission to continue An unidentified program wants access to your computer This program has been blocked 
+
+UART
+
+Pronounced u-art, and short for universal asynchronous receiver-transmitter, the UART is a computer component that handles asynchronous serial communication. Every computer contains a UART to manage the serial ports, and some internal modems have their own UART.  As modems have become increasingly fast, the UART has come under greater scrutiny as the cause of transmission bottlenecks. If you are purchasing a fast external modem, make sure that the computer's UART can handle the modem's maximum transmission rate. The newer 16550 UART contains a 16-byte buffer, enabling it to support higher transmission rates than the older 8250 UART.   
+
+UAS
+
+Short for user-agent server. In VoIP, a server application in an SIP system that accepts the requests from a UAC and generates an accept, reject or redirect response on behalf of the user. The combination of the UAC and the UAS is called the SIP user agent. The SIP user agent allows peer-to-peer calls to be made using a client-server protocol.
+
+UAT
+
+Short for user acceptance testing, typically the final phase in a software development process in which the software is given to the intended audience to be tested for functionality. UAT is either done by making the software available for a free trial, typically over the Internet, or by using an in-house testing panel comprised of users who would be using the product in real-world applications. UAT is done in order to get feedback from users to make any final adjustments to the programming before releasing the product to the general public.
+UAT also is called beta testing, end-user testing or application testing.
+
+UBB
+
+Short for Ultimate Bulletin Board, it is a popular Web based bulletin board system (a type of Internet-based discussion forum). Internet users who post and use forums based on UBB often see the message "You may use UBB code in your post". UBB code is a simple variation on the common HTML tags that allow you to add formatting (font & style) hyperlinks, or images to your message post .  Example of HTML code, compared with UBB Code: (no spaces required in actual code):   HTML URL hyperlink tag: < a href="http://www.webopedia.com" >http://www.webopedia.com < /a >   UBB URL hyperlink tag: [ url ] http://www.webopedia.com [ /url ]  
+
+UBE
+
+Short for unsolicited bulk e-mail (spam).See also spam.
+
+Uberveillance
+
+A slang term used to describe an above and beyond, an exaggerated, an omnipresent 24/7 electronic surveillance. Not only does the term suggest a surveillance that is always on but also surveillance that is always with you, referring to a surveillance technology that is embedded within the human body (e.g. Big Brother on the inside, looking out). May also be seen written as  ��berveillance.
+
+Ubiquity
+
+A piece of mash-up software by Mozilla Foundation that can be used to paste data from multiple sources together in a Web page or e-mail. The page or e-mail has live content embedded into it, rather than external links. For example, a person could use Ubiquity could contain a Google maps entry showing off a local restaurant for a meeting, and then pasting in reviews from Yelp.com, the user reviews site.  See "Mozilla's Ubquity Mash-up: For The Masses?" on internetnews.com
+
+UBR
+
+Short for unspecified bit rate, or Class D quality of service, an ATM bandwidth-allocation service that does not guarantee any throughput levels and uses only available bandwidth. UBR is often used when transmitting data that can tolerate delays.  Compare with ABR, CBR and VBR.
+
+Ubuntu
+
+A community-developed Linux-based operating system that can be used on desktops, laptops and servers. The operating system includes a variety of applications including those for word processing, e-mail applications, Web server software and also programming tools. Ubuntu is free of charge, including enterprise releases and security updates. It also comes with full commercial support from Canonical. Ubuntu is available in both a desktop and server edition. See "Technology Terms to Know for 2009" in the Did You Know...? section of Webopedia.
+
+Ubuntu_Certified_Professional
+
+The Ubuntu Certified Professional (also called Ubuntu  Professional) is a training certification based on LPI level 1. The  certification tests the candidate's ability to: Configure a network of Ubuntu  systems, understand security and package management fundamentals, and perform  key maintenance tasks. The course covers key Linux fundamentals and is suitable  for those with a Microsoft systems administration background.To earn the  Ubuntu Professional Certification, candidates are required to have a good  overall knowledge of IT and systems administration of other operating systems  and at least six months' relevant work experience. Qualification is based on a  five day course will provide participants with the skills they need to deploy  and configure Ubuntu within the office. It introduces participants to the basic  skills required of Ubuntu systems administrators.
+See also the  list  of Computer Certifications in Webopedia's  Quick Reference section.
+
+ubuntu_codenames
+
+Ubuntu utilizes two-word codenames in the development of future releases of the Linux-based operating system. While the official Ubuntu releases carry a version number in the form of X.YY, with the "X" representing the year and the "YY" signifying the month of the official release, the Ubuntu codenames use an "adjective animal" combination, or an adjective word followed by the name of an animal, typically one that's unique or not all that well known. 
+The Ubuntu codenames are always alliterations, and they have generally ascended in alphabetical order with each successive release, although not always with the next letter in the alphabet used. The quirky codename game started with development of the v4.10 release of Ubuntu in 2004 under the codename of Warty Warthog. Hoary Hedgehog (v5.04) followed in April 2005, Breezy Badger (v5.10) in October 2005 and Dapper Drake (v6.06) in June 2006.
+Dapper Drake started the process of new Ubuntu codenames ascending in alphabetical order. Since Dapper Drake, Ubuntu codenames have been Edgy Eft (v6.10), Feisty Fawn (v7.04), Gutsy Gibbon (v7.10), Hardy Heron (v8.04), Intrepid Ibex (v8.10), Jaunty Jackalope (v9.04), Karmic Koala (v9.10), Lucid Lynx (v10.04), Maverick Meerkat (v10.10), Natty Narwhal (v11.04), Oneiric Ocelot (v11.10), Precise Pangolin (v12.04), Quantal Quetzal (v12.10), Raring Ringtail (v13.04), Saucy Salamander (v13.10), Trusty Tahr (v14.04), Utopic Unicorn (v14.10), Vivid Vervet (v15.04) and Wily Werewolf (v15.10).
+
+ubuntu_kylin_linux_ubuntuKylin
+
+Kylin is an open source operating system, based on FreeBSD, and developed by academics at the National University of Defense Technology in the People's Republic of China. It was first released in 2007 and intended to be used by the Chinese military and government organizations.
+A New Kylin Release Using Ubuntu
+In 2013, Canonical partnered with an agency within the Chinese Ministry of Industry and Information Technology (MII) and announced that a new Linux-based operating system with the same name would be released using Ubuntu.
+According to this article on ServerWatch, the new version will be called Ubuntu Kylin ("UbuntuKylin"). Among the China-specific features that Ubuntu Kylin will include are language localization as well as Chinese input methods and calendars. Ubuntu Kylin is also expected to eventually support integration with Chinese web services such as Baidu and Taobao.
+
+ubuntu_lts
+
+Ubuntu LTS, which stands for Ubuntu "Long Term Support," is a stable version of the Ubuntu Linux-based operating system that is largely targeted toward enterprise-grade server environments.  Ubuntu LTS updates are supported by Canonical, the developers of Ubuntu, for five years, as opposed to nine months of support for the non-LTS Ubuntu updates. Ubuntu LTS editions are only released every two years, whereas the non-LTS editions are released every six months.
+Ubuntu 14.04 "Trusty Tahr," is the most recent Ubuntu LTS release. Trusty Tahr became generally available in April 2014.
+
+ubuntu_one
+
+A personal cloud storage service from Canonical, the commercial team responsible for the Ubuntu Linux-based operating system.  Ubuntu One isn't limited to use on just the Ubuntu OS; rather, it's a free suite of cloud services that provides users with online cloud storage, syncing, sharing and streaming capabilities for managing personal data across numerous devices operating on a variety of operating systems. 
+In addition to supporting Ubuntu, Ubuntu One is accessible from Windows and Mac OS X computers, and mobile apps are currently available for using Ubuntu One on Android devices and Apple iOS-powered devices like the iPad and iPhone. Ubuntu One offers syncing and up to 5 GB of storage in the cloud for free, with paid plans available for additional storage as well as music streaming.  Ubuntu One paid plans are available for $2.99 per month per 20 GB of online storage.
+
+ubuntu_phone
+
+Developed by Canonical (Ubuntu's parent company), a Ubuntu phone refers to a modified version of the Ubuntu operating system (OS) that is designed to run on mobile devices.
+The Ubuntu phone OS offers a number of key interface features, including Edge Magic, which  enables users to find content and switch between apps quickly via thumb gesture support from all four edges of the screen, support for both native and Web or HTML5 apps, and a global search for apps, content and products.
+According to Canonical, Ubuntu is aimed at two core mobile segments: the high-end super phone and the entry-level basic smartphone. Canonical believes that the Ubuntu Phone OS can help cellular operators grow the use of data amongst consumers who typically use only the phone and messaging but who might be inclined to embrace the use of web and email on their Ubuntu phone.
+
+Ubuntu_Server_Edition
+
+Using Debian as a foundation, the Ubuntu Server Edition, also called  Ubuntu server, offers support for several common configurations, and also simplifies common Linux server deployment processes. Standard Internet services such as  e-mail, Web, DNS, file serving and database management can be integrated.
+
+ubuntu_tv
+
+A nascent Smart TV project from Canonical, the commercial team responsible for the Ubuntu Linux-based operating system. Ubuntu TV is designed to harness the power of Ubuntu in integrating broadcast TV, time shift / PVR capabilities, online box office movies, cloud storage of multimedia content, apps and streaming media without the need for wires, connectors or additional set-top boxes.
+While Ubuntu TV is built into the TV itself, its power and capabilities are also designed to extend beyond the TV to personal computers and laptops as well as Android-powered and iOS-powered mobile devices. Ubuntu TV also utilizes the company's Ubuntu One personal cloud storage service to facilitate sharing media content among the user's entertainment devices.
+Ubuntu TV is primarily a proof-in-concept project at this point, with support from television manufacturers and content providers expected to ramp up over the next couple of years.
+
+ubuntu_variants
+
+The Ubuntu Linux-based operating system (OS) has spawned a number of official and non-official variants that generally differ from the main Ubuntu release in one or two small, but very specific, ways.  Some of the more prominent Ubuntu variants include
+
+
+Kubuntu: Ubuntu with KDE as the graphical desktop instead of Gnome
+Macbuntu: Ubuntu with a Mac OS X-inspired desktop shell
+Lubuntu: Ubuntu with the LXDE desktop instead of Gnome
+Xubuntu: Ubuntu with the Xfce desktop instead of Gnome
+Mythbuntu: a Xubuntu-based, Xfce4 desktop OS variant with MythTV installed
+Edubuntu: an education-focused variant of Ubuntu
+Ubuntu Studio: a multimedia-focused variant of Ubuntu
+Gobuntu: an Ubuntu base previously developed for other free software platforms but no longer in development
+
+There are also a number of Ubuntu variants customized and optimized for specific languages and regions, including:
+
+
+Runtu: an Ubuntu-based OS optimized for Russian users
+Cobuntu: an Ubuntu-based OS optimized for Korean users)
+Sabily: an Ubuntu-based OS optimized for Muslim users
+
+
+
+UCE
+
+Short for unsolicited commercial e-mail (spam).See also spam.
+
+UDA
+
+Short for Universal Data Access, a high-level specification developed by Microsoft for accessing data objects regardless of their structure. One of the main components of UDA is the ActiveX Data Objects (ADO)interface.
+
+uDAPL
+
+Defined by the DAT (Direct Access Transport) Collaborative, the User Direct Access Programming Library or uDAPL, is a specification and a library that defines a single set of user APIs for all RDMA-capable transports.
+
+UDDI
+
+Short for Universal Description, Discovery and Integration. A Web-based distributed directory that enables businesses to list themselves on the Internet and discover each other, similar to a traditional phone book's yellow and white pages. 
+
+UDF
+
+(n.) Abbreviated as UDF, a universal vendor-independent file system for optical media designed for data interchange and portability, allowing an operating system to read, write and modify data stored on optical media that was created by another operating system.  DVDs are based on the UDF format and CD-R and CD-RW disks use UDF as an optional second standard.  UDF, defined by the Optical Technology Storage Association (OTSA), is a subset of ISO 13346, an interchange standard for non-sequential recording of data.
+
+UDF_ISO
+
+A hybrid filesystem that uses both UDF and ISO 9660. Also called a UDF bridge, it was commonly used until Microsoft incorporated support for UDF in its operating system, starting with Windows 98. See also Universal Disk Format (UDF).
+
+UDP
+
+(1) Short for User Datagram Protocol.
+(2) Short for Usenet Death Penalty
+
+
+UDRP
+
+Short for Uniform  Dispute Resolution policy.
+
+uefi
+
+Short for Unified Extensible Firmware Interface, UEFI is a specification that defines a more modernized model for the interface between computer operating systems and platform firmware during the boot, or start-up, process.
+UEFI originated as the Intel Boot Initiative in the late 1990s before being turned over to the Unified EFI Forum, and today the forum and specification remain the result of a collaborative effort between computer processor manufacturers like AMD and Intel and software operating system companies like Microsoft and Apple.    In many ways, UEFI serves as a software-driven, bare-bones operating system that can sit on top of the legacy BIOS boot process, and like BIOS, UEFI is responsible for initializing the hardware of a device or computer before passing control of the hardware to the operating system. Most newer computer platforms support both UEFI and legacy BIOS booting in order to ease the transition to UEFI and accommodate older operating systems that don't have built-in UEFI support.
+The UEFI specification offers advanced features over BIOS such as secure boot, low-level cryptography, network authentication and universal graphics drivers. The Secure Boot functionality in UEFI provides the basis for the Microsoft Secure Boot feature in Windows 8 that enables the OS to detect rootkits and similar malware attacks.
+
+UGC
+
+Short for user-generated content, UGC is the term used to describe any form of content such as video, blogs, discussion form posts, digital images, audio files, and other forms of media that was created by consumers or end-users of an online system or service and is publically available to others consumers and end-users. User-generated content is also called consumer generatedmedia(CGM).
+
+
+UIML
+
+Short for User Interface Markup Language, a markup language extension of XML that promotes the creation of Web pages that can be viewed on any kind of interface device, from PC monitors to smart phones to PDAs. Using UIML style sheets, Web content can be created once without knowing specifically which devices it will be viewed on. A developer uses UIML to describe elements of the user interface -- such as menus, buttons and input boxes. A programmer then can write applications that rely on UIML to get the content to different devices.  UIML rids developers of the need to have multiple source code families in order to deploy interfaces on multiple devices, relieves developers from the burden of having to manage interface content depending on what devices the content will be viewed on, and eliminates the risk of developing device-specific interfaces for a device that may not be on the market in the future.
+
+UIQ
+
+UIQ is a flexible and customizable user interface for data-enabled mobile phones, based on the Symbian OS platform. UIQ includes support for the latest and emerging wireless standards and comes with a set of essential and well-integrated applications. UIQ enables rapid device integration and offers mobile phone manufacturers a foundation for building attractive and cost efficient mobile phones. UIQ licensees are given extensive rights to customize the user interface to fit into their product portfolio and branding strategy.
+
+ULSI
+
+Short for ultra large scale integration, which refers loosely to placing more than about one million circuit elements on a single chip. The Intel 486 and Pentium microprocessors, for example, use ULSI technology. The line between VLSI and ULSI is vague. 
+
+Ultra_ATA
+
+A version of the AT Attachment (ATA) standard that supports burst mode data transfer rates of 33.3 MBps. To take advantage of these high speeds, your computer must also be equipped with Ultra DMA, a protocol that supports faster data transfer rates to and from hard disk drives. 
+
+Ultra_DMA
+
+A protocol developed by Quantum Corporation and Intel that supports burst mode data transfer rates of 33.3 MBps. This is twice as fast as the previous disk drive standard for PCs, and is necessary to take advantage of new, faster Ultra ATA disk drives.  The official name for the protocol is Ultra DMA/33. It's also called UDMA, UDMA/33 and DMA mode 33.  
+
+ultra_wideband
+
+Short for Ultra Wide Band, a wireless communications technology that can currently transmit data at speeds between 40 to 60 megabits per second and eventually up to 1 gigabit per second.  UWB transmits ultra-low power radio signals with very short electrical pulses, often in the picosecond (1/1000th of a nanosecond) range, across all frequencies at once. UWB receivers must translate these short bursts of noise into data by listening for a familiar pulse sequence sent by the transmitter.  Because of its low power requirements, UWB is very difficult to detect and therefore difficult to regulate. Because it spans the entire frequency spectrum (licensed and unlicensed), it can be used indoors and underground, unlike GPS.
+
+ultrabook
+
+Ultrabooks are a new category of notebook computers that seeks to fill the gap between lightweight laptops and tablets.  Intel dubbed the ultrabook category when it announced it would be directing its mobile computing efforts towards a new class of laptops that would offer an extremely thin (less than 20 millimeters, or 0.8 inches) and lightweight profile to go along with high-powered, low voltage processors in the Sandy Bridge or Ivy Bridge families, long battery life, near instant-on and instant-resume capabilities, and fast storage, typically via solid state disk drives (SSDs), all in a sub $1,000 package.
+Ultrabooks are distinguished from netbooks by offering more power in the form of faster processors and additional RAM, as well as better storage and larger screen sizes, features that also make these laptops significantly more expensive than most netbooks.  Ultrabook prices are expected to come down, though, as Intel transitions to its "Hawell" system-on-a-chip (SoC) processors, at which point Intel predicts ultrabook prices will reach the sub $600 price range.
+
+ultraportable
+
+(ul´´-tra-p��rt´&-b&l) (n.) A class of laptop computer that is designed around its portability. Ultraportables typically weigh less than four pounds and, when closed, are 1.5" thin or thinner. A common ultraportable also will have wireless networking capabilities, can have an internal optical drive, and capabilities to connect to an external storage device. Since the devices are designed to be compact and easily portable, the keyboards tend to be smaller than those of a typical laptop and the batteries are designed to be small and lightweight, creating what some view as drawbacks to the ultraportables: uncomfortable ergonomic design and short battery life.  The IBM ThinkPad X40, Sony VAIO PCG-TR3A, HP Compaq NC4010 and the Gateway M200X are examples of ultraportable laptop computers.
+
+ultrasonic_focus_motor
+
+Abbreviated as USM, and associated with digital camera terminology, ultrasonic motor (also called  ultrasonic focus motor ) is a term that is mainly used to describe the motor that controls the movement of the lens or focus ring. An ultrasonic focus motor is much quieter (almost near-silent) and also moves the focus lens or ring faster when compared to a standard motor. A USM is able to hold the lens in place with precision and accuracy at the exact instant the lens arrives at the correct focus when using the camera's auto focus (AF) feature. See "Digital Cameras" in the  Quick Reference section of Webopedia
+
+ultrawideband
+
+Short for Ultra Wide Band, a wireless communications technology that can currently transmit data at speeds between 40 to 60 megabits per second and eventually up to 1 gigabit per second.  UWB transmits ultra-low power radio signals with very short electrical pulses, often in the picosecond (1/1000th of a nanosecond) range, across all frequencies at once. UWB receivers must translate these short bursts of noise into data by listening for a familiar pulse sequence sent by the transmitter.  Because of its low power requirements, UWB is very difficult to detect and therefore difficult to regulate. Because it spans the entire frequency spectrum (licensed and unlicensed), it can be used indoors and underground, unlike GPS.
+
+UMA
+
+(1) Short for Unified Memory Architecture. A computer that has graphics chips built into the motherboard that use part of the computer's main memory for video memory is said to have Unified Memory Architecture.  (2) Short for upper memory area, a synonym for high memory. (3) Short for Unlicensed Mobile Access, it is the technology which provides access to GSM and GPRS mobile services over unlicensed spectrum technologies, including Bluetooth and 802.11.
+
+UMB
+
+Short for upper memory block, a block of memory in the DOS upper memory area (UMA). UMBs are allocated and managed by a special memory manager such as EMM386.EXE, and can be used for TSRs and device drivers. 
+
+UMD
+
+Short for Universal Media Disc, it is a  proprietary optical disc format developed by Sony for use with the Playstation Portable game console.  At only 60mm in diameter, it can store 1.8GB of digital data. It is currently being used for holding Playstation Portable compatible games or movies. Sony had announced plans to open the format to third party developers and companies.
+
+UML
+
+Short for Unified Modeling Language, a general-purpose notational language for specifying and visualizing complex software, especially large, object-oriented projects. UML builds on previous notational methods such as Booch, OMT, and OOSE.
+
+UMPC
+
+Short for Ultra Mobile PC, a UMPC is a mobile device that has been optimized for accessing online media and content for mobile users. UMPC devices are small enough to easily to carry, deliver long battery life for mobile connectivity, include multiple wireless connectivity options, and are also location-aware. UMPC devices contain a processor, button controls, 7" TFT-LCD touch screens, Ethernet, 802.11b/g wireless LAN, and Bluetooth for connectivity and use the Windows XP Tablet PC Edition. Some devices, depending on the manufacturer may also offer a built-in digital camera, optional GPS, stylus, SD card reader, foldable USB keyboard, and other features.
+
+UMTS
+
+Short for Universal Mobile Telecommunications System, a 3G mobile technology that will deliver broadband information at speeds up to 2Mbit s/sec.   Besides voice and data, UMTS will deliver audio and video to wireless devices anywhere in the world through fixed, wireless and satellite systems. 
+
+Unbound
+
+An open source alternative to the BIND (Berkeley Internet Name Domain) domain name system, Unbound is a validating, recursive and caching DNS server that has been released under the BSD license.  The current public release is Unbound 1.0., which includes both a server daemon enabling cached DNS lookups via port communications; and a resolver library that can be linked into developer applications, enabling them to perform or provide DNS lookups directly.   Unbound is being actively developed by NLnet Labs and sponsored by VeriSign, Kirei and Nominet.  See also Unbound: Open Source Caching DNS Server on  Datamation.com.
+
+UNC
+
+Short for Universal Naming Convention or Uniform Naming Convention, a PC format for specifying the location of resources on a local-area network (LAN). UNC uses the following format:
+\\server-name\shared-resource-pathname
+So, for example, to access the file test.txt in the directory examples on the shared server silo,you would write:
+
+uncompressed_video
+
+Captured video that has not been altered by the capture  device or software to compress the data. Uncompressed video streams take up a lot of disk space and more transmission bandwidth but it provides the best quality.
+
+underflow
+
+Refers to the condition that occurs when a computer attempts to represent a number that is too small for it (that is, a number too close to zero). Programs respond to underflow conditions in different ways. Some report an error, while others approximate as best they can and continue processing. For example, if your computer supports eight decimal places of precision and a calculation produces the number 0.000000005 (with nine decimal places), an underflow condition occurs. 
+
+undo
+
+To return to a previous state by undoing the effects of one or more commands. The undo command is a valuable feature supported by many software products. It lets you try unknown commands with less risk, because you can always return to the previous state. Also, if you accidentally press the wrong function key, you can undo your mistake.  Many programs allow you to undo an unlimited number of commands. Each time you press the undo key, the previous command is undone. You can roll back an entire editing session this way. Other programs impose a limit on the number of commands you can undo. 
+
+undocumented
+
+Refers to features that are not described in the official documentation of a product. This lack of documentation can occur for a variety of reasons, including oversight. More often, though, undocumented features are features that were included because they were useful to the programmers developing the product but were deemed either unnecessary or potentially dangerous to end users. Undocumented features can also include untested features that will be officially supported in a future release of the product. 
+
+UNE
+
+Short for unbundled network element, parts of a network that ILECs are required to offer to their customers on an unbundled basis. Important to CLEC telecommunications networking is the availability of UNEs (through a collocation arrangement). UNEs are defined by the Telecommunications Act of 1996 as any "facility or equipment used in the provision of a telecommunications service," as well as "features, functions, and capabilities that are provided by means of such facility or equipment." For CLECs the most important UNE available to them is the local loop, which connects the ILEC switches to the ILEC's present customers. With the local loop, CLECs will be able to connect their switches with the ILEC's switches, thus giving them access to ILEC customers.
+
+UNE_P
+
+Short for unbundled network elements-platform, the FCC ruling requiring ILECs to make their network facilities (i.e., UNEs) available to CLECs at rates determined by state public utility commissions. The general theory behind the UNE-P ruling is that it maintains fair competition among local carriers.
+
+UNI
+
+A term used in ATM and Frame Relay networks, UNI is the interface between the ATM end user and a private ATM switch. It also can represent the interface between a private ATM switch and the public carrier ATM network. 
+
+unicast
+
+Communication that takes place over a network between a single sender and a single receiver.  Compare with multicast and anycast.
+
+unicast_address
+
+Address specifying a single network device. Packets sent to a unicast address are delivered to the node containing the interface identified by the address.
+
+Unicode
+
+A standard for representing characters as integers. Unlike ASCII, which uses 7 bits for each character, Unicode uses 16 bits, which means that it can represent more than 65,000 unique characters. This is a bit of overkill for English and Western-European languages, but it is necessary for some other languages, such as Greek, Chinese and Japanese. Many analysts believe that as the software industry becomes increasingly global, Unicode will eventually supplant ASCII as the standard character coding format.  
+
+unified
+
+To make into or become a unit; consolidate. In computing and technology, the word unified is used to describe two technologies which have been consolidated into one or a streamlined process.
+
+unified_communications
+
+Unified communications is a phrase used to describe any communications system, usually a business system, that encompasses a broad range of technologies and applications that have been designed, sold and supported as a single communications platform or as one entity. Unified communications system generally enable companies to use integrated data, video, and voice in one supported product.
+
+
+Unified_Computing_System
+
+Abbreviated as Cisco UCS, the Unified Computing System is designed to simplify traditional architectures and dramatically reduce the number of devices that must be purchased, cabled, configured, powered, cooled, and secured in the data center.  The Cisco Unified Computing System is a next-generation data center platform that unites compute, network, storage access, and virtualization into a cohesive system designed to reduce TCO and increase business agility. The system integrates a low-latency, lossless 10GE unified network fabric with enterprise-class, x86-architecture servers.   See "Cisco Remakes Virtualization, Storage Landscape" on EnterpriseStorageForum.com.
+
+unified_driver
+
+A single driver that supports a range of products from one hardware company and also supports multiple operating systems, as opposed to individual drivers for each product for each supported operating system.  See also driver.
+
+Unified_Memory_Architecture
+
+(1) Short for Unified Memory Architecture. A computer that has graphics chips built into the motherboard that use part of the computer's main memory for video memory is said to have Unified Memory Architecture.  (2) Short for upper memory area, a synonym for high memory. (3) Short for Unlicensed Mobile Access, it is the technology which provides access to GSM and GPRS mobile services over unlicensed spectrum technologies, including Bluetooth and 802.11.
+
+unified_storage
+
+A single, integrated storage infrastructure that functions as unification engines to simultaneously support Fibre Channel, IP Storage Area Networks (SAN) and Network Attached Storage (NAS) data formats. Also called network unified storage (NUS).
+
+Unified_Threat_Management
+
+Unified Threat Management (UTM) is a term first used by IDC to describe a category of security appliances which integrates a range of security features into a single appliance. UTM appliances combine firewall,  gateway anti-virus, and intrusion detection and prevention capabilities into a single platform. UTM is designed protect users from blended threats while reducing complexity.
+
+Uniform_Dispute_Resolution_policy
+
+UDRP or Uniform Dispute Resolution policy defines how disputes over domain name registrations are resolved in the global top-level domains (.biz, .com, .info, .name, .net, and .org as well as .aero, .coop, and .museum). The UDRP includes a mandatory, non-binding, low-cost administrative procedure to resolve a certain set of claims . namely, claims of abusive, bad faith registration. This means a bad faith violation of someone else's trademark. In situations other than these, the UDRP provides that disputes must be resolved by traditional means such as voluntary negotiation and lawsuits. The UDRP is part of the Registration Agreement that Internet users sign to register domain names in the global top-level domains (TLD). The UDRP was adopted by ICANN on 26 August 1999. Implementation began when the final policy documents were approved on 24 October 1999. [Adapted from  InterNIC FAQs] See also ICANN.
+
+uninstall
+
+To remove an application from a computer. Uninstalling removes all files that were added to the computer when the application was initially installed. In addition, it might also remove files that were subsequently generated by the application. Frequently, however, uninstalling is not 100% effective, and a few orphan files remain.  In Windows 95, you can uninstall an application by selecting Add/Remove Programs from the Control Panel and then selecting the application you want to remove. 
+
+unique_visitor
+
+When tracking the amount of traffic on a Web site, it refers to a person who visits a Web site more than once within a specified period of time. Software that tracks and counts Web site traffic can distinguish between visitors who only visit the site once and unique visitors who return to the site. Different from a site's hits or page views -- which are measured by the number of files that are requested from a site -- unique visitors are measured according to their unique IP addresses, which are like online fingerprints, and unique visitors are counted only once no matter how many times they visit the site. There are some ISPs that use Dynamic Host Configuration Protocol, such as AOLand cable modem providers, which use different IPs for every file requested, making one visitor look like many. In this case, a single IP address does not indicate a unique visitor.
+
+
+unity
+
+A shell interface designed for the GNOME desktop environment running on the Ubuntu operating system. As a shell interface, Unity provides the underlying Ubuntu OS with a distinct, consistent look and feel while providing functionality for working with applications within the operating system.
+Unity first debuted in June 2010 in the netbook edition of Ubuntu 10.10, and it became the default desktop in place of the GNOME Shell with the release of Ubuntu 11.04 (codenamed Natty Narwhal).  The next major release of Unity, version 4.x, will be included in Ubuntu 11.10 (codenamed Oneiric Ocelot), which is scheduled to go live in October 2011.
+Unity may also refer to a development tool for creating 3D video games that can run on Microsoft Windows, Mac OS X, iPad, iPhone, Android, Xbox 360, PlayStation 3 and Nintendo Wii platforms.  Some of the more popular games developed using Unity include Battlestar Galactica, M.U.S.E., ShadowGun and Zombieville USA.
+
+Universal_3D
+
+Abbreviated as U3D.
+Universal 3D (U3D) is a format that allows 3D Computer-Aided-Design (CAD) applications to export the on-screen interactive experience to mainstream office applications that support the specification. *Through the 3D Industry Forum (3DIF), Intel Corp is working with other companies to develop a standard file format and a sample runtime libraries designed to support the efficient reuse of 3D data in mainstream applications.  The Universal 3D specification and sample implementation will simplify the transformation of complex 3D data into a format that can be streamed, compressed and viewed on affordable, nonproprietary software/hardware platforms while providing a high quality viewing experience.
+* [Source: Universal 3D (U3D) Whitepaper - PDF]
+
+Universal_Disk_Format
+
+(n.) Abbreviated as UDF, a universal vendor-independent file system for optical media designed for data interchange and portability, allowing an operating system to read, write and modify data stored on optical media that was created by another operating system.  DVDs are based on the UDF format and CD-R and CD-RW disks use UDF as an optional second standard.  UDF, defined by the Optical Technology Storage Association (OTSA), is a subset of ISO 13346, an interchange standard for non-sequential recording of data.
+
+UNIX
+
+Pronounced yoo-niks, a popular multi-user, multitasking operating system developed at Bell Labs in the early 1970s. Created by just a handful of programmers, UNIX was designed to be a small, flexible system used exclusively by programmers.
+UNIX was one of the first operating systems to be written in a high-level programming language, namely C. This meant that it could be installed on virtually any computer for which a C compiler existed. This natural portability combined with its low price made it a popular choice among universities. (It was inexpensive because antitrust regulations prohibited Bell Labs from marketing it as a full-scale product.)
+Bell Labs distributed the operating system in its source language form, so anyone who obtained a copy could modify and customize it for his own purposes. By the end of the 1970s, dozens of different versions of UNIX were running at various sites.
+
+Unknown_host
+
+An error message that may be obtained during file transfers. As the user attempts to connect to a remote host, you may see an "Unknown host" error message. This means the hostname you specified does not exit, or was not found. This error message will recommend that the user "Check the spelling of the hostname and try again." See "How to Send Big Files Over The Internet" in the "Did You Know..." section of Webopedia.
+
+unlocked_cellphone
+
+When manufactured, GSM cellphones are unlocked, meaning they can be used with any subscriber identity module (SIM) from any compatible carrier service provider. A cellphone may be electronically 'locked' by a service provider, in which case it can only be used with that carrier's service.
+
+unpack
+
+To convert a packed file into its original form. A packed file is a file that has been compressed to take up less storage area. 
+
+unstructured_data
+
+The phrase unstructured data usually refers to information that doesn't reside in a traditional row-column database. As you might expect, it's the opposite of structured data — the data stored in fields in a database.
+Examples of Unstructured Data
+Unstructured data files often include text and multimedia content. Examples include e-mail messages, word processing documents, videos, photos, audio files, presentations, webpages and many other kinds of business documents. Note that while these sorts of files may have an internal structure, they are still considered "unstructured" because the data they contain doesn't fit neatly in a database.
+Experts estimate that 80 to 90 percent of the data in any organization is unstructured. And the amount of unstructured data in enterprises is growing significantly  — often many times faster than structured databases are growing.
+
+
+unusual_software_bug
+
+A classification of software bugs that are considered to be difficult to understand, recreate and repair. Most bugs that are classified as an unusual software bugs are named after scientists. Several bugs classified as an unusual software bug include the following:  heisenbug bohrbug mandelbug schroedinbug 
+
+UOP
+
+Short for User Operation Prohibitions UOP is a selection on a DVD that has been flagged to prevent certain user actions. For example, a FBI Warning on a DVD cannot be skipped or or fast-forwared by the viewer as a direct result of a UOP.
+
+UP
+
+Short for Unified Process, a a  software development process for building object-oriented systems. The Unified Process primarily focuses on Object-Oriented design, using UML as a modeling language. UP combines commonly accepted best practices, such as an iterative lifecycle and risk-driven development, into a cohesive and well-documented description. [Adapted from Iterative Development and The Unified Process (PDF)]
+Unified Process may refer specifically to Rational Unified Process (RUP) or Agile Unified Process (AUP).
+
+UPC
+
+(pronounced as separate letters) Short for Universal Product Code, a unique 12-digit number assigned to retail merchandise that identifies both the product and the vendor that sells the product. The UPC on a product typically appears adjacent to its bar code, the machine-readable representation of the UPC.  The first six digits of the UPC are the vendor��s unique identification number. All of the products that one vendor sells will have the same first six digits in their UPCs. The next five digits are the product��s unique reference number that identifies the product within any one vendor��s line of products. The last number is called the check digit that is used to verify that the UPC for that specific product is correct.  The check digit verification works like this, using the UPC 438571639853 as an example: The digits in the odd positions are added together: 4 + 8 + 7 + 6 + 9 + 5 = 39 That number is multiplied by 3: 39 x 3 = 117 The digits in the even positions (except for the 12th digit) are added together: 3 + 5 + 1 + 3 + 8 = 20 This sum is added to the value in step 2: 117 + 20 = 137 The check digit is the number that when added to that sum - 137 - equals a multiple of 10: 137 + 3 = 140, therefore the check digit for the above UPC is 3, which appears as the last digit of the UPC.  Each time that a UPC is read, typically by a scanner reading the bar code, this calculation is done. If the check digit is different than the one that is calculated, then the computer knows that there is something wong with the UPC.  Anyone wishing to use the UPC system must first apply for the rights through the Uniform Code Council.
+
+upconversion
+
+In digital television, upconversion is the process where a lower resolution signal is converted to a higher resolution. This process will increase the number of  pixels, frame rate or the scanning lines.  Contrast with downconversion.
+
+upgrade
+
+A new version of a software or hardware product designed to replace an older version of the same product. Typically, software companies sell upgrades at a discount to prevent users from switching to other products. In most cases, you must prove you own an older version of the product to qualify for the upgrade price. In addition, the installation routines for upgrades often check to make sure that an older version is already installed on your computer; if not, you cannot install the upgrade.  In the 90s, software companies began offering competitive upgrades, which means that you can buy a program at a discount if you can prove that you own a competing program. 
+
+uplink
+
+In satellite communications, uplink is the establishment of a communications link from a ground station up to the orbiting satellite.  Contrast with downlink.
+
+uplink_port
+
+Another name for MDI port.
+
+upload
+
+To transmit data from a computer to a bulletin board service, mainframe, or network. For example, if you use a personal computer to log on to a network and you want to send files across the network, you must upload the files from your PC to the network.   
+
+UPnP
+
+Short for Universal Plug and Play, a networking architecture that provides compatibility among networking equipment, software and peripherals of the 400+ vendors that are part of the Universal Plug and Play Forum.  UPnP works with wired or wireless networks and can be supported on any operating system. UPnP boasts device-driver independence and zero-configuration networking.
+
+uppercase
+
+Uppercase characters are capital letters; lowercase  characters  are small letters. For example, box is in lowercase while BOX is in uppercase. The term is a vestige of the days when typesetters kept capital letters in a box above the lowercase letters.
+A program that distinguishes between uppercase and lowercase is said to be case sensitive.
+
+
+UPS
+
+Short for uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage. Typically, a UPS keeps a computer  running for several minutes after a power outage, enabling you to save data that is in RAM and shut down the computer gracefully. Many UPSs now offer a software component that enables you to automate backup and shut down procedures in case there's a power failure while you're away from the computer.
+There are two basic types of UPS systems: standby power systems (SPSs) and on-line UPS systems. An SPS monitors the power line and switches to battery power as soon as it detects a problem. The switch to battery, however, can require several milliseconds, during which time the computer is not receiving any power. Standby Power Systems are sometimes called Line-interactive UPSes.
+An on-line UPS avoids these momentary power lapses by constantly providing power from its own inverter, even when the power line is functioning properly. In general, on-line UPSs are much more expensive than SPSs.
+
+upstream
+
+(adj.) A transmission from an end user to a server. An upstream transmission can be in the form of a signal being transmitted from a workstation to a server across a network, such as a LAN, or a signal being sent from a customer to a cable service provider. A transmission from a server to an end user is referred to as downstream.
+
+upward_compatible
+
+Refers to software that runs not only on the computer for which it was designed, but also on newer and more powerful models. For example, a program designed to run on an Intel 386 microprocessor, which also runs on a Pentium, is upward compatible. Upward compatibility is important because it means you can move to a newer, larger, and more sophisticated computer without converting your data.  In contrast to upward compatibility, downward (backward) compatible means that a program runs not only on the computer for which it was designed, but also on smaller and older models. For example, a program designed to run under MS-DOS 6.0, which also works under MS-DOS 5.0, is downward compatible.  Upward compatibility is sometimes called forward compatibility.  
+
+URI
+
+Short for Uniform Resource Identifier, the generic term for all types of names and addresses that refer to objects on the World Wide Web. A URLis one kind of URI.
+
+
+URL
+
+URL is the abbreviation of Uniform Resource Locator. URL is the global  address of documents and other resources on the World Wide Web.
+Parts of a URL
+The first part of the URL is called a protocol identifier and it indicates what protocol to use, and the second part is called a  resource name and it specifies the IP address or the domain name where the resource is located. The protocol identifier and the resource name are separated by a colon and two forward slashes.
+For example, the two URLs below point to two different files at the domain webopedia.com. The first specifies an executable file that should be fetched using the FTP protocol; the second specifies a Web page that should be fetched using the HTTP protocol:
+
+usability
+
+Usability is a Web site design phrase that describes how well visitors can use a Web site. Good usability requires that the site be easy to navigate, have a decent layout, be consistent across all pages, and also be informative and useful to the visitor.
+
+USB
+
+Short for Universal Serial Bus, an external bus standard that supports data transfer rates of 12 Mbps. A single USB port can be used to connect up to 127 peripheral devices, such as mice, modems, and keyboards. USB also supports Plug-and-Play installation and hot plugging.
+Starting in 1996, a few computer manufacturers started including USB support in their new machines. It wasn't until the release of the best-selling iMac in 1998 that USB became widespread. It is expected to completely replace serial and parallel ports.
+Also see USB 2.0.
+
+USB_2_0
+
+Also referred to as Hi-Speed USB, USB 2.0 is an external bus that supports data rates up to 480Mbps. USB 2.0 is an extension of USB 1.1. USB 2.0 is fully compatible with USB 1.1 and uses the same cables and connectors.  Hewlett-Packard, Intel, Lucent, Microsoft, NEC and Philips jointly led the initiative to develop a higher data transfer rate than the 1.1 specification to meet the bandwidth demands of developing technologies. The USB 2.0 specification was released in April 2000.
+
+USB_3_0
+
+Also called SuperSpeed USB, USB 3.0 is the latest version of the Universal Serial Bus external bus standard that supports data transfer rates of up to and beyond 5GB/s (gigabytes per second). In addition to the increase in speed, UBS 3.0 is also optimized for low power and improved protocol efficiency. USB 3.0 ports and cabling will be a backward-compatible standard with previous USB technologies.  USB 3.0 is not yet officially released. However, a prototype was introduced in late 2007 by Intel. The technology is also developed by HP, Microsoft Corporation, NEC Corporation, NXP Semiconductors and Texas Instruments. Products supporting USB 3.0 are expected to be released to consumers around 2009/2010.See also USB and USB 2.0.
+
+USB_boot
+
+Using USB devices, such as a flash drive to boot a Windows PC. Windows XP Embedded Service Pack 2 Feature Pack 2007 introduced a new embedded enabling Feature called USB Boot. This allows users to build a Windows XPe image that boots from a USB flash drive.
+
+USB_card_reader
+
+A small USB plug-and-play device used to read, copy and backup data from portable flash memory cards such as an SD Card, MiniSD, MicroSD, SIM and others that are used in a wide variety of consumer electronics products.  One card reader may be used for a specific type of memory card, while others may be designed to read multiple types of memory cards.
+
+USB_flash_drive
+
+(n.) A small, portable flash memory card that plugs into a computer��s USB port and functions as a portable hard drive. USB flash drives are touted as being easy-to-use as they are small enough to be carried in a pocket and can plug into any computer with a USB drive. USB flash drives have less storage capacity than an external hard drive, but they are smaller and more durable because they do not contain any internal moving parts.
+USB flash drives also are called thumb drives, jump drives, pen drives, key drives, tokens, or simply USB drives.
+
+USB_Flash_Drive_Alliance
+
+The USB Flash Drive Alliance is a consortium of technology companies launched to educate consumers about the exceptional portability, capacity and utility of USB flash drives.
+
+USB_modem
+
+While the term USB modem refers to any type of  data/fax/voice modem device which can be connected to a computer using USB, the term more commonly describes a specific portable USB device that looks similar to a USB flash drive and can be as small as 100 x 35 x 23mm in physical size and weigh only around 25grams . These small portable USB fax modems do not require a power source and can be plugged into any USB port on your PC, notebook, or Macintosh computer and can also be disconnected from the computer without turning off the system. One end of the portable USB modem will have a USB interface, while the other end will have an RJ-11 port for connecting your phone line.
+
+USB_OTG
+
+Short for USB On-The-Go, an extension of the USB 2.0 specification for connecting peripheral devices to each other. USB OTG products can communicate with each other without the need to be connected to a PC. For example, a digital camera can connect to a PDA, or a mobile phone can connect to a printer or a scanner, as long as all the devices are USB OTG-compatible. USB OTG grew from the increasing need for portable devices to be able to communicate with each other as the culture of technology moves away from a PC-centric world.
+One of the important features of USB OTG is that the standard does not require a host PC in order for the devices to communicate. USB OTG devices, known as dual-role peripherals, can act as limited hosts or peripherals themselves depending on how the cables are connected to the devices, and they also can connect to a host PC.
+
+USB_smart_drive
+
+A USB flash drive that comes with pre-installed software. The software enables the USB flash drive to run active programs from the drive. Users can purchase USB smart drives, or download software from the Internet that enables existing flash drives to be upgraded to a smart drive.
+
+USBlyzer
+
+A software USB Protocol Analyzer for Windows that displays USB Descriptors and captures and analyzes the activity of USB devices in real time. USBlyzer can be used for application, device driver and hardware development, learning more about USB internals, and reverse engineering the USB protocol. It can also help you test and troubleshoot software and hardware.
+
+use-after-free
+
+Use-After-Free vulnerabilities are a type of memory corruption flaw that can be leveraged by hackers to execute arbitrary code.
+Use After Free specifically refers to the attempt to access memory after it has been freed, which can cause a program to crash or, in the case of a Use-After-Free flaw, can potentially result in the execution of arbitrary code or even enable full remote code execution capabilities.
+The Specifics of Use-After-Free Memory Corruption 
+According to the Use After Free definition on the Common Weakness Enumeration (CWE) website, a Use After Free scenario can occur when "the memory in question is allocated to another pointer validly at some point after it has been freed. The original pointer to the freed memory is used again and points to somewhere within the new allocation. As the data is changed, it corrupts the validly used memory; this induces undefined behavior in the process."
+
+USENET
+
+A worldwide bulletin board system that can be accessed through the Internet or through many online services. The USENET contains more than 14,000 forums, called newsgroups, that cover every imaginable interest group. It is used daily by millions of people around the world. 
+
+Usenet_Death_Penalty
+
+Abbreviated UDP, a Usenet penalty enforced by system administrators of an ISP or NSP against other service providers. Usenet is by nature cooperative, and the UDP is one way that administrators can handle uncooperative members. UDPs are typically issued to ISP/NSPs that have users that are spamming and that have not stopped the users from doing so even after repeated requests for the administrators to deal with the spam. When a UDP is issued, any messages posted to Usenet from that site will be cancelled. UDPs are also issued to individual spammers.
+
+user
+
+An individual who uses a computer. This includes expert programmers as well as novices. An end user is any individual who runs an application program.   
+
+User_Account_Control
+
+Abbreviated as UAC. In Windows Vista, User Account Control is a feature that was designed to prevent unauthorized changes to your computer. When functions that could potentially affect your computer's operation are made, UAC will prompt for permission or an administrator's password before continuing with the task. There are four different alert messages associated with User Account Control:  Windows needs your permission to continue A program needs your permission to continue An unidentified program wants access to your computer This program has been blocked 
+
+user_agent
+
+In Google Analytics, user agent is a term used to mean any program used for accessing a Web site. This includes browsers, robots, spiders and any other program that was used to retrieve information from the site.
+
+User_Datagram_Protocol
+
+Abbreviated UDP, a connectionless protocol that, like TCP, runs on top of IP networks. Unlike TCP/IP, UDP/IP provides very few error recovery services, offering instead a direct way to send and receive datagrams over an IP network. It's used primarily for broadcasting messages over a network. 
+
+user_defined_function
+
+(ū´z&r di-fīnd´ funk´sh&n) (n.) A programmed routine that has its parameters set by the user of the system. User defined functions often are seen as programming shortcuts as they define functions that perform specific tasks within a larger system, such as a database or spreadsheet program.
+
+user_group
+
+A group of individuals with common interests in some aspect of computers. Some user groups cover nearly everything with subgroups (called SIGs) for more specialized interests, while others concentrate on a particular area, such as computer graphics, or a particular application.  Nearly every major city in the U.S. has many user groups that meet to share ideas. Joining a local user group is a particularly good way for computer novices to get free expert advice. 
+
+user_interface
+
+Abbreviated UI, the junction between a user and a computer  program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
+The user interface is one of the most important parts of any program because it determines how easily you can make the program do what you want. A powerful program with a poorly designed user interface has little value. Graphical user interfaces (GUIs) that use windows, icons, and pop-up menus have become standard on personal computers.
+
+
+User_Interface_Markup_Language
+
+See UIML.
+
+user_license
+
+Another name for an EULA.
+
+user_session
+
+(1) The session of activity that a user with a unique IP address spends on a Web site during a specified period of time. The number of user sessions on a site is used in measuring the amount of traffic a Web site gets. The site administrator determines what the time frame of a user session will be (e.g., 30 minutes). If the visitor comes back to the site within that time period, it is still considered one user session because any number of visits within that 30 minutes will only count as one session. If the visitor returns to the site after the allotted time period has expired, say an hour from the initial visit, then it is counted as a separate user session.  Contrast with unique visitor, hit, click-through and page view, which are all other ways that site administrators measure the amount of traffic a Web site gets.  (2) The period of time a user interfaces with an application. The user session begins when the user accesses the application and ends when the user quits the application.
+
+user_agent_client
+
+Abbreviated as UAC, in VoIP, a client application in an SIP system that initiates the SIP request that is sent to the UAS. The combination of the UAC and the UAS is called the SIP user agent. The SIP user agent allows peer-to-peer calls to be made using a client-server protocol.
+
+user_centered_design
+
+User-centered design (UCD) is a design philosophy where the end-user’s needs, wants and limitations are a focus at all stages within the design process and development lifecycle. Products developed using the UCD methodology are optimized for end-users and emphasis is placed on how the end-users need or want to use a product instead of forcing the end user to change his behavior to use the product.
+User-centered design is a common process in software development where typical UCD activities are broken down into four phases in the development lifecycle:  analysis, design, implementation and deployment.
+The international standard ISO 13407: Human-centered design process provides the basis for UCD. This standard defines a process throughout a development lifecycle, but does not specify exact methods used for user-centered design.
+
+user_friendly
+
+Refers to anything that makes it easier for novices to use a computer. Menu-driven programs, for example, are considered more user-friendly than command-driven systems. Graphical user interfaces (GUIs) are also considered user-friendly. Online help systems are another feature of user-friendly programs.  Although the term user-friendly represents an important concept, it has been so overused that it has become something of a cliché.  
+
+User_to_Network_Interface
+
+A term used in ATM and Frame Relay networks, UNI is the interface between the ATM end user and a private ATM switch. It also can represent the interface between a private ATM switch and the public carrier ATM network. 
+
+username
+
+A name used to gain access to a computer system. Usernames, and often passwords, are required in multi-user systems. In most such systems, users can choose their own usernames and passwords.
+Usernames are also required to access some bulletin board and online services.
+
+
+USM
+
+Abbreviated as USM, and associated with digital camera terminology, ultrasonic motor (also called  ultrasonic focus motor ) is a term that is mainly used to describe the motor that controls the movement of the lens or focus ring. An ultrasonic focus motor is much quieter (almost near-silent) and also moves the focus lens or ring faster when compared to a standard motor. A USM is able to hold the lens in place with precision and accuracy at the exact instant the lens arrives at the correct focus when using the camera's auto focus (AF) feature. See "Digital Cameras" in the  Quick Reference section of Webopedia
+
+USMT
+
+Short for User State Migration Tools, it is a tool that allows a system administrator to migrate user configuration setting and files from systems running Windows 95 or later to a  clean Windows XP installation. USMT is designed for use by system administrators when performing large deployments of Windows XP Professional in a corporate environment. Microsoft recommends that home users and small businesses who need to migrate files and settings without the support of an IT department should use the Files and Settings Transfer Wizard.
+
+USRT
+
+Short for universal synchronous receiver-transmitter, a device that combines the transmitting and receiving circuitry for synchronous data communications via the serial port on a computer. The USRT circuit sends and receives data without requiring start and stop codes.
+
+UTC
+
+Coordinated Universal Time is a time scale that couples Greenwich Mean Time, which is based solely on the Earth's inconsistent rotation rate, with highly accurate atomic time. UTC was devised on January 1, 1972 and is coordinated in Paris by the International Bureau of Weights and Measures.
+When atomic time and Earth time approach a one second difference, a leap second is calculated into UTC.  These leap seconds have been known to contribute in some cases to leap second bugs, which are computer glitches and outages in servers caused by the addition of a leap second.
+UTC, like Greenwich Mean Time, is set at 0 degrees longitude on the prime meridian.
+
+UTF
+
+Short for Universal Transformation Format, a method of converting Unicode characters, which are 16 bits each, into 7- or 8-bit characters. UTF-7 converts Unicode into ASCII for transmission over 7-bit mail systems, and UTF-8 converts Unicode to 8-bit bytes.
+
+utility
+
+A program that performs a very specific task, usually related to managing system resources. Operating systems contain a number of utilities for managing disk drives, printers, and other devices.
+Utilities differ from applications mostly in terms of size, complexity and function. For example, word processors, spreadsheet programs, and database applications are considered applications because they are large programs that perform a variety of functions not directly related to managing computerresources.
+Utilities are sometimes installed as memory-resident programs. On DOS systems, such utilities are called TSRs.
+
+utility_computing
+
+Short for on-demand computing, a typically enterprise-level computing model in which the technology and computing resources are allocated to the organization and its individual users on an as-needed basis. For example, computing resources such as CPU cycles, bandwidth availability, storage and applications can be channeled to users based on the tasks they are performing at specified times. If one group of users is working with bandwidth-heavy applications, for instance, the bandwidth can be allocated specifically to them and diverted away from users who do not need the bandwidth at that moment. In another scenario, an organization that is collecting large amounts of data may have adequate computing resources to collect the data but needs extra computing resources to analyze all of the data collected, in which case it could outsource its needs to a server farm that would provide the extra boost of resources but only at the specified times.  ODC resources may come from within the enterprise, or the organization may outsource its computing needs to a third-party service provider. The benefit of ODC is that the enterprise uses its resources more efficiently by only making available what the user needs at a specific time. For the enterprise outsourcing its computing needs, under this model it would only pay for resources that are used.  On-demand computing also is referred to as utility computing.
+
+utility_right
+
+The right to perform necessary tasks on content, such as make a backup copy on disk or create a temporary copy in RAM. It should be noted that a utility right grants the rightsholder the right to make a copy of content but not distribute that copy to another individual.
+
+UTM
+
+Unified Threat Management (UTM) is a term first used by IDC to describe a category of security appliances which integrates a range of security features into a single appliance. UTM appliances combine firewall,  gateway anti-virus, and intrusion detection and prevention capabilities into a single platform. UTM is designed protect users from blended threats while reducing complexity.
+
+utopic-unicorn
+
+Utopic Unicorn is the Ubuntu codename for version 14.10 of the Ubuntu Linux-based operating system. Officially released in October 2014, Utopic Unicorn follows the Trusty Tahr (v14.04 LTS) release and introduces a variety of improved application deployment and orchestration capabilities.
+Other additions in the Ubuntu Utopic Unicorn release include the new Linux 3.16 kernel, the Juno release of OpenStack, a new AppArmor with fine-grained socket control, and updated LibreOffice and GNOME components.
+What Exactly Is a Utopic Unicorn?
+Utopic is an adjective that refers to a real or imaginary place or state that is considered to be perfect or ideal in nature (i.e. utopia), and a unicorn is a mythological creature that typically appears as a horse with a single horn extending from its forehead.
+
+UTP
+
+Short for unshielded twisted pair, a popular type of cable that consists of two unshielded wires twisted around each other. Due to its low cost, UTP cabling is used extensively for local-area networks (LANs) and telephone connections. UTP cabling does not offer as high bandwidth or as good protection from interference as coaxial or fiber optic cables, but it is less expensive and easier to work with.
+
+
+UTRA
+
+Short for Universal Terrestrial Radio Access, UTRA is a standard for 3G mobile communications services being specified by 3GPP. The radio access components of UTRA are based on direct-spread wideband code-division multiple access (WCDMA) and hybrid time-division (TDCDMA) access methods that have been designed for 3G frequency efficiency, mobility, and QoS requirements.
+
+UUCP
+
+Short for Unix-to-Unix Copy, a Unix utility and protocol that enables one computer to send files to another computer over a direct serial connection or via modems and the telephone system. For most file transfer applications, UUCP has been superseded by other protocols, such as FTP, SMTP and NNTP. 
+
+Uuencode
+
+A set of algorithms for converting files into a series of 7-bit ASCII characters that can be transmitted over the Internet. Originally, uuencode stood for Unix-to-Unix encode, but it has since become a universal protocol used to transfer files between different platforms such as Unix, Windows, and Macintosh. Uuencoding is especially popular for sending e-mail attachments. Nearly all e-mail applications support uuencoding for sending attachments and uudecoding for receiving attachments.  Another popular encoding algorithm is BinHex , which is often used for transferring Macintosh files, such as PICT graphics files.   
+
+UUID
+
+Short for Universally Unique IDentifier, UUID is a 128-bit value used for identification used in software construction. UUID is the same as GUID (Microsoft) and is part of the Distributed Computing Environment (DCE), standardized by the Open Software Foundation (OSF). UUIDs are intended to have a high likelihood of uniqueness over space and time and are computationally difficult to guess.  Also known as GUID.  
+
+UUNET
+
+Short for UNIX to UNIX Network, the first commercial Internet service provider, headquartered in Fairfax, VA. The company was founded in 1987 by Rick Adams, one of the original developers of ARPAnet, the precursor to the Internet. In 1996, UUNET merged with MFS Communications, Inc., and later that year, WorldCom acquired both MFS and UUNET. UUNET is now a full-service provider.  
+
+UVD
+
+Short for Unified Video Decoding, UVD is a dedicated video decode processing unit first introduced by ATI Technologies with the company's ATI Radeon HD 2000 series of GPUs. The HD 2000 graphics processors offloads both CPU and GPU rendering pipelines. UVD technology reduces power use, decreases system noise and increases notebook battery life during HD video playback.
+
+UWB
+
+Short for Ultra Wide Band, a wireless communications technology that can currently transmit data at speeds between 40 to 60 megabits per second and eventually up to 1 gigabit per second.  UWB transmits ultra-low power radio signals with very short electrical pulses, often in the picosecond (1/1000th of a nanosecond) range, across all frequencies at once. UWB receivers must translate these short bursts of noise into data by listening for a familiar pulse sequence sent by the transmitter.  Because of its low power requirements, UWB is very difficult to detect and therefore difficult to regulate. Because it spans the entire frequency spectrum (licensed and unlicensed), it can be used indoors and underground, unlike GPS.
+
+UXGA
+
+Short for Ultra Extended Graphics Array, a display specification that is capable of displaying 1600 x 1200 resolution, or approximately 1.9 million pixels.  Also see SXGA and XGA.
+
+U_Port
+
+In Fibre Channel the Universal  port (U_Port) is one that has not yet assumed a specific function in the fabric. It is a generic switch port that can operate as an E_Port, F_Port, or as a FL_Port.
+

@@ -1,0 +1,1139 @@
+F_stop
+In digital photography and digital video recording, F-stop refers to the international standard sequence of numbers that express relative aperture. F-stop is the "lens focal length" divided by the "effective aperture diameter." The smaller the F- number, the greater the amount of light that passes through the  lens. Each change of F-stop halves or doubles the image brightness as you step up or down. 
+
+F1_F2_F15
+The names of the function keys. See under function keys.  
+
+fab
+Short for fabrication facility, a silicon wafer manufacturing plant. The term usually refers to an individual facility rather than a company. Manufacturers of semiconductors can either build and run their own manufacturing plants or design chips that are manufactured by someone else. A fab is a facility that produces its own silicon wafers. A fabless facility is one that outsources the production of silicon wafers. Fabless companies focus on the design and development of their products.
+
+fabless
+Refers to a company that does not manufacture its own silicon wafers and concentrates on the design and development of semiconductor chips. Manufacturers of semiconductors can either build and run their own manufacturing plants or design chips that are manufactured by someone else. A fab is a facility that produces its own silicon wafers. A fabless facility is one that outsources the production of silicon wafers. Fabless companies focus on the design and development of their products.
+
+fabric
+(1) See SAN fabric.  (2) The interconnect infrastructure of an InfiniBand architecture.
+
+face_detection
+In digital camera terminology face detection, also called face-priority AF (auto focus), is a function of the camera that detects human faces so that the camera can set the focus and appropriate exposure for the shot automatically. When using a flash, face detection will also usually and automatically correct or remove the unwanted red-eye effect that can often occur when photographing people using a flash. See in-camera red-eye fix. See also "Digital Cameras" in the  Quick Reference section of Webopedia.
+
+face_recognition
+A type of biometrics that uses images of a person's face for recognition and identification.
+
+face_priority_AF
+See under face detection.
+
+Facebook
+The name of a social networking site (SNS) that connects people with friends and others who work, study and live around them. People use Facebook to keep in touch with friends, post photos, share links and exchange other information. Facebook users can see only the profiles of confirmed friends and the people in their networks.
+See "Social Networking Sites" in Webopedia's Quick Reference section.
+See also "How To Create a Facebook Group" in the Quick Reference section of Webopedia.
+
+facebook_account_settings
+Facebook account settings is a selection of options available to help Facebook users manage basic account preferences. Account settings  is where you edit or change your Facebook name, email contact details, change notifications preferences, activate Facebook mobile and turn on security features.
+
+
+
+facebook_app
+An interactive software application developed to utilize the core technologies of the Facebook platform to create an extensive social media framework for the app.  Facebook Apps integrate Facebook's News Feed, Notifications, various social channels and other features to generate awareness and interest in the app by Facebook users.   While it hasn't been possible to exchange real currency directly within Facebook Apps and Facebook Games, apps can utilize Facebook's Facebook Credits, a virtual currency that can be purchased (with actual money) in order to acquire virtual goods and services within Facebook apps and games.
+
+facebook_chat
+A free service that enables Facebook users to conduct instant message-based conversations with Facebook friends.  Upon the debut of Facebook Chat in 2008, the social networking site added a Chat sidebar that made it easy to initiate Facebook chats as well as Facebook Video Calling video chats.  Related definitions:  Facebook, Instant Messaging, instant messaging clients, Facebook Video Calling   Facebook Chats supports one-to-one chats as well as the ability to chat with multiple friends via the Facebook groups feature.  Most popular standalone instant messaging clients support Facebook Chat, including AOL Instant Messenger, Miranda IM, Pidgin, Skype, Trillian, Windows Live Messenger and Yahoo! Messenger. 
+Facebook also recently introduced a native desktop app for Windows users that enables users to conduct Facebook chats without the need to launch a Web browser and open Facebook.
+
+f-commerce
+In ecommerce terminology, Facebook commerce, or F-commerce, is a strategy that focuses on  developing or designing ecommerce content and storefront sites within the Facebook social networking site.
+Option 1: Create Your Own Facebook Commerce
+F-commerce can take the form of shopping tabs, which are part of a customized Facebook application that enables online retailers to publish a Facebook storefront with add-to-cart buttons on Facebook Business Pages.
+F-commerce can also apply to developing customized Facebook Applications that drive leads or sales to a company's online ecommerce site, or options for “liking” specific products by Facebook users to spread word-of-mouth interest in a company’s products or services.
+
+Facebook_Connect
+A type of data portability technology that enables users of the social networking site (SNS) Facebook to connect their Facebook account with any partner Web site using a trusted authentication method. Using Facebook Connect, members will be able to use their Facebook identity across the Web, including profile photos, name, friends, groups, events, and more. Facebook Connect also uses what the company calls "dynamic security" which ensures the privacy setting you use will also be used on the third-party Web sites.See "Social Networking Sites" in the Quick Reference section of Webopedia.
+
+facebook_credits
+A form of virtual currency in Facebook that can be purchased (with real money) in order to acquire virtual goods and services within a variety of Facebook Apps and Games.  Facebook credits can be purchased using a credit card, PayPal account, mobile phone, Facebook Credits gift card or one of more than eighty other payment methods, and the credits can be used on any game or app on Facebook that supports Facebook Credits.  For developers, Facebook Credits operate on a payment model similar to Apple's App Store and Google's Google Play (formerly Android Market) mobile app stores, with developers keeping 70% of the revenue generated from virtual goods transactions using Facebook Credits.  In a rather surprising move, Facebook announced in June 2012 that they would be phasing out the Facebook Credits system.  While the social networking site is dropping the Facebook Credits name, it plans to retain its payment processing system and will enable developers to use their own in-app virtual currencies instead of Facebook Credits as well as charge subscription fees for apps. 
+
+facebook_download_your_information_tool
+
+The Download Your Information ("Downloaded Info") tool on Facebook is a way to download a copy of your Facebook data including timeline info, posts, messages and photos shared on Facebook.
+On June 21, 2013 Facebook's Download Your Information tool became a controversial topic as Facebook reported that a bug may have inadvertently provided a person who used the Download Your Information tool with additional private information for Facebook friends – including email addresses and telephone numbers.
+Facebook Expanded Archive
+In addition to Downloaded Info, Facebook also provides users with options to obtain an Expanded Archive, which is in addition to your downloaded info, and contains even more account information including logins and cookies.
+
+
+Facebook_forced_invite
+On the Facebook social networking site, a forced invite is a term associated with Facebook applications. After installing some applications, users are then directed to a page where they are prompted to invite their Facebook friends to also install the application. Some applications require users to send these requests to successfully complete the installation of the application itself. In February 2008 Facebook updated its Facebook Platform Policy  stating that the application must present the user with a friend invite page that includes a Facebook-rendered Skip, Cancel, or Skip This Step button, or provide users with an alternative means to navigate off the friend invite page. Also see Social Networking Sites in the Quick Reference section of Webopedia.
+
+facebook_graph_search
+
+A search engine from Facebook that enables users to tap into the social network's vast database of information using natural language search phrases and terms. Facebook Graph Search gets its name from a blend of the terms social graphs and search engines, such as those made popular by companies like Google and Yahoo.  Facebook Graph Search uses proprietary algorithms that rely on the connections of a searcher's network of Facebook friends and the content they have liked and shared, and a natural language processor makes it simple for Facebook to input natural language search queries to access customized Graph Search results.
+
+
+Facebook_Group
+Facebook Groups are pages that you create within the  Facebook social networking site that are based around a real-life interest or group or to declare an affiliation or association with people and things. With a Facebook Group, you are creating a community of people and friends to promote, share and discuss relevant topics.   See "Social Networking Sites" in Webopedia's Quick Reference section. See also "How To Create a Facebook Group" in the Quick Reference section of Webopedia.
+
+facebook_home
+A collection of apps from Facebook that provides a stream of Facebook posts, photos and links on a smartphone's home screen or lock screen. By replacing the smartphone's standard home screen, Facebook Home brings the social network's most popular features to the forefront of a user's smartphone.
+While long rumored to be an actual smartphone from Facebook (i.e. Facebook Phone), Facebook Home instead officially launched as a free app for Android-powered smartphones. Facebook Home is being built in to some smartphones such as the HTC First, and it can be downloaded from the Google Play store for Android phones that don't already have Facebook Home pre-installed.  Facebook Home isn't currently available for Apple's iOS mobile operating system, but analysts report Facebook may be working with Apple to create a version for the iPhone.
+
+Facebook_Like
+An option on the Facebook Web site to provide feedback on the stories that appear in your friend's news feed. The Like option allows to to acknowledge a friend's news feed item in a positive way without needing to add actual commentary.
+
+Facebook_Mini_Feed
+)On the Facebook social networking site, a Mini-Feed is found in the top-right portion of your user profile. This Mini-Feed will provide details on new friends, new applications you have installed, messages sent by applications, and basically can report on any changes from an application that can be seen as a news event. You can mark some of these items as spam, and you can also control, to some extent, how much or how little detail is provided in your Mini-Feed through the application and privacy settings. Also see Social Networking Sites in the Quick Reference section of Webopedia. [Image: Screenshot showing a user's Facebook Mini-Feed]
+
+Facebook_News_Feed
+)On the Facebook social networking site, a News Feed is a list of updates on your own Facebook home page. The News Feed will show updates about those people who are in your friend's list, as well as the odd advertisement. The News Feed is actually a collection of events from your friend's own Mini-Feed that is intended to give you a quick look at what your friends have been doing on Facebook. [Image: Screenshot showing a user's Facebook News Feed] Also see Social Networking Sites in the Quick Reference section of Webopedia.
+
+facebook_phone
+A long-rumored smartphone project from Facebook that officially debuted in April 2013 not as a standalone mobile device but instead as a collection of Facebook apps for use on Android-powered smartphones. While still referred to by some pundits as Facebook Phone, Facebook's official moniker for the service is Facebook Home.
+Facebook Phone brings the social network's most popular features to the front and center of an Android user's smartphone, providing a stream of Facebook posts, photos and links on the phone's home screen or lock screen.   While Facebook is rumored to be working with Apple to create a version of Facebook Home for the iPhone, most believe that Facebook doesn't have any plans to create its own Facebook Phone mobile device.
+
+facebook_timeline
+Facebook Timeline is where you share your photos, posts and experiences on Facebook. On your Timeline you can add a cover photo, edit your personal information, view your Facebook activity log, highlight posts or images, update your Facebook status, share Facebook app activity and add new life events to your profile.
+
+
+facebook_video_calling
+A free service powered by Skype that enables Facebook users to conduct one-to-one video chats with other users.  There are no setup or additional software needed beyond installing a small Skype plug-in the first time the feature is used.
+With the debut of Facebook Video Calling new buttons were added to the Facebook interface to make it quick and simple to initiate video calls with Facebook friends.  Facebook Video Calling has also been integrated with the instant message-based Facebook Chat service.
+Related definitions:  Videoconferencing, video chat, Google Hangouts, Facebook Chat, FaceTime   Facebook Video Calling competes in the video chat category with Google Hangouts and Apple's FaceTime as well as with standalone video chat software from companies like Skype and ooVoo.  Unlike Google Hangouts, Facebook Video Calling doesn't currently support group video chats.
+
+Facebook_wall
+On the Facebook, social networking site a wall is a section in your profile where others can write messages to you or leave you gifts, which are icon-like small images. The wall is a public writing space so others who view your profile can see what has been written on your wall. Once you have received a wall message, you can respond directly back to the friend who left it using the "wall-to-wall" mode. There are variations of the wall available to Facebook users by installing Facebook applications, like "Super Wall". These types of applications will offer features and options not found in the standard Facebook wall. Also see Social Networking Sites in the Quick Reference section of Webopedia.
+
+faceosphere
+A loosely used slang term to describe the emerging  Facebook ecosystem of application developers, groups, bloggers, innovators and so on. Similar to the term blogosphere, faceosphere is used to describe the people and events connected both inside and outside of the popular social networking service,  Facebook.
+
+faceplate
+(1) Any type of metal or plastic plate designed to fit over a device or computer component to enhance the device's functionality or its looks. Cellphones, iPods and even handheld game devices are types consumer electronics that consumers can purchase faceplates for. These faceplates, usually snap on plates, can change the way the device looks, enabling consumers to change the design to better suit their own tastes and personalities. See also "The Difference Between a Cell Phone, Smartphone and PDA" in the "Did You Know..." section of Webopedia. (2) A motherboard plate, also called a faceplate, is a metal plate that fits over a motherboard's ports to supply a secure casing around the ports. A motherboard's faceplate helps keep the motherboard enclosed within a PC and helps prevent dust from accumulating on the motherboard. Some manufacturers provide faceplates with motherboards and others do not. Faceplates typically are installed into the back of a computer's case. 
+
+facetime
+A video telephone / video chat service somewhat similar to Skype and Google Hangouts that makes it possible to conduct one-on-one video calls between newer Apple iPhone, iPad, iPod touch and Mac notebooks and desktops.
+FaceTime Requires AppleID
+Apple's FaceTime service is free to use but does require an Apple ID and a Wi-Fi connection, although future versions of FaceTime may also work over 3G and/or 4G connections, and several apps are currently available that make FaceTime over a 3G connection possible on a jailbroken iPhone.
+FaceTime first debuted in the second half of 2010 on the iPhone 4, and currently supports the iPhone 4 and later, iPad 2 and later, the fourth generation iPod touch and later, and Macs with Mac OS X Snow Leopard (v10.6.6) and later installed.  Some FaceTime features, like 720p resolution, are only available on certain platforms such as newer MacBook Pros and iMacs.
+
+facilities_based_competition
+Facilities-based competition is often used in the telecommunications industry to describe competition between providers of the same or similar services,  but where the service is delivered by different or proprietary means or networks. For example a BPL provider competing with a cable TV network to provide broadband Internet service is considered to be facilities-based competition. Also called  infrastructure-based competition.
+
+fade_out
+In graphics and video editing, fade out is a term used to describe a transition effect where the image slowly disappears into a black. This usually indicated the end of a scene or the video. Fade out is a type of dissolve effect.
+
+fail_soft
+(adj.) Used to describe systems that are designed to terminate any nonessential processing when there are hardware or software failures. Systems in fail soft mode are still able to provide partial operational capability.  Compare with deadlock.
+
+Fail_Whale
+On the Twitter site, the Fail Whale is an image of a whale held up by birds and nets. This image shows that Twitter has been overloaded or failed. See "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+failover
+A backup operation that automatically switches to a standby database, server or network if the primary system fails or is temporarily shut down for servicing. Failover is an important fault tolerance function of mission-critical systems that rely on constant accessibility. Failover automatically and transparently to the user redirects requests from the failed or down system to the backup system that mimics the operations of the primary system.
+
+fair_dealing
+The U.K. and Canadian legal term for uses of content that are considered valid defenses to copyright infringement, such as for criticism and review, reporting of news or educational purposes; similar to fair use in U.S. but based more on legislation than on case law.
+
+fair_use
+A U.S. legal term for uses of content that are considered valid defenses to copyright infringement, such as for criticism or educational purposes. Fair use is based on case-law precedents derived from general principles. The term is often misapplied to refer to the reasonable expectations of consumers to be able to use purchased content on all owned devices.
+
+fairly_fast_packet_filter_FFPF
+Fairly fast packet filter (FFPF), an alternative platform for  network monitoring under Linux. It is a stream-based networking subsystem for Linux that spans from hardware to userspace to offer high-speed communication paths to all applications. It transparently supports specialized hardware resources and in-kernel processing through safe functional units. FFPF is licensed under the GNU Lesser General Public License (GPL). [Adapted from FFPF Web site]
+
+fake_copy_listings
+Refers to stealing or illegal republishing of Web content at a URL different than the original source. The goal of fake copy listings is to register that information with search engines. Unscrupulous companies do this in order to obtain better search engine rankings on specific keywords.
+
+false_acceptance
+(fâls ak-sep´t&ns) (n.) In biometrics, the instance of a security system incorrectly verifying or identifying an unauthorized person. Also referred to as a type II error, a false acceptance typically is considered the most serious of biometric security errors as it gives unauthorized users access to systems that expressly are trying to keep them out.
+The false acceptance rate, or FAR, is the measure of the likelihood that the biometric security system will incorrectly accept an access attempt by an unauthorized user. A system's FAR typically is stated as the ratio of the number of false acceptances divided by the number of identification attempts.
+Compare to false rejection.
+
+false_drop
+A search results page that is returned, but not relevant to the search query. This usually happens when the pages returned contain the keyword, but is in the wrong context or the page author has used a form of keyword stuffing on the page.
+
+false_positive
+(fâls poz´&-tiv) (n.) The condition in which spam-filtering software will incorrectly identify a legitimate, solicited or expected e-mail as a spam transmission. As spammers use more and more sophisticated methods of averting spam filters, the filters have to adapt to keep the onslaught of spam at bay. While sophisticated spam filters, such as the ones that use Bayesian filtering, are keeping out the overwhelming majority of spam e-mails, some spam still slips past the filters, and unfortunately some legitimate e-mail is incorrectly identified as spam and filtered out.
+
+FAMP
+Acronym for FreeBSD/Apache/MySQL/PHP, Python, (and/or) PERL The acronym FAMP refers to a set of free (open source) applications which are commonly used in Web server environments. The FAMP stack provides developers with the four key elements of a Web server:  an the operating system, database, Web server and Web scripting software. The combined usage of these programs is called a server stack. In this stack FreeBSD is the operating system (OS), Apache is the Web server, MySQL handles the database components, while PHP, Python, or PERL represents the dynamic scripting languages.
+
+Fantasound
+Fantasound refers to the proprietary surround sound system used by Disney in the 1940's for the movie "Fantasia". Disney's Fantasound technology created a surround sound field with left front, center front, right front, left rear and right rear channels. The main soundtrack incorporated only the front three channels; the two rear channels were recorded on a separate reel of film, and steered in separately when needed.
+
+FAQ
+Pronounced as separate letters, or as "fak," and short for frequently asked questions, a FAQ is an online documentthat poses a series of common questions and answers on a specific topic. FAQs originated in Usenet groups as a way to answer questions about the rules of the service. Today, there are FAQs on the Web for many topics, ranging from programming langauges to gardening tips.
+Frequently, FAQs are formatted as help files or hypertextdocuments.
+
+
+FAR
+(fâls ak-sep´t&ns) (n.) In biometrics, the instance of a security system incorrectly verifying or identifying an unauthorized person. Also referred to as a type II error, a false acceptance typically is considered the most serious of biometric security errors as it gives unauthorized users access to systems that expressly are trying to keep them out.
+The false acceptance rate, or FAR, is the measure of the likelihood that the biometric security system will incorrectly accept an access attempt by an unauthorized user. A system's FAR typically is stated as the ratio of the number of false acceptances divided by the number of identification attempts.
+Compare to false rejection.
+
+Fasgrolia
+Fasgrolia is the name for the fast -growing language of abbreviations, initialisms, and acronyms.  
+
+FAST_TCP
+A TCP variant. FAST TCP is an alternative congestion control algorithm in TCP, that is designed to sustain high throughput and utilization for high-speed data transfers over large distance (e.g., tens of gigabyte files across the Atlantic). The Fast TCP system being developed by Steven Low and colleagues at the California Institute of Technology. Current implementation is in TCP on the Linux platform, although the principles and design can be implemented in other contexts than TCP.
+
+FastIP
+An IP switching protocol developed by 3Com. Fast IP differs from other IP switching in that the end user initiates the process, not a router or switch. The end user establishes a layer 2 connection through source and destination MAC addresses. The originating device sends a packet over layer 3 to the router, which forwards the packet to the destination address, upon which the destination device returns a response using the sender��s layer 2 address. Once the direct connection has been established, the sending device can then send further data directly to the receiving device without having to hop through routers.
+
+FastTrack
+A peer-to-peer (P2P) file-sharing protocol that has been used by a number of P2P programs and applications, including Kazaa, for the exchange of MP3 files. When connected to the application, users do not communicate with each other. Instead, FastTrack user nodes connect to "supernodes" that index the files users have available for sharing and forward the traffic for downloading.
+
+file_allocation_table_FAT
+A table that the operating system uses to locate files on a disk. Due to fragmentation, a file may be divided into many sections that are scattered around the disk. The FAT keeps track of all these pieces.
+In DOS systems, FATs are stored just after the boot sector.
+The FAT system for older versions of Windows 95 is called FAT16, and the one for new versions of Windows 95 and Windows 98 is called FAT32.
+
+fat_client
+In a client/server architecture, a client that performs the bulk of the data processing operations. The data itself is stored on the server. See thin client for contrast.  Although the term usually refers to software, it can also apply to a network computer that has relatively strong processing abilities. 
+
+FAT12
+Also called 12-bit FAT, the file allocation table (FAT) for a floppy disk. The location of files on a floppy disk are listed in a one-column table in the FAT. Because the width of each entry in a floppy disk��s column is 12 bits, the FAT is called FAT12.  FAT12 supports disks up to 16MB.
+
+FAT32
+A version of the file allocation table (FAT) available in Windows 95 OSR 2 and Windows 98. FAT32 increases the number of bits used to address clusters and also reduces the size of each cluster. The result is that it can support larger disks (up to 2 terabytes) and better storage efficiency (less slack space).
+
+
+FATA
+Short for Fibre Channel ATA FATA is a hybrid hard drive first introduced by HP in 2004 that combines both  Fibre Channel and ATA technologies. FATA drives use an ATA drive mechanism, offering the same performance and capacity as a standard ATA drive, but also feature a Fibre Channel connector, which enables the FATA drive to be used where conventional Fibre Channel drives are currently connected.
+
+fatal_error
+An error that causes a program to abort. Sometimes a fatal error returns you to the operating system. When a fatal error occurs, you may lose whatever data the program was currently processing.  Contrast with fatal system error, an operating system-specific error.
+
+fatal_exception_error
+A type of program error that requires that the program responsible for the error be shut down. Software applications communicate with operating systems and other applications through layers of code. An exception is an error alert that communicates the problem across the layers. When an error is detected, the exception is sent through the layers of code one by one until code is found that can handle the error. If no code has been included in any layer of the program to handle the specific error, the exception will travel through all the layers, create a fatal exception error, terminate the application and may even shut down the operating system.  For example, a program may request that the operating system reserve a block of memory for the program's use. If the operating system is unable to honor the request - if the memory request is too large or if there is not enough available memory - it will send a memory exception to the layer that made the request. The exception will continue to travel through the layers until it is dealt with. If the program does not catch the exception, because the programmer did not write code to handle that particular exception, the exception makes its way to the top layer and the operating system recognizes it as an unhandled exception and shuts down the program, resulting in a fatal exception error. Well-designed software, however, handles all exceptions.
+
+fault_tolerance
+The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations -- that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over.
+
+
+favicon
+Short for favorite icon, a customized icon that is used by Microsoft Internet Explorer (IE) versions 5.0 and later. When a user bookmarks a specific Web page, that Web page loads a customized icon into the user's browser, typically a tiny version of a company or Web site's logo. The favicon is displayed next to the Web site's name in the Favorites list and can also be displayed in the Links toolbar. When a site has not created a favicon, IE will load the IE logo into the browser by default.  When a user bookmarks a page, the browser will request a favicon.ico file from the directory of the Web page. If such a file exists, then the Web page is using a favicon and will return the file to the browser.  A typical favicon is 16 x 16 pixels and uses only 16 colors.
+
+favorite_icon
+See favicon.
+
+fax
+(v) To send a document via a fax machine.  (n) (1) A document that has been sent, or is about to be sent, via a fax machine.  (2) Short for Facsimile machine.  
+
+fax_by_email
+The ability to send faxes through an email account (fax from email) and receive faxes as PDF attachments (fax to email) in an email inbox.   Sending or receiving a fax by email typically requires a service plan with an email fax company, but there are also some free fax by email options available.
+For more information see the Internet fax, IP faxing and fax over Internet Protocol terms in Webopedia. 
+
+fax_from_email
+The capability to send faxes through an email account. Sending a fax from email typically requires a service plan with an email fax company, but there are also some free fax from email options available.
+For more information see the fax to email, Internet fax, IP faxing and fax over Internet Protocol terms in Webopedia. 
+
+fax_machine
+Short for facsimile machine, a device that can send or receive pictures and text over a telephone line. Fax machines work by digitizing an image -- dividing it into a grid of dots. Each dot is either on or off, depending on whether it is black or white. Electronically, each dot is represented by a bit that has a value of either 0 (off) or 1 (on). In this way, the fax machine translates a picture into a series of zeros and ones (called a bit map) that can be transmitted like normal computer data. On the receiving side, a fax machine reads the incoming data, translates the zeros and ones back into dots, and reprints the picture.
+The idea of fax machines has been around since 1842, when Alexander Bain invented a machine capable of receiving signals from a telegraph wire and translating them into images on paper. In 1850, a London inventor named F. C. Blakewell received a patent for a similar machine, which he called a copying telegraph.
+But while the idea of fax machines has existed since the 1800s, fax machines did not become popular until the mid 1980s. The spark igniting the fax revolution was the adoption in 1983 of a standard protocol for sending faxes at rates of 9,600 bps. The standard was created by the CCITT standards organization and is known as the Group 3standard. Now, faxes are commonplace in offices of all sizes. They provide an inexpensive, fast, and reliable method for transmitting correspondence, contracts, r��sum��s, handwritten notes, and illustrations.
+
+fax_modem
+A device you can attach to a personal computer that enables you to transmit and receive electronic documents as faxes. A fax modem is like a regular modem except that it is designed to transmit documents to a fax machine or to another fax modem. Some, but not all, fax modems do double duty as regular modems. As with regular modems, fax modems can be either internal or external. Internal fax modems are often called fax boards.  Documents sent through a fax modem must already be in an electronic form (that is, in a disk file), and the documents you receive are likewise stored in files on your disk. To create fax documents from images on paper, you need an optical scanner.  Fax modems come with communications software similar to communications software for regular modems. This software can give the fax modem many capabilities that are not available with stand-alone fax machines. For example, you can broadcast a fax document to several sites at once. In addition, fax modems offer the following advantages over fax machines:  price: fax modems are less expensive. In addition, they require less maintenance because there are no moving parts. However, if you need to purchase an optical scanner in addition to the fax modem, there is no price advantage. convenience: fax modems are more convenient if the documents you want to send are already in electronic form. With a fax machine, you would first need to print the document. A fax modem lets you send it directly. speed: fax modems can almost always transmit documents at the maximum speed of 9,600 bps, whereas not all fax machines support such high data -transmission rates. image quality: The image quality of documents transmitted by fax modems is usually superior because the documents remain in electronic form.   The principal disadvantage of fax modems is that you cannot fax paper documents unless you buy a separate optical scanner, which eliminates any cost and convenience advantages of fax modems. Another problem with fax modems is that each document you receive requires a large amount of disk storage (about 100K per page). Not only does this eat up disk storage, but it takes a long time to print such files.  
+
+fax_to_email
+The capability to receive faxes as PDF attachments in your email inbox. Sending a fax to email typically requires a service plan with an email fax company, but there are also some free fax to email options available.
+For more information see the fax from email, Internet fax, IP faxing and fax over Internet Protocol terms in Webopedia. 
+
+FC_SAN
+Short for Fibre Channel Storage Area Network (SAN).See also Fibre Channel and SAN.
+
+FC-PGA
+Acronym for flip chip pin grid array. FC-PGA packages use chips that have been turned upside down and attached to the package or the board using solder balls instead of perimeter bonding wires. The solder balls are jointed directly to a set of solder balls on the substrate (the base layer of the chip and the electrical ground for the circuit). The exposed core rests on the actual package, and the chips make direct contact with the heat sink. This allows for more efficient cooling to take place. Since the chips are placed directly on the board, FC-PGA packages have a high I/O density and shorter electrical connections than other types of packaging. Compare to PPGA and PGA. 
+
+FCAPS
+Acronym for Fault, Configuration, Accounting, Performance, and Security, FCAPS is the key concept used to define the overall functionality of an enterprise management system. The idea of FCAPS stems directly from ITU.T recommendations that describes the five different types of information handled by management systems as the following:   Fault Management: alarm handling, trouble detection, trouble correction, test and acceptance, network recovery  Configuration Management: system turn-up, network provisioning, auto-discovery, back up and restore, database handling  Accounting Management: track service usage, bill for services  Performance Management: data collection, report generation, data analysis  Security Management: control NE access, enable NE functions, access logs  
+
+FCC
+Abbreviation of Federal Communications Commission. Among its duties in regulating public airwaves in the United States, the FCC is responsible for rating personal computers and other equipment as either Class A or Class B. The ratings indicate how much radiation a personal computer emits. Almost all personal computers satisfy Class A requirements, which means they are suitable for office use. Class B machines, which are suitable for use anywhere (including the home), must pass more stringent tests. Class B indicates that the machine's radio frequency (RF) emissions are so low that they do not interfere with other devices such as radios and TVs.  
+
+FCIP
+Short for Fibre Channel over IP, a network storage technology that combines the features of Fibre Channel and the Internet Protocol (IP) to connect distributed SANs over large distances.  FCIP encapsulates Fibre Channel and transports it over a TCP socket. FCIP is considered a tunneling protocol, as it makes a transparent point-to-point connection between geographically separated SANs over IP networks. FCIP relies on TCP/IP services to establish connectivity between remote SANs over LANs, MANs, or WANs. TCP/IP is also responsible for congestion control and management, as well as for data error and data loss recovery.  An advantage of FCIP is that it can use TCP/IP as the transport while keeping Fibre Channel fabric services intact.
+
+FCL
+Short for framework class library, the collective name for the thousands of classes that compose the .NET Framework. The services provided by the FCL include runtime core functionality (basic types and collections, file and network I/O, accessing system services, etc.), interaction with databases, consuming and producing XML, and support for building Web-based and desktop-based client applications, and SOAP-based XML Web services.
+
+FDDI
+)Abbreviation of Fiber Distributed Data Interface, a set of ANSI protocols for sending digital data over fiber optic cable. FDDI networks are token-passing networks, and support data rates of up to 100 Mbps (100 million bits) per second. FDDI networks are typically used as backbones for wide-area networks.
+An extension to FDDI, called FDDI-2, supports the transmission of voice and video information as well as data. Another variation of FDDI, called FDDI Full Duplex Technology (FFDT)uses the same network infrastructure but can potentially support data rates up to 200 Mbps.
+
+
+FDHD
+Short for floppy drive, high density, and pronounced fud-hud. FDHD refers to 3½-inch disk drives for Macintosh computers that can accept double-density or high-density 3½-inch floppy disks. FDHDs can also read DOS -formatted floppy disks, which enables Macintosh computers and PCs to share data. FDHD drives are often called SuperDrives.  
+
+fdisk
+A DOS and Windows utility that prepares a hard disk for formatting by creating one primary partition on the disk. 
+
+FDM
+Short for frequency division multiplexing, a multiplexing technique that uses different frequencies to combine multiple streams of data for transmission over a communications medium. FDM assigns a discrete carrier frequency to each data stream and then combines many modulated carrier frequencies for transmission. For example, television transmitters use FDM to broadcast several channels at once.  
+
+feathering
+In desktop publishing, feathering is the process of softening the edges of an image in the foreground so that it blends into the background image with less contrast.  
+
+feature
+(n.) A notable property of a device or software application. Many analysts bemoan the advent of featuritis-the seemingly endless addition of more and more features onto what was once a simple application. One of the principal challenges of modern applications is to offer a multitude of features without making the application complex.
+ 
+
+feature_creep
+A term used in software development to refer to a software project release being delayed due to the additions of features that were not included in the original design plan or development goals. See also related term creeping featurism.
+
+FEC
+Short for forward error correction, a method of communicating data that corrects errors in transmission on the receiving end. Prior to transmission, the data is put through a predetermined algorithm that adds extra bits specifically for error correction to any character or code block. If the transmission is received in error, the correction bits are used to check and repair the data.
+
+FECN
+Short for forward explicit congestion notification. A Frame Relay message that notifies the receiving device that there is congestion in the network. A FECN bit is sent in the same direction in which the frame was traveling, toward its destination.  Compare with BECN.
+
+FED
+Short for Field Emission Display, it is a flat-panel display where a grid of electron emitters are controlled by cold cathodes to generate color light. FEP technology combines  flat panel technology with the high quality of a CRT display but requires less power than a CRT. This technology was first announced by Candescent Technologies under the name "ThinCRT", but in 2004, Candescent filed for bankruptcy. Presently PixTech, Inc. is one company using FED technology.
+
+Federal_Internet_Exchange
+Abbreviated as FIX, a physical location that serves as the connection point between U.S. federal government agency networks, such as those used by NASA, the Department of Energy and military agencies.  There are two FIXes, each named for the coast on which they reside: FIX East (FIX-E), located in College Park, Maryland (at the University of Maryland); and FIX West (FIX-W), located in Mountain View, California (at the NASA Ames Research Center).
+
+Federated_Identity_Manager
+Abbreviated as FIM, IBM's Tivoli Federated Identity Manager is a model for managing identity and providing resource access. Federated Identity Manager can span companies or security domains to provide identities access to information and services without replicating identity and security administration at both companies. Operating systems supported include AIX, HP Unix, Linux, Windows and z/OS.
+
+federated_network_identity
+A network identity scheme involving multiple repositories of identities instead of a central logical identity repository.
+
+federation
+In instant messaging, federated IM networks are those that allow communications across different IM clients and platforms, similar to the way e-mail allows people to communicate regardless of which e-mail client they choose to use. Federated IM networks are those which maintain an open directory that allows other IM networks to message their users.  Many federated IM networks communicate using an open standard, such as Jabber/XMPP. IM Networks using XMPP provide open communications with other XMPP-based networks. Some federated networks work on the basis of interoperability where the software from two or more vendors share data between the different proprietary platforms.
+
+fedora
+Fedora is a Linux operating system distribution developed and supported by the Fedora Project, an open source community formed in 2003 as a partnership between Red Hat and volunteer contributors. Red Hat Enterprise Linux branches for commercial use are based on Fedora, while the open source Fedora Linux OS itself is freely available for use and customization.
+The most recent release of Fedora Linux, Fedora 18, debuted in January 2013 and is nicknamed the "Spherical Cow." Fedora 18 utilizes GNOME 3.6.3 for its desktop interface and includes, among its other new features and additions, UEFI Secure Boot support, KDE 4.9, Xfce 4.10, improved Active Directory support, and the OpenStack Folsom open source cloud platform.  Fedora 19, nicknamed "Schrödinger's Cat," is currently in development and is expected to make its debut in July 2013.
+
+feed
+A Web document that is a shortened version of a Web page that has been created for syndication. Feeds usually end in .xml or .rss.
+
+feed_aggregator
+In Internet technology it is software or a hosted application that collects feeds from various sources and displays it in a  single consolidated view, either in a window on your desktop or in a Web browser. Also called feed aggregator or RSS aggregator.
+
+feed_validator
+An RSS feed validator is used to test an RSS document (also called an RSS feed) to check your code for errors. If the validator finds any problems with your feed, it will highlight where the problem occurs to help you fix it. To use a feed validator you must upload your RSS feed to a Web server, then enter the URL into the feed validator. Two of the more popular online feed validators are FEED Validator and RSS Validator. See also "How to Create an RSS Feed" in the  Quick Reference section of Webopedia.  
+
+FEMMA
+Short for Foldable Electronic Memory Module Assembly, it is the trademarked product name of Kentron Technologies' low profile memory modules. FEMMA is utilized in the 1U and blade server platforms, and other markets where space and height constraints are at a minimum.
+
+femtocell
+In telecommunications, a femtocell is a small cellular base station  or a wireless  access point  that is typically used to improve indoor cellular reception inside a home or small business. A femtocell connects to the carrier's network via broadband and can support up to five mobile phones. The main benefits to using femtocell technology is an overall increase in call quality and an increase of indoor cellular coverage.  Femtocells are usually compatible with CDMA2000,WiMAX, and UMTS devices. May also be called a home base station or known by its older name of access point base station.
+
+FEP
+Short for front end processor, the FEP is a computer that handles input and output communications for large mainframe computer which reduces the load on the computer. A FEP is also called a communications controller.
+
+ferrite_core
+A form of core memory for data storage. The core is made of tiny ferrite rings threaded with wires that are magnetized by electrical current. The two possible polarities of magnetization were used to represent the binary values zero and one. Data are stored by magnetizing an array of cores in a particular combination of zeros and ones. Data are retrieved by sending electrical pulses to the specific array of cores holding the desired information. The pulses reverse the direction of magnetization in the cores, including output signals corresponding to the stored data.  This form of memory storage began in the 1950s and was widely used up through the 1970s. Core memory, which made forms of memory such as the magnetic drum obsolete, was rendered obsolete by semiconductor memory.
+
+ferrofluid
+(n.) A fluid in which fine particles of iron, magnetite or cobalt are suspended, typically in an oil. A ferrofluid is superparamagnetic and can create liquid seals held in position by magnetic fields. One application of ferrofluids is to keep dust off of the drive shafts of magnetic disk drives.  Ferrofluids were invented by NASA as a way to control the flow of liquid fuels in space.
+
+fetch
+To load an instruction or piece of data from memory into a CPU's register. All instructions must be fetched before they can be executed. The time it takes to fetch an item is known as the fetch time or fetch cycle, and is measured in clock ticks. 
+
+fetch_cycle
+See under instruction cycle.
+
+FFPF
+Fairly fast packet filter (FFPF), an alternative platform for  network monitoring under Linux. It is a stream-based networking subsystem for Linux that spans from hardware to userspace to offer high-speed communication paths to all applications. It transparently supports specialized hardware resources and in-kernel processing through safe functional units. FFPF is licensed under the GNU Lesser General Public License (GPL). [Adapted from FFPF Web site]
+
+FHSS
+Acronym for frequency-hopping spread spectrum. FHSS is one of two types of spread spectrum radio, the other being direct-sequence spread spectrum. FHSS is a transmission technology used in LAWNtransmissions where the data signal is modulated with a narrowband carrier signal that "hops" in a random but predictable sequence from frequency to frequency as a function of time over a wide band of frequencies. The signal energy is spread in time domain rather than chopping each bit into small pieces in the frequency domain. This technique reduces interference because a signal from a narrowband system will only affect the spread spectrum signal if both are transmitting at the same frequency at the same time. If synchronized properly, a single logical channel is maintained.
+The transmission frequencies are determined by a spreading, or hopping, code. The receiver must be set to the same hopping code and must listen to the incoming signal at the right time and correct frequency in order to properly receive the signal. Current FCCregulations require manufacturers to use 75 or more frequencies per transmission channel with a maximum dwell time (the time spent at a particular frequency during any single hop) of 400 ms.
+
+
+fiber_optics
+A technology that uses glass (or plastic) threads (fibers) to transmit data. A fiber optic cable consists of a bundle of glass threads, each of which is capable of transmitting messages modulated onto light waves.
+Fiber optics has several advantages over traditional metal communications lines:
+
+Fiber optic cables have a much greater bandwidth than metal cables. This means that they can carry more data.
+
+Fiber optic cables are less susceptible than metal cables to interference.
+
+Fiber optic cables are much thinner and lighter than metal wires.
+
+Data can be transmitted digitally (the natural form for computer data) rather than analogically.
+
+
+Fibonacci_numbers
+A series of whole numbers in which each number is the sum of the two preceding numbers. Beginning with 0 and 1, the sequence of Fibonacci numbers would be 0,1,1, 2, 3, 5, 8, 13, 21, 34, etc. using the formula n = n(-1) + n(-2), where the n(-1) means "the last number before n in the series" and n(-2) refers to "the second last one before n in the series."  In computer programming, Fibonacci numbers give a model for designing recursive programming algorithms where the time for any routine is the time within the routine itself, plus the time for the recursive calls.  The Fibonacci numbers were originally defined by the Italian mathematician Fibonacci, also known as Leonardo da Pisa, in the 13th century to model the growth of rabbit populations.
+
+Fibre_channel
+A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FC-AL).
+FC-AL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fiber to connect devices, FC-AL supports full-duplex data transfer rates of 100MBps. FC-AL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
+ 
+
+FCoE
+FCoE stands for Fibre Channel over Ethernet. It solves the problem of organizations having to run parallel network infrastructures for their local area networks (LANs) and their storage area networks (SANs). As a result, they have to operate separate switches, host bus adapters (HBAs), network interface cards (NICs) and cables for each of these networks. Even utilizing a virtualization solution like VMware can actually increase the number of network adapters required to carry traffic out of the servers.
+FCoE Reduces Cards and Cabling
+With so many NICs, HBAs, switches and cables to deal with, both capital and operational costs to run a data center can increase significantly. FCoE represents a way to drastically reduce the number of cards, switches, adapters and assorted cabling by running LANs and SANs over the same infrastructure. According to analyst firm Enterprise Strategy Group (ESG), FCoE works out considerably cheaper to deploy than traditional networks due to reduced hardware costs.
+To look at it another way, FCoE is a standard for using the Fibre Channel (FC) protocol (which is the mainstay of the SAN) over Ethernet networks (the mainstay of the computer networks, both wired and wireless). FCoE provides a way to transport FC SAN traffic over Ethernet, eliminating the need for a separate storage network.
+
+FICON
+Short for Fiber Connection, or Fiber Connectivity, IBM��s fiber optic channel technology that extends the capabilities of its previous fiber optic channel standard, ESCON. Unlike ESCON, FICON supports full duplex data transfers and enables greater throughput rates over longer distances. FICON uses a mapping layer that is based on technology developed for Fibre Channel and multiplexing technology, which allows small data transfers to be transmitted at the same time as larger ones. IBM first introduced the technology in 1998 on its G5 servers.
+
+field
+)
+ (1) A space allocated for a particular item of information. A tax form, for example, contains a number of fields: one for your name, one for your Social Security number, one for your income, and so on. In database systems, fields are the smallest units of information you can access. In spreadsheets, fields are called cells.
+Most fields have certain attributes associated with them. For example, some fields are numeric whereas others are textual, some are long, while others are short. In addition, every field has a name, called the field name.
+
+FIF
+Short for Fractal Image Format, a graphics file format from Iterated Systems, Inc. that uses fractal geometry to compress images. (Fractals are structures possessing similar-looking forms of many different sizes. They can be used to create any real-world object, like a mountain or a cloud, provided it doesn't correspond to a simple geometric shape.) These fractals can be expressed in mathematical terms, allowing an entire image to be recorded as repeated patterns. This can reduce the file size to 1/100th of a pixellated version. 
+
+file
+(n.) A collection of data or information that has a name, called the filename. Almost all information stored in a computer must be in a file. There are many different types of files: data  files, text files  , program   files, directory   files, and so on. Different types of files store different types of information. For example, program files store programs, whereas text files store text.
+
+
+file_compression
+See under data compression and packed file.  
+
+File_Control_Block_FCB
+FCB (File Control Block) is an internal file system structure used in DOS for accessing files on disk. The FCB block contains information about the drive name, filename, file type and other information that is required by the system when a file is accessed or created.
+
+File_eXchange_Protocol
+File eXchange Protocol (FXP) allows you to copy files from one FTP server to another FTP server (two remote hosts) using an FXP client. FXP removes the middle step of transferring files from one FTP server to your local machine then to the second FTP server. The data transfer rate is also independent of your own Internet connection speed as it is based on the connection speed between the two hosts, which is usually faster than a user's own Internet connection. Since FXP provides a direct connection between the two hosts, users are unable to see standard FTP information in their client software such as transfer progress and connection speed. Usually you will see only a successful or failed transfer message. To use FXP, the remote servers must support  PASV mode and allow PORT commands to foreign hosts.
+
+file_extension
+See extension.
+
+file_format
+A format for encoding information in a file. Each different type of file has a different file format. The file format specifies first whether the file is a binary or ASCII file, and second, how the information is organized.
+Webopedia's Complete List of Data File Formats and File Extensions makes it quick and easy to sift through thousands of file extensions and data file formats to find exactly what you need.  You can peruse the full list or search for data formats and file extensions based on the letter they start with from the table below.   
+
+
+
+Number  	Symbol  	A  	B  	C  	D  	E  	F  	G  	H  	I  	J  	K  	 L  	M  	N  	O  	P  	Q  	R  	S  	T  	U  	V  	W  	X  	Y  	Z  	Full List
+ 
+
+file_handle
+A number that the operating system assigns temporarily to a file when it is opened. The operating system uses the file handle internally when accessing the file. A special area of main memory is reserved for file handles, and the size of this area determines how many files can be open at once. In DOS and Windows, you can set the maximum number of open files with the FILES= statement in CONFIG.SYS. 
+
+file_infecting_virus
+A type of computer virus that inserts its malicious code into executable files on a system. When the infected file is opened or used the virus may overwrite the file and cause permanent damage to the content of the overwritten file. This type of virus targets a large range of operating systems, including Macintosh, UNIX, DOS, and Windows. Also see The Difference Between a Virus, Worm and Trojan Horse in the Did You Know? section of Webopedia. 
+
+file_management_system
+)Also referred to as simply a file system or filesystem. The system that an operating system or program uses to organize and keep track of files. For example, a hierarchical  file system  is one that uses directories to organize files into a tree structure.
+Although the operating system provides its own file management system, you can buy separate file management systems. These systems interact smoothly with the operating system but provide more features, such as improved backup proceduresand stricter file protection.
+
+
+File_Replication_service
+Abbreviated as FRS, File Replication service is a multithreaded, multiple-master replication engine in Microsoft Windows NT versions 3.x and 4.0. Windows 2000-based domain controllers and servers use FRS to replicate system policies and logon scripts for Windows 2000-based and earlier clients. The File Replication service replaces the LAN Manager Replication (LMREPL) service.  See also "How To Use File Replication Service File and Folder Filters in Windows 2000" from Microsoft Help and Support.
+
+File_Scripting_Object
+Abbreviated as FSO, In Microsoft Access the File Scripting Object is used to manage files.
+
+File_System_Object
+Abbreviated as FSO, the File System Object is a tool commonly used to access the computer file system and also to manage file, folders and drives.
+
+file-level-storage
+File-level storage is the predominant storage technology used on hard drives, network-attached storage (NAS) systems and similar storage systems. File-level storage stands in contrast to block-level storage in that individual files and folders can be accessed and managed by the storage system, whereas the smaller storage blocks that make up the files and folders cannot be directly controlled.
+File-level storage is simple to implement and use, and it’s also less expensive to manage than block-level storage, which are key reasons for its popularity in terms of use on home computers and in smaller business systems.
+File-Level Storage vs. Block-Level Storage
+Block-level storage, on the other hand, is frequently deployed by larger businesses and enterprises in storage area networks (SANs) and similar large-scale storage systems. With block-level storage, each block can be controlled as an individual hard drive, and the blocks are typically managed by a server-based operating system.
+
+filename
+The name of a file. All files have names. Different operating systems impose different restrictions on filenames. Most operating systems, for example, prohibit the use of certain characters in a filename and impose a limit on the length of a filename. In addition, many systems, including DOS and UNIX, allow a filename extension that consists of one or more characters following the proper filename. The filename extension  usually indicates what type of file it is.  Within a single directory, filenames must be unique. However, two files in different directories may have the same name. Some operating systems, such as UNIX and the Macintosh operating system, allow a file to have more than one name, called an alias. (In Unix, aliases are called links or symbolic links.)  See the Data Formats and Their File Extensions page in the quick reference section of Webopedia for a list of file extensions and the programs they coincide with.
+
+fill
+)(1) In graphics applications, to paint the inside of an enclosed object. Typically, you can choose a color and pattern, and then paint the object with a fill tool. The area that is painted is called the fill area.  (2) In spreadsheet applications, to copy the contents of one cell to an entire range of cells -- that is, to fill the range with a formula or value.  
+
+fill_handle
+In Microsoft Excel, fill handle is a command that lets you fill data in to your spreadsheet cells, that is based on a pattern you establish. For example, you can use this command to continue a series of numbers, text combinations, or dates.
+
+fillrate
+In 3D graphics, a fillrate is the rate of speed at which your graphics card can render pixels. The fillrate is measured in millions of pixels (megapixels) per second. A graphics card with a higher fillrate will be able to display higher resolutions and also more colors at higher  frame rate than a GPU with a lower fillrate. May also be written as fill rate.
+
+filter
+(1) A program that accepts a certain type of data as input, transforms it in some manner, and then outputs the transformed data. For example, a program that sorts names is a filter because it accepts the names in unsorted order, sorts them, and then outputs the sorted names.
+Utilities that allow you to import or export data are also sometimes called filters.
+(2)A pattern through which data is passed. Only data that matches the pattern is allowed to pass through the filter.
+
+FIMA
+Acronym for Financial Services Instant Messaging Association,  FIMA is made up of a number of leading Financial Institutions from both the buy-side and sell-side, and is open to any banking organization that would like to participate. FIMA is dedicated to understanding and promoting the instant messaging requirements of the financial services industry and to promote standardization and interoperability between and among IM products and services in the many ways interoperability can be achieved.
+
+Final_Cut_Pro
+A nonlinear editing system that allows users to edit video. Created by Apple Computer, Final Cut Pro allows you to edit everything from digital video, IMX and uncompressed SD to HDV, XDCAM HD, DVCPRO HD and uncompressed HD.
+
+Financial_Information_Exchange
+Abbreviated as FIX, a vendor-neutral standardized message format protocol for describing real-time security transactions. FIX is a public-domain specification owned and maintained by FIX Protocol, Ltd. The protocol supports the following electronic conversations between brokers and other financial institutions: Equity order submissions, cancellations and replacements Equity execution reporting Equity order statusing Equity trade allocation Indication of interest communication Completed trade advertisements Directed e-mail and news messaging  FIX is similar to OFX in that the two protocols are used to communicate financial information. However, OFX is focused more on retail transactions and is a query-response protocol much like HTTP while FIX is focused on institutional business and is a connected session-based protocol.
+
+financial_malware
+A term loosely used to describe the growing trend of malicious software (malware) that has been designed to scan a computer system or entire network for information related to financial transactions. Information gleaned by the financial is then transmitted back to a third-party controlling the malicious program.
+
+financial_software
+Financial software is typically described as any type of computer software designed to help individuals or corporations manage finances and business ledger and other accounting needs.
+Financial software can track financial accounts, categorize income and expenses, synchronize transactions with banks and credit card companies, pay bills online, work with budgets, track and analyze investments, create financial and tax-related reports, and provide at-a-glance snapshots of a financial net worth.
+
+
+Finder
+The desktop management and file management system for Apple Macintosh computers. In addition to managing files and disks, the Finder is responsible for managing the Clipboard and Scrapbook and all desktop icons and windows.  
+
+Finger
+A UNIX program that takes an e-mail address as input and returns information about the user who owns that e-mail address. On some systems, finger only reports whether the user is currently logged on. Other systems return additional information, such as the user's full name, address, and telephone number. Of course, the user must first enter this information into the system. Many e-mail programs now have a finger utility built into them.
+ 
+ 
+
+fingerprint_template
+In biometrics, a fingerprint template is the name used to describe a stored file in a fingerprint scanning system. When a fingerprint is entered in to the system, only a "template" of the fingerprint is stored, not an image of the fingerprint. A fingerprint template is smaller than the actual fingerprint image and using the template instead of an image makes for faster processing time.
+ 
+See  "How Fingerprint Scanners Work" in the ""Did You Know..." section of Webopedia. See also  "How Biometrics Security Works" in the "Did You Know..." section of Webopedia.
+
+fire-os
+A highly customized variant of Google's Android mobile operating system developed by Amazon to power its Fire line of entertainment products, which includes the Kindle Fire tablets, the Fire Phone smartphone, and the Fire TV entertainment set-top box.
+Differences Between Fire OS and Android
+While Fire OS's foundation is Android, there are some significant differences between the two mobile operating systems. Most notably, Fire OS utilizes Amazon-specific apps and services instead of Google's, including the Silk Browser web browser rather than Google Chrome, the Amazon Appstore in place of Google Play, Cloud Player and Cloud Drive as opposed to Google Drive, and Amazon’s e-mail client over Google's Gmail.  The most recent version of the Fire OS, version 3.5.0, is based on the 4.4.2 release of the "KitKat" Android mobile OS.
+
+fire-phone
+A smartphone designed by Amazon to compete with phones like the iPhone, Windows Phones and other Android-based smartphones. The Amazon Fire Phone joins several other products in Amazon's Fire lineup, including the Kindle Fire tablets and the Fire TV entertainment set-top box.
+Proprietary Features Offered by the Amazon Fire Phone
+Some of the unique features touted by Amazon for the Fire Phone include Dynamic Perspective, a custom-designed sensor system that responds to a user's actions; Firefly technology for identifying items and information on printed and web content and quickly accessing additional details for these items (as well as links to purchase them through Amazon); Mayday, Amazon's live on-device video connection to an Amazon expert for support; and Second Screen for sending video content from a Fire Phone to a Fire TV.
+Specs for the initial Amazon Fire Phone release include a 2.2 GHz quad-core Snapdragon 800 processor, 2 MB of RAM, a 4.7-inch HD ultra-bright (590 nits) display, and a 13 megapixel advanced camera system with support for 1080p video. The Amazon Fire Phone is powered by Amazon's Fire OS 3.5.0 mobile operating system, which is a highly customized version of Google’s "KitKat" Android mobile OS.
+
+fire-tv
+An entertainment set-top box from Amazon developed to compete with other streaming video offerings like Apple TV, Google Chromecast and Roku. Amazon's Fire TV costs $99 for the set-top box, and a video game controller add-on can be purchased for $39.99.
+
+
+
+Firebird
+Firebird is a RDBMS offering many ANSI SQL standard features that run on Linux, Windows and a variety of Unix platforms. Firebird offers concurrency, high performance and powerful language support for stored procedures and triggers. Firebird is open source and as such, it is completely free of any registration, licensing or deployment fees. It may be deployed freely for use with any third-party software, whether commercial or not. The Firebird Project is a commercially independent project of C and C++ programmers, technical advisors and supporters developing and enhancing a multi-platform relational database management system based on the source code released by Inprise Corp (now known as Borland Software Corp) on 25 July, 2000. It has been used in production systems, under a variety of names, since 1981.
+
+Firefox
+Firefox is a free, open source Web browser for Windows, Linux and Mac OS X. It is based on the Mozilla code base and offers customization options and features such as its capability to block pop-up windows, tabbed browsing, privacy and security measures, smart searching, and RSS live bookmarks. See "What Do Temporary Internet Files Do? " in the "Did You Know..." section of Webopedia.  See also "How to Deal With Pop-Ups" in the "Did You Know..." section of Webopedia.  See also"All About Cookies and You " in the "Did You Know..." section of Webopedia.
+
+firefox_os
+A complete, standalone operating system developed for the open Web with a primary focus as an open source mobile OS for mobile and tablet devices.   Mozilla's Firefox OS project started out under the name of Boot to Gecko and, like Google's Chrome OS platform, is based on the Linux operating system at its core.   The Firefox OS emphasizes HTML 5 technology to go along with device capabilities like SMS and Bluetooth support.  It's also optimized for low-end hardware and will be provided to manufacturers for free, helping these companies produce mobile devices that balance a high degree of functionality with low cost.  The first batch of mobile devices running Firefox OS is expected to debut in early 2013.
+
+firesheep
+A Firefox extension  that was designed to demonstrate the serious issue of HTTP session hijacking (sidejacking).  Many websites allow its users to submit a username and password on-site, and  then after checking for matching account information, the server replies back  with a cookie that  will be used by your Web  browser for all subsequent requests. The cookie in this scenario is  vulnerable to HTTP session hijacking. The Firesheep Firefox extension is designed to illustrate how easy  this sensitive information can be sidejacked and to  encourage website owners to offer more secure login-ins, such as full end-to-end  encryption (HTTPS or SSL).
+Firesheep was designed by    Eric Butler, a freelance web application and software  developer in Seattle, WA.
+See also "10  Ways to Protect Yourself from Firesheep Attacks" on eSecurityPlanet.
+
+firewalking
+(fīr´wâk-ing) (n.) Developed by Mike Schiffman and David Goldsmith, a technique for testing the vulnerability of a firewall and mapping the routers of a network that sits behind a firewall. Firewalking is a method of disguising port scans. In practical applications, firewalking is similar to tracerouting and works by sending into the firewall TCP or UDP packets that have a TTL set at one hop greater than the targeted firewall. If the packet makes it through the gateway, it is forwarded to the next hop where the TTL equals zero and elicits a TTL "exceeded in transit" message, at which point the packet is discarded. Using this method, access information on the firewall can be determined if successive probe packets are sent.  Other forms: firewalk (v.)
+
+firewall
+A firewall is a system designed to prevent unauthorized access to or from a private network. Firewalls can be implemented in both hardware and software, or a combination of both.
+How are Firewalls Used?
+Firewalls are frequently used to prevent unauthorized Internet users from accessing private networks connected to the Internet, especially intranets. All messages entering or leaving the intranet pass through the firewall, which examines each message and blocks those that do not meet the specified security criteria.
+Hardware and Software Firewalls
+Firewalls can be either hardware or software but the ideal firewall configuration will consist of both. In addition to limiting access to your computer and network, a firewall is also useful for allowing remote access to a private network through secure authentication certificates and logins.
+
+Firm_Order_Commitment
+A telecommunications term used to signify an installation date for telecommunication services such as a DSL, ISDN, or T1 line. Also used for number porting between service providers.
+
+firmware
+Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs and EPROMs that have data or programs recorded on them are firmware.
+ 
+
+first_sale_doctrine
+A legal principle that limits a rightsholder's rights to control content after it has been sold for the first time. According to first sale doctrine, lawful ownership of an item, such as a music CD or a book, is not the same as owning the copyright of the item. The owner of the item may lend, resell, give away and or/destroy the copyrighted item but is not granted the right to copy the item in its entirety. The transfer of the copy does not include the transfer of the content's copyright. The legal principle applies to physical items as well as digital content that is downloaded over the Internet.
+
+firstplay
+In video editing, firstplay is the first track played on a DVD video or film. Usually it is a short video clip displaying logos, such as Dolby Digital and other company logos, or an FBI warning. Contrast with extro, the last clip on a disc.
+
+fishbowl_virtual_reality
+Fishbowl virtual reality or fishbowl VR refers to virtual reality environments that are viewed on a computer system, rather than projection or holographic displays. Analogous to users watching a  computer monitor as one would watch a fishbowl. Also called desktop virtual reality or desktop VR.
+
+FIX
+(1) Short for Financial Information Exchange.  (2) Short for Federal Internet Exchange.
+
+fixed_length
+Having a set length that never varies. In database systems, a field can have a fixed or a variable length. A variable-length field is one whose length can be different in each record, depending on what data is stored in the field.  The terms fixed length and variable length can also refer to the entire record. A fixed-length record is one in which every field has a fixed length. A variable-length record has at least one variable-length field.   
+
+Fixed_Mobile_Convergence
+Abbreviated as FMC or F/MC, Fixed Mobile Convergence is the term used to describe integrated connectivity between fixed and wireless telecommunications network. Fixed Mobile Convergence is used by carriers to provide a seamless switching between a cellular and local networks for mobile users.
+In the enterprise, the goal of FMC is to provide business users with one phone number for business calls, while being able to access corporate applications and data in a variety of ways, via a variety of networks. To be a seamless connection, FMC would address network-based solutions, owned and run by the wireless operator; on-premise software that essentially provides a gateway between corporate data and the public network; and hybrids, third-party software built in partnership with the carrier that adds a layer of mobility software between the enterprise and the carrier. 
+
+fixed_pitch
+)Refers to fonts in which every character has the same width. Most typewriters and inexpensive printers use fixed-pitch fonts. Newspapers, magazines, and books, however, usually use proportional fonts, in which different characters have different widths.  The use of a fixed-pitch font is called monospacing.   
+
+fixed_service_satellite
+Abbreviated as FSS, a fixed service satellite is a type of satellite used for services such as telephone calls, and television signals for broadcasting. Fixed service satellite generally have a low power output and larger dish-style antennas are required for reception. Fixed service satellites have less power than  direct broadcasting satellites (DBS).
+
+fixed_wireless
+Fixed wireless refers to wireless devices or systems that are situated in fixed locations, such as an office or home, as opposed to devices that are mobile, such as smartphones and tablets. Fixed wireless devices normally derive their electrical power from utility mains, as opposed to portable wireless devices that normally derive their power from batteries.
+The point-to-point signal transmissions occur through the air over a terrestrial microwave platform rather than through copper or fiber cables; therefore, fixed wireless does not require satellite feeds or local phone service. The advantages of fixed wireless include the ability to connect with users in remote areas without the need for laying new cables and the capacity for broad bandwidth that is not impeded by fiber or cable capacities.
+Another name for fixed wireless is wireless local loop (WLL).
+
+fixed_frequency_monitor
+A monitor that can only accept signals in one frequency range. In contrast, multiscanning monitors automatically adjust themselves to the frequency at which data is being sent.  Also see Northern vs. Southern Hemishpere Monitors in the Did You Know . . . ? section of Webopedia. 
+
+FLAC
+Short for Free Lossless Audio Codec, a free codec developed by Xiph.org and used to compress audio files. FLAC is similar to MP3 except that it is lossless (the decoded audio is identical to what went into the encoder and is verified with a 16-bit CRC). None of FLAC��s encoding/decoding methods are covered by patents, so the extensible source code is available under open-source licenses. FLAC is supported by most operating systems
+.
+
+flag
+(n) (1) A software or hardware mark that signals a particular condition or status. A flag is like a switch that can be either on or off. The flag is said to be set when it is turned on.
+(2) A special mark indicating that a piece of data is unusual. For example, a record might contain an error flag to indicate that the record consists of unusual, probably incorrect, data.
+(v) To mark an object to indicate that a particular event  has occurred or that the object marked is unusual is some way.
+
+flame
+1. (n.) A searing e-mail, bulletin board or newsgroup message in which the writer attacks another participant in overly harsh, and often personal, terms. Flames are an unfortunate, but inevitable, element of unmoderated conferences.
+(v.) To post a flame.
+2. (n.) A highly sophisticated strain of malware also known as Flamer or Skywiper that was discovered in 2012 by Kaspersky Lab. 
+
+flame_malware
+An extremely sophisticated strain of malware that shares similarities with Stuxnet, although Flame is much more massive in terms of complexity and size, at 30MB or larger when all modules have been installed vs. Stuxnet's 500KB. Also known as Flamer or Skywiper, Flame was discovered by Kaspersky Lab following a significant increase in infected systems in Iran and other countries in the Middle East and North Africa over the past two years.  After infecting a computer or device, Flame spies on the machine's activity and steals data from it with keystroke monitoring and packet sniffing functionality as well as backdoor capabilities that enable cyber attackers to update the malware and trigger it or erase it as desired. The Flame malware features multiple levels of encryption as well as more than 20 different modules and plug-ins that can be swapped in and out for added functionality. One unique characteristic of Flame is that some of its code has been written in LUA, a programming language typically used for developing games rather than malware.  Additional distinctive characteristics of Flame include scanning for Bluetooth-enabled devices in order to steal data and infect the devices with the Flamer malware, the ability to turn on a computer's internal microphone in order to secretly record conversations, and code for taking frequent screenshots of activity such as e-mail and instant messages and secretly uploading the screenshots to "command and control" servers.  As with Stuxnet, security experts believe that Flame is so sophisticated and well-coordinated that it likely was created and conducted with "nation-state support" rather than by typical cyber criminals, although no countries have taken responsibility for the malware to date.
+
+flame_bait
+Another word for trolling.  See also flame.
+
+flame_war
+In online forums and other online discussion spaces, a flame war is a series of flame posts or messages in a thread that are considered derogatory in nature or are completely  off-topic. Often these flames are posted for the sole purpose of offending or upsetting other users. The flame becomes a flame war when other users respond to the thread with their own flame message.
+
+Flash
+A bandwidth friendly and browser independent vector-graphic animation technology. As long as different browsers are equipped with the necessary plug-ins, Flash animations will look the same.
+With Flash, users can draw their own animations or import other vector-based images.
+Flash was known as FutureSplash until 1997, when Macromedia Inc. bought the company that developed it.
+
+flash_memory
+A special type of EEPROM that can be erased and reprogrammed in blocks instead of one byte at a time. Many modern PCs have their BIOS stored on a flash memory chip so that it can easily be updated if necessary. Such a BIOS is sometimes called a flash BIOS. Flash memory is also popular in modems because it enables the modem manufacturer to support new protocols as they become standardized. Flash memory is also called flash RAM.
+See also "Different Types of Memory Cards" in the "Did You Know...?" section of Webopedia.
+
+
+flash_RAM
+Another word for flash memory.
+
+flash_storage
+Flash storage describes any device or system that uses flash memory. It's a broad term that can describe anything from a simple USB flash drive to a complex enterprise system that uses flash memory ("flash RAM") as part of the storage system.
+Flash Storage in the Enterprise
+In the enterprise, NAND, a type of flash technology, is changing fundamentals in computing and storage systems and flash memory in the enterprise is believed to reduce energy consumption of storage systems. Unlike a physical hard disk drive (HDD) , NAND do not require as much space and SSDs built with NAND technology provide a high level of performance in enterprise storage systems.
+Flash Storage in Consumer Technology
+In consumer technology, mobile devices, including phones, digital cameras, music players and tablets also rely heavily on flash-based storage.  These devices use flash chips instead of a hard drive for storage.
+
+FlashPix
+A format for storing digital images, especially digital photographs, developed by Eastman Kodak Company. FlashPix offers a number of unique features, including:  the ability to store various resolutions of an image in a single file use of Microsoft's OLE structured storage format, which enables developers to extend the format  built-in linking support so that different applications can link to the same image in different ways built-in support for digital watermarks    Currently, FlashPix is not supported by most imaging software.   
+
+flat_file
+In databases a flat file refers to data files that contain records with no structured relationships. Flat files may contain only basic formatting, have a small fixed number of fields, and it may or may not have a file format.
+
+flat_file_system
+A system of organizing files in an operating system in which all files are stored in a single directory. In contrast to a hierarchical file system, in which there are directories and subdirectories and different files can have the same name as long as they are stored in different directories, in a flat file system every file must have a different name because there is only one list of files. Early versions of the Macintosh and DOS operating systems used a flat file system. Today's commercial operating systems use a hierarchical file system.  Flat file system should not be confused with flat file.
+
+flat_technology_monitor
+Often abbreviated as FTM, flat technology monitors are monitors that have a flat display screen to reduce glare. Conventional display screens are curved, which makes them more susceptible to reflections from external light sources.  Do not confuse flat technology monitors with flat-panel displays. Flat-panel displays are the display screens used in laptops and other portable computers.   
+
+flat_file_database
+A relatively simple database system in which each database is contained in a single table. In contrast, relational database systems can use multiple tables to store information, and each table can have a different record format.
+
+
+flat_panel_display
+A very thin display screen used in portable computers. Nearly all modern flat-panel displays use LCD technologies. Most LCD screens are backlit to make them easier to read in bright environments.  
+
+flatbed_scanner
+A type of optical scanner that consists of a flat surface on which you lay documents to be scanned. Flatbed scanners are particularly effective for bound documents.   
+
+Flexbook
+Derived from the words "flexibility" and "textbook", Flexbook is a free open source textbook platform that can be used to build and edit collaborative textbooks. Flexbook is an open-content, web-based collaborative model that enables educators to customize content by repurposing what needs to be taught while adhering to the local education standards. Flexbook is maintained by the CK-12 Foundation, a non-profit organization with a goal of reducing the cost of textbook materials for the K-12 market both in the U.S. and worldwide.
+
+Flexible_Service_Processor
+Abbreviated as FSP, this is an acronym associated with IBM eServers and other IBM systems. The Flexible Service Processor (FSP) is firmware that provides diagnostics, initialization, configuration, run-time error detection and correction. FSP is what connects the managed system to the Hardware Management Console (HMC).
+
+flick
+The term used to describe a quick finger movement across an iPhone screen that will quickly let you scroll through lists of songs, e-mails or pictures.  See also "iPhone and iPhone 3G b . What's The Difference?" in Webopedia's Did You Know...? section.
+
+flight_mode
+Flight mode is a feature in many mobile phones and PDAs that allows you to use basic operations of the device while the transmitting function is switched off. This enables passengers on airplanes to use the device in-flight, provided the device was switched to flight mode before take-off. In flight mode, users cannot perform some functions such as SMS or make phone calls. Flight mode is also called airplane mode, offline mode, or standalone mode.
+
+flip_flop
+(n.) Also referred to as a bistable gate, a type of circuit that is interconnected with like circuits to form logic gates in digital integrated circuits, such as memory chips and microprocessors. The name "flip-flop" comes from the circuit��s nature of alternating between two states when a current is applied to the circuit (for example, 1 to 0 or 0 to 1). A flip-flop will maintain its state indefinitely until it receives an input pulse, called a trigger, which forces it to alternate its state. Once the circuit changes state it remains in that state until another trigger is received.
+
+floating
+(adj.) In graphical user interfaces, floating refers to application elements that you can move to different places. Many applications support floating toolbars, which are collections of icons that represent tools. By moving them wherever you want on the screen, you can create your own customized working environment. In addition to toolbars, many graphics  programs support floating palettes.  
+
+floating_point_number
+A real number (that is, a number that can contain a fractional part). The following are floating-point numbers:
+3.0
+-111.5
+
+flocculation
+(v.) to form flocculent masses; form aggregated or compound masses of particles. In printer terminology, flocculation is the clumping of pigment particles in an ink formulation. This often leads to problems with ink nozzles clogging and the print cartridge not printing.
+
+flog
+Slang term used to mean fake Web log (blog). A flog is usually a blog that is used for marketing one's own service or product. These flogs will usually contain content that is written by a paid individual within a company or corporation, and the content may consist of biased reviews and other self-promoting content. See "The History of Blogging" in the  Quick Reference section of Webopedia.
+
+floodgater
+Slang term used to describe a person who sends multiple  e-mails of which the receiver has little or no real interest in reading. The term is derived from the phrase "being flooded with e-mail".
+
+Flooding
+Flooding is a Denial of Service (DoS) attack that is designed to bring a network or service down by flooding it with large amounts of traffic. Flood attacks occur when a network or service becomes so weighed down with packets initiating incomplete connection requests that it can no longer process genuine connection requests. By flooding a server or host with connections that cannot be completed, the flood attack eventually fills the host��s memory buffer. Once this buffer is full no further connections can be made, and the result is a Denial of Service.See also DoS Attack.
+
+floppy_disk
+)A soft magnetic disk. It is called floppy because it flops if you wave it (at least, the 5��-inch variety does). Unlike most hard disks, floppy disks (often called floppies or diskettes) are portable, because you can remove them from a disk drive. Disk drives for floppy disks are called floppy drives. Floppy disks are slower to access than hard disks and have less storagecapacity, but they are much less expensive. And most importantly, they are portable.
+Floppies come in three basic sizes:
+
+8-inch:The first floppy disk design, invented by IBM in the late 1960s and used in the early 1970s as first a read-only format and then as a read-write format. The typical desktop/laptop computer does not use the 8-inch floppy disk.
+5��-inch: The common size for PCs made before 1987 and the predecessor to the 8-inch floppy disk. This type of floppy is generally capable of storing between 100K and 1.2MB (megabytes) of data. The most common sizes are 360K and 1.2MB.
+3��-inch: Floppy is something of a misnomer for these disks, as they are encased in a rigid envelope. Despite their small size, microfloppies have a larger storage capacity than their cousins -- from 400K to 1.4MB of data. The most common sizes for PCs are 720K (double-density) and 1.44MB (high-density). Macintoshes support disks of 400K, 800K, and 1.2MB.
+
+
+floppy_drive
+Short for floppy disk drive (FDD), a disk drive that can read and write to floppy disks.  
+
+FLOPS
+Short for floating-point operations per second, a common benchmark measurement for rating the speed of microprocessors. Floating-point operations include any operations that involve fractional numbers. Such operations, which take much longer to compute than integer operations, occur often in some applications.  Most modern microprocessors include a floating-point unit (FPU), which is a specialized part of the microprocessor responsible for executing floating-point operations. The FLOPS measurement, therefore, actually measures the speed of the FPU. One of the most common benchmark tests used to measure FLOPS is called Linpack.  Many experts feel that FLOPS is not a relevant measurement because it fails to take into account factors such as the condition under which the microprocessor is running (e.g., heavy or light loads) and which exact operations are included as floating-point operations. For this reason, a consortium of vendors created the Standard Performance Evaluation Corporation (SPEC), which provides more meaningful benchmark values.  A megaFLOPS (MFLOPS) is equal to one million floating-point operations per second, and a gigaFLOPS (GFLOPS) is equal to one billion floating-point operations per second. A teraFLOPS (TFLOPS) is equal to one trillion floating-point operations per second.
+
+floptical
+A type of disk drive technology that uses a combination of magnetic and optical techniques to achieve greater storage capacity than normal floppy disks without sacrificing access speeds.  
+
+flow
+In desktop publishing, to insert a body of text into a document such that it wraps (or flows) around any objects on the page.  
+
+flow_control
+(1) In communications, the process of adjusting the flow of data from one device to another to ensure that the receiving device can handle all of the incoming data. This is particularly important where the sending device is capable of sending data much faster than the receiving device can receive it.  There are many flow control mechanisms. One of the most common flow control protocols for asynchronous communication is called xon-xoff. In this case, the receiving device sends a an xoff message to the sending device when its buffer is full. The sending device then stops sending data. When the receiving device is ready to receive more data, it sends an xon signal.  Flow control can be implemented in hardware or software, or a combination of both.  (2) In programming, the statements and other constructs that control the order in which operations are executed. For example, common looping statements such as for��next and while are known as flow control statements. Branching statements, such as if��then are also part of a programming language's flow control mechanism. 
+
+fluid_aspect_oriented_programming
+Fluid aspect-oriented programming, or fluid AOP, involves the ability to temporarily shift a program (or other software model) to a different structure to do some piece of work with it, and then shift it back.*[Source: The Fun Has Just Begun (PDF)]
+
+flush
+(adj) Aligned along a margin. For example, text that is flush left is aligned along the left margin. Flush-right text is aligned along the right margin. The opposite of flush is ragged. Text that is both flush left and flush right is said to be justified.  (v) To copy data from a temporary storage area such as RAM to a more permanent storage medium such as a disk.   
+
+FLWOR
+(pronounced flower) It is an acronym for For-Let-Where-Order-Return. The main engine of XQuery is the FLWOR expression.
+
+fly_through
+In virtual reality environments, fly through is movement of an object or model through a predefined path.
+
+Flynns_taxonomy
+First proposed by Michael J. Flynn in 1966, Flynn's  taxonomy is a specific classification of parallel computer architectures that are based on the number of concurrent  instruction (single or multiple) and data streams  (single or multiple) available in the architecture. The four categories in Flynn's taxonomy are the following:  (SISD) single instruction, single data (MISD) multiple instruction, single data (SIMD) single instruction, multiple data  (MIMD) multiple instruction, multiple data  
+
+FMD_ROM
+ Introduced by Constellation 3D Inc. (C3D), Fluorescent Multi-Layer Disc holds up to 140 GB of data. This is currently 215 times greater than a CD-ROM (.65 GB) and 23 times greater than a DVD-ROM (6 GB).   FMD-ROM discs contain fluorescent materials embedded in the pits and grooves of all 10+ layers. When in contact with a laser, the fluorescent materials are stimulated to produce coherent and incoherent light; data is stored in the incoherent light.   Because the technology isn't based on reflection, multiple layers are read at the same time.   With minor re-tooling, FMD-ROM discs are compatible with existing CD-ROM and DVD-ROM drives. Likewise, FMD-ROM drives are backward compatible, accepting CDs and DVDs. 
+
+FOC
+A telecommunications term used to signify an installation date for telecommunication services such as a DSL, ISDN, or T1 line. Also used for number porting between service providers.
+
+focal_length
+In digital photography and digital video recording, the focal length refers to the size of the image and angle of  field of view as seen by the camera through the lens. This is the center of the lens to the image pickup device. 
+
+focal_plane
+(1) The focal plane represents the area in a camera where light is focused. In digital cameras and digital video recorders the CCD rests on the focal plane.  (2) A  focal plane shutter is a type of photographic shutter used in 35mm SLR cameras. It is positioned behind the lens and slightly in front of the focal plane.
+
+focus_ring
+A ring on the lens of a  camera that can be rotated to allows users to manually focus the camera.
+
+fog-computing
+Fog computing is a term created by Cisco that refers to extending cloud computing to the edge of an enterprise's network. Also known as Edge Computing or fogging, fog computing facilitates the operation of compute, storage and networking services between end devices and cloud computing data centers.
+Cisco introduced its fog computing vision in January 2014 as a way of bringing cloud computing capabilities to the edge of the network and as a result, closer to the rapidly growing number of connected devices and applications that consume cloud services and generate increasingly massive amounts of data.
+By handling these services that make up the Internet of Things (IoT) at the network edge, data can in many cases be processed more efficiently than if it needed to be sent to the cloud for processing.
+
+FoIP
+(1) Short for fax over Internet protocol.(2) Short for Fraud over Internet Protocol.
+
+folder
+In graphical user interfaces such as Windows and the Macintosh environment, a folder is an object that can contain multiple documents. Folders are used to organize information. In the DOS and UNIX worlds, folders are called directories.
+
+
+follower
+On Twitter, blogs, and other social media sites, a follower is someone who subscribes to receives your updates."See "Cool Twitter Tools for Better Tweeting" in the Did You Know...? section of Webopedia.See also "Social Media Tips for Online Marketing Plus 30 Social Media Sites" in the Did You Know...? section of Webopedia.
+
+FOMC
+Online chat acronym for "falling off my chair". FOMC is commonly used in newsgroups/a>, chat rooms, instant messaging,  text messaging, SMS, e-mail and other real time text-based communications. See also "Text Messaging Abbreviations" in the Quick Reference section of Webopedia for definitions to hundreds of frequently used chat abbreviations.
+
+FON
+FON is the name of a Wi-Fi community that uses social routing; its members share their wireless access and in return can freely use Wi-Fi when they find another Fonero's Access Point. These access points are provided by other FOM members.  FON is a  peer-to-peer approach to Wi-Fi. To offer a FON Access Point you must use a 54 Mbps wireless router, called La Fonera, which is available from FON. Those who belong to the FON community are called "Foneros" Within the group of Foneros there are three basic levels of membership:   Linuses: those who share their Wi-Fi and in return can get free Wi-Fi when using a FON Access Point. Aliens: those who do not share their own WiFi but pay a fee to use a Fonero Access Point.  Bills: those who make money from their Wi-Fi. Linuses earn a percentage of the fees that Aliens pay to use FON.   There is some controversy about FON and its services that mainly arise around the legal issues associated with Internet Service Providers (ISPs). Some Internet users who are Linuses members may be breaking their ISP terms of agreement as their ISP may not allow its users to share their Wi-Fi connections or resell their bandwidth.
+
+font
+)A design for a set of characters. A font is the combination of typeface and other qualities, such as size, pitch, and spacing. For example, Times Roman is a typeface that defines the shape of each character. Within Times Roman, however, there are many fonts to choose from -- different sizes, italic, bold, and so on. (The term font is often used incorrectly as a synonym for typeface.)
+The height of characters in a font is measured in points, each point being approximately 1/72 inch. The width is measured by pitch, which refers to how many characters can fit in an inch. Common pitch values are 10 and 12. A font is said to be fixed pitch if every character has the same width. If the widths vary depending on the shape of the character, it is called a proportional font.
+Most applications that support text enable you to choose from among many fonts. Laser, ink-jet, and dot-matrix printers offer the widest selection of fonts. These printers support a certain set of resident fonts, but you can expand this set by loading different fonts from software (soft fonts) or from font cartridges.
+
+font_cartridge
+A ROM cartridge that contains one or more fonts. By inserting the cartridge into a laser printer, you give the printer the ability to print different fonts. Another way to load fonts into a printer is to download them from the computer's  storage device.  
+
+font_family
+A set of fonts all with the same typeface, but with different sizes, weights and slants.  
+
+foobar
+Foobar is a universal variable understood to represent whatever is being discussed.
+It's usually used in examples that illustrate concepts and ideas in computer science.
+ 
+
+footer
+One or more lines of text that appear at the bottom of every page of a document. Once you specify what text should appear in the footer, the application automatically inserts it.  Most applications allow you to use special symbols in the footer that represent changing values. For example, you can enter a symbol for the page number, and the application will replace the symbol with the correct number on each page. If you enter the date symbol, the application will insert the current date, which will change if necessary each time you print the document.  You can usually specify at least two different footers, one for odd-numbered pages (odd footer) and one for even-numbered pages (even footer).  A footer is sometimes called a running foot.   
+
+footprint
+The amount of floor or desk space required by a device. For example, a small-footprint computer is a computer whose dimensions (width and depth) are relatively small.  Footprint can also refer to the amount of disk space required by an application. 
+
+force-touch
+Force Touch is a feature developed by Apple that senses the level of force exerted on a touchpad or similar display surface, and responds accordingly. Force Touch uses tiny electrodes around the display to distinguish between taps and harder presses, and then provides a specific action or contextually specific controls based on the force of the input.
+The software that manages the Force Touch feature can, for example, play a Quicktime video faster on the screen if the user presses harder than a light tap, which would play the video at regular speed. On the Apple Watch, Force Touch delivers additional functionality such as providing controls in apps like Messages and Music when the user presses firmly on the Watch display.
+Force Touch on Apple Devices and for Developer Use
+Force Touch first arrived on Apple's 2015 Apple MacBook notebooks, followed by the initial debut of the Apple Watch. The Force Touch feature is also expected to be included in the late 2015 release of the Apple iPhone 6S and iPhone 6S Plus.
+
+forced_page_break
+A page break that you explicitly insert. The application cannot override a forced page break. Forced page breaks are sometimes called hard  page breaks.   
+
+ford_sync
+Ford SYNC is an "in-vehicle infotainment" system available on newer Ford vehicles that provides drivers with touchscreen input and voice-activated controls for hands-free operation of the car's media components as well as mobile smartphones via Bluetooth technology or a USB cable. 
+Features in Ford SYNC include support for receiving SMS text messages and audibly reading the messages to the driver, a map-based navigation system with traffic alerts, full compatibility with USB-connected MP3 players and smartphones, support for running smartphone apps via SYNC AppLink, vehicle health reports and more.
+The more advanced SYNC with MyTouch Ford (and MyTouch Lincoln) system adds full Wi-Fi capabilities with hotspot connectivity, an eight-inch color touch screen and enhanced voice-activated support, with the ability to recognize over 10,000 voice commands.
+
+foreground
+(n.) (1) In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.  (2) On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.   
+
+Foreign_Interface_Harness
+Abbreviated as FIH, Foreign Interface Harness is a port that enables Hewlett-Packard (HP) multifunction printers (MFP) to use third party devices to extend the capabilities of the MFP. Using the FIH with third-party equipment allows you to track information about copies produced on an HP Digital Copy module. Additionally the FIH can also expand the MFP capabilities by adding additional fonts, forms, barcode printing, and other features. To use the FIH you first have to install the FIH software for compatible MFPs.
+
+forest
+A collection of one or more domain trees with a common schema and implicit trust relationships between them. This arrangement would be used if you have multiple root DNS addresses.
+
+fork
+To split source code into different development directions. Forking leads to the development of different versions of a program. Forking often occurs when the development of a piece of open source code has reached an impasse. The project is forked so that the code can be developed independently in different ways with different results.
+
+forklift_upgrade
+A slang term used to describe a major upgrade or overhaul to a system or network. A forklift upgrade is considered a large-scale upgrade where large parts of the existing infrastructure must be overhauled. A forklift upgrade requires investing in or buying new hardware, and possibly the hiring or contracting of on-site technicians to complete. In today's world of technology, this term is often used in discussions relating to large-scale businesses and enterprises upgrading their existing PBX telephone system and telephones with a new VoIP system and IP phones.  The term forklift upgrade is not a new term. It actually originated during the time of large mainframe computers, where the only way to upgrade was to remove the old machine and bring a completely new one in on a forklift.
+
+form
+A formatted document containing blank fields that users can fill in with data. With paper forms, it is usually necessary for someone to transfer the data from the paper to a computer database, where the results can then be statistically analyzed. Some OCR systems can do this automatically, but they're generally limited to forms containing just check boxes. They can't handle handwritten text.
+Electronic forms solve this problem by entirely skipping the paper stage. Instead, the form appears on the user's display screen and the user fills it in by selecting options with a pointing device or typing in text from the computer keyboard. The data is then sent directly to a forms processing application, which enters the information into a database.
+Electronic forms are especially common on the World Wide Web because the HTML language has built-in codes for displaying form elements such as text fields and check boxes. Typically, the data entered into a Web-based form is processed by a CGI program.
+
+form_factor
+The physical size and shape of a device. It is often used to describe the size of circuit boards.  Also see  From AT to BTX: Motherboard Form Factors  in Webopedia's "Did You Know...?" section.
+
+form_feed
+(1) Printers that use continuous paper normally have a form feed button or command that advances the paper to the beginning of the next page.  (2) A special character that causes the printer to advance one page length or to the top of the next page. In systems that use the ASCII character set, a form feed has a decimal value of 12. Form feed is sometimes abbreviated FF.  
+
+format
+(v.) (1) To prepare a storage medium, usually a disk, for reading and writing. When you format a disk, the operating system erases all bookkeeping information on the disk, tests the disk to make sure all sectors are reliable, marks bad sectors (that is, those that are scratched), and creates internal address tables that it later uses to locate information. You must format a disk before you can use it.
+Note that reformatting a disk does not erase the data on the disk, only the address tables. Do not panic, therefore, if you accidentally reformat a disk that has useful data. A computer specialist should be able to recover most, if not all, of the information on the disk. You can also buy programs that enable you to recover a disk yourself.
+The previous discussion, however, applies only to high-level formats, the type of formats that most users execute. In addition, hard disks have a low-level format, which sets certain properties of the disk such as the interleave factor. The low-level format also determines what type of disk controller can access the disk (e.g., RLL or MFM).
+
+Format_Painter
+A number of Microsoft Office programs, including Excel, PowerPoint, Publisher and Word offer the pre-defined Format Painter tool. Format Painter is used when you want to copy formatting from one item to another. For example if you have written text in Word, and have it formatted using a specific font type, color, and font size you could copy that formatting to another section of text by using the Format Painter tool.
+
+forms_processing
+An imaging application for handling printed forms. Forms processing systems often use OCR engines and data validation routines to extract hand-written or printed information from forms that go into a database.
+
+forms_software
+A type of program that enables you to design and fill in forms on a computer. Most forms packages contain a number of sample forms that you can modify for your own purposes. Newer forms software packages enable you to publish a form on the Internet so that anyone with Internet access can fill it out. 
+
+formula
+(1) An equation or expression.  (2) In spreadsheet applications, a formula is an expression that defines how one cell relates to other cells. For example, you might define cell C5 (column C, row 5) with the formula  =A4*D7  which means to multiply the value in cell A4 by the value in cell D7. 
+
+Formula_Bar
+A toolbar at the top of the Microsoft Excel  spreadsheet window that you can use to enter or copy an existing formula in to cells or charts. It is labeled with function symbol (fx). By clicking the Formula Bar, or when you type an equal (=) symbol in a cell, the Formula Bar will activate.  See also formula.
+
+FORTRAN
+Acronym for formula translator, FORTRAN is the oldest high-level programming language. Designed by John Backus for IBM in the late 1950s, it is still popular today, particularly for scientific applications that require extensive mathematical computations.
+The two most common versions of FORTRAN are FORTRAN IV and FORTRAN 77. FORTRAN IV was approved as a USASI standard in 1966. FORTRAN 77 is a version of FORTRAN that was approved by ANSI in 1978 (they had expected to approve it in 1977, hence the name). FORTRAN 77 includes a number of features not available in older versions of FORTRAN. A new ISO and ANSI standard for FORTRAN, called FORTRAN-90, was developed in the early 90s.
+
+
+forum
+An online discussion group. Online services and bulletin board services (BBS's) provide a variety of forums, in which participants with common interests can exchange open messages. Forums are sometimes called newsgroups  (in the Internet world) or conferences. 
+
+forward
+Forward is an option found in an e-mail client, which allows you to forward a received e-mail to another recipient. The e-mail will be sent with the body of the e-mail showing as "quoted text". Recipients of a forwarded e-mail can usually tell the e-mail is a forward. Some clients will place the letters "FWD" in front of the Subject field.
+
+forward_chaining
+In  artificial intelligence (AI) systems, forward chaining refers to a scenario where the AI has been provided with a specific problem must "work forwards" to figure out how to solve the set problem. To do this, the AI would look back through the rule-based system to find the "if" rules and determine which rules to use.  See also rule-based system. Contrast with backward chaining.
+
+forward_explicit_congestion_notification
+See FECN.
+
+forward_slash
+The forward slash character is /. Now more commonly referred to as the "forward slash", this character was first called an oblique.
+
+FOSS
+Acronym for Free or Open Source Software. FOSS programs are those that have licenses that allow users to freely run the program for any purpose, modify the program as they want, and also to freely distribute copies of either the original version or their own modified version.   One major reason for the growth and use of FOSS technology (including LAMP) is because users have access to the source so it is much easier to fix faults and improve the applications. In combination with the open license, this simplifies the development process for many enterprises and gives them flexibility that simply isn't available within the confines of a proprietary or commercial product.   Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+
+Four_Channel_Discrete
+Four Channel Discrete uses two stereo or four identical amplifiers to produce sound. This system was used in the late 1950's to early 1960's and was quite expensive - and the sound reproduction was not suited to LP's and turntables of the day. Quadraphonic sound lost the battle during this time as another sound reproduction technology called quadraphonic sound became more popular.
+
+FourCC
+Short for four character code, FourCC is a sequence of four byte characters that identifies data formats. The the FourCC of a video tells Windows that codec the video contains. FourCC is most commonly associated as the identifier for Microsoft's AVI format, however FourCC is used by other formats as well. Examples of registered FOURCC codes include the following:  CC12 (Intel Corporation) Intel YUV12 codec DIVX (DivXNetworks, Inc.) DivX video codec.  DXTC (Microsoft Corporation) DirectX texture compression.  JPEG (Microsoft Corporation) Still image JPEG.  MP2V (Media Excel Inc.) MPEG-2 video.  YU92 (Intel Corporation) YUV format.  
+
+fourth_generation_language
+Often abbreviated 4GL, fourth-generation languages are programming languages closer to human languages than typical high-level programming languages. Most 4GLs are used to access databases. For example, a typical 4GL commandis
+FIND ALL RECORDS WHERE NAME IS "SMITH"
+The other four generations of computer languages are
+
+FPGA
+Short for Field-Programmable Gate Array, a type of logic chip that can be programmed. An FPGA is similar to a PLD, but whereas PLDs are generally limited to hundreds of gates, FPGAs support thousands of gates. They are especially popular for prototyping integrated circuit designs. Once the design is set, hardwired chips are produced for faster performance.
+
+
+FPM_RAM
+Short for Fast Page Mode RAM, a type of Dynamic RAM (DRAM) that allows faster access to data in the same row or page. Page-mode memory works by eliminating the need for a row address if data is located in the row previously accessed. It is sometimes called page mode memory.  FPM RAM is being replaced by newer types of memory, such as SDRAM. 
+
+fps
+(1) (pronounced as separate letters) Short for frames per second (and typically written in lower case), a measure of how much information is used to store and display motion video. The term applies equally to film video and digital video. Each frame is a still image; displaying frames in quick succession creates the illusion of motion. The more frames per second (fps), the smoother the motion appears. Television in the U.S., for example, is based on the NTSC format, which displays 30 interlaced frames per second (60 fields per second). In general, the minimum fps needed to avoid jerky motion is about 30. Some computer video formats, such as AVI, provide only 15 frames per second.
+(2) Capitalized, FPS is short for first-person shooter, a game genre. FPS games are ones that are in the first-person perspective where the gamer can only see the character's hands holding a weapon on the screen.
+Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+FPU
+Short for floating-point unit, a specially designed chip that performs floating-point calculations. Computers equipped with an FPU perform certain types of applications much faster than computers that lack one. In particular, graphics applications are faster with an FPU.  Some microprocessors, such as the Intel 80486 and Pentium, have a built-in FPU. With other microprocessors, you can usually add an FPU by inserting the FPU chip on the motherboard.  Floating-point units are also called numeric coprocessors , math coprocessors , and floating-point processors .   
+
+FQDN
+ A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.webopedia.com is a fully qualified domain name. www is the host, webopedia is the second-level domain, and.com is the top level domain.   A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN. 
+
+fractal
+)A word coined by Benoit Mandelbrot in 1975 to describe shapes that are "self-similar" -- that is, shapes that look the same at different magnifications. To create a fractal, you start with a simple shape and duplicate it successively according to a set of fixed rules. Oddly enough, such a simple formula for creating shapes can produce very complex structures, some of which have a striking resemblance to objects that appear in the real world. For example, graphics designers use fractals to generate images of mountainous landscapes, coastlines, and flowers. In fact, many of the computer -generated images that appear in science fiction films utilize fractals.  
+
+fraction_ridge
+)In biometrics and fingerprint scanning, fraction ridge refers to the ridges found on the skin of fingers and palms that make contact with a surface under normal touch.  The friction ridges combined make up a fingerprint. Image Source: "See How Fingerprint Scanners Work" See  "How Fingerprint Scanners Work" in the ""Did You Know..." section of Webopedia. See also  "How Biometrics Security Works" in the "Did You Know..." section of Webopedia. * Image Source: "See How Fingerprint Scanners Work"
+
+fractional_T_1
+One or more channels of a T-1 service. A complete T-1 carrier contains 24 channels, each of which provides 64 Kbps. Most phone companies, however, also sell fractional T-1 lines, which provide less bandwidth but are also less expensive. Typically, fractional T-1 lines are sold in increments of 56 Kbps (the extra 8 Kbps per channel is used for data management).  
+
+FRAD
+Short for Frame Relay Assembler/Disassembler, a communications device that breaks a data stream into frames for transmission over a Frame Relay network and recreates a data stream from incoming frames. A Frame Relay router serves the same purpose but provides more intelligence in avoiding congestion. 
+
+frag
+Frag is a commonly used term in first-person shooter game. When you kill an opponent in the game you call it a "frag" rather than kill. The term frag is commonly associated with multiplayer deathmatch games. The word frag was first used in the Vietnam war, but there is some discrepancies as to the meaning of word from this time. Some references point to it being used to describe a soldier who was brutally killed by a grenade, while other resources state "to frag" is a term used in wartimes to describe the use of a fragmentation grenade "to cool the ardor of any officer or NCO too eager to make contact with the enemy". See also deathmatch.Also see  All About Multiplayer PC Gaming in Webopedia's "Did You Know...?" section.
+
+fragmentation
+(1) Refers to the condition of a disk in which files are divided into pieces scattered around the disk. Fragmentation occurs naturally when you use a disk frequently, creating, deleting, and modifying files. At some point, the operating system needs to store parts of a file in noncontiguous clusters. This is entirely invisible to users, but it can slow down the speed at which data is accessed because the disk drivemust search through different parts of the disk to put together a single file.
+In DOS 6.0 and later systems, you can defragment a disk with the DEFRAG command. You can also buy software utilities, called disk optimizers or defragmenters,that defragment a disk.
+See "Learn How to Defrag Your Hard Drive" in the Did You Know...? section of Webopedia.
+
+FRAM
+(1) Short for Ferroelectric Random Access Memory, a type of non-volatile memory developed by Ramtron International Corporation. FRAM combines the access speed of DRAM and SRAM with the non-volatility of ROM. Because of its high speed, it is replacing EEPROM in many devices. The term FRAM itself is a trademark of Ramtron.  (2) Slang tern used to describe e-mail spam that is sent to you by family, friends or any person that you know personally. See "Getting Rid of Spam" and "All About Spam, Spim and Spit" in the Did You Know section of Webopedia.
+
+frame
+(1) In graphics and desktop publishing applications, a rectangular area in which text or graphics can appear.  (2) In communications, a packet of transmitted information.  (3) In video and animation, a single image in a sequence of images. See under fps.  (4) In HTML, refers to dividing the browser display area into separate sections, each of which is really a different Web page. See under frames.   
+
+frame_buffer
+The portion of memory reserved for holding the complete bit-mapped image that is sent to the monitor. Typically the frame buffer is stored in the memory chips on the video adapter. In some instances, however, the video chipset is integrated into the motherboard design, and the frame buffer is stored in general main memory. 
+
+frame_rate
+(1) The frequency that video frames are displayed on a monitor. See refresh. (2) In video and recording, frame rate refers to the number of frames per second that are recorded and played back. Frame rate is measured in frames per second (fps).
+
+Frame_Relay
+A packet-switching protocol for connecting devices on a Wide Area Network (WAN). Frame Relay networks in the U.S. support data transfer rates at T-1 (1.544 Mbps) and T-3 (45 Mbps) speeds. In fact, you can think of Frame Relay as a way of utilizing existing T-1 and T-3 lines owned by a service provider. Most telephone companies now provide Frame Relay service for customers who want connections at 56 Kbps to T-1 speeds. (In Europe, Frame Relay speeds vary from 64 Kbps to 2 Mbps.
+In the U.S., Frame Relay is quite popular because it is relatively inexpensive. However, it is being replaced in some areas by faster technologies, such as ATM.
+
+
+frames
+A feature supported by most modern Web browsers than enables the Web author to divide the browser display area into two or more sections (frames). The contents of each frame are taken from a different Web page. Frames provide great flexibility in designing Web pages, but many designers avoid them because they are supported unevenly by current browsers.  
+
+frameserve
+Frameserving is a process by which you directly transfer video data from one program on your computer to another, with no intermediate or temporary files created. The program that opens the source file and outputs the video data is called the frameserver. The program that receives the data could be any type of video application. Frameserving a video can save on disk space and also increase compatibility by enabling you to open a file in an application that wouldn't normally support it. [Adapted from AviSynth]
+
+Frankenpine
+A slang term used to describe a cellular telephone tower that has been camouflaged or disguised to look like a pine tree.
+
+Fraud_over_Internet_Protocol
+FoIP, short for Fraud over Internet Protocol, is the act of taking advantage of VoIP security vulnerabilities to steal network capacity. The term was used after a well-known criminal case where two men tapped into corporate and service provider networks and routed millions of minutes in calls illegally. One of the first uses of the term FoIP as an acronym for Fraud over Internet Protocol appeared in an article on Datamation. (Datamation is owned by the same parent company as Webopedia.)
+
+FRCP
+Acronym for Federal Rules of Civil Procedure, a set of Federal rules, first established in 1938, governs court procedures for civil suits. The FRCP is maintained and upheld by the United States Supreme Court. The most recent revisions (December 2006) to the FRCP address the disclosure and discovery of electronic information, including answers to interrogatories, production of documents and other information for inspection, sanctions and subpoenas. 
+
+free_cooling
+In data center terminology, free cooling is the phrase used to describe a strategy for reducing energy consumption by leveraging the natural low air temperatures and cooler climates in some geographical regions. In this process, naturally occurring cold outside air is used inside the data center to aid the cooling process.
+Leveraging cooler outside air uses less power than other cooling methods and can reduce or replace parts of mechanical refrigeration that requires high energy consumption to operate.
+The free cooling process typically uses a mixture of outside air and air recirculation systems to cool air temperatures inside the data center by replacing or eliminating the compressor operation in air conditioning units or can be used to reduce the chiller operation for chilled water systems.
+
+free_space_optics
+Free space optics technology (abbreviated as FSO), also referred to as  open-air photonics or optical wireless or infrared broadband, transmits data from point-to-point and multipoint using low-powered infrared lasers. Unlike traditional copper wires or fiber-optic technology, which transmits data by light across glass, FSO uses laser technology to send optical signals through the air using lenses and mirrors to focus and redirect the beams and send data from one chip to another. And unlike radio frequencies, FSO technology does not require a spectrum license.
+An FSO system uses optical amplifiers and a telescope that sends multiple wavelengths of light in direct line of sight through the atmosphere to another telescope waiting to receive the information. The receiving telescope is connected to a highly sensitive receiver through an optical fiber and a DWDM demultiplexer. Since the system is bidirectional, each telescope can simultaneously send and receive information. The only weather condition that affects an FSO transmission is fog. Fog can corrupt the direct line of sight between the two telescopes because the moisture particles in the air are so small and dense that they act as millions of tiny prisms dissipating the band of light sent from the laser.
+Free space optics provides a higher bandwidth to the end user at a faster speed. The photons transmitted by the laser are much quicker than electrons moving along a wire and they can pass straight through each other, which charge-bearing electrons cannot do. Because of this, large amounts of data, such as IP -based voice and video, can be transmitted through a narrow corridor of space.
+
+FreeBSD
+A popular and free version of the UNIX operating system that runs on x86-compatible, DEC Alpha, PC-98, AMD64, IA64 and SPARC64 architectures. FreeBSD is distributed in executable and source code form. The source code enables ambitious users to actually extend the operating system.  Another popular and free version of UNIX is Linux. Learn more about  Open Source in Webopedia's "Did You Know...?" section.
+
+Freecycle
+A grassroots nonprofit networked online community that offers local and individual city groups that promote reuse through local gifting among their members. People can join their own local Freecycle network to post and read ads by other members who are looking for free items or who have free items to give away. Each local Freecycle community is moderated by volunteers and would have its own e-mail newsgroup for interested local members to join. Freecycle, also called the Freecycle Network, was founded in May 2003.
+
+FreeDOS
+FreeDOS is a DOS-compatible operating system and package of separate programs made up of open source software, licensed under the GNU General Public License (GPL). FreeDOS is designed for use on IBM PC compatible computers and supports supports older and the newer IBM hardware. The FreeDOS project was started in 1994 after Microsoft stopped support of MS-DOS. The latest version of FreeDOS (version 1.0) was released in 2006.
+
+freemium
+An amalgamation of the words "free" and "premium" that refers to services, software programs or mobile apps that are offered to users free of charge, but typically with limited functionality, advertiser support or additional features that are only available for a premium charge. The freemium software business model originated with shareware software, where users are able to download software and try it free of charge but only for a limited time or with a restricted feature-set.
+The freemium software model has become extremely popular recently with the debut of freemium apps and in-app purchases in the Apple App Store following the release of iOS 3.0. Freemium mobile apps such as Temple Run and Dragonvale are available for download on iOS-powered devices like the iPad and iPhone without charge, but users typically have the option to pay for additional features like power-ups, virtual money, restricted levels, special characters, boosts, etc. via in-app purchases.
+Freemium apps now gross more than paid apps in the Apple App Store, with estimates of more than 65 percent of all revenue generated in the App Store from in-app purchases for freemium apps.
+
+Freespace
+A patented motion control technology used in a variety of consumer electronics (CE) including handheld devices and pointing devices including mice. The Freespace motion control technology lets consumers operate the supported device using natural movements to navigate and select content on-screen with point-and-click interactivity. Used in a mouse, for example, Freespace motion sensing would interpret hand motions into responsive cursor controls.  Freespace is a registered trademark of Hillcrest Laboratories.
+
+FreeTDS
+An open source programming library that is a reimplementation of the Tabular Data Stream protocol, used in place of db-lib or ct-lib libraries. FreeTDS allows different open source applications such as Perl and PHP (or your own C or C++ program) to connect to Sybase or Microsoft SQL Server. FreeTDS consists of two projects. The FreeTDS C libraries which supports supports db-lib, ct-lib, and ODBC, and FreeTDS/ JDBC which is a native Java implementation of a Type 4 JDBC driver.
+
+freeware
+Copyrighted software given away for free by the author. Although it is available for free, the author retains the copyright, which means that you cannot do anything with it that is not expressly allowed by the author. Usually, the author allows people to use the software, but not sell it.
+ 
+ 
+
+frequency_cap
+Refers to the disk where the root directory is stored. A root disk is usually a fixed disk or hard disk.
+
+fresh_content
+In SEO (search engine optimization) terminology, it is content that is new or dynamic in nature and gives people a reason to visit your Web site. Many SEO experts believe that using fresh content on your Web site will help your page obtain better placement on search engine results page (SERP). Some search engines may crawla site more frequently as content is changed and updated.
+Contrast with duplicate content.
+
+Fresnel_Zone
+(pronounced 'fre-nel' the "s" is silent) The area around the visual line-of-sight that radio waves spread out into after they leave the antenna. This area must be clear or else signal strength will weaken.   Fresnel Zone is an area of concern for 2.4 GHz wireless systems. Although 2.4 GHz signals pass rather well through walls, they have a tough time passing through trees.   The main difference is the water content in each. Walls are very dry: trees contain high levels of moisture. Radio waves in the 2.4 GHz band absorb into water quite well.   This is why microwaves -- which also use the 2.4GHz band -- cook food. Water absorbs the waves, and heat from the energy cooks the food. 
+
+friction_feed
+)A method of feeding paper through a printer. Friction-feed printers use plastic or rubber rollers to squeeze a sheet of paper and pull it through the printer.  The other principal form of feeding paper into a dot-matrix or daisy-wheel printer is through a tractor feed, in which sprocketed wheels on either side of the printer fit into holes in the paper. As the wheels revolve, the paper is pulled through the printer.  Tractor-feed printers require special paper, whereas friction-feed printers can handle most types of cut-sheet paper, including envelopes. Many printers support both types of feeding mechanisms.   
+
+fried
+In the world of computers the word fried is used to refer to hardware or systems that have been rendered completely useless. One common example is to refer to a non-working hard drive as "being fried". In more general electronics, fried refers to components that have been burned by excessive voltage, heat or electrical damage.
+
+friendquest
+Friendquest a slang term used to describe the act of sending a friend request to another person on a social networking site (SNS).  See also "Social networking Sites" in Webopedia's Quick Reference section.Also see "The Differences Between LinkedIn and Facebook" in in Webopedia's Did You Know? section. 
+
+friends
+On social networking sites (SNS), like Facebook, friends are the people on the same SNS that you have added as a contact from within your own profile. On some social networking sites you may be required to accept a person's friend request before they can see your profile, on other sites it may be an automatic linking with no permission requested or required. See also "Social Networking Sites" in the  Quick Reference section of Webopedia.
+
+Friendster
+The name of an online social networking site (SNS) that provides the tools and applications for people to connect with friends, family and co-workers and stay in touch online. As of June 2008, Friendster has more than 70 million registered users and is available in eight languages. See also "Social Networking Sites" in Webopedia's Quick Reference section.
+
+Frogans
+(pronounced frog-ans) Frogans are a new generation of content on the Internet. They bring you a simpler and more practical way to navigate the Internet. Behind frogans, there is a unique and standard technology created for the Internet community by STG Interactive, a company based in Paris, France. The Frogans technology can be used by everyone throughout the world.
+
+front_end
+(1) For software applications, front end is the same as user interface.  (2) In client/server applications, the client part of the program is often called the front end and the server part is called the back end.  (3) Compilers, the programs that translate source code into object code, are often composed of two parts: a front end and a back end. The front end is responsible for checking syntax and detecting errors, whereas the back end performs the actual translation into object code.   
+
+front_page_optimization
+Abbreviated as FPO, front page optimization is the process of increasing the amount of visitor click-through and reducing bounce rates. This process helps identify short and long term solutions in the areas of home page loading and rending times.
+
+front_screen_projection_TV
+Front screen projection works like a rear projection TV, only the cathode ray tubes are built into a separate unit that projects the image onto the front of the TV screen. The screen and projector are separate so the viewing size is mainly limited to the size of your room. More expensive front screen projectors can produce a nice bright image. However, they will work only in a darkened room.
+
+frontside_bus
+Another name for the system bus.   Also see backside bus.
+
+froyo
+Froyo is the dessert-themed Android codename for the version 2.2 update of the open source Android mobile operating system.  Short for "Frozen Yogurt," Froyo made its debut in August 2010, adding new features like USB tethering support (for effectively turning a smartphone into a Wi-Fi hotspot), Flash 10.1 support, voice dialing over Bluetooth, the ability to store apps on external memory cards, significant speed improvements and an browser update that adds Google Chrome's V8 JavaScript engine.
+Froyo follows three earlier updates for Android — Cupcake (v1.5), Donut (v1.6) and Eclair (v2) --  and has been superseded by more recent Android updates Gingerbread (v2.3), Honeycomb (v3.0) and the upcoming Ice Cream update.
+See also   Android platform,   Android SDK and   Android codenames.
+
+frozen
+Unresponsive. The term is used to describe a monitor, keyboard, or the entire computer when it no longer reacts to input due to a malfunction.   
+
+FRR
+(fâls ri-jek´shun) (n.) In biometrics, FRR, or false rejection rate is the instance of a security system failing to verify or identify an authorized person. Also referred to as a type I error, a false rejection does not necessarily indicate a flaw in the biometric system; for example, in a fingerprint-based system, an incorrectly aligned finger on the scanner or dirt on the scanner can result in the scanner misreading the fingerprint, causing a false rejection of the authorized user.
+The false rejection rate is the measure of the likelihood that the biometric security system will incorrectly reject an access attempt by an authorized user. A system's FRR typically is stated as the ratio of the number of false rejections divided by the number of identification attempts.
+Compare to false acceptance.
+
+false_rejection
+(fâls ri-jek´shun) (n.) In biometrics, FRR, or false rejection rate is the instance of a security system failing to verify or identify an authorized person. Also referred to as a type I error, a false rejection does not necessarily indicate a flaw in the biometric system; for example, in a fingerprint-based system, an incorrectly aligned finger on the scanner or dirt on the scanner can result in the scanner misreading the fingerprint, causing a false rejection of the authorized user.
+The false rejection rate is the measure of the likelihood that the biometric security system will incorrectly reject an access attempt by an authorized user. A system's FRR typically is stated as the ratio of the number of false rejections divided by the number of identification attempts.
+Compare to false acceptance.
+
+FRU
+(pronounced as separate letters) Short for field-replaceable unit, a generic term used to describe any hardware device, or more commonly a part or component of a device or system, that easily can be replaced by a skilled technician without having to send the entire device or system to be repaired. The name implies that the unit can be replaced "in the field" (i.e., at the user��s location).
+
+FSAA
+FSAA or Full Screen Anti-Aliasing is a technique used by  3-D graphics cards that over samples each pixel in an image to produce a more realistic-looking image. This technique is an internal render by the GPU (graphics processing unit) that renders a higher resolution version of the screen  then scales it down for display to reduce the jagged effect of diagonal lines.
+
+fsck
+Short for file system check, fsck is a system utility that is used to check and repair inconsistencies in Unix and Unix-based file systems, including Linux. Fsck can be run in one of two modes:   Interactive mode is where fsck scans the file system and, at each error, prompts the user to correct or continue without making changes to the file system.  Noninteractive mode allows fsck to run and repair all problems it finds automatically without user input.  On a Windows-based system, the equivalent utility is called chkdsk.
+
+FSK
+Short for frequency-shift keying, a modulation technique used by modems in which two different frequencies in the carrier signal are used to represent the binary states of 0 and 1. Using FSK, a modem converts the binary data from a computer into a binary form in which logic 1 is represented by an analog waveform at a specific frequency and logic 0 is represented by a wave at a different specific frequency.  Compare with PSK.
+
+FSMO
+Short for Flexible Single Master Operations, it is a feature of Microsoft's Active Directory. The  schema master FSMO role holder is the  domain controller responsible for performing updates to the directory schema.
+
+FSO
+Abbreviated as FSO, the File System Object is a tool commonly used to access the computer file system and also to manage file, folders and drives.
+
+FSoT
+On eBay, eBay alternatives, and classified ad Web sites, FSoT is an abbreviation used to mean for sale or trade. This abbreviation would be used by the seller to indicate that they are willing to sell the item or consider a trade for it. See also "Online Auction Abbreviations" in the  Quick Reference section of Webopedia.
+
+FSP
+Abbreviated as FSP, in services and outsourcing, a full-service provider is an Application Service Provider (ASP) that specifically provides a range of Web-based information technology services to other companies. Services may include Web site development, e-mail and newsletter solutions, e-brochures, Web site management tools, and  e-commerce solutions.
+
+FTA
+Short for failure to acquire it is a biometrics term that is used to describe a biometric system's failure to extract usable identification data from a biometric sample.
+
+ftp
+Short for File Transfer Protocol, the protocol for exchanging files over the Internet. FTP works in the same way as HTTP for transferring Web pages from a server to a user's browser and SMTP for transferring electronic mail across the Internet in that, like these technologies, FTP uses the Internet's TCP/IP protocols to enable data transfer.
+FTP is most commonly used to download a file from a server using the Internet or to upload a file to a server (e.g., uploading a Web page file to a server).
+
+FTP_Server
+An FTP server is a software.html application running the File Transfer Protocol (FTP), which is the protocol for exchanging files over the Internet.
+See also FTP.
+
+FTP_Trojan
+A type of Trojan horse designed to open port 21 (the port for FTP transfer) and lets the attacker connect to your computer using File Transfer Protocol (FTP). See also Trojan horse.
+
+FTS_file
+A hidden index file ending in a .fts (full-text search) extension used by the Windows 95 and NT Help system. The first time you select the Find tab in a Windows help file, the system displays a dialog box asking what type of index you want to create. After you make a selection, the system creates an index and stores it in an FTS file.  You can delete an FTS file without harming your system. The help system will recreate the file next time it's needed. 
+
+FTTC
+Short for fiber-to-the-curb, the installation of optical fiber from a telephone switch to within 1,000 feet of a home or enterprise. Typically, coaxial cable is used to establish the connection from curb to building.  Compare with FTTH.
+
+FTTH
+Short for fiber-to-the-home, the installation of optical fiber from a telephone switch directly into the subscriber��s home. Fiber optic cable is an alternative to coaxial cable.
+FTTH is also referred to as fiber-to-the-building(FTTB), which includes optical fiber that is installed directly into a home or enterprise.
+Compare with FTTC.
+
+FUD
+Acronym for fear, uncertainty and doubt. It is a marketing term that is often used to cast a shadow over a competitor's product when your own is unable to compete. FUD is a technique used by larger companies who have a large market share. The FUD acronym was first freely defined by Gene Amdahl after he left IBM to found his own company, Amdahl Corp, with this statement: "FUD is the fear, uncertainty, and doubt that IBM sales people instill in the minds of potential customers who might be considering Amdahl products."
+
+fuduntu_linux
+Fuduntu is an open source lightweight Linux distribution (distro) that is optimized for netbook and other portable computers. The developers chose the name Fuduntu because the distro is designed to fit "somewhere in between Fedora and Ubuntu", according to its developers.
+The latest release of Fuduntu 14.10 was made available on June 18, 2011. This release includes Linux kernel 2.6.39.1, Adobe Flash 10.3, Chromium 12, Shotwell 0.10.1, the EXT4 default file system, Support for nVidia and ATI proprietary drivers, and more.
+
+Fujitsu_Limited
+Fujitsu is a provider of customer-focused information technology and communications solutions. Its business segments include system platforms (system products and network products), infrastructure and integration services, consumer products such as mobile phones, hard disk drives, and other electronic components. To date Fujitsu has accumulated over 34,000 patents and employees 1,500 research scientists at Fujitsu Laboratories. Fuji Tsushinki Manufacturing Corporation was established in 1935 and first began manufacturing electronic calculation machines in 1951. In November 1962 Fujitsu Limited became the company's official English corporate name. 
+
+fulfillment
+Also called order fulfillment, in electronic commerce terminology, it is the term used to describe the complete process used by a company from the point of sale onward to the delivery of a product to a customer.See also  supply chain management.
+
+full_backup
+Same as archival backup.
+
+Full_Packaged_Product
+Abbreviated as FPP, Full Packaged Product  is a term used by Microsoftto describe a physical shrink-wrapped box (the packaging) of any of its licensed products. Full Packaged Product are the packages sent to retail stores and software retailers for consumer purchase.
+See license and software licensing. See also "Is Software Ownership the Same as Licensing?" in the Did You Know...? section of Webopedia.
+
+
+full_retail_software
+Also called full retail, in software distribution it is the term used to describe a full version of a software package that is sold at online or brick-and-mortar stores. It comes factory sealed retail boxes with the software on CD or DVD, plus the software license key and manuals where provided by the software vendor.  See "All About Software" in the "Did You Know...?" section of Webopedia.
+
+full_duplex
+(adj.) Refers to the transmission of data in two directions simultaneously. For example, a telephone is a full-duplex device because both parties can talk at once. In contrast, a walkie-talkie is a half-duplex device because only one party can transmit at a time.
+Most modems have a switch that lets you choose between full-duplex and half-duplex modes. The choice depends on which communications program you are running.
+In full-duplex mode, data you transmit does not appear on your screen until it has been received and sent back by the other party. This enables you to validate that the data has been accurately transmitted. If your display screen shows two of each character, it probably means that your modem is set to half-duplex mode when it should be in full-duplex mode.
+
+full_service_provider
+Abbreviated as FSP, in services and outsourcing, a full-service provider is an Application Service Provider (ASP) that specifically provides a range of Web-based information technology services to other companies. Services may include Web site development, e-mail and newsletter solutions, e-brochures, Web site management tools, and  e-commerce solutions.
+
+FullStream
+In video processing terminology, FullStream is an ATI technology  that uses a hardware accelerated filtering method to improve the performance and visual quality of streaming video playback. When transmitting video data some users on a slower Internet connect may experience blocky views, artifacts and pixilation effects during playback. ATI FullStream technology detects the edges of these visible blocks and smoothes them over using a sophisticated filtering technique.
+
+fully_virtual
+A virtual machine (VM) mode that completely emulates all hardware devices and puts demand on CPU resources from the VM server. Fill virtualization requires special hardware, but most operating systems are able to fun in full virtual mode. Also called full virtualization mode.  Contrast with paravirtual. See also virtualization.
+
+function
+(1) In programming, a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine. Some programming languages make a distinction between a function, which returns a value, and a procedure, which performs some operation but does not return a value.
+Most programming languages come with a prewritten set of functions that are kept in a library. You can also write your own functions to perform specialized tasks.
+(2) The term function is also used synonymously with operation and command. For example, you execute the delete  function to erase a word.
+
+function_block
+In software languages, a function block contains input  variables, output variables, through variables, internal variables, and an internal behavior description of the function block. Function blocks are used primarily to specify the properties of a user function. Many software languages are based on function blocks. Function block is abbreviated as FB. See also function block adapter (FBA).
+
+function_block_adapter
+Abbreviated as FBA a function block adapter provides the interfaces to ports, to function blocks, and a description of the mapping between these interfaces. The function block adapter also provides the connection of UML capsules and function blocks (FBs) of the IEC 61131-3 (the standard for PLC programming languages). See also function block (FB).
+
+function_keys
+Special keys on the keyboard that have different meanings depending on which program is running. Function keys are normally labeled F1 to F10 or F12 (or F15 on Macintoshes). On older PCs, for example, 10 function keys are grouped on the left side of the keyboard; new PCs have the enhanced keyboard, with twelve function keys aligned along the top of the keyboard.  
+
+functional_specification
+A formal description of a software system that is used as a blueprint for implementing the program. At minimum, a functional specification should precisely state the purpose (e.g., the function) of the software. Depending on the software engineering methodology used, the functional specification might also provide implementation details, such as how the project is divided into modules and how the different modules interact. In addition, a functional specification often describes the software from the user's perspective -- how the user interface appears and how a user would use the program to perform specific functions.  A functional specification is often called a functional spec, or just spec. 
+
+future_proof
+A slang term used to describe any technology that will not become outdated any time in the near future.
+
+fuzzy_logic
+A type of logic that recognizes more than simple true and false values. With fuzzy logic, propositions can be represented with degrees of truthfulness and falsehood. For example, the statement, today is sunny,might be 100% true if there are no clouds, 80% true if there are a few clouds, 50% true if it's hazy and 0% true if it rains all day.
+Fuzzy logic has proved to be particularly useful in expert system and other artificial intelligence applications. It is also used in some spell checkers to suggest a list of probable words to replace a misspelled one.
+
+
+fuzzy_search
+A type of search that will find matches even when users misspell words or enter in only partial words for the search.See also fuzzy logic.
+
+FXO
+Acronym for Foreign Exchange Office FXO is the interface on a  VoIP device for connecting to an analog PBX extension.
+
+FXP
+(1) Short for File eXchange Protocol. See File eXchange Protocol. (2) Short for Foreign Exchange Protocol, a simple, automatic way of retrieving currency exchange rates over the Internet.  (3) fxp is the file extension for the compiled source code for FoxPro. See  Data Formats and Their File Extensions on Webopedia.
+
+FXS
+Acronym for Foreign Exchange Station. FXS, or Foreign Exchange Station, is the interface on a VoIP device for connecting directly to phones, faxes, and CO ports on a PBX or key telephone systems.
+
+F_Port
+Skype is a computer program that can be used to make free voice calls over the Internet to anyone else who is also using Skype. It's free and considered easy to download and use, and works with most computers. Once you download, register and install the software, you'll need to plug in a headset, speakers or USB phone to start using Skype. On September 12, 2005 Skype was acquired by eBay.  See also Internet telephony.
+
