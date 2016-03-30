@@ -1,4 +1,4 @@
-### Scripts
+### scripts
 
 Including scripts that I've wirtten for practical use.
 
