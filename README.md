@@ -1,5 +1,8 @@
-### 解决生活问题
+### Scripts
 
+Including scripts that I've wirtten for practical use.
 
-- [图书馆书籍到期提醒](https://github.com/polyval/PythonScripts/blob/master/scripts/library_alert.py)
-- [计算机词汇查询离线版](https://github.com/polyval/PythonScripts/blob/master/scripts/computer_dictionary/dicitionary_offline.py)
+### Object-oriented Programming
+
+Samples from the book [Python 3 Object-oriented Programming - Second Edition](http://www.goodreads.com/book/show/26241635-python-3-object-oriented-programming---second-edition)
+I've done some changes to implement it in Python 2.7.
