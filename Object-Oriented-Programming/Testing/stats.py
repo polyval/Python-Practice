@@ -3,7 +3,9 @@
 from __future__ import division
 from collections import defaultdict
 
+
 class StatsList(list):
+
     def mean(self):
         return sum(self) / len(self)
 
